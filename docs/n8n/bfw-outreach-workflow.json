@@ -1,0 +1,199 @@
+{
+  "name": "BFW Outreach Campaign",
+  "nodes": [
+    {
+      "parameters": {
+        "httpMethod": "POST",
+        "path": "bfw-outreach",
+        "options": {}
+      },
+      "id": "webhook-trigger",
+      "name": "Webhook Trigger",
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 1.1,
+      "position": [250, 300]
+    },
+    {
+      "parameters": {
+        "jsCode": "// Extract contacts from webhook payload\nconst { campaign, contacts, action } = $input.first().json;\n\nif (action !== 'send_batch' || !contacts || contacts.length === 0) {\n  return [];\n}\n\n// Transform contacts for email sending\nreturn contacts.map(contact => ({\n  json: {\n    contact_id: contact.id,\n    campaign_id: campaign.id,\n    tracking_id: contact.tracking_id,\n    email: contact.email,\n    first_name: contact.first_name || contact.full_name?.split(' ')[0] || 'there',\n    full_name: contact.full_name,\n    company: contact.company,\n    website: contact.website,\n    domain_authority: contact.domain_authority,\n    // Email content from campaign\n    subject: campaign.email_subject_template,\n    body_template: campaign.email_body_template,\n    sender_name: campaign.sender_name,\n    sender_email: campaign.sender_email,\n    // Tracking URLs\n    tracking_pixel: `https://bestfoodwhere.sg/api/outreach/track?t=${contact.tracking_id}&e=open`,\n    callback_url: 'https://bestfoodwhere.sg/api/outreach/webhook'\n  }\n}));"
+      },
+      "id": "process-contacts",
+      "name": "Process Contacts",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [450, 300]
+    },
+    {
+      "parameters": {
+        "jsCode": "// Personalize email for each contact\nconst contact = $input.first().json;\n\nlet subject = contact.subject || 'Quick question about your food blog';\nlet body = contact.body_template || '';\n\n// Replace placeholders\nconst replacements = {\n  '{{first_name}}': contact.first_name,\n  '{{full_name}}': contact.full_name,\n  '{{company}}': contact.company,\n  '{{website}}': contact.website,\n  '{{blog_name}}': contact.company || contact.website?.replace('https://', '').replace('http://', '').split('/')[0],\n  '{{recent_topic}}': 'Singapore dining',\n};\n\nfor (const [placeholder, value] of Object.entries(replacements)) {\n  subject = subject.replace(new RegExp(placeholder, 'g'), value || '');\n  body = body.replace(new RegExp(placeholder, 'g'), value || '');\n}\n\n// Add tracking pixel to HTML body\nconst htmlBody = `\n<div style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6;\">\n  ${body.replace(/\\n/g, '<br>')}\n</div>\n<img src=\"${contact.tracking_pixel}\" width=\"1\" height=\"1\" style=\"display:none\" alt=\"\" />\n`;\n\nreturn {\n  json: {\n    ...contact,\n    personalized_subject: subject,\n    personalized_body: htmlBody,\n    plain_text_body: body\n  }\n};"
+      },
+      "id": "personalize-email",
+      "name": "Personalize Email",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [650, 300]
+    },
+    {
+      "parameters": {
+        "resource": "email",
+        "operation": "send",
+        "fromEmail": "={{ $json.sender_email }}",
+        "toEmail": "={{ $json.email }}",
+        "subject": "={{ $json.personalized_subject }}",
+        "emailType": "html",
+        "message": "={{ $json.personalized_body }}",
+        "options": {
+          "replyTo": "={{ $json.sender_email }}"
+        }
+      },
+      "id": "send-email",
+      "name": "Send via Resend",
+      "type": "n8n-nodes-base.resend",
+      "typeVersion": 1,
+      "position": [850, 300],
+      "credentials": {
+        "resendApi": {
+          "id": "RESEND_CREDENTIAL_ID",
+          "name": "Resend API"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "={{ $json.callback_url }}",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "Content-Type",
+              "value": "application/json"
+            },
+            {
+              "name": "x-webhook-secret",
+              "value": "={{ $env.OUTREACH_WEBHOOK_SECRET }}"
+            }
+          ]
+        },
+        "sendBody": true,
+        "bodyParameters": {
+          "parameters": [
+            {
+              "name": "type",
+              "value": "email.sent"
+            },
+            {
+              "name": "contact_id",
+              "value": "={{ $json.contact_id }}"
+            },
+            {
+              "name": "campaign_id",
+              "value": "={{ $json.campaign_id }}"
+            },
+            {
+              "name": "tracking_id",
+              "value": "={{ $json.tracking_id }}"
+            },
+            {
+              "name": "timestamp",
+              "value": "={{ new Date().toISOString() }}"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "id": "notify-sent",
+      "name": "Notify BFW - Email Sent",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [1050, 300]
+    },
+    {
+      "parameters": {
+        "values": {
+          "number": [
+            {
+              "name": "delay_seconds",
+              "value": 300
+            }
+          ]
+        },
+        "options": {}
+      },
+      "id": "rate-limit",
+      "name": "Rate Limit (5 min)",
+      "type": "n8n-nodes-base.wait",
+      "typeVersion": 1.1,
+      "position": [1250, 300]
+    }
+  ],
+  "connections": {
+    "Webhook Trigger": {
+      "main": [
+        [
+          {
+            "node": "Process Contacts",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Process Contacts": {
+      "main": [
+        [
+          {
+            "node": "Personalize Email",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Personalize Email": {
+      "main": [
+        [
+          {
+            "node": "Send via Resend",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Send via Resend": {
+      "main": [
+        [
+          {
+            "node": "Notify BFW - Email Sent",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Notify BFW - Email Sent": {
+      "main": [
+        [
+          {
+            "node": "Rate Limit (5 min)",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "staticData": null,
+  "tags": [
+    {
+      "name": "outreach"
+    },
+    {
+      "name": "email"
+    }
+  ]
+}

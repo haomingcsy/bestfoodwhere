@@ -1,0 +1,96 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 0 0% 10%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 0 0% 10%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 0 0% 10%;
+
+    --primary: 16 85% 55%;
+    --primary-foreground: 0 0% 100%;
+
+    --secondary: 0 0% 96%;
+    --secondary-foreground: 0 0% 10%;
+
+    --muted: 0 0% 96%;
+    --muted-foreground: 0 0% 40%;
+
+    --border: 0 0% 90%;
+    --input: 0 0% 90%;
+    --ring: 16 85% 55%;
+
+    --radius: 0.75rem;
+
+    --bfw-orange: #ef5f2a;
+    --bfw-orange-hover: #ff6b35;
+    --bfw-red: #e53935;
+    --bfw-teal: #00b4d8;
+    --bfw-yellow: #ffd166;
+    --bfw-green: #4caf50;
+
+    --bfw-text-dark: #1a1a1a;
+    --bfw-text-gray: #666666;
+    --bfw-background-warm: #fff9f6;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground font-body;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    @apply font-heading;
+  }
+}
+
+@layer utilities {
+  .bfw-mask-fade-vertical {
+    mask-image: linear-gradient(
+      to bottom,
+      hsl(0 0% 0% / 0),
+      hsl(0 0% 0% / 0.95) 19.5%,
+      hsl(0 0% 0% / 0.95) 80.5%,
+      hsl(0 0% 0% / 0)
+    );
+  }
+}
+
+/* Custom animations */
+@keyframes float {
+  0% {
+    transform: translate(0, 0) rotate(0deg);
+  }
+  25% {
+    transform: translate(10px, -15px) rotate(5deg);
+  }
+  50% {
+    transform: translate(0, -25px) rotate(0deg);
+  }
+  75% {
+    transform: translate(-10px, -15px) rotate(-5deg);
+  }
+  100% {
+    transform: translate(0, 0) rotate(0deg);
+  }
+}
+
+.animate-float {
+  animation: float 15s ease-in-out infinite;
+}

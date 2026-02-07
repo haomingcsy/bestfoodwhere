@@ -1,0 +1,302 @@
+{
+  "name": "Restaurant Image Processor",
+  "nodes": [
+    {
+      "parameters": {},
+      "id": "trigger",
+      "name": "Manual Trigger",
+      "type": "n8n-nodes-base.manualTrigger",
+      "typeVersion": 1,
+      "position": [240, 300]
+    },
+    {
+      "parameters": {
+        "operation": "read",
+        "documentId": {
+          "__rl": true,
+          "value": "198QKXG3B3StIEXYui17o1SmIEcpi1OsUbZGpaVFekhw",
+          "mode": "id"
+        },
+        "sheetName": {
+          "__rl": true,
+          "value": "Full info",
+          "mode": "name"
+        },
+        "options": {
+          "valueRenderOption": "UNFORMATTED_VALUE"
+        }
+      },
+      "id": "sheets",
+      "name": "Google Sheets - Get Restaurants",
+      "type": "n8n-nodes-base.googleSheets",
+      "typeVersion": 4.5,
+      "position": [460, 300],
+      "credentials": {
+        "googleSheetsOAuth2Api": {
+          "id": "google-sheets-cred",
+          "name": "Google Sheets"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "jsCode": "// Parse restaurant data from sheet\nconst rows = $input.all();\nconst restaurants = [];\n\n// Mall names are in the header row\nconst headers = Object.keys(rows[0]?.json || {});\n\nfor (const row of rows) {\n  for (const mallName of headers) {\n    const cellValue = row.json[mallName];\n    if (!cellValue || typeof cellValue !== 'string') continue;\n    \n    // Parse restaurant info from cell\n    const nameMatch = cellValue.match(/Name:\\s*([^\\n]+)/i);\n    const imageMatch = cellValue.match(/Image URL:\\s*([^\\n]+)/i);\n    \n    if (nameMatch && imageMatch) {\n      const name = nameMatch[1].trim();\n      const imageUrl = imageMatch[1].trim();\n      \n      if (imageUrl && imageUrl.startsWith('http')) {\n        const mallSlug = mallName.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');\n        const restaurantSlug = name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');\n        \n        restaurants.push({\n          json: {\n            mallName,\n            mallSlug,\n            name,\n            restaurantSlug,\n            originalImageUrl: imageUrl\n          }\n        });\n      }\n    }\n  }\n}\n\nreturn restaurants;"
+      },
+      "id": "parse",
+      "name": "Parse Restaurant Data",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [680, 300]
+    },
+    {
+      "parameters": {
+        "url": "={{ $json.originalImageUrl }}",
+        "options": {
+          "response": {
+            "response": {
+              "responseFormat": "file"
+            }
+          },
+          "timeout": 30000
+        }
+      },
+      "id": "download",
+      "name": "Download Image",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [900, 300],
+      "continueOnFail": true
+    },
+    {
+      "parameters": {
+        "jsCode": "// Check if image was downloaded successfully\nconst item = $input.item;\n\nif (!item.binary?.data) {\n  return {\n    json: {\n      ...item.json,\n      error: 'Failed to download image',\n      skip: true\n    }\n  };\n}\n\n// Get image info\nconst binary = item.binary.data;\nconst fileSize = binary.fileSize || 0;\nconst mimeType = binary.mimeType || 'image/jpeg';\n\n// Skip if file is too small (likely broken)\nif (fileSize < 1000) {\n  return {\n    json: {\n      ...item.json,\n      error: 'Image too small, likely broken',\n      skip: true\n    }\n  };\n}\n\n// Determine file extension\nlet ext = 'jpg';\nif (mimeType.includes('png')) ext = 'png';\nif (mimeType.includes('webp')) ext = 'webp';\n\nconst filename = `${item.json.restaurantSlug}.${ext}`;\nconst storagePath = `${item.json.mallSlug}/${item.json.restaurantSlug}/${filename}`;\n\nreturn {\n  json: {\n    ...item.json,\n    filename,\n    storagePath,\n    fileSize,\n    mimeType,\n    skip: false\n  },\n  binary: item.binary\n};"
+      },
+      "id": "validate",
+      "name": "Validate Image",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [1120, 300]
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "boolean": [
+            {
+              "value1": "={{ $json.skip }}",
+              "value2": false
+            }
+          ]
+        }
+      },
+      "id": "filter",
+      "name": "Filter Valid Images",
+      "type": "n8n-nodes-base.filter",
+      "typeVersion": 2,
+      "position": [1340, 300]
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "={{ $env.NEXT_PUBLIC_SUPABASE_URL }}/storage/v1/object/restaurant-images/{{ $json.storagePath }}",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "Authorization",
+              "value": "Bearer {{ $env.SUPABASE_SERVICE_ROLE_KEY }}"
+            },
+            {
+              "name": "Content-Type",
+              "value": "={{ $json.mimeType }}"
+            },
+            {
+              "name": "x-upsert",
+              "value": "true"
+            }
+          ]
+        },
+        "sendBody": true,
+        "contentType": "binaryData",
+        "inputDataFieldName": "data",
+        "options": {}
+      },
+      "id": "upload",
+      "name": "Upload to Supabase Storage",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [1560, 300],
+      "continueOnFail": true
+    },
+    {
+      "parameters": {
+        "jsCode": "// Build the CDN URL\nconst item = $input.item;\nconst supabaseUrl = $env.NEXT_PUBLIC_SUPABASE_URL;\nconst cdnUrl = `${supabaseUrl}/storage/v1/object/public/restaurant-images/${item.json.storagePath}`;\n\nreturn {\n  json: {\n    original_url: item.json.originalImageUrl,\n    cdn_url: cdnUrl,\n    mall_slug: item.json.mallSlug,\n    restaurant_slug: item.json.restaurantSlug,\n    file_size: item.json.fileSize\n  }\n};"
+      },
+      "id": "buildUrl",
+      "name": "Build CDN URL",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [1780, 300]
+    },
+    {
+      "parameters": {
+        "operation": "upsert",
+        "schema": {
+          "__rl": true,
+          "value": "public",
+          "mode": "list"
+        },
+        "table": {
+          "__rl": true,
+          "value": "restaurant_image_cache",
+          "mode": "name"
+        },
+        "columns": "original_url, cdn_url, mall_slug, restaurant_slug, file_size, processed_at",
+        "conflictColumns": "original_url",
+        "updateColumns": "cdn_url, file_size, processed_at"
+      },
+      "id": "cache",
+      "name": "Update Image Cache",
+      "type": "n8n-nodes-base.supabase",
+      "typeVersion": 1,
+      "position": [2000, 300],
+      "credentials": {
+        "supabaseApi": {
+          "id": "supabase-cred",
+          "name": "Supabase"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "field": "hours",
+              "hoursInterval": 24
+            }
+          ]
+        }
+      },
+      "id": "schedule",
+      "name": "Daily Schedule",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.2,
+      "position": [240, 500]
+    }
+  ],
+  "connections": {
+    "Manual Trigger": {
+      "main": [
+        [
+          {
+            "node": "Google Sheets - Get Restaurants",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Daily Schedule": {
+      "main": [
+        [
+          {
+            "node": "Google Sheets - Get Restaurants",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Google Sheets - Get Restaurants": {
+      "main": [
+        [
+          {
+            "node": "Parse Restaurant Data",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Parse Restaurant Data": {
+      "main": [
+        [
+          {
+            "node": "Download Image",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Download Image": {
+      "main": [
+        [
+          {
+            "node": "Validate Image",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Validate Image": {
+      "main": [
+        [
+          {
+            "node": "Filter Valid Images",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Filter Valid Images": {
+      "main": [
+        [
+          {
+            "node": "Upload to Supabase Storage",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Upload to Supabase Storage": {
+      "main": [
+        [
+          {
+            "node": "Build CDN URL",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Build CDN URL": {
+      "main": [
+        [
+          {
+            "node": "Update Image Cache",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "staticData": null,
+  "tags": [
+    {
+      "name": "bfw",
+      "id": "1"
+    },
+    {
+      "name": "images",
+      "id": "2"
+    }
+  ]
+}

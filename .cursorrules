@@ -1,0 +1,131 @@
+# Cursor Rules for BestFoodWhere.sg
+
+## Project Context
+
+You are working on BestFoodWhere.sg, a Singapore food directory website being migrated from WordPress to Next.js 14. The goal is to exactly replicate the current design at https://bestfoodwhere.sg while using a modern tech stack.
+
+## Tech Stack
+
+- **Framework:** Next.js 14 (App Router)
+- **Language:** TypeScript (strict mode)
+- **Styling:** Tailwind CSS
+- **Components:** shadcn/ui
+- **Database:** Supabase (PostgreSQL)
+- **Hosting:** Vercel
+- **Icons:** Lucide React
+
+## Key Documentation
+
+Always refer to these files before making changes:
+
+- `CLAUDE.md` - Project rules and standards
+- `docs/ARCHITECTURE.md` - System architecture
+- `docs/DESIGN.md` - Visual design specifications
+- `docs/DATABASE.md` - Database schema
+- `tasks/todo.md` - Current tasks and progress
+
+## Code Patterns
+
+### Component Structure
+
+```tsx
+// components/cards/RestaurantCard.tsx
+import { Card, CardContent } from "@/components/ui/card";
+import { MapPin, Star } from "lucide-react";
+import type { Brand } from "@/types";
+
+interface RestaurantCardProps {
+  brand: Brand;
+  showLocation?: boolean;
+}
+
+export function RestaurantCard({ brand, showLocation = true }: RestaurantCardProps) {
+  return (
+    <Card className="group hover:shadow-lg transition-shadow">
+      {/* ... */}
+    </Card>
+  );
+}
+```
+
+### Data Fetching (Server Component)
+
+```tsx
+// app/menu/[slug]/page.tsx
+import { createServerClient } from "@/lib/supabase/server";
+
+export default async function BrandPage({ params }: { params: { slug: string } }) {
+  const supabase = createServerClient();
+
+  const { data: brand, error } = await supabase
+    .from("brands")
+    .select("*, locations(*, malls(*))")
+    .eq("slug", params.slug)
+    .single();
+
+  if (!brand) {
+    notFound();
+  }
+
+  return <BrandContent brand={brand} />;
+}
+```
+
+### Styling Conventions
+
+```tsx
+// Use Tailwind classes, grouped by purpose
+<div className="
+  flex items-center gap-4          // Layout
+  p-4 md:p-6                       // Spacing (responsive)
+  bg-white rounded-lg shadow-md    // Appearance
+  hover:shadow-lg transition-shadow // Interactions
+">
+```
+
+## Important Rules
+
+1. **Match the original design exactly** - Don't redesign, replicate
+2. **Mobile-first** - Start with mobile styles, add responsive breakpoints
+3. **Server Components by default** - Only use 'use client' when needed
+4. **Type everything** - No `any` types without justification
+5. **Use shadcn/ui** - Don't create custom UI components from scratch
+6. **Supabase for data** - Never hardcode data
+
+## File References
+
+When working on specific features, refer to these files:
+
+| Feature | Reference Files |
+|---------|-----------------|
+| Layout | `app/layout.tsx`, `components/layout/*` |
+| Homepage | `app/page.tsx`, `components/sections/*` |
+| Brand pages | `app/menu/[slug]/page.tsx` |
+| Mall pages | `app/shopping-malls/[slug]/page.tsx` |
+| Styling | `app/globals.css`, `tailwind.config.ts` |
+| Types | `types/database.ts`, `types/index.ts` |
+| Database | `lib/supabase/*`, `docs/DATABASE.md` |
+
+## Common Commands
+
+```bash
+npm run dev          # Start development server
+npm run build        # Build for production
+npm run lint         # Run ESLint
+npm run type-check   # Check TypeScript
+```
+
+## Brand Colors (Quick Reference)
+
+```
+Primary Orange: #ef5f2a
+Primary Red: #E53935
+Accent Teal: #00B4D8
+Accent Yellow: #FFD166
+Text Dark: #1a1a1a
+Text Gray: #666666
+```
+
+## Current Phase
+
+Check `tasks/todo.md` for current development phase and active tasks.

@@ -1,0 +1,9 @@
+export { HeroSection } from "./HeroSection";
+export { StatsSection } from "./StatsSection";
+export { SearchSection } from "./SearchSection";
+export { CuisineGrid } from "./CuisineGrid";
+export { FeaturedRestaurantsSection } from "./FeaturedRestaurantsSection";
+export { DealsSection } from "./DealsSection";
+export { DeliverySection } from "./DeliverySection";
+export { NewsletterTrendingSection } from "./NewsletterTrendingSection";
+export { RestaurantOwnersSection } from "./RestaurantOwnersSection";
