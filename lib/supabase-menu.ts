@@ -68,8 +68,7 @@ function mapMenuCategory(cat: Record<string, unknown>): MenuCategory {
     (mi): MenuItem => ({
       name: (mi.name as string) || "",
       description: (mi.description as string) || undefined,
-      imageUrl:
-        (mi.cdn_image_url as string) || (mi.original_image_url as string) || "",
+      imageUrl: (mi.cdn_image_url as string) || "",
       price: (mi.price as string) || undefined,
     }),
   );
