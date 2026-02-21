@@ -1,0 +1,72 @@
+{
+  "brand": "pezzo-hougang-mall",
+  "generatedAt": "2026-02-21T11:15:33.220Z",
+  "items": {
+    "[new] cny sweet & sour chicken": {
+      "calories": 780,
+      "protein": 42,
+      "carbs": 68,
+      "fat": 32,
+      "sodium": 1420,
+      "sugar": 24,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "[new] hot honey beef salami": {
+      "calories": 820,
+      "protein": 38,
+      "carbs": 72,
+      "fat": 38,
+      "sodium": 1680,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "[new] cheeesy chicken sausage": {
+      "calories": 760,
+      "protein": 36,
+      "carbs": 68,
+      "fat": 34,
+      "sodium": 1540,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    }
+  }
+}

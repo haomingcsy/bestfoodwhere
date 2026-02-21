@@ -1,0 +1,124 @@
+{
+  "brand": "gong-yuan-ma-la-tang-imm",
+  "generatedAt": "2026-02-16T15:18:20.379Z",
+  "items": {
+    "chicken set 鸡肉配套": {
+      "calories": 720,
+      "protein": 42,
+      "carbs": 68,
+      "fat": 28,
+      "sodium": 2100,
+      "sugar": 4,
+      "fiber": 6,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Egg",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables",
+        "Source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "pork set 猪肉配套": {
+      "calories": 780,
+      "protein": 40,
+      "carbs": 68,
+      "fat": 35,
+      "sodium": 2150,
+      "sugar": 4,
+      "fiber": 6,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Egg",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables",
+        "Source of iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "fish set 鱼肉配套": {
+      "calories": 710,
+      "protein": 44,
+      "carbs": 68,
+      "fat": 24,
+      "sodium": 2080,
+      "sugar": 4,
+      "fiber": 6,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Egg",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of omega-3",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "vegetarian set 素食配套": {
+      "calories": 580,
+      "protein": 24,
+      "carbs": 72,
+      "fat": 18,
+      "sodium": 1950,
+      "sugar": 5,
+      "fiber": 9,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "Good source of plant-based protein",
+        "Rich in vegetables",
+        "Lower in fat"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "lala soup 暖心啦啦汤": {
+      "calories": 320,
+      "protein": 28,
+      "carbs": 12,
+      "fat": 14,
+      "sodium": 1800,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron",
+        "Low in carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Shellfish allergen"
+      ]
+    }
+  }
+}

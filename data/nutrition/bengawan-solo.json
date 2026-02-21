@@ -1,0 +1,45 @@
+{
+  "brand": "bengawan-solo",
+  "generatedAt": "2026-02-16T13:45:37.533Z",
+  "items": {
+    "lapis sagu": {
+      "calories": 280,
+      "protein": 2,
+      "carbs": 45,
+      "fat": 11,
+      "sodium": 180,
+      "sugar": 28,
+      "fiber": 1,
+      "allergens": [
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "ondeh-ondeh": {
+      "calories": 220,
+      "protein": 2,
+      "carbs": 38,
+      "fat": 7,
+      "sodium": 150,
+      "sugar": 18,
+      "fiber": 2,
+      "allergens": [
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains palm sugar",
+        "Low sodium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    }
+  }
+}

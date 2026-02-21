@@ -1,0 +1,307 @@
+{
+  "brand": "crave-nasi-lemak-causeway-point",
+  "generatedAt": "2026-02-16T14:21:23.886Z",
+  "items": {
+    "chicken wing set ( no begedel )": {
+      "calories": 520,
+      "protein": 28,
+      "carbs": 42,
+      "fat": 24,
+      "sodium": 890,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains selenium"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "nasi lemak ayam taliwang": {
+      "calories": 680,
+      "protein": 32,
+      "carbs": 68,
+      "fat": 28,
+      "sodium": 1020,
+      "sugar": 5,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Egg",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "nasi lemak ayam cabe ijo": {
+      "calories": 670,
+      "protein": 31,
+      "carbs": 67,
+      "fat": 27,
+      "sodium": 980,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Egg",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains capsaicin"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "nasi lemak ayam balado": {
+      "calories": 675,
+      "protein": 32,
+      "carbs": 67,
+      "fat": 28,
+      "sodium": 1010,
+      "sugar": 5,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains capsaicin"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "nasi lemak ayam kecap sambal": {
+      "calories": 680,
+      "protein": 31,
+      "carbs": 68,
+      "fat": 28,
+      "sodium": 1150,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "nasi lemak chicken wing & fillet set": {
+      "calories": 730,
+      "protein": 38,
+      "carbs": 68,
+      "fat": 30,
+      "sodium": 1050,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains selenium"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "nasi lemak jumbo set": {
+      "calories": 820,
+      "protein": 42,
+      "carbs": 72,
+      "fat": 35,
+      "sodium": 1180,
+      "sugar": 5,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Egg",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Very high in calories"
+      ]
+    },
+    "nasi lemak double chicken wing set": {
+      "calories": 750,
+      "protein": 40,
+      "carbs": 69,
+      "fat": 32,
+      "sodium": 1080,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains selenium"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "nasi lemak chicken wing & otah set": {
+      "calories": 720,
+      "protein": 35,
+      "carbs": 69,
+      "fat": 30,
+      "sodium": 1120,
+      "sugar": 5,
+      "fiber": 3,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "nasi lemak chicken wing & begedel set": {
+      "calories": 740,
+      "protein": 32,
+      "carbs": 72,
+      "fat": 32,
+      "sodium": 1040,
+      "sugar": 4,
+      "fiber": 4,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Egg",
+        "Peanut"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "nasi lemak fish fillet set": {
+      "calories": 680,
+      "protein": 30,
+      "carbs": 68,
+      "fat": 26,
+      "sodium": 950,
+      "sugar": 3,
+      "fiber": 3,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3",
+        "Rich in selenium"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "nasi lemak chicken fillet set": {
+      "calories": 700,
+      "protein": 33,
+      "carbs": 69,
+      "fat": 27,
+      "sodium": 980,
+      "sugar": 3,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "nasi lemak kinddy meal 2": {
+      "calories": 550,
+      "protein": 22,
+      "carbs": 60,
+      "fat": 22,
+      "sodium": 780,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Appropriate portion for children",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    }
+  }
+}

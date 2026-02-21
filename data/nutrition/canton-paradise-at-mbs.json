@@ -1,0 +1,29 @@
+{
+  "brand": "canton-paradise-at-mbs",
+  "generatedAt": "2026-02-16T14:04:41.996Z",
+  "items": {
+    "desserts": {
+      "calories": 280,
+      "protein": 3,
+      "carbs": 42,
+      "fat": 11,
+      "sodium": 85,
+      "sugar": 32,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Source of calcium from dairy"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    }
+  }
+}

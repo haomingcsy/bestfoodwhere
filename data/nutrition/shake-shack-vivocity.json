@@ -1,0 +1,841 @@
+{
+  "brand": "shake-shack-vivocity",
+  "generatedAt": "2026-02-21T11:38:10.725Z",
+  "items": {
+    "cny shack for two": {
+      "calories": 1850,
+      "protein": 85,
+      "carbs": 165,
+      "fat": 92,
+      "sodium": 2840,
+      "sugar": 28,
+      "fiber": 6,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "shack for one": {
+      "calories": 920,
+      "protein": 42,
+      "carbs": 82,
+      "fat": 46,
+      "sodium": 1420,
+      "sugar": 14,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "chicken shack": {
+      "calories": 480,
+      "protein": 38,
+      "carbs": 35,
+      "fat": 22,
+      "sodium": 1120,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Lean protein"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "shackmeister ale (can)": {
+      "calories": 220,
+      "protein": 2,
+      "carbs": 16,
+      "fat": 0,
+      "sodium": 25,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Contains alcohol",
+        "High in carbs"
+      ]
+    },
+    "french onion burger": {
+      "calories": 680,
+      "protein": 42,
+      "carbs": 48,
+      "fat": 38,
+      "sodium": 1280,
+      "sugar": 10,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "tangerine lemonade": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 36,
+      "fat": 0,
+      "sodium": 25,
+      "sugar": 32,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains vitamin C from tangerine"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "hot dog": {
+      "calories": 320,
+      "protein": 14,
+      "carbs": 28,
+      "fat": 16,
+      "sodium": 890,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "parmesan garlic fries": {
+      "calories": 480,
+      "protein": 9,
+      "carbs": 54,
+      "fat": 26,
+      "sodium": 1240,
+      "sugar": 1,
+      "fiber": 4,
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains garlic"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "french onion pairing for one": {
+      "calories": 820,
+      "protein": 42,
+      "carbs": 68,
+      "fat": 42,
+      "sodium": 1580,
+      "sugar": 12,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "classic shakes": {
+      "calories": 540,
+      "protein": 10,
+      "carbs": 72,
+      "fat": 24,
+      "sodium": 210,
+      "sugar": 62,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "shack white 25oz": {
+      "calories": 280,
+      "protein": 0,
+      "carbs": 8,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Contains alcohol"
+      ]
+    },
+    "french onion 'shroom burger": {
+      "calories": 620,
+      "protein": 22,
+      "carbs": 52,
+      "fat": 36,
+      "sodium": 980,
+      "sugar": 8,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains mushrooms"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "cny shack for four": {
+      "calories": 3680,
+      "protein": 170,
+      "carbs": 330,
+      "fat": 184,
+      "sodium": 5680,
+      "sugar": 56,
+      "fiber": 12,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "cheese dog": {
+      "calories": 420,
+      "protein": 16,
+      "carbs": 28,
+      "fat": 28,
+      "sodium": 1020,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "cheese fries": {
+      "calories": 380,
+      "protein": 6,
+      "carbs": 42,
+      "fat": 20,
+      "sodium": 620,
+      "sugar": 1,
+      "fiber": 3,
+      "allergens": [
+        "Dairy",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Contains fiber"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in saturated fat"
+      ]
+    },
+    "bottled water": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Hydrating",
+        "Zero calories"
+      ],
+      "healthWarnings": []
+    },
+    "french onion pairing for two": {
+      "calories": 1640,
+      "protein": 84,
+      "carbs": 136,
+      "fat": 84,
+      "sodium": 3160,
+      "sugar": 24,
+      "fiber": 8,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "shack for two": {
+      "calories": 1840,
+      "protein": 84,
+      "carbs": 164,
+      "fat": 92,
+      "sodium": 2840,
+      "sugar": 28,
+      "fiber": 6,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "pandan shake": {
+      "calories": 580,
+      "protein": 10,
+      "carbs": 78,
+      "fat": 26,
+      "sodium": 220,
+      "sugar": 68,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Coconut"
+      ],
+      "healthBenefits": [
+        "Good source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "hot chicken": {
+      "calories": 520,
+      "protein": 40,
+      "carbs": 38,
+      "fat": 24,
+      "sodium": 1280,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Lean protein"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "fries": {
+      "calories": 320,
+      "protein": 4,
+      "carbs": 42,
+      "fat": 15,
+      "sodium": 420,
+      "sugar": 0,
+      "fiber": 4,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "veggie for one": {
+      "calories": 680,
+      "protein": 18,
+      "carbs": 68,
+      "fat": 36,
+      "sodium": 1050,
+      "sugar": 12,
+      "fiber": 8,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "shack red 25oz": {
+      "calories": 220,
+      "protein": 0,
+      "carbs": 5,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Contains alcohol",
+        "Contains sulfites"
+      ]
+    },
+    "french onion shack stack": {
+      "calories": 820,
+      "protein": 48,
+      "carbs": 52,
+      "fat": 48,
+      "sodium": 1420,
+      "sugar": 8,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "smoke dog": {
+      "calories": 540,
+      "protein": 24,
+      "carbs": 32,
+      "fat": 38,
+      "sodium": 1180,
+      "sugar": 4,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "fifty/fifty": {
+      "calories": 85,
+      "protein": 0,
+      "carbs": 22,
+      "fat": 0,
+      "sodium": 25,
+      "sugar": 16,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "chicken bites (6 pcs)": {
+      "calories": 310,
+      "protein": 28,
+      "carbs": 18,
+      "fat": 16,
+      "sodium": 620,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "sides pairing": {
+      "calories": 450,
+      "protein": 14,
+      "carbs": 52,
+      "fat": 22,
+      "sodium": 780,
+      "sugar": 18,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in sugar"
+      ]
+    },
+    "fountain soda": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 40,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Zero sugar option available"
+      ],
+      "healthWarnings": [
+        "Contains artificial sweeteners"
+      ]
+    },
+    "shackburger®": {
+      "calories": 550,
+      "protein": 32,
+      "carbs": 40,
+      "fat": 32,
+      "sodium": 1050,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "chicken bites (10 pcs)": {
+      "calories": 520,
+      "protein": 46,
+      "carbs": 30,
+      "fat": 27,
+      "sodium": 1030,
+      "sugar": 3,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "fresh lemonade": {
+      "calories": 160,
+      "protein": 0,
+      "carbs": 42,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 38,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "smokeshack™": {
+      "calories": 620,
+      "protein": 36,
+      "carbs": 40,
+      "fat": 38,
+      "sodium": 1180,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "onion rings (6 count)": {
+      "calories": 380,
+      "protein": 5,
+      "carbs": 38,
+      "fat": 22,
+      "sodium": 540,
+      "sugar": 1,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "organic apple juice": {
+      "calories": 120,
+      "protein": 0,
+      "carbs": 28,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 24,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "veggie shack": {
+      "calories": 590,
+      "protein": 20,
+      "carbs": 62,
+      "fat": 28,
+      "sodium": 1120,
+      "sugar": 8,
+      "fiber": 8,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains plant-based protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "organic brewed iced tea": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Zero calories",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "french onion shack stack (limited time)": {
+      "calories": 820,
+      "protein": 48,
+      "carbs": 52,
+      "fat": 48,
+      "sodium": 1420,
+      "sugar": 8,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "shroom burger": {
+      "calories": 520,
+      "protein": 18,
+      "carbs": 42,
+      "fat": 28,
+      "sodium": 1020,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "shack stack™": {
+      "calories": 860,
+      "protein": 48,
+      "carbs": 48,
+      "fat": 52,
+      "sodium": 1680,
+      "sugar": 10,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "Very high in calories",
+        "Very high in sodium",
+        "Very high in saturated fat"
+      ]
+    },
+    "hamburger": {
+      "calories": 380,
+      "protein": 22,
+      "carbs": 32,
+      "fat": 18,
+      "sodium": 680,
+      "sugar": 6,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    }
+  }
+}

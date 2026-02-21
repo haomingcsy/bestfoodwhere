@@ -1,0 +1,113 @@
+{
+  "brand": "fun-toast",
+  "generatedAt": "2026-02-16T14:57:23.504Z",
+  "items": {
+    "homemade chicken stew": {
+      "calories": 280,
+      "protein": 22,
+      "carbs": 18,
+      "fat": 14,
+      "sodium": 680,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in fat"
+      ]
+    },
+    "chicken coin bakkwa soft bun set 发财金钱肉干包套餐": {
+      "calories": 520,
+      "protein": 18,
+      "carbs": 68,
+      "fat": 18,
+      "sodium": 920,
+      "sugar": 12,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "chicken coin bakkwa soft bun 发财金钱肉干包": {
+      "calories": 320,
+      "protein": 14,
+      "carbs": 38,
+      "fat": 12,
+      "sodium": 720,
+      "sugar": 8,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in sugar"
+      ]
+    },
+    "chicken floss soft bun set 一路发肉松包套餐": {
+      "calories": 480,
+      "protein": 16,
+      "carbs": 62,
+      "fat": 16,
+      "sodium": 850,
+      "sugar": 10,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in sugar",
+        "High in calories"
+      ]
+    },
+    "chicken floss soft bun 一路发肉松包": {
+      "calories": 280,
+      "protein": 12,
+      "carbs": 36,
+      "fat": 10,
+      "sodium": 640,
+      "sugar": 6,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in carbs"
+      ]
+    }
+  }
+}

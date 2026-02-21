@@ -1,0 +1,807 @@
+{
+  "brand": "chicha-san-chen-nex",
+  "generatedAt": "2026-02-16T14:16:06.877Z",
+  "items": {
+    "iced peach tea蜜桃冰茶": {
+      "calories": 180,
+      "protein": 0,
+      "carbs": 45,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 42,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants from tea",
+        "Hydrating"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "May contain caffeine"
+      ]
+    },
+    "imperial taro milk tea超浓芋奶茶": {
+      "calories": 320,
+      "protein": 4,
+      "carbs": 52,
+      "fat": 9,
+      "sodium": 85,
+      "sugar": 48,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from tea",
+        "Source of calcium from milk"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in calories",
+        "High saturated fat"
+      ]
+    },
+    "green tea松针绿茶": {
+      "calories": 30,
+      "protein": 0,
+      "carbs": 7,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in antioxidants",
+        "Low calorie",
+        "Contains L-theanine for relaxation"
+      ],
+      "healthWarnings": []
+    },
+    "taro-bly oolong milk tea芋圆很乌龙奶茶": {
+      "calories": 280,
+      "protein": 3,
+      "carbs": 48,
+      "fat": 7,
+      "sodium": 75,
+      "sugar": 42,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from tea",
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories",
+        "Contains saturated fat"
+      ]
+    },
+    "lishan oolong tea (75g)梨山乌龙茶-经典款方盒": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in antioxidants",
+        "Supports metabolism",
+        "Zero calorie beverage base"
+      ],
+      "healthWarnings": []
+    },
+    "fresh honey milk tea鲜奶蜜茶": {
+      "calories": 240,
+      "protein": 4,
+      "carbs": 42,
+      "fat": 5,
+      "sodium": 120,
+      "sugar": 38,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from tea",
+        "Source of calcium",
+        "Natural sweetness from honey"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Moderate sodium",
+        "Contains saturated fat"
+      ]
+    },
+    "lishan oolong tea (15g)梨山乌龙茶-随行小圆罐": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in antioxidants",
+        "Supports metabolism",
+        "Zero calorie beverage base"
+      ],
+      "healthWarnings": []
+    },
+    "bubble milk tea国王珍珠奶茶": {
+      "calories": 300,
+      "protein": 4,
+      "carbs": 52,
+      "fat": 6,
+      "sodium": 100,
+      "sugar": 46,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from tea",
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in calories",
+        "High in carbohydrates"
+      ]
+    },
+    "double bubble latte圆圆鲜奶茶": {
+      "calories": 320,
+      "protein": 5,
+      "carbs": 54,
+      "fat": 7,
+      "sodium": 110,
+      "sugar": 48,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from tea",
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in calories",
+        "High in carbohydrates",
+        "High saturated fat"
+      ]
+    },
+    "peach tea with mousse蜜桃奶盖": {
+      "calories": 260,
+      "protein": 3,
+      "carbs": 48,
+      "fat": 5,
+      "sodium": 80,
+      "sugar": 44,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from tea"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Moderate calories"
+      ]
+    },
+    "green tea + honey松针绿茶 + 百花香蜜": {
+      "calories": 80,
+      "protein": 0,
+      "carbs": 20,
+      "fat": 0,
+      "sodium": 8,
+      "sugar": 18,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in antioxidants",
+        "Natural sweetness from honey",
+        "Low calorie"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "oat honey milk tea燕麦new奶蜜茶": {
+      "calories": 280,
+      "protein": 5,
+      "carbs": 46,
+      "fat": 6,
+      "sodium": 140,
+      "sugar": 38,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains fiber from oats",
+        "Source of calcium",
+        "Contains antioxidants from tea"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Moderate sodium",
+        "Contains gluten"
+      ]
+    },
+    "osmanthus oolong tea水仙桂花": {
+      "calories": 40,
+      "protein": 0,
+      "carbs": 9,
+      "fat": 0,
+      "sodium": 8,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in antioxidants",
+        "Low calorie",
+        "Contains floral compounds"
+      ],
+      "healthWarnings": []
+    },
+    "lishan oolong drip tea bag gift set (10x 4g)梨山乌龙茶-挂耳书型盒": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in antioxidants",
+        "Supports metabolism",
+        "Zero calorie beverage base"
+      ],
+      "healthWarnings": []
+    },
+    "perrier sparkling peach蜜桃泡泡冰": {
+      "calories": 120,
+      "protein": 0,
+      "carbs": 30,
+      "fat": 0,
+      "sodium": 50,
+      "sugar": 28,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Hydrating",
+        "Contains minerals from sparkling water"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in sodium"
+      ]
+    },
+    "(hot) fresh honey milk tea(热) 鲜奶蜜茶": {
+      "calories": 240,
+      "protein": 4,
+      "carbs": 42,
+      "fat": 5,
+      "sodium": 120,
+      "sugar": 38,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from tea",
+        "Source of calcium",
+        "Natural sweetness from honey"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Moderate sodium",
+        "Contains saturated fat"
+      ]
+    },
+    "taro milk tea + taro bubble慢熟芋见厚奶": {
+      "calories": 340,
+      "protein": 4,
+      "carbs": 56,
+      "fat": 9,
+      "sodium": 95,
+      "sugar": 50,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from tea",
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in calories",
+        "High saturated fat",
+        "High in carbohydrates"
+      ]
+    },
+    "sakura oat milk tea女皇燕麦new奶茶": {
+      "calories": 220,
+      "protein": 3.5,
+      "carbs": 38,
+      "fat": 5.5,
+      "sodium": 140,
+      "sugar": 32,
+      "fiber": 0.5,
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Plant-based milk alternative",
+        "Contains antioxidants from tea"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains caffeine"
+      ]
+    },
+    "lishan oolong drip tea bag (4g)梨山乌龙茶-挂耳包": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Rich in antioxidants",
+        "Zero calories",
+        "Aids digestion"
+      ],
+      "healthWarnings": [
+        "Contains caffeine"
+      ]
+    },
+    "iced peach tea with konjac jelly蜜桃纤果冰茶": {
+      "calories": 160,
+      "protein": 0.5,
+      "carbs": 40,
+      "fat": 0,
+      "sodium": 80,
+      "sugar": 35,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "Konjac jelly aids digestion",
+        "Rich in antioxidants",
+        "High in fiber"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains caffeine"
+      ]
+    },
+    "osmanthus oolong tea + honey水仙桂花 + 百花香蜜": {
+      "calories": 120,
+      "protein": 0,
+      "carbs": 30,
+      "fat": 0,
+      "sodium": 60,
+      "sugar": 28,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Antioxidant-rich",
+        "Natural honey sweetness",
+        "Floral benefits"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains caffeine"
+      ]
+    },
+    "(hot) oat honey milk tea(热) 燕麦new奶蜜茶": {
+      "calories": 240,
+      "protein": 3.5,
+      "carbs": 42,
+      "fat": 6,
+      "sodium": 160,
+      "sugar": 36,
+      "fiber": 0.5,
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Plant-based milk option",
+        "Natural honey",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in sodium",
+        "Contains caffeine"
+      ]
+    },
+    "taro meets the king慢熟芋见国王": {
+      "calories": 320,
+      "protein": 3.5,
+      "carbs": 52,
+      "fat": 9,
+      "sodium": 180,
+      "sugar": 44,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains potassium",
+        "Taro provides fiber"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories",
+        "High in saturated fat"
+      ]
+    },
+    "fruit tea宝岛经典水果茶": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 35,
+      "fat": 0,
+      "sodium": 70,
+      "sugar": 30,
+      "fiber": 0.5,
+      "allergens": [],
+      "healthBenefits": [
+        "Vitamin C from fruits",
+        "Rich in antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains caffeine"
+      ]
+    },
+    "high mountain pouchong tea玉露青茶": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Zero calories",
+        "Rich in antioxidants",
+        "Aids metabolism"
+      ],
+      "healthWarnings": [
+        "Contains caffeine"
+      ]
+    },
+    "oat milk with taro + taro bubble慢熟浓芋燕麦new奶": {
+      "calories": 310,
+      "protein": 4,
+      "carbs": 50,
+      "fat": 8,
+      "sodium": 170,
+      "sugar": 40,
+      "fiber": 1.5,
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Lactose-free",
+        "Plant-based milk",
+        "Contains fiber"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "chicha san chen packaged loose leaf tea (6/box)三角立体茶包 (6/盒)": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Variety of antioxidants",
+        "Zero calories per serving",
+        "Multiple flavor profiles"
+      ],
+      "healthWarnings": [
+        "Contains caffeine"
+      ]
+    },
+    "high mountain pouchong tea + honey玉露青茶 + 百花香蜜": {
+      "calories": 120,
+      "protein": 0,
+      "carbs": 30,
+      "fat": 0,
+      "sodium": 60,
+      "sugar": 28,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Antioxidant-rich",
+        "Natural honey sweetness"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains caffeine"
+      ]
+    },
+    "fresh milk with taro + taro bubble慢熟浓芋鲜奶": {
+      "calories": 300,
+      "protein": 5,
+      "carbs": 48,
+      "fat": 8.5,
+      "sodium": 190,
+      "sugar": 40,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Rich in calcium",
+        "Contains potassium",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories",
+        "High in saturated fat"
+      ]
+    },
+    "chicha san chen classic travel tumbler (with straw)": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Reusable",
+        "Eco-friendly"
+      ],
+      "healthWarnings": []
+    },
+    "oat milk with brown sugar bubble熔岩黑糖波霸new奶": {
+      "calories": 280,
+      "protein": 3.5,
+      "carbs": 48,
+      "fat": 6.5,
+      "sodium": 150,
+      "sugar": 42,
+      "fiber": 0.5,
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Plant-based milk alternative"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in calories"
+      ]
+    },
+    "black tea凤眉红茶": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Zero calories",
+        "Rich in antioxidants",
+        "Improves heart health"
+      ],
+      "healthWarnings": [
+        "Contains caffeine"
+      ]
+    },
+    "fresh milk with brown sugar bubble熔岩黑糖波霸鲜奶": {
+      "calories": 260,
+      "protein": 4.5,
+      "carbs": 42,
+      "fat": 7.5,
+      "sodium": 170,
+      "sugar": 38,
+      "fiber": 0.5,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Rich in calcium",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "creamy lemon tart又见柠檬塔": {
+      "calories": 320,
+      "protein": 4,
+      "carbs": 42,
+      "fat": 15,
+      "sodium": 180,
+      "sugar": 28,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Source of vitamin C from lemon"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "dong ding oolong tea冻顶乌龙": {
+      "calories": 5,
+      "protein": 0,
+      "carbs": 1,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Antioxidant rich",
+        "Low calorie",
+        "May support metabolism"
+      ],
+      "healthWarnings": []
+    },
+    "black tea + honey凤眉红茶 + 百花香蜜": {
+      "calories": 95,
+      "protein": 0,
+      "carbs": 24,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 24,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Antioxidant rich",
+        "Contains honey enzymes"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "mango cream pie青青芒果露": {
+      "calories": 310,
+      "protein": 3,
+      "carbs": 45,
+      "fat": 13,
+      "sodium": 160,
+      "sugar": 32,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of vitamin A from mango",
+        "Contains tropical fruit"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "cassia black tea决明子红乌龙茶": {
+      "calories": 8,
+      "protein": 0,
+      "carbs": 1,
+      "fat": 0,
+      "sodium": 8,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Antioxidant rich",
+        "Contains cassia seeds",
+        "Low calorie"
+      ],
+      "healthWarnings": []
+    },
+    "dong ding oolong tea + honey冻顶乌龙茶 + 百花香蜜": {
+      "calories": 100,
+      "protein": 0,
+      "carbs": 25,
+      "fat": 0,
+      "sodium": 8,
+      "sugar": 25,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Antioxidant rich",
+        "Contains honey"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "black tea + honey凤眉红茶 + 百花香蜜 (iced)": {
+      "calories": 95,
+      "protein": 0,
+      "carbs": 24,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 24,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Antioxidant rich",
+        "Contains honey enzymes"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "cassia black tea + honey决明子红乌龙茶 + 百花香蜜 (iced)": {
+      "calories": 85,
+      "protein": 0,
+      "carbs": 21,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 21,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Antioxidant rich",
+        "Contains cassia seeds",
+        "Contains honey"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "cassia black tea + honey决明子红乌龙茶 + 百花香蜜 (hot)": {
+      "calories": 85,
+      "protein": 0,
+      "carbs": 21,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 21,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Antioxidant rich",
+        "Contains cassia seeds",
+        "Contains honey"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    }
+  }
+}

@@ -1,0 +1,2405 @@
+{
+  "brand": "koi-th-woodleigh-mall",
+  "generatedAt": "2026-02-21T10:46:33.942Z",
+  "items": {
+    "black tea latte (medium)": {
+      "calories": 180,
+      "protein": 4,
+      "carbs": 28,
+      "fat": 5,
+      "sodium": 95,
+      "sugar": 24,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains caffeine"
+      ]
+    },
+    "fresh lemon juice (medium)": {
+      "calories": 95,
+      "protein": 1,
+      "carbs": 22,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 18,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "Rich in vitamin C",
+        "Natural hydration",
+        "Aids digestion"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Acidic"
+      ]
+    },
+    "lychee black tea macaron": {
+      "calories": 160,
+      "protein": 2,
+      "carbs": 32,
+      "fat": 3,
+      "sodium": 40,
+      "sugar": 28,
+      "fiber": 0,
+      "allergens": [
+        "Almond",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories for portion size"
+      ]
+    },
+    "mango seasons milk tea (large)": {
+      "calories": 260,
+      "protein": 5,
+      "carbs": 48,
+      "fat": 6,
+      "sodium": 110,
+      "sugar": 42,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains vitamin A from mango",
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories",
+        "Contains caffeine"
+      ]
+    },
+    "assam black tea (medium)": {
+      "calories": 45,
+      "protein": 0,
+      "carbs": 8,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 6,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Low calorie"
+      ],
+      "healthWarnings": [
+        "Contains caffeine"
+      ]
+    },
+    "brown sugar milk tea (medium)": {
+      "calories": 220,
+      "protein": 4,
+      "carbs": 42,
+      "fat": 5,
+      "sodium": 100,
+      "sugar": 38,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories",
+        "Contains caffeine"
+      ]
+    },
+    "brown sugar milk tea (large)": {
+      "calories": 280,
+      "protein": 5,
+      "carbs": 52,
+      "fat": 6,
+      "sodium": 120,
+      "sugar": 48,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in calories",
+        "Contains caffeine"
+      ]
+    },
+    "assam black tea (large)": {
+      "calories": 65,
+      "protein": 0,
+      "carbs": 12,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 9,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Low calorie"
+      ],
+      "healthWarnings": [
+        "Contains caffeine"
+      ]
+    },
+    "fresh lemon juice (large)": {
+      "calories": 140,
+      "protein": 2,
+      "carbs": 32,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 26,
+      "fiber": 3,
+      "allergens": [],
+      "healthBenefits": [
+        "Rich in vitamin C",
+        "Good hydration",
+        "Aids digestion"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Acidic"
+      ]
+    },
+    "milk tea (medium)": {
+      "calories": 190,
+      "protein": 4,
+      "carbs": 30,
+      "fat": 5,
+      "sodium": 100,
+      "sugar": 26,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains caffeine"
+      ]
+    },
+    "peach four seasons milk tea (large)": {
+      "calories": 270,
+      "protein": 5,
+      "carbs": 50,
+      "fat": 6,
+      "sodium": 115,
+      "sugar": 44,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains vitamin C from peach",
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories",
+        "Contains caffeine"
+      ]
+    },
+    "yuzu oolong tea macaron": {
+      "calories": 160,
+      "protein": 2,
+      "carbs": 32,
+      "fat": 3,
+      "sodium": 40,
+      "sugar": 28,
+      "fiber": 0,
+      "allergens": [
+        "Almond",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from oolong tea"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories for portion size"
+      ]
+    },
+    "wildflower honey lemon lime juice (medium)": {
+      "calories": 140,
+      "protein": 1,
+      "carbs": 36,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 32,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "Rich in vitamin C",
+        "Natural sweetener with honey",
+        "Refreshing"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Acidic"
+      ]
+    },
+    "koi tea twin box": {
+      "calories": 320,
+      "protein": 4,
+      "carbs": 64,
+      "fat": 6,
+      "sodium": 80,
+      "sugar": 56,
+      "fiber": 0,
+      "allergens": [
+        "Almond",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in calories"
+      ]
+    },
+    "jasmine green tea (medium)": {
+      "calories": 40,
+      "protein": 0,
+      "carbs": 7,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 5,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Low calorie",
+        "Calming properties"
+      ],
+      "healthWarnings": [
+        "Contains caffeine"
+      ]
+    },
+    "brown sugar fresh milk (medium)": {
+      "calories": 240,
+      "protein": 5,
+      "carbs": 38,
+      "fat": 7,
+      "sodium": 105,
+      "sugar": 34,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of calcium",
+        "Rich and creamy"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories",
+        "High in saturated fat"
+      ]
+    },
+    "milk tea (large)": {
+      "calories": 250,
+      "protein": 5,
+      "carbs": 40,
+      "fat": 6,
+      "sodium": 115,
+      "sugar": 35,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories",
+        "Contains caffeine"
+      ]
+    },
+    "h pipagao milk tea - large": {
+      "calories": 280,
+      "protein": 5,
+      "carbs": 45,
+      "fat": 7,
+      "sodium": 120,
+      "sugar": 38,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains herbal ingredients",
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories",
+        "Contains caffeine"
+      ]
+    },
+    "black tea latte (large)": {
+      "calories": 240,
+      "protein": 5,
+      "carbs": 36,
+      "fat": 7,
+      "sodium": 115,
+      "sugar": 32,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains caffeine"
+      ]
+    },
+    "jasmine green tea (large)": {
+      "calories": 60,
+      "protein": 0,
+      "carbs": 10,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 8,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Low calorie",
+        "Calming properties"
+      ],
+      "healthWarnings": [
+        "Contains caffeine"
+      ]
+    },
+    "koi tea box of 5": {
+      "calories": 280,
+      "protein": 3,
+      "carbs": 58,
+      "fat": 5,
+      "sodium": 45,
+      "sugar": 52,
+      "fiber": 1,
+      "allergens": [
+        "Egg",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from tea",
+        "Portion-controlled treats"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High calorie density"
+      ]
+    },
+    "wildflower honey lemon lime juice (large)": {
+      "calories": 180,
+      "protein": 0,
+      "carbs": 45,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 40,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains vitamin C",
+        "Natural honey",
+        "Hydrating",
+        "Aloe vera may aid digestion"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Limited nutritional density"
+      ]
+    },
+    "h pipagao milk tea - medium": {
+      "calories": 220,
+      "protein": 4,
+      "carbs": 42,
+      "fat": 4,
+      "sodium": 120,
+      "sugar": 35,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains herbal ingredients",
+        "Traditionally soothing"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in sodium"
+      ]
+    },
+    "brown sugar fresh milk (large)": {
+      "calories": 280,
+      "protein": 6,
+      "carbs": 52,
+      "fat": 5,
+      "sodium": 140,
+      "sugar": 48,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High calorie content",
+        "High in sodium"
+      ]
+    },
+    "four seasons tea (medium)": {
+      "calories": 90,
+      "protein": 0,
+      "carbs": 22,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 20,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Low calorie",
+        "Caffeine content"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "wildflower ice honey (medium)": {
+      "calories": 180,
+      "protein": 0,
+      "carbs": 48,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 45,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains honey with potential antibacterial properties"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "No nutritional value beyond calories"
+      ]
+    },
+    "green milk tea (medium)": {
+      "calories": 160,
+      "protein": 4,
+      "carbs": 28,
+      "fat": 3,
+      "sodium": 110,
+      "sugar": 24,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Green tea antioxidants",
+        "Lower sugar than typical milk tea"
+      ],
+      "healthWarnings": [
+        "Moderate to high sugar",
+        "High in sodium"
+      ]
+    },
+    "h pipagao green tea - large": {
+      "calories": 240,
+      "protein": 0,
+      "carbs": 58,
+      "fat": 0,
+      "sodium": 25,
+      "sugar": 52,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Green tea antioxidants",
+        "Herbal blend",
+        "Caffeine content"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "koi tea box of 10": {
+      "calories": 560,
+      "protein": 6,
+      "carbs": 116,
+      "fat": 10,
+      "sodium": 90,
+      "sugar": 104,
+      "fiber": 2,
+      "allergens": [
+        "Egg",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from tea",
+        "Portion-controlled treats"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High calorie content"
+      ]
+    },
+    "green milk tea (large)": {
+      "calories": 200,
+      "protein": 5,
+      "carbs": 36,
+      "fat": 4,
+      "sodium": 130,
+      "sugar": 32,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Green tea antioxidants",
+        "Lower sugar option"
+      ],
+      "healthWarnings": [
+        "Moderate to high sugar",
+        "High in sodium"
+      ]
+    },
+    "four seasons tea (large)": {
+      "calories": 120,
+      "protein": 0,
+      "carbs": 30,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 28,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Caffeine content",
+        "Low fat"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "box of 5 pieces": {
+      "calories": 280,
+      "protein": 3,
+      "carbs": 58,
+      "fat": 5,
+      "sodium": 45,
+      "sugar": 52,
+      "fiber": 1,
+      "allergens": [
+        "Egg",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Portion-controlled treats"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High calorie density"
+      ]
+    },
+    "h pipagao green tea - medium": {
+      "calories": 210,
+      "protein": 0,
+      "carbs": 50,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 45,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Green tea antioxidants",
+        "Herbal blend"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "wildflower ice honey (large)": {
+      "calories": 240,
+      "protein": 0,
+      "carbs": 64,
+      "fat": 0,
+      "sodium": 25,
+      "sugar": 60,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains honey with potential antibacterial properties"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "No nutritional value beyond calories"
+      ]
+    },
+    "plum black tea (large)": {
+      "calories": 210,
+      "protein": 0,
+      "carbs": 52,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 48,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Black tea antioxidants",
+        "Vitamin C from plum"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "four seasons milk tea (medium)": {
+      "calories": 170,
+      "protein": 4,
+      "carbs": 30,
+      "fat": 3,
+      "sodium": 115,
+      "sugar": 26,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Floral tea blend",
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "Moderate to high sugar",
+        "High in sodium"
+      ]
+    },
+    "wildflower honey green tea (medium)": {
+      "calories": 170,
+      "protein": 0,
+      "carbs": 42,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 38,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Green tea antioxidants",
+        "Natural honey",
+        "Low fat"
+      ],
+      "healthWarnings": [
+        "Moderate to high sugar"
+      ]
+    },
+    "plum black tea (medium)": {
+      "calories": 180,
+      "protein": 0,
+      "carbs": 44,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 40,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Black tea antioxidants",
+        "Vitamin C from plum"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "wildflower honey green tea (large)": {
+      "calories": 210,
+      "protein": 0,
+      "carbs": 52,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 48,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Green tea antioxidants",
+        "Natural honey"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "box of 10 pieces": {
+      "calories": 560,
+      "protein": 6,
+      "carbs": 116,
+      "fat": 10,
+      "sodium": 90,
+      "sugar": 104,
+      "fiber": 2,
+      "allergens": [
+        "Egg",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Portion-controlled treats"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High calorie content"
+      ]
+    },
+    "starter box 5": {
+      "calories": 320,
+      "protein": 6,
+      "carbs": 38,
+      "fat": 16,
+      "sodium": 85,
+      "sugar": 28,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Tree Nut"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in fat"
+      ]
+    },
+    "four seasons milk tea (large)": {
+      "calories": 280,
+      "protein": 4,
+      "carbs": 42,
+      "fat": 8,
+      "sodium": 120,
+      "sugar": 35,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in sodium"
+      ]
+    },
+    "hazelnut milk tea (medium)": {
+      "calories": 240,
+      "protein": 4,
+      "carbs": 36,
+      "fat": 8,
+      "sodium": 100,
+      "sugar": 30,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Tree Nut"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "starter box 10": {
+      "calories": 640,
+      "protein": 12,
+      "carbs": 76,
+      "fat": 32,
+      "sodium": 170,
+      "sugar": 56,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Tree Nut"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in fat",
+        "High in calories"
+      ]
+    },
+    "plum juice (large)": {
+      "calories": 180,
+      "protein": 1,
+      "carbs": 44,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 40,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "summer passion (medium)": {
+      "calories": 160,
+      "protein": 1,
+      "carbs": 40,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 32,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "summer passion (large)": {
+      "calories": 200,
+      "protein": 1,
+      "carbs": 50,
+      "fat": 0,
+      "sodium": 25,
+      "sugar": 40,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "plum juice (medium)": {
+      "calories": 150,
+      "protein": 1,
+      "carbs": 36,
+      "fat": 0,
+      "sodium": 12,
+      "sugar": 32,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "hazelnut milk tea (large)": {
+      "calories": 300,
+      "protein": 5,
+      "carbs": 45,
+      "fat": 10,
+      "sodium": 130,
+      "sugar": 38,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Tree Nut"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "ladies gift 5": {
+      "calories": 320,
+      "protein": 6,
+      "carbs": 38,
+      "fat": 16,
+      "sodium": 85,
+      "sugar": 28,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Tree Nut"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in fat"
+      ]
+    },
+    "ladies gift 10": {
+      "calories": 640,
+      "protein": 12,
+      "carbs": 76,
+      "fat": 32,
+      "sodium": 170,
+      "sugar": 56,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Tree Nut"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in fat",
+        "High in calories"
+      ]
+    },
+    "peach four seasons tea (medium)": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 35,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 28,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "plum green tea (medium)": {
+      "calories": 120,
+      "protein": 0,
+      "carbs": 30,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 24,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Source of antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "vanilla milk tea (medium)": {
+      "calories": 240,
+      "protein": 4,
+      "carbs": 36,
+      "fat": 8,
+      "sodium": 100,
+      "sugar": 30,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "peach four seasons tea (large)": {
+      "calories": 170,
+      "protein": 0,
+      "carbs": 43,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 35,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "vanilla milk tea (large)": {
+      "calories": 300,
+      "protein": 5,
+      "carbs": 45,
+      "fat": 10,
+      "sodium": 130,
+      "sugar": 38,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "plum green tea (large)": {
+      "calories": 160,
+      "protein": 0,
+      "carbs": 40,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 32,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Source of antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "kids favourite 10": {
+      "calories": 640,
+      "protein": 12,
+      "carbs": 76,
+      "fat": 32,
+      "sodium": 170,
+      "sugar": 56,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Tree Nut"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in fat",
+        "High in calories"
+      ]
+    },
+    "mango four seasons tea (medium)": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 35,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 28,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "kids favourite 5": {
+      "calories": 320,
+      "protein": 6,
+      "carbs": 38,
+      "fat": 16,
+      "sodium": 85,
+      "sugar": 28,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Tree Nut"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in fat"
+      ]
+    },
+    "ribena roselle black tea (medium)": {
+      "calories": 120,
+      "protein": 0,
+      "carbs": 30,
+      "fat": 0,
+      "sodium": 25,
+      "sugar": 28,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants from black tea"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains roselle - not recommended for pregnant or breastfeeding women"
+      ]
+    },
+    "62 nama chocolate (medium)": {
+      "calories": 280,
+      "protein": 4,
+      "carbs": 35,
+      "fat": 12,
+      "sodium": 120,
+      "sugar": 32,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from chocolate"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "ribena roselle black tea (large)": {
+      "calories": 160,
+      "protein": 0,
+      "carbs": 40,
+      "fat": 0,
+      "sodium": 30,
+      "sugar": 38,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants from black tea"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains roselle - not recommended for pregnant or breastfeeding women"
+      ]
+    },
+    "classic 5": {
+      "calories": 520,
+      "protein": 8,
+      "carbs": 55,
+      "fat": 28,
+      "sodium": 180,
+      "sugar": 48,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Tree Nut"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "mango four seasons tea (large)": {
+      "calories": 150,
+      "protein": 0,
+      "carbs": 38,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 35,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants from tea"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "62 nama chocolate (large)": {
+      "calories": 340,
+      "protein": 5,
+      "carbs": 42,
+      "fat": 15,
+      "sodium": 140,
+      "sugar": 39,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from chocolate"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "classic 10": {
+      "calories": 1040,
+      "protein": 16,
+      "carbs": 110,
+      "fat": 56,
+      "sodium": 360,
+      "sugar": 96,
+      "fiber": 4,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Tree Nut"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "ribena green milk tea (medium)": {
+      "calories": 180,
+      "protein": 3,
+      "carbs": 32,
+      "fat": 5,
+      "sodium": 100,
+      "sugar": 29,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from green tea"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "ovaltine (medium)": {
+      "calories": 200,
+      "protein": 4,
+      "carbs": 34,
+      "fat": 5,
+      "sodium": 150,
+      "sugar": 31,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "lemon green tea (medium)": {
+      "calories": 100,
+      "protein": 0,
+      "carbs": 22,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 20,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants from green tea",
+        "Contains vitamin C from lemon"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "creamy choco 5": {
+      "calories": 540,
+      "protein": 8,
+      "carbs": 58,
+      "fat": 30,
+      "sodium": 200,
+      "sugar": 50,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "ovaltine (large)": {
+      "calories": 250,
+      "protein": 5,
+      "carbs": 42,
+      "fat": 6,
+      "sodium": 180,
+      "sugar": 39,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "ribena green milk tea (large)": {
+      "calories": 220,
+      "protein": 4,
+      "carbs": 40,
+      "fat": 6,
+      "sodium": 120,
+      "sugar": 37,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from green tea"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "lemon green tea (large)": {
+      "calories": 130,
+      "protein": 0,
+      "carbs": 28,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 26,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants from green tea",
+        "Contains vitamin C from lemon"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "creamy choco 10": {
+      "calories": 1080,
+      "protein": 16,
+      "carbs": 116,
+      "fat": 60,
+      "sodium": 400,
+      "sugar": 100,
+      "fiber": 4,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "chrysanthemum ice tea (medium)": {
+      "calories": 80,
+      "protein": 0,
+      "carbs": 20,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 18,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants from chrysanthemum"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "lychee milk tea (medium)": {
+      "calories": 200,
+      "protein": 3,
+      "carbs": 35,
+      "fat": 5,
+      "sodium": 110,
+      "sugar": 32,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from tea"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "peach green tea (medium)": {
+      "calories": 110,
+      "protein": 0,
+      "carbs": 26,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 24,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants from green tea"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "peach green tea (large)": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 32,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 30,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants from green tea"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "vanilla macaron": {
+      "calories": 104,
+      "protein": 2,
+      "carbs": 11,
+      "fat": 6,
+      "sodium": 36,
+      "sugar": 10,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "chrysanthemum ice tea (large)": {
+      "calories": 45,
+      "protein": 0,
+      "carbs": 11,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 10,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains antioxidants",
+        "Caffeine-free"
+      ],
+      "healthWarnings": []
+    },
+    "lychee milk tea (large)": {
+      "calories": 280,
+      "protein": 4,
+      "carbs": 52,
+      "fat": 5,
+      "sodium": 140,
+      "sugar": 48,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "wildflower honey seasons tea latte (medium)": {
+      "calories": 240,
+      "protein": 6,
+      "carbs": 38,
+      "fat": 5,
+      "sodium": 110,
+      "sugar": 32,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from tea"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "wildflower honey chrysanthemum tea (medium)": {
+      "calories": 120,
+      "protein": 0,
+      "carbs": 30,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 28,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains antioxidants",
+        "Caffeine-free"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "lychee black tea (medium)": {
+      "calories": 110,
+      "protein": 0,
+      "carbs": 26,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 24,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Low calorie"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "cookie & cream macaron": {
+      "calories": 180,
+      "protein": 2,
+      "carbs": 22,
+      "fat": 9,
+      "sodium": 85,
+      "sugar": 18,
+      "fiber": 0,
+      "allergens": [
+        "Tree Nut",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in fat"
+      ]
+    },
+    "milo macaron": {
+      "calories": 185,
+      "protein": 2,
+      "carbs": 23,
+      "fat": 9,
+      "sodium": 95,
+      "sugar": 19,
+      "fiber": 0,
+      "allergens": [
+        "Tree Nut",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in fat"
+      ]
+    },
+    "wildflower honey seasons tea latte (large)": {
+      "calories": 310,
+      "protein": 8,
+      "carbs": 50,
+      "fat": 7,
+      "sodium": 150,
+      "sugar": 43,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from tea"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "lychee black tea (large)": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 33,
+      "fat": 0,
+      "sodium": 25,
+      "sugar": 30,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Low calorie"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "wildflower honey chrysanthemum tea (large)": {
+      "calories": 160,
+      "protein": 0,
+      "carbs": 40,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 37,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Caffeine-free"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "strawberry rose macaron": {
+      "calories": 180,
+      "protein": 2,
+      "carbs": 22,
+      "fat": 9,
+      "sodium": 80,
+      "sugar": 19,
+      "fiber": 0,
+      "allergens": [
+        "Tree Nut",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in fat"
+      ]
+    },
+    "chrysanthemum green tea (medium)": {
+      "calories": 50,
+      "protein": 0,
+      "carbs": 12,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 10,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains antioxidants",
+        "Contains caffeine"
+      ],
+      "healthWarnings": []
+    },
+    "yakult green tea (medium)": {
+      "calories": 150,
+      "protein": 1,
+      "carbs": 35,
+      "fat": 0,
+      "sodium": 60,
+      "sugar": 32,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Contains probiotics",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "yakult green tea (large)": {
+      "calories": 200,
+      "protein": 1,
+      "carbs": 47,
+      "fat": 0,
+      "sodium": 80,
+      "sugar": 44,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Contains probiotics",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "chrysanthemum green tea (large)": {
+      "calories": 65,
+      "protein": 0,
+      "carbs": 15,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 13,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains antioxidants",
+        "Contains caffeine"
+      ],
+      "healthWarnings": []
+    },
+    "pistachio macaron": {
+      "calories": 190,
+      "protein": 3,
+      "carbs": 21,
+      "fat": 10,
+      "sodium": 90,
+      "sugar": 17,
+      "fiber": 1,
+      "allergens": [
+        "Tree Nut",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains fiber"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in sugar"
+      ]
+    },
+    "wildflower honey lemon chrysanthemum tea (medium)": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 35,
+      "fat": 0,
+      "sodium": 12,
+      "sugar": 33,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Caffeine-free"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "wildflower honey seasons tea (medium)": {
+      "calories": 110,
+      "protein": 0,
+      "carbs": 27,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 24,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in calories",
+        "Natural sweetener with honey"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "wildflower honey lemon chrysanthemum tea (large)": {
+      "calories": 180,
+      "protein": 0,
+      "carbs": 45,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 42,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Caffeine-free"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "wildflower honey seasons tea (large)": {
+      "calories": 160,
+      "protein": 0,
+      "carbs": 40,
+      "fat": 0,
+      "sodium": 30,
+      "sugar": 36,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in calories",
+        "Natural sweetener with honey"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "yuzu chrysanthemum tea (medium)": {
+      "calories": 80,
+      "protein": 0,
+      "carbs": 20,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 18,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in calories",
+        "Contains antioxidants from chrysanthemum"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "yuzu chrysanthemum tea (large)": {
+      "calories": 120,
+      "protein": 0,
+      "carbs": 30,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 27,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in calories",
+        "Contains antioxidants from chrysanthemum"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "chrysanthemum milk tea (medium)": {
+      "calories": 140,
+      "protein": 2,
+      "carbs": 22,
+      "fat": 4,
+      "sodium": 80,
+      "sugar": 18,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of calcium from milk",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains dairy"
+      ]
+    },
+    "chrysanthemum milk tea (large)": {
+      "calories": 200,
+      "protein": 3,
+      "carbs": 32,
+      "fat": 6,
+      "sodium": 110,
+      "sugar": 26,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of calcium from milk",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains dairy"
+      ]
+    },
+    "yuzu four seasons tea (medium)": {
+      "calories": 70,
+      "protein": 0,
+      "carbs": 18,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 16,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in calories",
+        "Contains fiber from aloe vera"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "yuzu four seasons tea (large)": {
+      "calories": 110,
+      "protein": 0,
+      "carbs": 27,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 24,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in calories",
+        "Contains fiber from aloe vera"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "yuzu green milk tea (medium)": {
+      "calories": 150,
+      "protein": 2,
+      "carbs": 24,
+      "fat": 4,
+      "sodium": 85,
+      "sugar": 20,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of calcium from milk",
+        "Green tea antioxidants",
+        "Contains fiber"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains dairy"
+      ]
+    },
+    "yuzu green milk tea (large)": {
+      "calories": 210,
+      "protein": 3,
+      "carbs": 34,
+      "fat": 6,
+      "sodium": 120,
+      "sugar": 29,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of calcium from milk",
+        "Green tea antioxidants",
+        "Contains fiber"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains dairy"
+      ]
+    },
+    "yuzu honey seasons tea (medium)": {
+      "calories": 100,
+      "protein": 0,
+      "carbs": 25,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 23,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains honey benefits",
+        "Contains fiber from aloe vera",
+        "Natural sweetener"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "yuzu honey seasons tea (large)": {
+      "calories": 150,
+      "protein": 0,
+      "carbs": 37,
+      "fat": 0,
+      "sodium": 30,
+      "sugar": 34,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains honey benefits",
+        "Contains fiber from aloe vera",
+        "Natural sweetener"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "lychee passion green tea (medium)": {
+      "calories": 110,
+      "protein": 0,
+      "carbs": 27,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 24,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in fat",
+        "Green tea antioxidants",
+        "Natural fruit flavors"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "lychee passion green tea (large)": {
+      "calories": 160,
+      "protein": 0,
+      "carbs": 40,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 36,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in fat",
+        "Green tea antioxidants",
+        "Natural fruit flavors"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "lychee passion black tea (medium)": {
+      "calories": 110,
+      "protein": 0,
+      "carbs": 27,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 24,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in fat",
+        "Black tea antioxidants",
+        "Natural fruit flavors"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "lychee passion black tea (large)": {
+      "calories": 160,
+      "protein": 0,
+      "carbs": 40,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 36,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in fat",
+        "Black tea antioxidants",
+        "Natural fruit flavors"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "wildflower honey milk tea (medium)": {
+      "calories": 160,
+      "protein": 2,
+      "carbs": 28,
+      "fat": 4,
+      "sodium": 90,
+      "sugar": 24,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of calcium from milk",
+        "Natural sweetener with honey"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains dairy"
+      ]
+    },
+    "wildflower honey milk tea (large)": {
+      "calories": 230,
+      "protein": 3,
+      "carbs": 41,
+      "fat": 6,
+      "sodium": 130,
+      "sugar": 35,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of calcium from milk",
+        "Natural sweetener with honey"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains dairy"
+      ]
+    },
+    "wildflower honey seasons milk tea (medium)": {
+      "calories": 160,
+      "protein": 2,
+      "carbs": 28,
+      "fat": 4,
+      "sodium": 90,
+      "sugar": 24,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of calcium from milk",
+        "Natural sweetener with honey"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains dairy"
+      ]
+    },
+    "wildflower honey seasons milk tea (large)": {
+      "calories": 230,
+      "protein": 3,
+      "carbs": 41,
+      "fat": 6,
+      "sodium": 130,
+      "sugar": 35,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of calcium from milk",
+        "Natural sweetener with honey"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains dairy"
+      ]
+    },
+    "low fat milk tea (medium)": {
+      "calories": 160,
+      "protein": 4,
+      "carbs": 28,
+      "fat": 2.5,
+      "sodium": 95,
+      "sugar": 20,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Lower fat than regular milk tea",
+        "Contains antioxidants from tea"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "low fat milk tea (large)": {
+      "calories": 210,
+      "protein": 5,
+      "carbs": 38,
+      "fat": 3.5,
+      "sodium": 125,
+      "sugar": 27,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Lower fat than regular milk tea",
+        "Contains antioxidants from tea"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "low fat hazelnut milk tea (medium)": {
+      "calories": 190,
+      "protein": 4,
+      "carbs": 32,
+      "fat": 3,
+      "sodium": 100,
+      "sugar": 24,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Lower fat than regular milk tea",
+        "Contains antioxidants from tea"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "low fat hazelnut milk tea (large)": {
+      "calories": 250,
+      "protein": 5,
+      "carbs": 43,
+      "fat": 4,
+      "sodium": 130,
+      "sugar": 32,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Lower fat than regular milk tea",
+        "Contains antioxidants from tea"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "low fat vanila milk tea (medium)": {
+      "calories": 185,
+      "protein": 4,
+      "carbs": 31,
+      "fat": 2.8,
+      "sodium": 98,
+      "sugar": 23,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Lower fat than regular milk tea",
+        "Contains antioxidants from tea"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "low fat vanila milk tea (large)": {
+      "calories": 245,
+      "protein": 5,
+      "carbs": 41,
+      "fat": 3.8,
+      "sodium": 128,
+      "sugar": 31,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Lower fat than regular milk tea",
+        "Contains antioxidants from tea"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "low fat lychee milk tea (medium)": {
+      "calories": 190,
+      "protein": 4,
+      "carbs": 33,
+      "fat": 2.8,
+      "sodium": 100,
+      "sugar": 25,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Lower fat than regular milk tea",
+        "Contains antioxidants from tea",
+        "Lychee contains vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "low fat lychee milk tea (large)": {
+      "calories": 250,
+      "protein": 5,
+      "carbs": 44,
+      "fat": 3.8,
+      "sodium": 130,
+      "sugar": 33,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Lower fat than regular milk tea",
+        "Contains antioxidants from tea",
+        "Lychee contains vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "low fat peach four seasons milk tea (medium)": {
+      "calories": 190,
+      "protein": 4,
+      "carbs": 33,
+      "fat": 2.8,
+      "sodium": 102,
+      "sugar": 25,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Lower fat than regular milk tea",
+        "Contains antioxidants from tea",
+        "Peach contains vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "low fat peach four seasons milk tea (large)": {
+      "calories": 250,
+      "protein": 5,
+      "carbs": 44,
+      "fat": 3.8,
+      "sodium": 132,
+      "sugar": 33,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Lower fat than regular milk tea",
+        "Contains antioxidants from tea",
+        "Peach contains vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "mango seasons milk tea (medium)": {
+      "calories": 210,
+      "protein": 4,
+      "carbs": 36,
+      "fat": 3,
+      "sodium": 105,
+      "sugar": 28,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from tea",
+        "Mango contains vitamin A and C"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "peach four seasons milk tea (medium)": {
+      "calories": 210,
+      "protein": 4,
+      "carbs": 36,
+      "fat": 3.5,
+      "sodium": 107,
+      "sugar": 28,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from tea",
+        "Peach contains vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    }
+  }
+}

@@ -53,8 +53,8 @@ export function RecommendationsCard({ items, cdnUrls = {} }: Props) {
                       className="h-full w-full object-cover"
                     />
                   ) : (
-                    <div className="flex h-full w-full items-center justify-center text-xs text-gray-400">
-                      Img
+                    <div className="flex h-full w-full items-center justify-center bg-amber-50 text-lg">
+                      🍽
                     </div>
                   )}
                 </div>

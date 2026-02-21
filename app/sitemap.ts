@@ -1,5 +1,5 @@
 import { MetadataRoute } from "next";
-import { fetchAllBrands } from "@/lib/google-sheets";
+import { fetchAllBrandsWithLocationsSupabase } from "@/lib/supabase-menu";
 
 const BASE_URL = "https://bestfoodwhere.sg";
 
@@ -55,10 +55,10 @@ function toSlug(input: string): string {
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const now = new Date();
 
-  // Fetch all brands from Google Sheets
-  let brands: Awaited<ReturnType<typeof fetchAllBrands>> = [];
+  // Fetch all brands from Supabase
+  let brands: Awaited<ReturnType<typeof fetchAllBrandsWithLocationsSupabase>> = [];
   try {
-    brands = await fetchAllBrands();
+    brands = await fetchAllBrandsWithLocationsSupabase();
   } catch (error) {
     console.error("Failed to fetch brands for sitemap:", error);
   }

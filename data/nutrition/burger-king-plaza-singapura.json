@@ -1,0 +1,124 @@
+{
+  "brand": "burger-king-plaza-singapura",
+  "generatedAt": "2026-02-16T13:59:59.026Z",
+  "items": {
+    "sweets": {
+      "calories": 320,
+      "protein": 4,
+      "carbs": 42,
+      "fat": 15,
+      "sodium": 280,
+      "sugar": 28,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "beverages": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 35,
+      "fat": 0,
+      "sodium": 75,
+      "sugar": 32,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "breakfast platter": {
+      "calories": 850,
+      "protein": 28,
+      "carbs": 68,
+      "fat": 48,
+      "sodium": 1620,
+      "sugar": 12,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "breakfast croissan'wich": {
+      "calories": 420,
+      "protein": 18,
+      "carbs": 32,
+      "fat": 26,
+      "sodium": 890,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "ultimate selections": {
+      "calories": 720,
+      "protein": 38,
+      "carbs": 55,
+      "fat": 40,
+      "sodium": 1480,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "sides": {
+      "calories": 380,
+      "protein": 5,
+      "carbs": 44,
+      "fat": 20,
+      "sodium": 620,
+      "sugar": 0,
+      "fiber": 4,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of fiber"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    }
+  }
+}

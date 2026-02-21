@@ -1,0 +1,54 @@
+{
+  "brand": "llaollao-imm",
+  "generatedAt": "2026-02-21T10:55:52.859Z",
+  "items": {
+    "single llaobox": {
+      "calories": 320,
+      "protein": 8,
+      "carbs": 48,
+      "fat": 9,
+      "sodium": 85,
+      "sugar": 38,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Tree Nut",
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of probiotics",
+        "Contains fruit nutrients"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "double llaobox": {
+      "calories": 520,
+      "protein": 12,
+      "carbs": 78,
+      "fat": 16,
+      "sodium": 140,
+      "sugar": 62,
+      "fiber": 3,
+      "allergens": [
+        "Dairy",
+        "Tree Nut",
+        "Gluten",
+        "Sesame",
+        "Peanut"
+      ],
+      "healthBenefits": [
+        "Good source of probiotics",
+        "Contains fruit nutrients"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories",
+        "High in fat"
+      ]
+    }
+  }
+}

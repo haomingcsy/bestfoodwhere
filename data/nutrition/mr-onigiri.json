@@ -1,0 +1,30 @@
+{
+  "brand": "mr-onigiri",
+  "generatedAt": "2026-02-21T11:01:22.923Z",
+  "items": {
+    "mr.onigiri party box set": {
+      "calories": 680,
+      "protein": 18,
+      "carbs": 112,
+      "fat": 12,
+      "sodium": 1240,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of carbohydrates",
+        "Contains protein",
+        "Low in added sugar"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in calories"
+      ]
+    }
+  }
+}

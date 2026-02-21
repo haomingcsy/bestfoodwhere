@@ -10,7 +10,7 @@ import type {
 import { getMenuSlugsForSync } from "./menu-registry";
 
 const SHOPPING_MALL_SPREADSHEET_ID =
-  "1_cYc73Tsni6Sqtb1OX61TjoWwFtVx5BcXnsYFo1bZBM";
+  "198QKXG3B3StIEXYui17o1SmIEcpi1OsUbZGpaVFekhw";
 const DEFAULT_REVALIDATE_SECONDS =
   process.env.NODE_ENV === "development" ? 0 : 300;
 

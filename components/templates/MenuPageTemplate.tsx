@@ -1,3 +1,7 @@
+"use client";
+
+import { useState, useMemo, useEffect } from "react";
+import { usePathname, useSearchParams } from "next/navigation";
 import type { BrandData, LocationInfo } from "@/types/brand";
 import { AmenitiesGrid } from "@/components/sections/menu/AmenitiesGrid";
 import { DescriptionSection } from "@/components/sections/menu/DescriptionSection";
@@ -17,25 +21,40 @@ export interface MenuPageTemplateProps {
   brandData: BrandData;
   initialLocation?: string;
   cdnUrls?: Record<string, string>;
+  dbReviews?: Array<{
+    author: string;
+    authorPhotoUrl?: string;
+    authorProfileUrl?: string;
+    rating: number;
+    date: string;
+    content: string;
+    publishTime?: string;
+  }>;
+  dbRating?: number;
+  dbReviewCount?: number;
+  nutritionData?: Record<string, Record<string, unknown>>;
 }
 
-function pickRandomMenuItems(menu: BrandData["menu"], count: number) {
-  const pool = menu.flatMap((category) =>
-    category.items.map((item) => ({
-      name: item.name,
-      imageUrl: item.imageUrl,
-    })),
-  );
+// Words that indicate scraped navigation links rather than food items
+const NAV_JUNK_PATTERN =
+  /^(home|about(\s+us)?|contact(\s+us)?|career|careers|outlet|outlets|menu|faq|login|sign\s*(up|in)|privacy|terms|blog|news|franchise)$/i;
+
+function pickMenuItems(menu: BrandData["menu"], count: number) {
+  const pool = menu
+    .flatMap((category) =>
+      category.items.map((item) => ({
+        name: item.name,
+        imageUrl: item.imageUrl,
+      })),
+    )
+    .filter((item) => !NAV_JUNK_PATTERN.test(item.name.trim()));
   if (pool.length === 0) return [];
 
+  // Spread picks across categories for variety (deterministic — no Math.random)
   const selected: string[] = [];
-  const used = new Set<number>();
-
-  while (selected.length < Math.min(count, pool.length)) {
-    const index = Math.floor(Math.random() * pool.length);
-    if (used.has(index)) continue;
-    used.add(index);
-    const entry = pool[index];
+  const step = Math.max(1, Math.floor(pool.length / count));
+  for (let i = 0; selected.length < count && i < pool.length; i += step) {
+    const entry = pool[i];
     selected.push(
       entry.imageUrl ? `${entry.name} - ${entry.imageUrl}` : entry.name,
     );
@@ -64,23 +83,67 @@ export function MenuPageTemplate({
   brandData,
   initialLocation,
   cdnUrls = {},
+  dbReviews,
+  dbRating,
+  dbReviewCount,
+  nutritionData,
 }: MenuPageTemplateProps) {
-  const location = pickLocation(brandData, initialLocation);
-  const locationSlug = location?.slug ?? undefined;
-  const description = location?.description || brandData.description;
-  const amenities = location?.amenities?.length
-    ? location.amenities
-    : brandData.amenities;
-  const descriptionMissing =
-    location?.descriptionMissing ?? brandData.descriptionMissing ?? false;
-  const amenitiesMissing =
-    location?.amenitiesMissing ?? brandData.amenitiesMissing ?? false;
-  const recommendations = pickRandomMenuItems(brandData.menu, 3);
+  const pathname = usePathname();
+  const searchParams = useSearchParams();
+
+  const [locationSlug, setLocationSlug] = useState(
+    () =>
+      pickLocation(brandData, initialLocation)?.slug ??
+      brandData.locations[0]?.slug,
+  );
+
+  // Sync URL with default location on initial mount if no location param present
+  useEffect(() => {
+    if (!searchParams.get("location") && locationSlug) {
+      const next = new URLSearchParams(searchParams.toString());
+      next.set("location", locationSlug);
+      window.history.replaceState(null, "", `${pathname}?${next.toString()}`);
+    }
+  }, []); // eslint-disable-line react-hooks/exhaustive-deps
+
+  const location = useMemo(
+    () => pickLocation(brandData, locationSlug),
+    [brandData, locationSlug],
+  );
+
+  const description = useMemo(
+    () => location?.description || brandData.description,
+    [location, brandData.description],
+  );
+  const amenities = useMemo(
+    () =>
+      location?.amenities?.length ? location.amenities : brandData.amenities,
+    [location, brandData.amenities],
+  );
+  const descriptionMissing = useMemo(
+    () => location?.descriptionMissing ?? brandData.descriptionMissing ?? false,
+    [location, brandData.descriptionMissing],
+  );
+  const amenitiesMissing = useMemo(
+    () => location?.amenitiesMissing ?? brandData.amenitiesMissing ?? false,
+    [location, brandData.amenitiesMissing],
+  );
+  const recommendations = useMemo(() => {
+    const recs = brandData.recommendations;
+    // If manual recommendations have image URLs, use them
+    const hasImages = recs.some((r) => /https?:\/\//.test(r));
+    if (recs.length > 0 && hasImages) return recs.slice(0, 3);
+    // Prefer menu items with real images over text-only AI recommendations
+    const menuPicks = pickMenuItems(brandData.menu, 3);
+    if (menuPicks.length > 0) return menuPicks;
+    // Fall back to text-only recommendations
+    return recs.slice(0, 3);
+  }, [brandData.recommendations, brandData.menu]);
 
   const MAIN_SECTIONS = [
     {
       key: "description",
-      enabled: Boolean(description) || descriptionMissing,
+      enabled: Boolean(description),
       render: () => (
         <DescriptionSection
           description={description ?? ""}
@@ -90,7 +153,7 @@ export function MenuPageTemplate({
     },
     {
       key: "amenitiesFeatures",
-      enabled: amenities.length > 0 || amenitiesMissing,
+      enabled: amenities.length > 0,
       render: () => (
         <AmenitiesGrid amenities={amenities} isMissing={amenitiesMissing} />
       ),
@@ -99,7 +162,28 @@ export function MenuPageTemplate({
       key: "foodMenu",
       enabled: brandData.menu.length > 0,
       render: () => (
-        <MenuAccordion categories={brandData.menu} cdnUrls={cdnUrls} />
+        <MenuAccordion categories={brandData.menu} cdnUrls={cdnUrls} nutritionData={nutritionData as never} />
+      ),
+    },
+    {
+      key: "mobileOpeningHours",
+      enabled: Boolean(location?.openingHours),
+      render: () => (
+        <div className="lg:hidden">
+          <OpeningHoursCard openingHours={location?.openingHours ?? ""} />
+        </div>
+      ),
+    },
+    {
+      key: "mobileCoupons",
+      enabled: (brandData.coupons ?? []).length > 0,
+      render: () => (
+        <div className="lg:hidden">
+          <ExclusiveCoupons
+            brandName={brandData.name}
+            coupons={brandData.coupons ?? []}
+          />
+        </div>
       ),
     },
     {
@@ -119,7 +203,9 @@ export function MenuPageTemplate({
     },
     {
       key: "googleReviews",
-      enabled: brandData.reviews.length > 0,
+      enabled:
+        brandData.reviews.length > 0 ||
+        (dbReviews != null && dbReviews.length > 0),
       render: () => (
         <GoogleReviews
           brandName={brandData.name}
@@ -131,16 +217,19 @@ export function MenuPageTemplate({
                 ) ?? brandData.reviews[0])
               : brandData.reviews[0]
           }
+          dbReviews={dbReviews}
+          dbRating={dbRating}
+          dbReviewCount={dbReviewCount}
         />
       ),
     },
     {
-      key: "moreBakeries",
+      key: "moreRestaurants",
       enabled: Boolean(locationSlug),
       render: () => (
         <RelatedBrands
           items={(locationSlug && brandData.relatedBrands[locationSlug]) || []}
-          title={`More bakeries in ${location?.name ?? "this mall"} you might like`}
+          title={`More in ${location?.name ?? "this mall"}`}
           cdnUrls={cdnUrls}
         />
       ),
@@ -160,6 +249,7 @@ export function MenuPageTemplate({
                 location={location}
                 initialLocation={locationSlug}
                 cdnUrls={cdnUrls}
+                onLocationChange={setLocationSlug}
               />
             </div>
             {MAIN_SECTIONS.map((section) => (
@@ -175,13 +265,22 @@ export function MenuPageTemplate({
               location={location}
               initialLocation={locationSlug}
               cdnUrls={cdnUrls}
+              onLocationChange={setLocationSlug}
             />
           </div>
-          <OpeningHoursCard openingHours={location?.openingHours ?? ""} />
-          <ExclusiveCoupons
-            brandName={brandData.name}
-            coupons={brandData.coupons ?? []}
-          />
+          {location?.openingHours && (
+            <div className="hidden lg:block">
+              <OpeningHoursCard openingHours={location.openingHours} />
+            </div>
+          )}
+          {(brandData.coupons ?? []).length > 0 && (
+            <div className="hidden lg:block">
+              <ExclusiveCoupons
+                brandName={brandData.name}
+                coupons={brandData.coupons ?? []}
+              />
+            </div>
+          )}
           <RecommendationsCard items={recommendations} cdnUrls={cdnUrls} />
           <PromotionsCarousel
             promotions={brandData.promotions}

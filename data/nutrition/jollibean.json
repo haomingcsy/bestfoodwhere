@@ -1,0 +1,1172 @@
+{
+  "brand": "jollibean",
+  "generatedAt": "2026-02-21T10:36:03.971Z",
+  "items": {
+    "beancurd almond soy": {
+      "calories": 180,
+      "protein": 8,
+      "carbs": 18,
+      "fat": 8,
+      "sodium": 320,
+      "sugar": 12,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains calcium",
+        "Low in calories"
+      ],
+      "healthWarnings": [
+        "Moderate sodium content"
+      ]
+    },
+    "double cheese maru": {
+      "calories": 320,
+      "protein": 9,
+      "carbs": 42,
+      "fat": 13,
+      "sodium": 480,
+      "sugar": 18,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "jolli soy waffles": {
+      "calories": 280,
+      "protein": 7,
+      "carbs": 38,
+      "fat": 10,
+      "sodium": 350,
+      "sugar": 16,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains plant-based protein"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in carbohydrates"
+      ]
+    },
+    "(btl) papaya snow fungus": {
+      "calories": 120,
+      "protein": 2,
+      "carbs": 28,
+      "fat": 0,
+      "sodium": 80,
+      "sugar": 22,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in fat",
+        "Good source of fiber",
+        "Natural antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "hazelnut peanut mck": {
+      "calories": 340,
+      "protein": 10,
+      "carbs": 40,
+      "fat": 15,
+      "sodium": 500,
+      "sugar": 20,
+      "fiber": 2,
+      "allergens": [
+        "Peanut",
+        "Tree Nut",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains healthy fats"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "beancurd ginger juice": {
+      "calories": 160,
+      "protein": 7,
+      "carbs": 16,
+      "fat": 7,
+      "sodium": 280,
+      "sugar": 10,
+      "fiber": 2,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains ginger for digestion",
+        "Low in calories"
+      ],
+      "healthWarnings": [
+        "Moderate sodium content"
+      ]
+    },
+    "sandwich egg": {
+      "calories": 240,
+      "protein": 10,
+      "carbs": 28,
+      "fat": 10,
+      "sodium": 420,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "(btl) red bean matcha": {
+      "calories": 140,
+      "protein": 3,
+      "carbs": 30,
+      "fat": 1,
+      "sodium": 90,
+      "sugar": 24,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants from matcha",
+        "Good source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "maru chocolate fudge": {
+      "calories": 380,
+      "protein": 8,
+      "carbs": 45,
+      "fat": 18,
+      "sodium": 520,
+      "sugar": 28,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Gluten",
+        "Egg",
+        "Tree Nut"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "(btl) red dates longan": {
+      "calories": 130,
+      "protein": 1,
+      "carbs": 32,
+      "fat": 0,
+      "sodium": 70,
+      "sugar": 25,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Natural iron content",
+        "Good for energy"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "sandwich": {
+      "calories": 200,
+      "protein": 8,
+      "carbs": 26,
+      "fat": 8,
+      "sodium": 380,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "beancurd grass jelly": {
+      "calories": 140,
+      "protein": 7,
+      "carbs": 14,
+      "fat": 6,
+      "sodium": 260,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Low in calories",
+        "Contains fiber"
+      ],
+      "healthWarnings": [
+        "Moderate sodium content"
+      ]
+    },
+    "dynasty duck": {
+      "calories": 380,
+      "protein": 28,
+      "carbs": 18,
+      "fat": 22,
+      "sodium": 680,
+      "sugar": 4,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "beancurd soy": {
+      "calories": 150,
+      "protein": 8,
+      "carbs": 12,
+      "fat": 7,
+      "sodium": 240,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains calcium",
+        "Low in calories"
+      ],
+      "healthWarnings": []
+    },
+    "almond soy": {
+      "calories": 170,
+      "protein": 7,
+      "carbs": 16,
+      "fat": 8,
+      "sodium": 300,
+      "sugar": 11,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains healthy fats"
+      ],
+      "healthWarnings": [
+        "Moderate sodium content"
+      ]
+    },
+    "maru pandan kaya": {
+      "calories": 350,
+      "protein": 8,
+      "carbs": 44,
+      "fat": 16,
+      "sodium": 510,
+      "sugar": 22,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "ham & egg": {
+      "calories": 260,
+      "protein": 14,
+      "carbs": 26,
+      "fat": 12,
+      "sodium": 520,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "maru peanut": {
+      "calories": 360,
+      "protein": 11,
+      "carbs": 42,
+      "fat": 16,
+      "sodium": 490,
+      "sugar": 20,
+      "fiber": 2,
+      "allergens": [
+        "Peanut",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in sodium"
+      ]
+    },
+    "beancurd soy & 4 rice balls": {
+      "calories": 280,
+      "protein": 12,
+      "carbs": 35,
+      "fat": 10,
+      "sodium": 420,
+      "sugar": 14,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains carbohydrates for energy"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "birds nest flavoured": {
+      "calories": 110,
+      "protein": 1,
+      "carbs": 26,
+      "fat": 0,
+      "sodium": 100,
+      "sugar": 20,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in fat",
+        "Natural ingredients"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Low in protein"
+      ]
+    },
+    "brown sugar beancured": {
+      "calories": 180,
+      "protein": 8,
+      "carbs": 28,
+      "fat": 4,
+      "sodium": 120,
+      "sugar": 18,
+      "fiber": 2,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains probiotics"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "black peral soy tea": {
+      "calories": 220,
+      "protein": 7,
+      "carbs": 32,
+      "fat": 5,
+      "sodium": 140,
+      "sugar": 22,
+      "fiber": 1,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in sodium"
+      ]
+    },
+    "kimchi & cheese": {
+      "calories": 240,
+      "protein": 12,
+      "carbs": 18,
+      "fat": 14,
+      "sodium": 680,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains probiotics"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in fat"
+      ]
+    },
+    "maru red bean": {
+      "calories": 310,
+      "protein": 8,
+      "carbs": 48,
+      "fat": 7,
+      "sodium": 280,
+      "sugar": 16,
+      "fiber": 4,
+      "allergens": [
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "High in antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Moderate sodium"
+      ]
+    },
+    "mck brown coconut": {
+      "calories": 320,
+      "protein": 7,
+      "carbs": 45,
+      "fat": 12,
+      "sodium": 240,
+      "sugar": 14,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Tree Nut",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of fiber"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sugar"
+      ]
+    },
+    "teriyaki chicken": {
+      "calories": 280,
+      "protein": 24,
+      "carbs": 20,
+      "fat": 12,
+      "sodium": 720,
+      "sugar": 8,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in sugar"
+      ]
+    },
+    "brown sugar peral soy": {
+      "calories": 230,
+      "protein": 7,
+      "carbs": 35,
+      "fat": 5,
+      "sodium": 130,
+      "sugar": 26,
+      "fiber": 1,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Contains calcium"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in sodium"
+      ]
+    },
+    "pudding almond soy": {
+      "calories": 200,
+      "protein": 9,
+      "carbs": 26,
+      "fat": 6,
+      "sodium": 140,
+      "sugar": 16,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vitamin E"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in sodium"
+      ]
+    },
+    "chewy pearls classic soy milk": {
+      "calories": 240,
+      "protein": 8,
+      "carbs": 36,
+      "fat": 5,
+      "sodium": 150,
+      "sugar": 24,
+      "fiber": 1,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains iron"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in sodium"
+      ]
+    },
+    "pudding classic soy": {
+      "calories": 170,
+      "protein": 8,
+      "carbs": 24,
+      "fat": 4,
+      "sodium": 120,
+      "sugar": 14,
+      "fiber": 2,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "mck peanut": {
+      "calories": 340,
+      "protein": 10,
+      "carbs": 44,
+      "fat": 14,
+      "sodium": 320,
+      "sugar": 12,
+      "fiber": 4,
+      "allergens": [
+        "Soy",
+        "Peanut",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "Moderate sodium"
+      ]
+    },
+    "chocolate soy": {
+      "calories": 210,
+      "protein": 8,
+      "carbs": 30,
+      "fat": 6,
+      "sodium": 140,
+      "sugar": 20,
+      "fiber": 1,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in sodium"
+      ]
+    },
+    "mck peanut & red bean": {
+      "calories": 360,
+      "protein": 11,
+      "carbs": 48,
+      "fat": 14,
+      "sodium": 340,
+      "sugar": 14,
+      "fiber": 5,
+      "allergens": [
+        "Soy",
+        "Peanut",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "Moderate sodium"
+      ]
+    },
+    "mck red bean": {
+      "calories": 300,
+      "protein": 8,
+      "carbs": 46,
+      "fat": 8,
+      "sodium": 260,
+      "sugar": 14,
+      "fiber": 4,
+      "allergens": [
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "High in antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Moderate sodium"
+      ]
+    },
+    "mini mck - peanut": {
+      "calories": 180,
+      "protein": 6,
+      "carbs": 24,
+      "fat": 7,
+      "sodium": 170,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Peanut",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Smaller portion"
+      ],
+      "healthWarnings": [
+        "Moderate sodium"
+      ]
+    },
+    "coffee soy": {
+      "calories": 190,
+      "protein": 8,
+      "carbs": 26,
+      "fat": 5,
+      "sodium": 135,
+      "sugar": 16,
+      "fiber": 1,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains caffeine"
+      ]
+    },
+    "mini mck - chocolate coco crunch": {
+      "calories": 190,
+      "protein": 5,
+      "carbs": 26,
+      "fat": 8,
+      "sodium": 160,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Tree Nut",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Smaller portion",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "Moderate sodium"
+      ]
+    },
+    "ginger soy": {
+      "calories": 160,
+      "protein": 8,
+      "carbs": 22,
+      "fat": 4,
+      "sodium": 130,
+      "sugar": 12,
+      "fiber": 1,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Anti-inflammatory"
+      ],
+      "healthWarnings": [
+        "Moderate sugar"
+      ]
+    },
+    "grass jelly drink": {
+      "calories": 140,
+      "protein": 1,
+      "carbs": 32,
+      "fat": 0,
+      "sodium": 80,
+      "sugar": 24,
+      "fiber": 3,
+      "allergens": [],
+      "healthBenefits": [
+        "Low fat",
+        "Contains fiber"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "mini mck - oreo cream cheese": {
+      "calories": 280,
+      "protein": 6,
+      "carbs": 38,
+      "fat": 12,
+      "sodium": 280,
+      "sugar": 18,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "gula melaka soy": {
+      "calories": 180,
+      "protein": 6,
+      "carbs": 28,
+      "fat": 4,
+      "sodium": 120,
+      "sugar": 22,
+      "fiber": 1,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains soy"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "mini mck - lotus biscoff crunchy": {
+      "calories": 290,
+      "protein": 5,
+      "carbs": 40,
+      "fat": 13,
+      "sodium": 300,
+      "sugar": 20,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Gluten",
+        "Egg",
+        "Sesame"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "matcha soy": {
+      "calories": 150,
+      "protein": 6,
+      "carbs": 20,
+      "fat": 4,
+      "sodium": 110,
+      "sugar": 14,
+      "fiber": 1,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "mini roll 2 mix (peanut/red bean)": {
+      "calories": 240,
+      "protein": 7,
+      "carbs": 32,
+      "fat": 10,
+      "sodium": 220,
+      "sugar": 14,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Peanut",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains fiber"
+      ],
+      "healthWarnings": [
+        "Contains peanuts",
+        "Moderate sugar"
+      ]
+    },
+    "mini roll 3 mix (peanut/red bean/cheese)": {
+      "calories": 260,
+      "protein": 8,
+      "carbs": 33,
+      "fat": 12,
+      "sodium": 280,
+      "sugar": 15,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Peanut",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains fiber"
+      ],
+      "healthWarnings": [
+        "Contains peanuts",
+        "High in saturated fat"
+      ]
+    },
+    "mini roll cheese": {
+      "calories": 220,
+      "protein": 7,
+      "carbs": 30,
+      "fat": 9,
+      "sodium": 260,
+      "sugar": 12,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "soyfreeze azuki red bean": {
+      "calories": 200,
+      "protein": 6,
+      "carbs": 32,
+      "fat": 4,
+      "sodium": 100,
+      "sugar": 24,
+      "fiber": 3,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Good source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "soyfreeze coffee": {
+      "calories": 160,
+      "protein": 6,
+      "carbs": 22,
+      "fat": 4,
+      "sodium": 90,
+      "sugar": 16,
+      "fiber": 1,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains caffeine"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "mini roll peanut": {
+      "calories": 230,
+      "protein": 8,
+      "carbs": 28,
+      "fat": 11,
+      "sodium": 200,
+      "sugar": 10,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Peanut",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains fiber"
+      ],
+      "healthWarnings": [
+        "Contains peanuts",
+        "High in fat"
+      ]
+    },
+    "mini roll red bean": {
+      "calories": 210,
+      "protein": 6,
+      "carbs": 31,
+      "fat": 8,
+      "sodium": 180,
+      "sugar": 13,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Moderate protein"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "soyfreeze dark chocolate": {
+      "calories": 210,
+      "protein": 6,
+      "carbs": 28,
+      "fat": 8,
+      "sodium": 110,
+      "sugar": 20,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains tree nuts"
+      ]
+    },
+    "soyfreeze jspecial": {
+      "calories": 190,
+      "protein": 6,
+      "carbs": 26,
+      "fat": 6,
+      "sodium": 95,
+      "sugar": 18,
+      "fiber": 2,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains fiber"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "stay crisp hazelnut": {
+      "calories": 300,
+      "protein": 7,
+      "carbs": 35,
+      "fat": 15,
+      "sodium": 320,
+      "sugar": 19,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Tree Nut",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "Contains tree nuts"
+      ]
+    },
+    "stay crisp peanut": {
+      "calories": 310,
+      "protein": 8,
+      "carbs": 36,
+      "fat": 16,
+      "sodium": 300,
+      "sugar": 18,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Peanut",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains fiber"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "Contains peanuts"
+      ]
+    },
+    "stay crisp red bean": {
+      "calories": 290,
+      "protein": 7,
+      "carbs": 37,
+      "fat": 14,
+      "sodium": 280,
+      "sugar": 17,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains fiber"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "zero sugar classic soy": {
+      "calories": 70,
+      "protein": 6,
+      "carbs": 4,
+      "fat": 3,
+      "sodium": 120,
+      "sugar": 0,
+      "fiber": 1,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Low sugar",
+        "Low calorie"
+      ],
+      "healthWarnings": []
+    },
+    "soyfreeze matcha": {
+      "calories": 170,
+      "protein": 6,
+      "carbs": 24,
+      "fat": 4,
+      "sodium": 100,
+      "sugar": 17,
+      "fiber": 1,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "soyfreeze mocha": {
+      "calories": 180,
+      "protein": 6,
+      "carbs": 26,
+      "fat": 5,
+      "sodium": 110,
+      "sugar": 19,
+      "fiber": 1,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains caffeine"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    }
+  }
+}

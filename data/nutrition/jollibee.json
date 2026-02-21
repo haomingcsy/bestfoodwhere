@@ -1,0 +1,1628 @@
+{
+  "brand": "jollibee",
+  "generatedAt": "2026-02-16T15:43:17.848Z",
+  "items": {
+    "vm 2pcs burger steak": {
+      "calories": 680,
+      "protein": 28,
+      "carbs": 72,
+      "fat": 28,
+      "sodium": 1240,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "peach mango pie": {
+      "calories": 280,
+      "protein": 3,
+      "carbs": 38,
+      "fat": 12,
+      "sodium": 180,
+      "sugar": 18,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "coca-cola less sugar can": {
+      "calories": 35,
+      "protein": 0,
+      "carbs": 9,
+      "fat": 0,
+      "sodium": 35,
+      "sugar": 9,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Lower sugar alternative"
+      ],
+      "healthWarnings": [
+        "Contains artificial sweeteners"
+      ]
+    },
+    "3pcs chicken tenders": {
+      "calories": 420,
+      "protein": 24,
+      "carbs": 28,
+      "fat": 22,
+      "sodium": 680,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "prosperity set": {
+      "calories": 1240,
+      "protein": 48,
+      "carbs": 128,
+      "fat": 52,
+      "sodium": 2180,
+      "sugar": 32,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy",
+        "Egg",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories",
+        "High in sugar"
+      ]
+    },
+    "saver meal for 2": {
+      "calories": 1680,
+      "protein": 64,
+      "carbs": 168,
+      "fat": 68,
+      "sodium": 2840,
+      "sugar": 24,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "cheesy yumburger": {
+      "calories": 380,
+      "protein": 16,
+      "carbs": 34,
+      "fat": 18,
+      "sodium": 720,
+      "sugar": 6,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "1pc chickenjoy only": {
+      "calories": 320,
+      "protein": 22,
+      "carbs": 12,
+      "fat": 18,
+      "sodium": 560,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Low carb"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "buttered corn": {
+      "calories": 140,
+      "protein": 3,
+      "carbs": 18,
+      "fat": 6,
+      "sodium": 240,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains vitamins"
+      ],
+      "healthWarnings": [
+        "Moderate sodium content"
+      ]
+    },
+    "jolly spaghetti": {
+      "calories": 420,
+      "protein": 14,
+      "carbs": 52,
+      "fat": 16,
+      "sodium": 1080,
+      "sugar": 12,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium",
+        "High in carbs",
+        "High in sugar"
+      ]
+    },
+    "spicy spaghetti": {
+      "calories": 440,
+      "protein": 14,
+      "carbs": 54,
+      "fat": 18,
+      "sodium": 1240,
+      "sugar": 14,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium",
+        "High in carbs",
+        "High in sugar"
+      ]
+    },
+    "1pc spicy chickenjoy only": {
+      "calories": 340,
+      "protein": 22,
+      "carbs": 14,
+      "fat": 20,
+      "sodium": 640,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Low carb"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "mashed potato": {
+      "calories": 160,
+      "protein": 3,
+      "carbs": 20,
+      "fat": 7,
+      "sodium": 380,
+      "sugar": 1,
+      "fiber": 2,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains potassium"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "cola-cola zero sugar can": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 50,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Zero sugar",
+        "Zero calories"
+      ],
+      "healthWarnings": [
+        "Contains artificial sweeteners"
+      ]
+    },
+    "fun for one meal a": {
+      "calories": 1140,
+      "protein": 44,
+      "carbs": 116,
+      "fat": 48,
+      "sodium": 1960,
+      "sugar": 38,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories",
+        "High in sugar"
+      ]
+    },
+    "double happiness bundle": {
+      "calories": 1820,
+      "protein": 72,
+      "carbs": 172,
+      "fat": 76,
+      "sodium": 3120,
+      "sugar": 48,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy",
+        "Egg",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories",
+        "High in sugar"
+      ]
+    },
+    "5pcs chicken tenders": {
+      "calories": 680,
+      "protein": 38,
+      "carbs": 44,
+      "fat": 36,
+      "sodium": 1120,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "classic single": {
+      "calories": 420,
+      "protein": 18,
+      "carbs": 38,
+      "fat": 20,
+      "sodium": 840,
+      "sugar": 8,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "classic double": {
+      "calories": 640,
+      "protein": 32,
+      "carbs": 40,
+      "fat": 36,
+      "sodium": 1280,
+      "sugar": 10,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "golden reunion feast": {
+      "calories": 3280,
+      "protein": 128,
+      "carbs": 312,
+      "fat": 140,
+      "sodium": 5640,
+      "sugar": 72,
+      "fiber": 8,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy",
+        "Egg",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "Very high in saturated fat",
+        "Very high in calories",
+        "High in sugar"
+      ]
+    },
+    "fun for one meal b": {
+      "calories": 890,
+      "protein": 28,
+      "carbs": 95,
+      "fat": 38,
+      "sodium": 1650,
+      "sugar": 18,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "6pcs chickenjoy bucket": {
+      "calories": 1680,
+      "protein": 84,
+      "carbs": 48,
+      "fat": 118,
+      "sodium": 2200,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Excellent source of protein"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "Very high in saturated fat",
+        "Very high in calories"
+      ]
+    },
+    "vm jolly spaghetti": {
+      "calories": 420,
+      "protein": 12,
+      "carbs": 58,
+      "fat": 16,
+      "sodium": 980,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in sugar"
+      ]
+    },
+    "4pcs spicy chicken nuggets": {
+      "calories": 310,
+      "protein": 18,
+      "carbs": 18,
+      "fat": 18,
+      "sodium": 720,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "sprite can": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 36,
+      "fat": 0,
+      "sodium": 65,
+      "sugar": 36,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "extra gravy": {
+      "calories": 25,
+      "protein": 1,
+      "carbs": 2,
+      "fat": 1,
+      "sodium": 280,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "deluxe single": {
+      "calories": 480,
+      "protein": 24,
+      "carbs": 42,
+      "fat": 22,
+      "sodium": 1100,
+      "sugar": 6,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "fanta grape can": {
+      "calories": 150,
+      "protein": 0,
+      "carbs": 39,
+      "fat": 0,
+      "sodium": 50,
+      "sugar": 39,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "6pcs spicy chickenjoy bucket": {
+      "calories": 1680,
+      "protein": 84,
+      "carbs": 48,
+      "fat": 118,
+      "sodium": 2400,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Excellent source of protein"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "Very high in saturated fat",
+        "Very high in calories"
+      ]
+    },
+    "1 pc chickenjoy w jolly spaghetti w drink meal (d)": {
+      "calories": 780,
+      "protein": 32,
+      "carbs": 88,
+      "fat": 28,
+      "sodium": 1450,
+      "sugar": 28,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in sugar"
+      ]
+    },
+    "4pcs chicken nuggets": {
+      "calories": 290,
+      "protein": 17,
+      "carbs": 18,
+      "fat": 16,
+      "sodium": 680,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "spicy ckn 3pc tenders": {
+      "calories": 380,
+      "protein": 28,
+      "carbs": 18,
+      "fat": 22,
+      "sodium": 820,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "fun for one meal c": {
+      "calories": 920,
+      "protein": 36,
+      "carbs": 88,
+      "fat": 40,
+      "sodium": 1580,
+      "sugar": 18,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "rice": {
+      "calories": 150,
+      "protein": 3,
+      "carbs": 33,
+      "fat": 0,
+      "sodium": 280,
+      "sugar": 0,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "Moderate sodium"
+      ]
+    },
+    "value for two meal a": {
+      "calories": 1480,
+      "protein": 68,
+      "carbs": 126,
+      "fat": 62,
+      "sodium": 2400,
+      "sugar": 36,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Excellent source of protein"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "2 pcs chickenjoy w jolly spaghetti w drink meal (d)": {
+      "calories": 980,
+      "protein": 44,
+      "carbs": 98,
+      "fat": 38,
+      "sodium": 1680,
+      "sugar": 28,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "pineapple can": {
+      "calories": 130,
+      "protein": 0,
+      "carbs": 32,
+      "fat": 0,
+      "sodium": 40,
+      "sugar": 30,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Source of vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "6pcs chicken nuggets": {
+      "calories": 435,
+      "protein": 25,
+      "carbs": 27,
+      "fat": 24,
+      "sodium": 1020,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "6pcs mix (3 pcs original + 3pcs spicy)": {
+      "calories": 1680,
+      "protein": 84,
+      "carbs": 48,
+      "fat": 118,
+      "sodium": 2300,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Excellent source of protein"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "Very high in saturated fat",
+        "Very high in calories"
+      ]
+    },
+    "spicy ckn 5pc tenders": {
+      "calories": 620,
+      "protein": 46,
+      "carbs": 28,
+      "fat": 36,
+      "sodium": 1320,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Excellent source of protein"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "deluxe double": {
+      "calories": 520,
+      "protein": 28,
+      "carbs": 42,
+      "fat": 26,
+      "sodium": 1050,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "6pcs spicy chicken nuggets": {
+      "calories": 280,
+      "protein": 16,
+      "carbs": 18,
+      "fat": 16,
+      "sodium": 680,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "8pcs chickenjoy bucket": {
+      "calories": 890,
+      "protein": 58,
+      "carbs": 35,
+      "fat": 54,
+      "sodium": 1420,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "jolly spaghetti platter": {
+      "calories": 620,
+      "protein": 18,
+      "carbs": 68,
+      "fat": 28,
+      "sodium": 1380,
+      "sugar": 12,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Soy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "chicken sandwich": {
+      "calories": 360,
+      "protein": 20,
+      "carbs": 32,
+      "fat": 16,
+      "sodium": 820,
+      "sugar": 5,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "dasani bottled water": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Zero calories",
+        "Hydrating"
+      ],
+      "healthWarnings": []
+    },
+    "vm 3pcs chicken tenders": {
+      "calories": 320,
+      "protein": 22,
+      "carbs": 20,
+      "fat": 16,
+      "sodium": 720,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "value for two meal b": {
+      "calories": 1680,
+      "protein": 72,
+      "carbs": 168,
+      "fat": 72,
+      "sodium": 3100,
+      "sugar": 48,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "Very high in saturated fat",
+        "Very high in calories"
+      ]
+    },
+    "spicy chicken sandwich": {
+      "calories": 380,
+      "protein": 20,
+      "carbs": 32,
+      "fat": 18,
+      "sodium": 900,
+      "sugar": 5,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "10pcs chicken nuggets": {
+      "calories": 420,
+      "protein": 24,
+      "carbs": 28,
+      "fat": 24,
+      "sodium": 1020,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "coke 1.5l": {
+      "calories": 630,
+      "protein": 0,
+      "carbs": 170,
+      "fat": 0,
+      "sodium": 105,
+      "sugar": 170,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in calories"
+      ]
+    },
+    "8pcs spicy chickenjoy bucket": {
+      "calories": 920,
+      "protein": 58,
+      "carbs": 35,
+      "fat": 58,
+      "sodium": 1520,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "spicy spaghetti platter": {
+      "calories": 640,
+      "protein": 18,
+      "carbs": 68,
+      "fat": 30,
+      "sodium": 1480,
+      "sugar": 14,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Soy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "vm 5pcs chicken tenders": {
+      "calories": 480,
+      "protein": 32,
+      "carbs": 30,
+      "fat": 24,
+      "sodium": 1080,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "(del ex) value meal c": {
+      "calories": 1520,
+      "protein": 84,
+      "carbs": 120,
+      "fat": 68,
+      "sodium": 2880,
+      "sugar": 42,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "Very high in saturated fat",
+        "Very high in calories"
+      ]
+    },
+    "value for two meal d": {
+      "calories": 1420,
+      "protein": 78,
+      "carbs": 108,
+      "fat": 62,
+      "sodium": 2640,
+      "sugar": 36,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "Very high in saturated fat",
+        "Very high in calories"
+      ]
+    },
+    "10pcs spicy chicken nuggets": {
+      "calories": 460,
+      "protein": 26,
+      "carbs": 28,
+      "fat": 26,
+      "sodium": 1120,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "jolly hotdog": {
+      "calories": 240,
+      "protein": 10,
+      "carbs": 28,
+      "fat": 10,
+      "sodium": 680,
+      "sugar": 4,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "8pcs mix (4 pcs original + 4pcs spicy)": {
+      "calories": 900,
+      "protein": 58,
+      "carbs": 35,
+      "fat": 56,
+      "sodium": 1470,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "group meal a (del)": {
+      "calories": 1680,
+      "protein": 92,
+      "carbs": 105,
+      "fat": 84,
+      "sodium": 2940,
+      "sugar": 85,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "Very high in saturated fat",
+        "Very high in calories"
+      ]
+    },
+    "vm 1pc chickenjoy w side": {
+      "calories": 320,
+      "protein": 28,
+      "carbs": 18,
+      "fat": 16,
+      "sodium": 680,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "jolly spicy hotdog": {
+      "calories": 280,
+      "protein": 12,
+      "carbs": 28,
+      "fat": 14,
+      "sodium": 720,
+      "sugar": 4,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "vm 6pcs chicken nuggets": {
+      "calories": 380,
+      "protein": 22,
+      "carbs": 26,
+      "fat": 20,
+      "sodium": 650,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "vm cheesy yumburger": {
+      "calories": 340,
+      "protein": 16,
+      "carbs": 32,
+      "fat": 16,
+      "sodium": 700,
+      "sugar": 5,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "vm 2pcs chickenjoy w side": {
+      "calories": 480,
+      "protein": 42,
+      "carbs": 24,
+      "fat": 24,
+      "sodium": 920,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "vm 6pcs spicy chicken nuggets": {
+      "calories": 390,
+      "protein": 22,
+      "carbs": 28,
+      "fat": 20,
+      "sodium": 680,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "group meal e": {
+      "calories": 2140,
+      "protein": 98,
+      "carbs": 202,
+      "fat": 88,
+      "sodium": 3420,
+      "sugar": 54,
+      "fiber": 6,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "vm 10pcs chicken nuggets": {
+      "calories": 580,
+      "protein": 32,
+      "carbs": 42,
+      "fat": 30,
+      "sodium": 980,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "vm classic single": {
+      "calories": 320,
+      "protein": 16,
+      "carbs": 30,
+      "fat": 14,
+      "sodium": 680,
+      "sugar": 4,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "group meal f": {
+      "calories": 1820,
+      "protein": 86,
+      "carbs": 172,
+      "fat": 74,
+      "sodium": 2980,
+      "sugar": 48,
+      "fiber": 5,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "vm 3pcs chickenjoy w side": {
+      "calories": 640,
+      "protein": 56,
+      "carbs": 30,
+      "fat": 32,
+      "sodium": 1160,
+      "sugar": 4,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "vm 10pcs spicy chicken nuggets": {
+      "calories": 600,
+      "protein": 34,
+      "carbs": 44,
+      "fat": 32,
+      "sodium": 1020,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "vm 2pcs chickenjoy w burger steak rice": {
+      "calories": 640,
+      "protein": 46,
+      "carbs": 58,
+      "fat": 26,
+      "sodium": 1140,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "vm classic double": {
+      "calories": 440,
+      "protein": 26,
+      "carbs": 34,
+      "fat": 22,
+      "sodium": 880,
+      "sugar": 5,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "vm deluxe single": {
+      "calories": 380,
+      "protein": 18,
+      "carbs": 32,
+      "fat": 18,
+      "sodium": 740,
+      "sugar": 5,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "vm deluxe double": {
+      "calories": 500,
+      "protein": 32,
+      "carbs": 36,
+      "fat": 26,
+      "sodium": 1020,
+      "sugar": 6,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "vm chicken sandwich": {
+      "calories": 360,
+      "protein": 20,
+      "carbs": 28,
+      "fat": 18,
+      "sodium": 720,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "vm jolly hotdog": {
+      "calories": 260,
+      "protein": 11,
+      "carbs": 26,
+      "fat": 12,
+      "sodium": 680,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    }
+  }
+}

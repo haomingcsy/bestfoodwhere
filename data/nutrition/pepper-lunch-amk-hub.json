@@ -1,0 +1,174 @@
+{
+  "brand": "pepper-lunch-amk-hub",
+  "generatedAt": "2026-02-21T11:15:15.237Z",
+  "items": {
+    "comes with rice": {
+      "calories": 680,
+      "protein": 48,
+      "carbs": 52,
+      "fat": 28,
+      "sodium": 1200,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "comes with signature brown sauce": {
+      "calories": 520,
+      "protein": 42,
+      "carbs": 18,
+      "fat": 32,
+      "sodium": 980,
+      "sugar": 6,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "choice of teriyaki sauce or brown sauce": {
+      "calories": 480,
+      "protein": 38,
+      "carbs": 22,
+      "fat": 24,
+      "sodium": 1050,
+      "sugar": 10,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Contains sugar"
+      ]
+    },
+    "available in 120g": {
+      "calories": 240,
+      "protein": 22,
+      "carbs": 8,
+      "fat": 14,
+      "sodium": 480,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in saturated fat"
+      ]
+    },
+    "comes with choice of 1 dipping sauce": {
+      "calories": 580,
+      "protein": 45,
+      "carbs": 15,
+      "fat": 38,
+      "sodium": 920,
+      "sugar": 4,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "scallops and prawns": {
+      "calories": 420,
+      "protein": 32,
+      "carbs": 28,
+      "fat": 18,
+      "sodium": 1100,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of omega-3",
+        "Low in saturated fat"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Contains shellfish"
+      ]
+    },
+    "available in 160g": {
+      "calories": 320,
+      "protein": 29,
+      "carbs": 10,
+      "fat": 19,
+      "sodium": 640,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in saturated fat"
+      ]
+    },
+    "available in 200g": {
+      "calories": 400,
+      "protein": 36,
+      "carbs": 12,
+      "fat": 24,
+      "sodium": 800,
+      "sugar": 3,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in saturated fat"
+      ]
+    }
+  }
+}

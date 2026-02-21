@@ -1,0 +1,177 @@
+{
+  "brand": "song-fa-bak-kut-teh",
+  "generatedAt": "2026-02-21T11:42:30.708Z",
+  "items": {
+    "pork ribs soup": {
+      "calories": 320,
+      "protein": 28,
+      "carbs": 2,
+      "fat": 24,
+      "sodium": 1200,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of collagen",
+        "Rich in minerals"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "prime spare ribs soup": {
+      "calories": 380,
+      "protein": 32,
+      "carbs": 2,
+      "fat": 29,
+      "sodium": 1250,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of collagen",
+        "Rich in minerals"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "premium loin rib soup": {
+      "calories": 350,
+      "protein": 35,
+      "carbs": 1,
+      "fat": 22,
+      "sodium": 1200,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Lean meat option",
+        "Rich in minerals"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "pig's kidney soup": {
+      "calories": 240,
+      "protein": 26,
+      "carbs": 2,
+      "fat": 14,
+      "sodium": 1100,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in cholesterol",
+        "Strong flavor may not appeal to all"
+      ]
+    },
+    "pig's liver soup": {
+      "calories": 260,
+      "protein": 28,
+      "carbs": 3,
+      "fat": 14,
+      "sodium": 1100,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Excellent source of iron",
+        "Rich in B vitamins",
+        "Good source of vitamin A"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in cholesterol",
+        "Very high in vitamin A"
+      ]
+    },
+    "pork tenderloin soup": {
+      "calories": 290,
+      "protein": 38,
+      "carbs": 1,
+      "fat": 14,
+      "sodium": 1150,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Very high in protein",
+        "Lean cut",
+        "Rich in minerals"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "sliced fish soup": {
+      "calories": 280,
+      "protein": 32,
+      "carbs": 2,
+      "fat": 15,
+      "sodium": 1100,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Fish",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of omega-3",
+        "Low in saturated fat"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Fish allergen"
+      ]
+    },
+    "pig's stomach soup": {
+      "calories": 220,
+      "protein": 22,
+      "carbs": 3,
+      "fat": 13,
+      "sodium": 1100,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of collagen",
+        "Rich in minerals"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Chewy texture requires slow eating"
+      ]
+    }
+  }
+}

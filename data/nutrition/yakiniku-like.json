@@ -1,0 +1,815 @@
+{
+  "brand": "yakiniku-like",
+  "generatedAt": "2026-02-21T12:22:55.151Z",
+  "items": {
+    "karubi 100g": {
+      "calories": 280,
+      "protein": 28,
+      "carbs": 0,
+      "fat": 18,
+      "sodium": 65,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron",
+        "Contains B vitamins"
+      ],
+      "healthWarnings": [
+        "High in saturated fat"
+      ]
+    },
+    "mini choregi salad": {
+      "calories": 85,
+      "protein": 3,
+      "carbs": 8,
+      "fat": 5,
+      "sodium": 220,
+      "sugar": 1,
+      "fiber": 2,
+      "allergens": [
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Low calorie",
+        "Good source of vitamins",
+        "Contains fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "karubi set": {
+      "calories": 620,
+      "protein": 45,
+      "carbs": 48,
+      "fat": 28,
+      "sodium": 850,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Complete meal",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "coca cola": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 39,
+      "fat": 0,
+      "sodium": 45,
+      "sugar": 39,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "karubi kimchi bundle set": {
+      "calories": 720,
+      "protein": 48,
+      "carbs": 52,
+      "fat": 32,
+      "sodium": 1200,
+      "sugar": 5,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains probiotics",
+        "Good source of vitamins"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "bulgogi chicken bundle set": {
+      "calories": 680,
+      "protein": 52,
+      "carbs": 50,
+      "fat": 26,
+      "sodium": 1100,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Leaner meat option",
+        "Contains B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in saturated fat"
+      ]
+    },
+    "ayataka greentea": {
+      "calories": 35,
+      "protein": 0,
+      "carbs": 8,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 7,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains antioxidants",
+        "Low in sugar"
+      ],
+      "healthWarnings": []
+    },
+    "harami 100g": {
+      "calories": 320,
+      "protein": 26,
+      "carbs": 0,
+      "fat": 24,
+      "sodium": 70,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron",
+        "Contains B12"
+      ],
+      "healthWarnings": [
+        "High in saturated fat"
+      ]
+    },
+    "kimchi": {
+      "calories": 45,
+      "protein": 2,
+      "carbs": 6,
+      "fat": 2,
+      "sodium": 520,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Fish",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains probiotics",
+        "Good source of vitamins",
+        "Low calorie"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "karubi & harami set": {
+      "calories": 720,
+      "protein": 58,
+      "carbs": 48,
+      "fat": 32,
+      "sodium": 920,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Very high in protein",
+        "Complete meal",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "lemon tea": {
+      "calories": 55,
+      "protein": 0,
+      "carbs": 14,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 13,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains vitamin C",
+        "Low in calories"
+      ],
+      "healthWarnings": [
+        "Moderate in sugar"
+      ]
+    },
+    "plain rice 200g": {
+      "calories": 260,
+      "protein": 5,
+      "carbs": 58,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 0,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of carbohydrates",
+        "Low in fat"
+      ],
+      "healthWarnings": []
+    },
+    "sukiyaki karubi 100g": {
+      "calories": 295,
+      "protein": 27,
+      "carbs": 4,
+      "fat": 19,
+      "sodium": 580,
+      "sugar": 3,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "garlic pepper pork belly bundle set": {
+      "calories": 750,
+      "protein": 50,
+      "carbs": 52,
+      "fat": 36,
+      "sodium": 1150,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "pork & chicken set": {
+      "calories": 580,
+      "protein": 48,
+      "carbs": 46,
+      "fat": 20,
+      "sodium": 780,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Complete meal",
+        "Balanced macronutrients"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "pork karubi 100g": {
+      "calories": 260,
+      "protein": 26,
+      "carbs": 0,
+      "fat": 16,
+      "sodium": 60,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of B vitamins",
+        "Contains iron"
+      ],
+      "healthWarnings": [
+        "High in saturated fat"
+      ]
+    },
+    "dasani water": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Zero calories",
+        "Hydrating"
+      ],
+      "healthWarnings": []
+    },
+    "seaweed soup": {
+      "calories": 65,
+      "protein": 4,
+      "carbs": 8,
+      "fat": 2,
+      "sodium": 680,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Low calorie",
+        "Good source of minerals",
+        "Contains iodine"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "pork karubi set": {
+      "calories": 600,
+      "protein": 42,
+      "carbs": 48,
+      "fat": 26,
+      "sodium": 820,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Complete meal",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "spicy miso salmon bundle set": {
+      "calories": 740,
+      "protein": 54,
+      "carbs": 50,
+      "fat": 28,
+      "sodium": 1250,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "High in omega-3 fatty acids",
+        "Good source of vitamin D"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in saturated fat"
+      ]
+    },
+    "like mini curry": {
+      "calories": 320,
+      "protein": 8,
+      "carbs": 42,
+      "fat": 12,
+      "sodium": 580,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Moderate protein content"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in carbohydrates"
+      ]
+    },
+    "pork belly bundle set": {
+      "calories": 680,
+      "protein": 52,
+      "carbs": 28,
+      "fat": 42,
+      "sodium": 1240,
+      "sugar": 8,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "onsen egg": {
+      "calories": 95,
+      "protein": 7,
+      "carbs": 1,
+      "fat": 7,
+      "sodium": 280,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in choline",
+        "Good source of selenium"
+      ],
+      "healthWarnings": [
+        "Moderate sodium content"
+      ]
+    },
+    "fuze green tea": {
+      "calories": 45,
+      "protein": 0,
+      "carbs": 11,
+      "fat": 0,
+      "sodium": 35,
+      "sugar": 10,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "Contains added sugar"
+      ]
+    },
+    "chicken 100g": {
+      "calories": 165,
+      "protein": 31,
+      "carbs": 0,
+      "fat": 3.5,
+      "sodium": 420,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein",
+        "Low in fat",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "Moderate sodium content"
+      ]
+    },
+    "karubi bundle set": {
+      "calories": 720,
+      "protein": 58,
+      "carbs": 26,
+      "fat": 45,
+      "sodium": 1320,
+      "sugar": 7,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron and zinc"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "karubi kimchi don": {
+      "calories": 580,
+      "protein": 42,
+      "carbs": 48,
+      "fat": 26,
+      "sodium": 1180,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains probiotics from kimchi",
+        "Good source of vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "spicy kimchi tofu": {
+      "calories": 145,
+      "protein": 15,
+      "carbs": 6,
+      "fat": 7,
+      "sodium": 720,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains probiotics",
+        "Low calorie",
+        "Contains capsaicin"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "japanese apple orange juice": {
+      "calories": 110,
+      "protein": 1,
+      "carbs": 27,
+      "fat": 0,
+      "sodium": 25,
+      "sugar": 24,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in natural sugars"
+      ]
+    },
+    "japanese apple juice": {
+      "calories": 95,
+      "protein": 0,
+      "carbs": 24,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 22,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains natural antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "bulgogi chicken don": {
+      "calories": 520,
+      "protein": 38,
+      "carbs": 52,
+      "fat": 16,
+      "sodium": 1020,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in carbohydrates"
+      ]
+    },
+    "goma salad bowl": {
+      "calories": 165,
+      "protein": 6,
+      "carbs": 12,
+      "fat": 11,
+      "sodium": 380,
+      "sugar": 3,
+      "fiber": 3,
+      "allergens": [
+        "Sesame",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains healthy fats"
+      ],
+      "healthWarnings": [
+        "Moderate sodium content"
+      ]
+    },
+    "pork & chicken bundle set": {
+      "calories": 640,
+      "protein": 48,
+      "carbs": 28,
+      "fat": 38,
+      "sodium": 1180,
+      "sugar": 7,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "garlic pepper pork belly don": {
+      "calories": 560,
+      "protein": 40,
+      "carbs": 48,
+      "fat": 28,
+      "sodium": 1100,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains garlic"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "japanese apple yuzu juice": {
+      "calories": 105,
+      "protein": 0,
+      "carbs": 26,
+      "fat": 0,
+      "sodium": 22,
+      "sugar": 23,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains vitamin C",
+        "Contains citrus antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "bonito tofu": {
+      "calories": 135,
+      "protein": 18,
+      "carbs": 4,
+      "fat": 5,
+      "sodium": 640,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Low calorie",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "karubi & harami bundle set": {
+      "calories": 820,
+      "protein": 68,
+      "carbs": 24,
+      "fat": 52,
+      "sodium": 1480,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Very high in protein",
+        "Rich in iron and zinc"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "spicy miso salmon don": {
+      "calories": 620,
+      "protein": 42,
+      "carbs": 54,
+      "fat": 24,
+      "sodium": 1240,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "High in omega-3 fatty acids",
+        "Good source of vitamin D"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "japanese calpis soda": {
+      "calories": 165,
+      "protein": 0,
+      "carbs": 41,
+      "fat": 0,
+      "sodium": 80,
+      "sugar": 38,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in calories"
+      ]
+    },
+    "lobster salad": {
+      "calories": 185,
+      "protein": 22,
+      "carbs": 8,
+      "fat": 8,
+      "sodium": 520,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Sesame",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Low in calories",
+        "Contains omega-3"
+      ],
+      "healthWarnings": [
+        "Moderate sodium content"
+      ]
+    },
+    "root beer": {
+      "calories": 180,
+      "protein": 0,
+      "carbs": 46,
+      "fat": 0,
+      "sodium": 65,
+      "sugar": 46,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    }
+  }
+}

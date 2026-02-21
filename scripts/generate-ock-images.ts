@@ -200,8 +200,6 @@ async function main() {
       .from("menu_items")
       .update({
         original_image_url: finalUrl,
-        // Mark as AI-generated
-        dietary_tags: supabase.rpc ? undefined : undefined, // Keep existing tags
       })
       .eq("id", item.id);
 

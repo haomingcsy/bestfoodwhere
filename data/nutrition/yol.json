@@ -1,0 +1,48 @@
+{
+  "brand": "yol",
+  "generatedAt": "2026-02-21T12:24:19.415Z",
+  "items": {
+    "yolébox frozen yogurt (large) 1000ml": {
+      "calories": 520,
+      "protein": 12,
+      "carbs": 98,
+      "fat": 6,
+      "sodium": 180,
+      "sugar": 78,
+      "fiber": 2,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains probiotics",
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in carbohydrates"
+      ]
+    },
+    "yolébox frozen yogurt (medium) 500ml": {
+      "calories": 260,
+      "protein": 6,
+      "carbs": 49,
+      "fat": 3,
+      "sodium": 90,
+      "sugar": 39,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains probiotics",
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in carbohydrates"
+      ]
+    }
+  }
+}

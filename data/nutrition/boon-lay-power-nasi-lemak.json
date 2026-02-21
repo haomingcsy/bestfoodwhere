@@ -1,0 +1,213 @@
+{
+  "brand": "boon-lay-power-nasi-lemak",
+  "generatedAt": "2026-02-16T13:48:53.582Z",
+  "items": {
+    "extra sambal": {
+      "calories": 45,
+      "protein": 1,
+      "carbs": 3,
+      "fat": 3,
+      "sodium": 480,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Source of capsaicin",
+        "Low calorie"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Spicy"
+      ]
+    },
+    "nasi lemak fish set": {
+      "calories": 680,
+      "protein": 28,
+      "carbs": 72,
+      "fat": 28,
+      "sodium": 920,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Egg",
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3 fatty acids"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "chicken nugget (4 pieces)": {
+      "calories": 220,
+      "protein": 12,
+      "carbs": 16,
+      "fat": 12,
+      "sodium": 380,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Fried food"
+      ]
+    },
+    "nasi lemak rice": {
+      "calories": 280,
+      "protein": 4,
+      "carbs": 38,
+      "fat": 12,
+      "sodium": 380,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "begedil": {
+      "calories": 160,
+      "protein": 4,
+      "carbs": 14,
+      "fat": 9,
+      "sodium": 320,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Source of fiber",
+        "Contains potatoes"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Fried food"
+      ]
+    },
+    "chicken wing": {
+      "calories": 240,
+      "protein": 18,
+      "carbs": 8,
+      "fat": 16,
+      "sodium": 420,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Fried food"
+      ]
+    },
+    "fish cake": {
+      "calories": 140,
+      "protein": 10,
+      "carbs": 12,
+      "fat": 6,
+      "sodium": 560,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Fish",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Processed food"
+      ]
+    },
+    "fish fillet": {
+      "calories": 200,
+      "protein": 22,
+      "carbs": 8,
+      "fat": 10,
+      "sodium": 400,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Fish",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains omega-3 fatty acids"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Fried food"
+      ]
+    },
+    "hotdog": {
+      "calories": 220,
+      "protein": 8,
+      "carbs": 24,
+      "fat": 10,
+      "sodium": 540,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Processed meat",
+        "Contains additives"
+      ]
+    },
+    "otah": {
+      "calories": 180,
+      "protein": 12,
+      "carbs": 6,
+      "fat": 12,
+      "sodium": 500,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Fish",
+        "Shellfish",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Grilled/fried food"
+      ]
+    }
+  }
+}

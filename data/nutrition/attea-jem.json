@@ -1,0 +1,473 @@
+{
+  "brand": "attea-jem",
+  "generatedAt": "2026-02-16T13:28:28.965Z",
+  "items": {
+    "americano 美式咖啡": {
+      "calories": 5,
+      "protein": 0.3,
+      "carbs": 0.1,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Source of antioxidants",
+        "Boosts alertness"
+      ],
+      "healthWarnings": []
+    },
+    "premium oolong fresh milk tea 特选乌龙鲜奶茶": {
+      "calories": 180,
+      "protein": 6,
+      "carbs": 22,
+      "fat": 6,
+      "sodium": 85,
+      "sugar": 18,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of calcium",
+        "Contains antioxidants",
+        "Moderate caffeine"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains dairy"
+      ]
+    },
+    "chrysanthemum osmanthus tea with honey *top choice": {
+      "calories": 45,
+      "protein": 0,
+      "carbs": 11,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 10,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Caffeine-free",
+        "Natural honey sweetness",
+        "Calming properties"
+      ],
+      "healthWarnings": [
+        "High in natural sugar"
+      ]
+    },
+    "lychee earl grey tea 天生荔枝 *highly recommended": {
+      "calories": 65,
+      "protein": 0.2,
+      "carbs": 16,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 15,
+      "fiber": 0.5,
+      "allergens": [],
+      "healthBenefits": [
+        "Source of antioxidants",
+        "Contains vitamin C from lychee",
+        "Moderate caffeine"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "golden citrus green tea 金橘迎春绿茶": {
+      "calories": 95,
+      "protein": 0.5,
+      "carbs": 23,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 20,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Source of vitamin C",
+        "Contains antioxidants",
+        "Green tea catechins"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "White pearls add texture and calories"
+      ]
+    },
+    "shizuoka matcha fresh milk 静冈抹茶鲜奶": {
+      "calories": 185,
+      "protein": 7,
+      "carbs": 18,
+      "fat": 7,
+      "sodium": 90,
+      "sugar": 14,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in antioxidants",
+        "Source of calcium",
+        "L-theanine for calm focus",
+        "Low sugar option"
+      ],
+      "healthWarnings": [
+        "Contains dairy"
+      ]
+    },
+    "shizuoka matcha strawberry fresh milk 静冈抹茶美梅鲜奶 *trending": {
+      "calories": 220,
+      "protein": 7,
+      "carbs": 26,
+      "fat": 7,
+      "sodium": 95,
+      "sugar": 22,
+      "fiber": 1.5,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in antioxidants",
+        "Source of vitamin C",
+        "Source of calcium",
+        "L-theanine for focus"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains dairy"
+      ]
+    },
+    "maojian jasmine fresh milk tea 茉莉毛尖鲜奶茶": {
+      "calories": 170,
+      "protein": 6,
+      "carbs": 20,
+      "fat": 6,
+      "sodium": 80,
+      "sugar": 17,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of calcium",
+        "Antioxidants from green tea",
+        "Floral aromatics",
+        "Moderate caffeine"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains dairy"
+      ]
+    },
+    "latte 拿铁": {
+      "calories": 165,
+      "protein": 6,
+      "carbs": 12,
+      "fat": 7,
+      "sodium": 75,
+      "sugar": 10,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of calcium",
+        "Protein from milk",
+        "Antioxidants from espresso"
+      ],
+      "healthWarnings": [
+        "Contains dairy"
+      ]
+    },
+    "golden citrus matcha milk 金橘抹茶鲜奶": {
+      "calories": 210,
+      "protein": 7,
+      "carbs": 25,
+      "fat": 7,
+      "sodium": 95,
+      "sugar": 20,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in antioxidants",
+        "Source of vitamin C",
+        "Source of calcium",
+        "L-theanine for focus"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains dairy"
+      ]
+    },
+    "passionfruit green tea with oolong jelly 夏日百香果绿茶 (含乌龙冻)": {
+      "calories": 110,
+      "protein": 0.5,
+      "carbs": 27,
+      "fat": 0,
+      "sodium": 25,
+      "sugar": 24,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Source of vitamin C",
+        "Antioxidants from green tea",
+        "Chewy jelly texture"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "phoenix dancong oolong tea 凤凰单枞乌龙茶": {
+      "calories": 10,
+      "protein": 0.2,
+      "carbs": 1,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Premium oolong antioxidants",
+        "Complex flavor profile"
+      ],
+      "healthWarnings": []
+    },
+    "cappuccino 卡布奇诺": {
+      "calories": 155,
+      "protein": 5.5,
+      "carbs": 11,
+      "fat": 6.5,
+      "sodium": 70,
+      "sugar": 9,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of calcium",
+        "Protein from milk",
+        "Antioxidants from espresso"
+      ],
+      "healthWarnings": [
+        "Contains dairy"
+      ]
+    },
+    "cloud mist longjing tea 云雾龙井绿茶": {
+      "calories": 8,
+      "protein": 0.1,
+      "carbs": 1,
+      "fat": 0,
+      "sodium": 8,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Antioxidants",
+        "Calming properties",
+        "Gentle caffeine"
+      ],
+      "healthWarnings": []
+    },
+    "zesty grapefruit green tea 清新葡萄柚绿茶": {
+      "calories": 105,
+      "protein": 0.3,
+      "carbs": 25,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 23,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Source of vitamin C",
+        "Antioxidants from green tea",
+        "Citrus benefits"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "royal earl grey fresh milk tea 皇家伯爵鲜奶茶": {
+      "calories": 175,
+      "protein": 6,
+      "carbs": 21,
+      "fat": 6,
+      "sodium": 85,
+      "sugar": 18,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of calcium",
+        "Antioxidants from Earl Grey",
+        "Bergamot benefits"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains dairy"
+      ]
+    },
+    "elderflower apple green tea with honey jelly 甜蜜花香 (含蜂蜜冻) *back by popular demand": {
+      "calories": 130,
+      "protein": 0.4,
+      "carbs": 31,
+      "fat": 0,
+      "sodium": 30,
+      "sugar": 28,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Source of vitamin C",
+        "Antioxidants from green tea",
+        "Floral and herbal benefits"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Honey jelly increases sweetness"
+      ]
+    },
+    "osmanthus rose oolong fresh milk tea 桂花乌龙鲜奶茶": {
+      "calories": 180,
+      "protein": 6,
+      "carbs": 22,
+      "fat": 6,
+      "sodium": 85,
+      "sugar": 19,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of calcium",
+        "Antioxidants from oolong",
+        "Floral aromatics"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains dairy"
+      ]
+    },
+    "premium oolong yuan yang 特选乌龙鸳鸯 *must try": {
+      "calories": 155,
+      "protein": 5,
+      "carbs": 14,
+      "fat": 6,
+      "sodium": 80,
+      "sugar": 12,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Balanced caffeine",
+        "Antioxidants from coffee and tea",
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "Contains dairy"
+      ]
+    },
+    "cold brew peach oolong tea 冷泡蜜桃乌龙茶 *zero sugar": {
+      "calories": 35,
+      "protein": 0.2,
+      "carbs": 8,
+      "fat": 0,
+      "sodium": 12,
+      "sugar": 6,
+      "fiber": 0.5,
+      "allergens": [],
+      "healthBenefits": [
+        "Low sugar option",
+        "Antioxidants from oolong",
+        "Peach benefits",
+        "Refreshing"
+      ],
+      "healthWarnings": []
+    },
+    "chrysanthemum osmanthus fresh milk tea 花香馥郁鲜奶茶 *caffeine free": {
+      "calories": 180,
+      "protein": 4,
+      "carbs": 28,
+      "fat": 5,
+      "sodium": 95,
+      "sugar": 24,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from chrysanthemum",
+        "Caffeine-free",
+        "Calming properties"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Moderate in saturated fat"
+      ]
+    },
+    "cold brew camellia oolong tea 冷泡山茶花乌龙茶 *zero sugar": {
+      "calories": 5,
+      "protein": 0,
+      "carbs": 1,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Zero sugar",
+        "Rich in antioxidants",
+        "Calorie-free",
+        "Contains polyphenols"
+      ],
+      "healthWarnings": []
+    },
+    "genmaicha souchong fresh milk tea 茶匠玄米小种鲜奶茶 *best seller": {
+      "calories": 220,
+      "protein": 5,
+      "carbs": 32,
+      "fat": 6,
+      "sodium": 105,
+      "sugar": 26,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains roasted grains",
+        "Good source of antioxidants",
+        "Balanced flavor profile"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains gluten from roasted grains",
+        "Moderate in saturated fat"
+      ]
+    },
+    "souchong fresh milk tea 小种鲜奶茶 *all time favourite": {
+      "calories": 165,
+      "protein": 4,
+      "carbs": 25,
+      "fat": 5,
+      "sodium": 90,
+      "sugar": 22,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from black tea",
+        "Good source of calcium from milk"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Moderate in saturated fat"
+      ]
+    }
+  }
+}

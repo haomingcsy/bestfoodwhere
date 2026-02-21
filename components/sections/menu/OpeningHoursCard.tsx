@@ -1,3 +1,8 @@
+import {
+  parseOpeningHoursText,
+  getCondensedSchedule,
+} from "@/lib/format-opening-hours";
+
 interface Props {
   openingHours: string;
 }
@@ -17,7 +22,9 @@ export function OpeningHoursCard({ openingHours }: Props) {
 
   const getSingaporeNow = () => {
     const now = new Date();
-    return new Date(now.toLocaleString("en-US", { timeZone: "Asia/Singapore" }));
+    return new Date(
+      now.toLocaleString("en-US", { timeZone: "Asia/Singapore" }),
+    );
   };
 
   const extractScheduleText = (text: string) => {
@@ -26,7 +33,12 @@ export function OpeningHoursCard({ openingHours }: Props) {
     return text.replace(/^opening hours:\s*/i, "").trim();
   };
 
-  const fillRange = (entries: Record<string, string>, startIndex: number, endIndex: number, value: string) => {
+  const fillRange = (
+    entries: Record<string, string>,
+    startIndex: number,
+    endIndex: number,
+    value: string,
+  ) => {
     if (startIndex === -1 || endIndex === -1) return;
     if (endIndex < startIndex) {
       for (let i = startIndex; i < dayOrder.length; i += 1) {
@@ -55,9 +67,13 @@ export function OpeningHoursCard({ openingHours }: Props) {
       );
       if (!match) continue;
 
-      const startIndex = dayOrder.findIndex((day) => day.toLowerCase() === match[1].toLowerCase());
+      const startIndex = dayOrder.findIndex(
+        (day) => day.toLowerCase() === match[1].toLowerCase(),
+      );
       const endIndex = match[2]
-        ? dayOrder.findIndex((day) => day.toLowerCase() === match[2].toLowerCase())
+        ? dayOrder.findIndex(
+            (day) => day.toLowerCase() === match[2].toLowerCase(),
+          )
         : startIndex;
       const value = match[3].trim();
       fillRange(entries, startIndex, endIndex, value);
@@ -102,13 +118,18 @@ export function OpeningHoursCard({ openingHours }: Props) {
     );
 
     if (rangeMatch && timeRangeMatch) {
-      const startIndex = dayOrder.findIndex((day) => day.toLowerCase() === rangeMatch[1].toLowerCase());
-      const endIndex = dayOrder.findIndex((day) => day.toLowerCase() === rangeMatch[2].toLowerCase());
+      const startIndex = dayOrder.findIndex(
+        (day) => day.toLowerCase() === rangeMatch[1].toLowerCase(),
+      );
+      const endIndex = dayOrder.findIndex(
+        (day) => day.toLowerCase() === rangeMatch[2].toLowerCase(),
+      );
       const value = `${timeRangeMatch[1].trim()} - ${timeRangeMatch[3].trim()}`;
       fillRange(schedule, startIndex, endIndex, value);
     } else if (timeRangeMatch) {
       for (const day of dayOrder) {
-        schedule[day] = `${timeRangeMatch[1].trim()} - ${timeRangeMatch[3].trim()}`;
+        schedule[day] =
+          `${timeRangeMatch[1].trim()} - ${timeRangeMatch[3].trim()}`;
       }
     } else if (normalizedSchedule.match(/\d{1,2}(?::\d{2})?\s*(am|pm)/i)) {
       for (const day of dayOrder) {
@@ -123,14 +144,22 @@ export function OpeningHoursCard({ openingHours }: Props) {
   const todaysHours = hasSchedule ? schedule[todayLabel] : openingHours;
   const openClose = todaysHours ? parseOpenClose(todaysHours) : null;
   const nowMinutes = singaporeNow.getHours() * 60 + singaporeNow.getMinutes();
-  const isOpen = openClose ? nowMinutes >= openClose.open && nowMinutes < openClose.close : /open/i.test(normalizedSchedule);
+  const isOpen = openClose
+    ? nowMinutes >= openClose.open && nowMinutes < openClose.close
+    : /open/i.test(normalizedSchedule);
   const openStatus = isOpen ? "open" : "closed";
   const openTimeLabel = openClose?.openLabel ?? "";
 
   return (
     <section className="rounded-2xl bg-white px-6 py-6 shadow-[0_2px_4px_rgba(0,0,0,0.10)]">
       <div className="flex items-center gap-2 text-lg font-semibold text-gray-900">
-        <svg viewBox="0 0 24 24" className="h-5 w-5 text-[#e74c3c]" fill="none" stroke="currentColor" strokeWidth="2">
+        <svg
+          viewBox="0 0 24 24"
+          className="h-5 w-5 text-[#e74c3c]"
+          fill="none"
+          stroke="currentColor"
+          strokeWidth="2"
+        >
           <circle cx="12" cy="12" r="9" />
           <path d="M12 7v5l3 2" />
         </svg>
@@ -138,27 +167,56 @@ export function OpeningHoursCard({ openingHours }: Props) {
       </div>
       <div className="mt-4 h-px w-full bg-gray-100" />
       <div className="mt-4 space-y-2 text-sm">
-        {hasSchedule ? (
-          dayOrder.map((day) => (
-            <div
-              key={day}
-              className={`flex items-center justify-between rounded-lg px-3 py-3 ${
-                day === todayLabel ? "bg-[#fff1f1] font-semibold text-gray-900" : "text-gray-700"
-              }`}
-            >
-              <span>{day}</span>
-              <span className={day === todayLabel ? "text-gray-900" : "text-gray-800"}>
-                {schedule[day] ?? "--"}
-              </span>
-            </div>
-          ))
-        ) : (
-          <div className="rounded-lg bg-gray-50 px-3 py-2 text-gray-700">{openingHours}</div>
-        )}
+        {hasSchedule
+          ? dayOrder.map((day) => (
+              <div
+                key={day}
+                className={`flex items-center justify-between rounded-lg px-3 py-3 ${
+                  day === todayLabel
+                    ? "bg-[#fff1f1] font-semibold text-gray-900"
+                    : "text-gray-700"
+                }`}
+              >
+                <span>{day}</span>
+                <span
+                  className={
+                    day === todayLabel ? "text-gray-900" : "text-gray-800"
+                  }
+                >
+                  {schedule[day] ?? "--"}
+                </span>
+              </div>
+            ))
+          : (() => {
+              const parsed = parseOpeningHoursText(openingHours);
+              if (parsed) {
+                const display = getCondensedSchedule(parsed);
+                return display.map((entry, i) => (
+                  <div
+                    key={i}
+                    className="flex items-center justify-between py-1.5 text-sm"
+                  >
+                    {entry.day && (
+                      <span className="w-28 font-medium text-gray-700">
+                        {entry.day}
+                      </span>
+                    )}
+                    <span className="text-gray-600">{entry.hours}</span>
+                  </div>
+                ));
+              }
+              return (
+                <div className="rounded-lg bg-gray-50 px-3 py-2 text-gray-700">
+                  {openingHours}
+                </div>
+              );
+            })()}
       </div>
       <div
         className={`mt-5 rounded-xl px-4 py-4 text-center text-sm font-semibold ${
-          openStatus === "open" ? "bg-green-50 text-green-800" : "bg-red-50 text-red-800"
+          openStatus === "open"
+            ? "bg-green-50 text-green-800"
+            : "bg-red-50 text-red-800"
         }`}
       >
         {openStatus === "open"

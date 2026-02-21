@@ -1,0 +1,833 @@
+{
+  "brand": "mr-coconut",
+  "generatedAt": "2026-02-21T11:01:23.020Z",
+  "items": {
+    "(m) coconut fresh milk (gf)": {
+      "calories": 280,
+      "protein": 2,
+      "carbs": 32,
+      "fat": 15,
+      "sodium": 85,
+      "sugar": 28,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of healthy fats",
+        "Natural electrolytes"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sugar"
+      ]
+    },
+    "(m) coconut shake (gf)": {
+      "calories": 310,
+      "protein": 1,
+      "carbs": 38,
+      "fat": 16,
+      "sodium": 95,
+      "sugar": 34,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Natural hydration",
+        "Refreshing"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "(m) avocado gula melaka coconut fresh milk (gf)": {
+      "calories": 350,
+      "protein": 3,
+      "carbs": 38,
+      "fat": 20,
+      "sodium": 90,
+      "sugar": 32,
+      "fiber": 2,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of healthy fats",
+        "Contains potassium"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sugar"
+      ]
+    },
+    "(m) coconut oreo shake (gf)": {
+      "calories": 340,
+      "protein": 2,
+      "carbs": 42,
+      "fat": 18,
+      "sodium": 120,
+      "sugar": 38,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Refreshing"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "Artificial ingredients"
+      ]
+    },
+    "(m) coconut strawberry shake (gf)": {
+      "calories": 320,
+      "protein": 1,
+      "carbs": 40,
+      "fat": 16,
+      "sodium": 85,
+      "sugar": 35,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains vitamin C",
+        "Natural fruit flavors"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "(m) banana chocolate coconut fresh milk (gf)": {
+      "calories": 360,
+      "protein": 3,
+      "carbs": 42,
+      "fat": 18,
+      "sodium": 95,
+      "sugar": 36,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of potassium",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "(m) coconut mango shake (gf)": {
+      "calories": 330,
+      "protein": 1,
+      "carbs": 41,
+      "fat": 16,
+      "sodium": 80,
+      "sugar": 36,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of vitamin A",
+        "Natural fruit"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "(m) mango passionfruit coconut fresh milk (gf)": {
+      "calories": 340,
+      "protein": 2,
+      "carbs": 40,
+      "fat": 17,
+      "sodium": 90,
+      "sugar": 35,
+      "fiber": 2,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains vitamin C",
+        "Natural antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "(m) coconut soursop shake (gf)": {
+      "calories": 325,
+      "protein": 1,
+      "carbs": 39,
+      "fat": 16,
+      "sodium": 85,
+      "sugar": 34,
+      "fiber": 3,
+      "allergens": [],
+      "healthBenefits": [
+        "High in fiber",
+        "Contains vitamin C",
+        "Natural antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "(m) dragonfruit mango coconut fresh milk (gf)": {
+      "calories": 330,
+      "protein": 2,
+      "carbs": 39,
+      "fat": 17,
+      "sodium": 88,
+      "sugar": 33,
+      "fiber": 2,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains vitamin C",
+        "Rich in antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "(m) dragonfruit banana coconut fresh milk (gf)": {
+      "calories": 340,
+      "protein": 2,
+      "carbs": 40,
+      "fat": 17,
+      "sodium": 90,
+      "sugar": 34,
+      "fiber": 2,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains potassium",
+        "Good source of vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "(m) coconut banana shake (gf)": {
+      "calories": 335,
+      "protein": 1,
+      "carbs": 40,
+      "fat": 16,
+      "sodium": 80,
+      "sugar": 35,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of potassium",
+        "Natural energy"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "(m) coconut avocado shake (gf)": {
+      "calories": 360,
+      "protein": 2,
+      "carbs": 36,
+      "fat": 22,
+      "sodium": 85,
+      "sugar": 30,
+      "fiber": 3,
+      "allergens": [],
+      "healthBenefits": [
+        "High in healthy fats",
+        "Good source of fiber",
+        "Contains potassium"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in saturated fat"
+      ]
+    },
+    "(m) coconut cappuccino shake (gf)": {
+      "calories": 345,
+      "protein": 2,
+      "carbs": 38,
+      "fat": 17,
+      "sodium": 110,
+      "sugar": 32,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains caffeine",
+        "Good source of antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "Contains caffeine"
+      ]
+    },
+    "(l) coconut fresh milk (gf)": {
+      "calories": 380,
+      "protein": 3,
+      "carbs": 44,
+      "fat": 20,
+      "sodium": 110,
+      "sugar": 38,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of healthy fats",
+        "Natural electrolytes"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in saturated fat",
+        "High in sugar"
+      ]
+    },
+    "(l) avocado gula melaka coconut fresh milk (gf)": {
+      "calories": 480,
+      "protein": 4,
+      "carbs": 52,
+      "fat": 27,
+      "sodium": 120,
+      "sugar": 44,
+      "fiber": 3,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of healthy fats",
+        "Contains potassium"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "(l) banana chocolate coconut fresh milk (gf)": {
+      "calories": 490,
+      "protein": 4,
+      "carbs": 58,
+      "fat": 24,
+      "sodium": 125,
+      "sugar": 50,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains potassium",
+        "Good source of potassium"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "(m) coconut taro shake (gf)": {
+      "calories": 355,
+      "protein": 2,
+      "carbs": 42,
+      "fat": 17,
+      "sodium": 95,
+      "sugar": 36,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains fiber",
+        "Good source of potassium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "(l) mango passionfruit coconut fresh milk (gf)": {
+      "calories": 460,
+      "protein": 3,
+      "carbs": 54,
+      "fat": 23,
+      "sodium": 120,
+      "sugar": 47,
+      "fiber": 2,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains vitamin C",
+        "Natural antioxidants"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "(m) coconut purple potato shake (gf)": {
+      "calories": 360,
+      "protein": 2,
+      "carbs": 44,
+      "fat": 17,
+      "sodium": 100,
+      "sugar": 37,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains anthocyanins",
+        "Good source of potassium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "(m) coconut sweet potato shake (gf)": {
+      "calories": 280,
+      "protein": 2,
+      "carbs": 58,
+      "fat": 5,
+      "sodium": 85,
+      "sugar": 42,
+      "fiber": 3,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of potassium",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in carbohydrates"
+      ]
+    },
+    "(l) dragonfruit mango coconut fresh milk (gf)": {
+      "calories": 320,
+      "protein": 4,
+      "carbs": 52,
+      "fat": 9,
+      "sodium": 95,
+      "sugar": 38,
+      "fiber": 2,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Rich in vitamin C",
+        "Contains probiotics"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "(l) dragonfruit banana coconut fresh milk (gf)": {
+      "calories": 310,
+      "protein": 4,
+      "carbs": 50,
+      "fat": 9,
+      "sodium": 90,
+      "sugar": 36,
+      "fiber": 2,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Rich in potassium",
+        "Contains vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "(l) coconut shake (gf)": {
+      "calories": 240,
+      "protein": 1,
+      "carbs": 42,
+      "fat": 8,
+      "sodium": 80,
+      "sugar": 28,
+      "fiber": 2,
+      "allergens": [
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Source of medium-chain triglycerides",
+        "Naturally refreshing"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "(l) coconut oreo shake (gf)": {
+      "calories": 360,
+      "protein": 3,
+      "carbs": 58,
+      "fat": 12,
+      "sodium": 180,
+      "sugar": 48,
+      "fiber": 1,
+      "allergens": [
+        "Tree Nut",
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Satisfying dessert alternative"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "(hot) coconut fresh milk (gf)": {
+      "calories": 220,
+      "protein": 3,
+      "carbs": 38,
+      "fat": 8,
+      "sodium": 85,
+      "sugar": 24,
+      "fiber": 2,
+      "allergens": [
+        "Tree Nut",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Warming beverage",
+        "Source of medium-chain triglycerides"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "(hot) avocado gula melaka coconut fresh milk (gf)": {
+      "calories": 310,
+      "protein": 4,
+      "carbs": 48,
+      "fat": 11,
+      "sodium": 90,
+      "sugar": 35,
+      "fiber": 3,
+      "allergens": [
+        "Tree Nut",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of healthy fats",
+        "Contains potassium",
+        "Rich in fiber"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "(l) coconut strawberry shake (gf)": {
+      "calories": 300,
+      "protein": 2,
+      "carbs": 54,
+      "fat": 8,
+      "sodium": 80,
+      "sugar": 40,
+      "fiber": 2,
+      "allergens": [
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Rich in vitamin C",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in carbohydrates"
+      ]
+    },
+    "(l) coconut mango shake (gf)": {
+      "calories": 310,
+      "protein": 2,
+      "carbs": 56,
+      "fat": 8,
+      "sodium": 75,
+      "sugar": 42,
+      "fiber": 2,
+      "allergens": [
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Rich in vitamin A",
+        "Rich in vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in carbohydrates"
+      ]
+    },
+    "(hot) banana chocolate coconut fresh milk (gf)": {
+      "calories": 320,
+      "protein": 5,
+      "carbs": 50,
+      "fat": 10,
+      "sodium": 100,
+      "sugar": 36,
+      "fiber": 2,
+      "allergens": [
+        "Tree Nut",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of potassium",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "(hot) mango passionfruit coconut fresh milk (gf)": {
+      "calories": 280,
+      "protein": 4,
+      "carbs": 48,
+      "fat": 8,
+      "sodium": 90,
+      "sugar": 32,
+      "fiber": 2,
+      "allergens": [
+        "Tree Nut",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Rich in vitamin C",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "(l) coconut soursop shake (gf)": {
+      "calories": 320,
+      "protein": 2,
+      "carbs": 58,
+      "fat": 8,
+      "sodium": 70,
+      "sugar": 44,
+      "fiber": 3,
+      "allergens": [
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Rich in vitamin C",
+        "High in fiber",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in carbohydrates"
+      ]
+    },
+    "(l) coconut banana shake (gf)": {
+      "calories": 310,
+      "protein": 2,
+      "carbs": 56,
+      "fat": 8,
+      "sodium": 75,
+      "sugar": 40,
+      "fiber": 3,
+      "allergens": [
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Good source of potassium",
+        "Good source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in carbohydrates"
+      ]
+    },
+    "(hot) dragonfruit mango coconut fresh milk (gf)": {
+      "calories": 290,
+      "protein": 4,
+      "carbs": 48,
+      "fat": 8,
+      "sodium": 90,
+      "sugar": 32,
+      "fiber": 2,
+      "allergens": [
+        "Tree Nut",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Rich in vitamin C",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "(hot) dragonfruit banana coconut fresh milk (gf)": {
+      "calories": 280,
+      "protein": 4,
+      "carbs": 46,
+      "fat": 8,
+      "sodium": 85,
+      "sugar": 30,
+      "fiber": 2,
+      "allergens": [
+        "Tree Nut",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of potassium",
+        "Rich in vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "(l) coconut avocado shake (gf)": {
+      "calories": 340,
+      "protein": 3,
+      "carbs": 52,
+      "fat": 13,
+      "sodium": 80,
+      "sugar": 36,
+      "fiber": 4,
+      "allergens": [
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Excellent source of healthy fats",
+        "High in fiber",
+        "Rich in potassium"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sugar"
+      ]
+    },
+    "(l) coconut cappuccino shake (gf)": {
+      "calories": 350,
+      "protein": 4,
+      "carbs": 48,
+      "fat": 12,
+      "sodium": 110,
+      "sugar": 32,
+      "fiber": 1,
+      "allergens": [
+        "Tree Nut",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains caffeine",
+        "Energy boosting"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in saturated fat",
+        "High in caffeine"
+      ]
+    },
+    "(l) coconut taro shake (gf)": {
+      "calories": 330,
+      "protein": 2,
+      "carbs": 60,
+      "fat": 8,
+      "sodium": 85,
+      "sugar": 42,
+      "fiber": 3,
+      "allergens": [
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in carbohydrates"
+      ]
+    },
+    "(l) coconut biscoff shake (gf)": {
+      "calories": 360,
+      "protein": 3,
+      "carbs": 56,
+      "fat": 12,
+      "sodium": 150,
+      "sugar": 44,
+      "fiber": 1,
+      "allergens": [
+        "Tree Nut",
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Indulgent dessert drink"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "(l) coconut purple potato shake (gf)": {
+      "calories": 330,
+      "protein": 2,
+      "carbs": 62,
+      "fat": 8,
+      "sodium": 80,
+      "sugar": 44,
+      "fiber": 3,
+      "allergens": [
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Rich in antioxidants",
+        "High in fiber",
+        "Good source of potassium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in carbohydrates"
+      ]
+    },
+    "(l) coconut sweet potato shake (gf)": {
+      "calories": 320,
+      "protein": 2,
+      "carbs": 72,
+      "fat": 4,
+      "sodium": 85,
+      "sugar": 58,
+      "fiber": 3,
+      "allergens": [],
+      "healthBenefits": [
+        "High in antioxidants",
+        "Good source of potassium",
+        "Natural energy from carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in carbohydrates"
+      ]
+    }
+  }
+}

@@ -1,0 +1,1825 @@
+{
+  "brand": "popeyes-ang-mo-kio-hub",
+  "generatedAt": "2026-02-21T11:20:02.214Z",
+  "items": {
+    "pepsi (regular)": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 39,
+      "fat": 0,
+      "sodium": 45,
+      "sugar": 39,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "cajun gravy": {
+      "calories": 120,
+      "protein": 2,
+      "carbs": 12,
+      "fat": 7,
+      "sodium": 680,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "mash & mash": {
+      "calories": 420,
+      "protein": 6,
+      "carbs": 48,
+      "fat": 22,
+      "sodium": 1380,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "2pc chicken value set": {
+      "calories": 680,
+      "protein": 38,
+      "carbs": 58,
+      "fat": 32,
+      "sodium": 1420,
+      "sugar": 12,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "2pc mala 88 chicken set": {
+      "calories": 720,
+      "protein": 40,
+      "carbs": 60,
+      "fat": 34,
+      "sodium": 1580,
+      "sugar": 14,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "1pc chicken": {
+      "calories": 320,
+      "protein": 28,
+      "carbs": 12,
+      "fat": 18,
+      "sodium": 620,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "aglio olio xl bowl": {
+      "calories": 620,
+      "protein": 32,
+      "carbs": 58,
+      "fat": 28,
+      "sodium": 1440,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Shellfish",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains garlic"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "classic chicken sandwich set": {
+      "calories": 720,
+      "protein": 32,
+      "carbs": 72,
+      "fat": 32,
+      "sodium": 1380,
+      "sugar": 10,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Dairy",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "4pc popeyes spicy chicken wings set": {
+      "calories": 620,
+      "protein": 32,
+      "carbs": 52,
+      "fat": 30,
+      "sodium": 1280,
+      "sugar": 10,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "6pc signature chicken bucket": {
+      "calories": 1280,
+      "protein": 84,
+      "carbs": 24,
+      "fat": 72,
+      "sodium": 1860,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Very high in calories"
+      ]
+    },
+    "2pc chicken combo": {
+      "calories": 650,
+      "protein": 36,
+      "carbs": 56,
+      "fat": 30,
+      "sodium": 1340,
+      "sugar": 11,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "d'lite chicken sandwich set": {
+      "calories": 640,
+      "protein": 30,
+      "carbs": 68,
+      "fat": 26,
+      "sodium": 1280,
+      "sugar": 9,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Dairy",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "classic rice kick bowl": {
+      "calories": 620,
+      "protein": 28,
+      "carbs": 72,
+      "fat": 20,
+      "sodium": 1120,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Good source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "mala 88 chicken sandwich set": {
+      "calories": 680,
+      "protein": 32,
+      "carbs": 70,
+      "fat": 28,
+      "sodium": 1420,
+      "sugar": 11,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Dairy",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "3pc chicken combo": {
+      "calories": 840,
+      "protein": 48,
+      "carbs": 64,
+      "fat": 40,
+      "sodium": 1560,
+      "sugar": 12,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "pepsi (large)": {
+      "calories": 220,
+      "protein": 0,
+      "carbs": 60,
+      "fat": 0,
+      "sodium": 70,
+      "sugar": 60,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "Very high in calories"
+      ]
+    },
+    "1pc biscuit with blossom honey": {
+      "calories": 280,
+      "protein": 4,
+      "carbs": 32,
+      "fat": 14,
+      "sodium": 520,
+      "sugar": 12,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "3pc chicken value set": {
+      "calories": 840,
+      "protein": 52,
+      "carbs": 68,
+      "fat": 40,
+      "sodium": 1680,
+      "sugar": 14,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "3pc chicken tender": {
+      "calories": 320,
+      "protein": 28,
+      "carbs": 12,
+      "fat": 18,
+      "sodium": 680,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "cheese sauce": {
+      "calories": 180,
+      "protein": 6,
+      "carbs": 8,
+      "fat": 14,
+      "sodium": 520,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "10pc signature chicken bucket": {
+      "calories": 1520,
+      "protein": 104,
+      "carbs": 32,
+      "fat": 104,
+      "sodium": 2800,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "pepsi black (regular)": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 75,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Zero sugar",
+        "Zero calories"
+      ],
+      "healthWarnings": [
+        "Contains artificial sweeteners"
+      ]
+    },
+    "3pc chicken tender combo": {
+      "calories": 680,
+      "protein": 32,
+      "carbs": 68,
+      "fat": 28,
+      "sodium": 1420,
+      "sugar": 12,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in sugar"
+      ]
+    },
+    "zesty tomato kick bowl": {
+      "calories": 620,
+      "protein": 32,
+      "carbs": 72,
+      "fat": 20,
+      "sodium": 1080,
+      "sugar": 8,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Good source of carbs"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "8pc signature chicken bucket": {
+      "calories": 1140,
+      "protein": 90,
+      "carbs": 36,
+      "fat": 58,
+      "sodium": 2280,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Very high in calories"
+      ]
+    },
+    "poppy fish burger set": {
+      "calories": 720,
+      "protein": 28,
+      "carbs": 72,
+      "fat": 32,
+      "sodium": 1340,
+      "sugar": 10,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Good source of omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "May contain fish bones"
+      ]
+    },
+    "4pc popeyes spicy chicken wings": {
+      "calories": 340,
+      "protein": 26,
+      "carbs": 10,
+      "fat": 22,
+      "sodium": 720,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "bbq sauce": {
+      "calories": 60,
+      "protein": 0,
+      "carbs": 14,
+      "fat": 0,
+      "sodium": 340,
+      "sugar": 11,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in sodium"
+      ]
+    },
+    "2 sides for $6": {
+      "calories": 380,
+      "protein": 8,
+      "carbs": 52,
+      "fat": 16,
+      "sodium": 920,
+      "sugar": 4,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "mala 88 chicken box": {
+      "calories": 780,
+      "protein": 36,
+      "carbs": 68,
+      "fat": 36,
+      "sodium": 1560,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Very spicy"
+      ]
+    },
+    "6pc chicken nugget set": {
+      "calories": 620,
+      "protein": 26,
+      "carbs": 64,
+      "fat": 26,
+      "sodium": 1240,
+      "sugar": 10,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in sugar"
+      ]
+    },
+    "6pc chicken nugget": {
+      "calories": 280,
+      "protein": 20,
+      "carbs": 12,
+      "fat": 16,
+      "sodium": 580,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "strawberry jam": {
+      "calories": 50,
+      "protein": 0,
+      "carbs": 12,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 10,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "mac attack bowl": {
+      "calories": 740,
+      "protein": 34,
+      "carbs": 76,
+      "fat": 28,
+      "sodium": 1280,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Good source of carbs"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "1pc mala 88 chicken spaghetti set": {
+      "calories": 680,
+      "protein": 30,
+      "carbs": 72,
+      "fat": 24,
+      "sodium": 1420,
+      "sugar": 8,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Good source of carbs"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Very spicy"
+      ]
+    },
+    "15pc signature chicken bucket": {
+      "calories": 2280,
+      "protein": 156,
+      "carbs": 48,
+      "fat": 156,
+      "sodium": 4200,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "Very high in calories",
+        "Very high in sodium",
+        "Very high in saturated fat"
+      ]
+    },
+    "turkey bacon & cheese deluxe sandwich set": {
+      "calories": 890,
+      "protein": 42,
+      "carbs": 68,
+      "fat": 48,
+      "sodium": 2100,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "pepsi black (large)": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 140,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Zero sugar",
+        "Zero calories"
+      ],
+      "healthWarnings": [
+        "Contains artificial sweeteners"
+      ]
+    },
+    "6pc mala 88 chicken bucket": {
+      "calories": 900,
+      "protein": 62,
+      "carbs": 28,
+      "fat": 62,
+      "sodium": 2400,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat",
+        "Spicy"
+      ]
+    },
+    "classic chicken sandwich": {
+      "calories": 420,
+      "protein": 28,
+      "carbs": 38,
+      "fat": 18,
+      "sodium": 1140,
+      "sugar": 4,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "the double cheese & chicken sandwich set": {
+      "calories": 1020,
+      "protein": 42,
+      "carbs": 98,
+      "fat": 48,
+      "sodium": 2180,
+      "sugar": 12,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "rootbeer (regular)": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 36,
+      "fat": 0,
+      "sodium": 60,
+      "sugar": 36,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "blossom honey": {
+      "calories": 60,
+      "protein": 0,
+      "carbs": 16,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 16,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Natural sweetener"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "hashbrown": {
+      "calories": 220,
+      "protein": 2,
+      "carbs": 22,
+      "fat": 14,
+      "sodium": 440,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "rootbeer (large)": {
+      "calories": 210,
+      "protein": 0,
+      "carbs": 54,
+      "fat": 0,
+      "sodium": 90,
+      "sugar": 54,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "chicken sausage burger set": {
+      "calories": 780,
+      "protein": 36,
+      "carbs": 62,
+      "fat": 42,
+      "sodium": 1820,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "1pc mala 88 chicken": {
+      "calories": 280,
+      "protein": 20,
+      "carbs": 12,
+      "fat": 18,
+      "sodium": 680,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Spicy"
+      ]
+    },
+    "spicy chicken sandwich": {
+      "calories": 440,
+      "protein": 28,
+      "carbs": 38,
+      "fat": 20,
+      "sodium": 1240,
+      "sugar": 4,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Spicy"
+      ]
+    },
+    "d'lite chicken sandwich": {
+      "calories": 380,
+      "protein": 26,
+      "carbs": 36,
+      "fat": 14,
+      "sodium": 1020,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Lower in fat than fried options"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "mala 88 chicken sandwich": {
+      "calories": 440,
+      "protein": 28,
+      "carbs": 38,
+      "fat": 20,
+      "sodium": 1380,
+      "sugar": 4,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Spicy"
+      ]
+    },
+    "mountain dew (regular)": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 39,
+      "fat": 0,
+      "sodium": 65,
+      "sugar": 39,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "mountain dew (large)": {
+      "calories": 210,
+      "protein": 0,
+      "carbs": 58,
+      "fat": 0,
+      "sodium": 100,
+      "sugar": 58,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "poppy fish burger": {
+      "calories": 520,
+      "protein": 28,
+      "carbs": 42,
+      "fat": 26,
+      "sodium": 1280,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3 fatty acids"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "mala 88 spaghetti": {
+      "calories": 680,
+      "protein": 35,
+      "carbs": 72,
+      "fat": 24,
+      "sodium": 1420,
+      "sugar": 8,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains carbohydrates for energy"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "mala 88 loaded fries": {
+      "calories": 480,
+      "protein": 8,
+      "carbs": 58,
+      "fat": 24,
+      "sodium": 1080,
+      "sugar": 4,
+      "fiber": 4,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "7up (regular)": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 36,
+      "fat": 0,
+      "sodium": 75,
+      "sugar": 36,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "turkey bacon & cheese deluxe chicken sandwich": {
+      "calories": 620,
+      "protein": 38,
+      "carbs": 48,
+      "fat": 32,
+      "sodium": 1650,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "7up (large)": {
+      "calories": 210,
+      "protein": 0,
+      "carbs": 54,
+      "fat": 0,
+      "sodium": 115,
+      "sugar": 54,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "the double cheese & chicken sandwich": {
+      "calories": 720,
+      "protein": 40,
+      "carbs": 48,
+      "fat": 40,
+      "sodium": 1580,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "truffle chicken spaghetti bowl": {
+      "calories": 720,
+      "protein": 32,
+      "carbs": 76,
+      "fat": 28,
+      "sodium": 1180,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "iced lemon tea (regular)": {
+      "calories": 80,
+      "protein": 0,
+      "carbs": 20,
+      "fat": 0,
+      "sodium": 50,
+      "sugar": 18,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in calories"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "chicken sausage burger": {
+      "calories": 480,
+      "protein": 24,
+      "carbs": 40,
+      "fat": 24,
+      "sodium": 1220,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "strawberry fizzy pop": {
+      "calories": 160,
+      "protein": 0,
+      "carbs": 42,
+      "fat": 0,
+      "sodium": 60,
+      "sugar": 40,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "mala 88 sauce": {
+      "calories": 45,
+      "protein": 1,
+      "carbs": 6,
+      "fat": 2,
+      "sodium": 580,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "iced lemon tea (large)": {
+      "calories": 120,
+      "protein": 0,
+      "carbs": 30,
+      "fat": 0,
+      "sodium": 75,
+      "sugar": 28,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in calories"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "low fat milk original": {
+      "calories": 140,
+      "protein": 9,
+      "carbs": 13,
+      "fat": 2.5,
+      "sodium": 140,
+      "sugar": 12,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Good source of calcium"
+      ],
+      "healthWarnings": []
+    },
+    "reg mashed potatoes": {
+      "calories": 260,
+      "protein": 4,
+      "carbs": 32,
+      "fat": 12,
+      "sodium": 940,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "large mashed potatoes": {
+      "calories": 360,
+      "protein": 6,
+      "carbs": 44,
+      "fat": 16,
+      "sodium": 1240,
+      "sugar": 3,
+      "fiber": 3,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "low fat milk chocolate": {
+      "calories": 180,
+      "protein": 8,
+      "carbs": 28,
+      "fat": 3,
+      "sodium": 150,
+      "sugar": 24,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of calcium",
+        "Lower fat option"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "reg coleslaw": {
+      "calories": 170,
+      "protein": 2,
+      "carbs": 12,
+      "fat": 13,
+      "sodium": 380,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "iced milo (regular)": {
+      "calories": 220,
+      "protein": 6,
+      "carbs": 42,
+      "fat": 4,
+      "sodium": 180,
+      "sugar": 38,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "iced milo (large)": {
+      "calories": 310,
+      "protein": 8,
+      "carbs": 60,
+      "fat": 5,
+      "sodium": 250,
+      "sugar": 54,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "large coleslaw": {
+      "calories": 280,
+      "protein": 3,
+      "carbs": 20,
+      "fat": 21,
+      "sodium": 620,
+      "sugar": 12,
+      "fiber": 3,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "reg cajun fries": {
+      "calories": 320,
+      "protein": 4,
+      "carbs": 42,
+      "fat": 15,
+      "sodium": 580,
+      "sugar": 0,
+      "fiber": 4,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "mango peach sjora (regular)": {
+      "calories": 200,
+      "protein": 1,
+      "carbs": 48,
+      "fat": 1,
+      "sodium": 120,
+      "sugar": 42,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "mango peach sjora (large)": {
+      "calories": 280,
+      "protein": 2,
+      "carbs": 68,
+      "fat": 1,
+      "sodium": 170,
+      "sugar": 60,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "large cajun fries": {
+      "calories": 480,
+      "protein": 6,
+      "carbs": 63,
+      "fat": 23,
+      "sodium": 870,
+      "sugar": 0,
+      "fiber": 6,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "large cheese fries": {
+      "calories": 580,
+      "protein": 12,
+      "carbs": 65,
+      "fat": 28,
+      "sodium": 1050,
+      "sugar": 2,
+      "fiber": 6,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Good source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "reg mac & cheese": {
+      "calories": 320,
+      "protein": 12,
+      "carbs": 38,
+      "fat": 12,
+      "sodium": 580,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Good source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "1pc biscuit with jam": {
+      "calories": 210,
+      "protein": 3,
+      "carbs": 30,
+      "fat": 9,
+      "sodium": 420,
+      "sugar": 12,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in sugar"
+      ]
+    },
+    "café americano (hot)": {
+      "calories": 10,
+      "protein": 1,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "4pc biscuit with jam": {
+      "calories": 840,
+      "protein": 12,
+      "carbs": 120,
+      "fat": 36,
+      "sodium": 1680,
+      "sugar": 48,
+      "fiber": 4,
+      "allergens": [
+        "Dairy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "café latte (hot)": {
+      "calories": 220,
+      "protein": 10,
+      "carbs": 20,
+      "fat": 9,
+      "sodium": 160,
+      "sugar": 16,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of calcium",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "cheesy tomato spaghetti": {
+      "calories": 380,
+      "protein": 14,
+      "carbs": 52,
+      "fat": 12,
+      "sodium": 620,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Good source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "cappuccino (hot)": {
+      "calories": 240,
+      "protein": 11,
+      "carbs": 22,
+      "fat": 10,
+      "sodium": 180,
+      "sugar": 18,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of calcium",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "café mocha (hot)": {
+      "calories": 280,
+      "protein": 10,
+      "carbs": 38,
+      "fat": 9,
+      "sodium": 200,
+      "sugar": 32,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of calcium",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "lychee berry sjora (regular)": {
+      "calories": 190,
+      "protein": 1,
+      "carbs": 46,
+      "fat": 1,
+      "sodium": 110,
+      "sugar": 40,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "lychee berry sjora (large)": {
+      "calories": 270,
+      "protein": 2,
+      "carbs": 66,
+      "fat": 1,
+      "sodium": 160,
+      "sugar": 58,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "butter rice": {
+      "calories": 280,
+      "protein": 5,
+      "carbs": 42,
+      "fat": 9,
+      "sodium": 520,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "chocolate (hot)": {
+      "calories": 220,
+      "protein": 8,
+      "carbs": 32,
+      "fat": 6,
+      "sodium": 140,
+      "sugar": 28,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "milo (hot)": {
+      "calories": 180,
+      "protein": 4,
+      "carbs": 28,
+      "fat": 5,
+      "sodium": 110,
+      "sugar": 24,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains iron",
+        "Contains B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "tea (hot)": {
+      "calories": 2,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Low calorie"
+      ],
+      "healthWarnings": []
+    },
+    "bottled water": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Hydrating",
+        "Zero calories"
+      ],
+      "healthWarnings": []
+    },
+    "tropicana orange juice": {
+      "calories": 110,
+      "protein": 2,
+      "carbs": 26,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 24,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of vitamin C",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    }
+  }
+}

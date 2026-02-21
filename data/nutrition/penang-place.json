@@ -1,0 +1,108 @@
+{
+  "brand": "penang-place",
+  "generatedAt": "2026-02-21T11:13:37.064Z",
+  "items": {
+    "nasi lemak with customizable sides bento": {
+      "calories": 520,
+      "protein": 14,
+      "carbs": 62,
+      "fat": 22,
+      "sodium": 1080,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Shellfish",
+        "Egg",
+        "Peanut"
+      ],
+      "healthBenefits": [
+        "Good source of carbohydrates",
+        "Contains coconut milk with minerals"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "fried bee hoon & chicken cutlet bento with choon piah & veg": {
+      "calories": 580,
+      "protein": 18,
+      "carbs": 64,
+      "fat": 24,
+      "sodium": 1240,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Egg",
+        "Peanut",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories",
+        "Deep fried items"
+      ]
+    },
+    "beef rendang & coconut/white rice bento": {
+      "calories": 620,
+      "protein": 26,
+      "carbs": 58,
+      "fat": 28,
+      "sodium": 1180,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Fish",
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron",
+        "Contains spices with anti-inflammatory properties"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "customizable bento": {
+      "calories": 560,
+      "protein": 20,
+      "carbs": 60,
+      "fat": 24,
+      "sodium": 1150,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Shellfish",
+        "Egg",
+        "Peanut"
+      ],
+      "healthBenefits": [
+        "Customizable for dietary preferences",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    }
+  }
+}

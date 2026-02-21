@@ -1,0 +1,338 @@
+{
+  "brand": "zhang-liang-mala-tang-bedok-mall",
+  "generatedAt": "2026-02-21T12:27:51.578Z",
+  "items": {
+    "mala stir-fried 麻辣香锅 (干炒)": {
+      "calories": 320,
+      "protein": 18,
+      "carbs": 22,
+      "fat": 18,
+      "sodium": 1200,
+      "sugar": 3,
+      "fiber": 4,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "nongfu spring tea 茶π": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Zero calories",
+        "Hydrating"
+      ],
+      "healthWarnings": []
+    },
+    "mala original soup 麻辣原味汤底": {
+      "calories": 180,
+      "protein": 8,
+      "carbs": 12,
+      "fat": 12,
+      "sodium": 1400,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Warming broth base",
+        "Low calorie soup base"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Spicy"
+      ]
+    },
+    "oolong tea (no sugar) 醇香乌龙茶(无糖)": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Zero calories",
+        "Antioxidants",
+        "Sugar-free"
+      ],
+      "healthWarnings": []
+    },
+    "ayataka green tea 绫鹰绿茶": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Antioxidants",
+        "Zero calories",
+        "Revitalizing"
+      ],
+      "healthWarnings": []
+    },
+    "tomato soup 番茄汤": {
+      "calories": 140,
+      "protein": 4,
+      "carbs": 18,
+      "fat": 6,
+      "sodium": 900,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of lycopene",
+        "Low in fat",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate sugar"
+      ]
+    },
+    "tom yum soup 冬阴功汤": {
+      "calories": 160,
+      "protein": 6,
+      "carbs": 16,
+      "fat": 8,
+      "sodium": 1100,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Shellfish",
+        "Fish",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains herbs and spices",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Spicy",
+        "Contains shellfish"
+      ]
+    },
+    "peach oolong tea 桃香乌龙茶": {
+      "calories": 35,
+      "protein": 0,
+      "carbs": 8,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 7,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Antioxidants",
+        "Low calorie beverage"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "coke 可乐": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 39,
+      "fat": 0,
+      "sodium": 55,
+      "sugar": 39,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in calories",
+        "Caffeine"
+      ]
+    },
+    "tianshui malaban 天水风味麻辣拌": {
+      "calories": 300,
+      "protein": 16,
+      "carbs": 20,
+      "fat": 16,
+      "sodium": 1250,
+      "sugar": 3,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat",
+        "Spicy"
+      ]
+    },
+    "heytea sparkling juice 喜茶气泡水": {
+      "calories": 120,
+      "protein": 0,
+      "carbs": 30,
+      "fat": 0,
+      "sodium": 30,
+      "sugar": 28,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Refreshing beverage"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in calories"
+      ]
+    },
+    "mushroom soup 菌菇汤": {
+      "calories": 120,
+      "protein": 6,
+      "carbs": 14,
+      "fat": 5,
+      "sodium": 850,
+      "sugar": 2,
+      "fiber": 3,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Low calorie",
+        "Rich in umami"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "sprite 雪碧": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 36,
+      "fat": 0,
+      "sodium": 65,
+      "sugar": 36,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in calories"
+      ]
+    },
+    "stir-fried garlic (dry)蒜香清炒 (干)": {
+      "calories": 280,
+      "protein": 16,
+      "carbs": 18,
+      "fat": 15,
+      "sodium": 1100,
+      "sugar": 2,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains garlic",
+        "Low sugar"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "sour and spicy 酸辣金汤": {
+      "calories": 150,
+      "protein": 5,
+      "carbs": 14,
+      "fat": 7,
+      "sodium": 1150,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains vegetables",
+        "Aids digestion"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Spicy"
+      ]
+    },
+    "beef tallow maocai 蜀香牛油冒菜": {
+      "calories": 340,
+      "protein": 20,
+      "carbs": 18,
+      "fat": 22,
+      "sodium": 1300,
+      "sugar": 3,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains beef"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "savory dry mix 醇香干拌麻辣拌": {
+      "calories": 310,
+      "protein": 17,
+      "carbs": 21,
+      "fat": 17,
+      "sodium": 1200,
+      "sugar": 2,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    }
+  }
+}

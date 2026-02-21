@@ -1,0 +1,572 @@
+{
+  "brand": "mister-donut-bishan-junction-8",
+  "generatedAt": "2026-02-21T10:59:22.148Z",
+  "items": {
+    "chocolate": {
+      "calories": 280,
+      "protein": 4,
+      "carbs": 32,
+      "fat": 15,
+      "sodium": 210,
+      "sugar": 18,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "box of 6": {
+      "calories": 1680,
+      "protein": 24,
+      "carbs": 192,
+      "fat": 90,
+      "sodium": 1260,
+      "sugar": 108,
+      "fiber": 6,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories",
+        "High in sodium"
+      ]
+    },
+    "french cruller": {
+      "calories": 310,
+      "protein": 4,
+      "carbs": 28,
+      "fat": 20,
+      "sodium": 240,
+      "sugar": 16,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Dairy",
+        "Soy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "old fashion": {
+      "calories": 270,
+      "protein": 4,
+      "carbs": 30,
+      "fat": 14,
+      "sodium": 200,
+      "sugar": 16,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "okinawa pon de kokutou": {
+      "calories": 320,
+      "protein": 4,
+      "carbs": 38,
+      "fat": 16,
+      "sodium": 220,
+      "sugar": 24,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "angel cream": {
+      "calories": 330,
+      "protein": 4,
+      "carbs": 32,
+      "fat": 21,
+      "sodium": 260,
+      "sugar": 18,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Dairy",
+        "Soy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "honey dip": {
+      "calories": 290,
+      "protein": 4,
+      "carbs": 34,
+      "fat": 14,
+      "sodium": 230,
+      "sugar": 20,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Dairy",
+        "Soy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "signature pon de ring original": {
+      "calories": 280,
+      "protein": 4,
+      "carbs": 30,
+      "fat": 15,
+      "sodium": 210,
+      "sugar": 16,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "honey churro": {
+      "calories": 300,
+      "protein": 4,
+      "carbs": 32,
+      "fat": 16,
+      "sodium": 240,
+      "sugar": 18,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Dairy",
+        "Soy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "chocolate churro": {
+      "calories": 330,
+      "protein": 4,
+      "carbs": 36,
+      "fat": 18,
+      "sodium": 260,
+      "sugar": 22,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Dairy",
+        "Soy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "box of 10": {
+      "calories": 2800,
+      "protein": 40,
+      "carbs": 320,
+      "fat": 150,
+      "sodium": 2100,
+      "sugar": 180,
+      "fiber": 10,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories",
+        "High in sodium"
+      ]
+    },
+    "pon de ring strawberry": {
+      "calories": 310,
+      "protein": 4,
+      "carbs": 34,
+      "fat": 17,
+      "sodium": 230,
+      "sugar": 20,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "angel french": {
+      "calories": 340,
+      "protein": 4,
+      "carbs": 34,
+      "fat": 22,
+      "sodium": 270,
+      "sugar": 19,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Dairy",
+        "Soy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "sugar raised": {
+      "calories": 290,
+      "protein": 4,
+      "carbs": 34,
+      "fat": 14,
+      "sodium": 230,
+      "sugar": 20,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Dairy",
+        "Soy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "custard cream": {
+      "calories": 340,
+      "protein": 4,
+      "carbs": 34,
+      "fat": 22,
+      "sodium": 270,
+      "sugar": 20,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Dairy",
+        "Soy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "strawberry fashion": {
+      "calories": 310,
+      "protein": 4,
+      "carbs": 34,
+      "fat": 17,
+      "sodium": 230,
+      "sugar": 20,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "okinawa kokutou fashion": {
+      "calories": 330,
+      "protein": 4,
+      "carbs": 36,
+      "fat": 18,
+      "sodium": 240,
+      "sugar": 24,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "strawberry chocolate": {
+      "calories": 310,
+      "protein": 4,
+      "carbs": 34,
+      "fat": 17,
+      "sodium": 230,
+      "sugar": 20,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "custard strawberry french": {
+      "calories": 350,
+      "protein": 4,
+      "carbs": 36,
+      "fat": 23,
+      "sodium": 280,
+      "sugar": 21,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Dairy",
+        "Soy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "strawberry ring": {
+      "calories": 310,
+      "protein": 4,
+      "carbs": 34,
+      "fat": 17,
+      "sodium": 230,
+      "sugar": 20,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Dairy",
+        "Soy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "strawberry milk tea cream": {
+      "calories": 280,
+      "protein": 4.5,
+      "carbs": 38,
+      "fat": 12,
+      "sodium": 180,
+      "sugar": 22,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Dairy",
+        "Soy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "pon de ring chocolate": {
+      "calories": 260,
+      "protein": 4,
+      "carbs": 35,
+      "fat": 11,
+      "sodium": 170,
+      "sugar": 18,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "strawberry churro": {
+      "calories": 290,
+      "protein": 4,
+      "carbs": 40,
+      "fat": 13,
+      "sodium": 200,
+      "sugar": 24,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Dairy",
+        "Soy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "golden chocolate": {
+      "calories": 310,
+      "protein": 4.5,
+      "carbs": 39,
+      "fat": 15,
+      "sodium": 190,
+      "sugar": 20,
+      "fiber": 1.5,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "chocolate fashion": {
+      "calories": 300,
+      "protein": 5,
+      "carbs": 38,
+      "fat": 14,
+      "sodium": 210,
+      "sugar": 19,
+      "fiber": 1.5,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "pon de choco crunch": {
+      "calories": 320,
+      "protein": 5.5,
+      "carbs": 37,
+      "fat": 16,
+      "sodium": 195,
+      "sugar": 21,
+      "fiber": 1.5,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Soy",
+        "Egg",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Source of tree nuts"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "chocolate ring": {
+      "calories": 270,
+      "protein": 4,
+      "carbs": 36,
+      "fat": 12,
+      "sodium": 180,
+      "sugar": 17,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Dairy",
+        "Soy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    }
+  }
+}

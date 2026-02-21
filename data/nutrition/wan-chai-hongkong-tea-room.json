@@ -1,0 +1,77 @@
+{
+  "brand": "wan-chai-hongkong-tea-room",
+  "generatedAt": "2026-02-21T12:15:43.125Z",
+  "items": {
+    "seafood crispy noodle": {
+      "calories": 520,
+      "protein": 22,
+      "carbs": 58,
+      "fat": 20,
+      "sodium": 1280,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Shellfish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3 fatty acids",
+        "Source of minerals from seafood"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "century egg with minced pork porridge": {
+      "calories": 380,
+      "protein": 18,
+      "carbs": 42,
+      "fat": 14,
+      "sodium": 1420,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Easy to digest",
+        "Contains iron from century egg"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in cholesterol",
+        "Contains lead-based preservatives in century egg"
+      ]
+    },
+    "chicken with sausage & black mushroom steamed rice": {
+      "calories": 450,
+      "protein": 28,
+      "carbs": 50,
+      "fat": 12,
+      "sodium": 1350,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains B vitamins",
+        "Rich in minerals from mushrooms"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Processed meat content in sausage",
+        "High in saturated fat"
+      ]
+    }
+  }
+}

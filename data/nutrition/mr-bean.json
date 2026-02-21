@@ -1,0 +1,89 @@
+{
+  "brand": "mr-bean",
+  "generatedAt": "2026-02-21T11:00:51.807Z",
+  "items": {
+    "dairy-free soft serve ice cream": {
+      "calories": 120,
+      "protein": 3,
+      "carbs": 18,
+      "fat": 4,
+      "sodium": 80,
+      "sugar": 12,
+      "fiber": 2,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Lower sugar content",
+        "Good source of dietary fibre",
+        "Dairy-free alternative",
+        "Suitable for vegans"
+      ],
+      "healthWarnings": []
+    },
+    "beancurd range": {
+      "calories": 280,
+      "protein": 16,
+      "carbs": 22,
+      "fat": 14,
+      "sodium": 620,
+      "sugar": 3,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron",
+        "Contains isoflavones",
+        "Low in saturated fat"
+      ],
+      "healthWarnings": [
+        "Moderate sodium content"
+      ]
+    },
+    "viet coffee": {
+      "calories": 240,
+      "protein": 4,
+      "carbs": 28,
+      "fat": 12,
+      "sodium": 95,
+      "sugar": 24,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from coffee"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat from condensed milk"
+      ]
+    },
+    "teriyaki chicken wholegrain rice bowl": {
+      "calories": 520,
+      "protein": 32,
+      "carbs": 58,
+      "fat": 12,
+      "sodium": 750,
+      "sugar": 8,
+      "fiber": 4,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of whole grains",
+        "Contains fibre",
+        "Balanced macronutrients"
+      ],
+      "healthWarnings": [
+        "Moderate to high sodium content"
+      ]
+    }
+  }
+}

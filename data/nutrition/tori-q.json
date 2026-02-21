@@ -1,0 +1,644 @@
+{
+  "brand": "tori-q",
+  "generatedAt": "2026-02-21T12:13:28.418Z",
+  "items": {
+    "chicken karaage": {
+      "calories": 185,
+      "protein": 12,
+      "carbs": 8,
+      "fat": 11,
+      "sodium": 320,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Wheat",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "Deep fried"
+      ]
+    },
+    "original curry": {
+      "calories": 420,
+      "protein": 18,
+      "carbs": 48,
+      "fat": 16,
+      "sodium": 680,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Wheat"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in saturated fat"
+      ]
+    },
+    "chicken": {
+      "calories": 95,
+      "protein": 11,
+      "carbs": 2,
+      "fat": 5,
+      "sodium": 280,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Lean protein source",
+        "Low carb"
+      ],
+      "healthWarnings": [
+        "Grilled with salt"
+      ]
+    },
+    "bento a": {
+      "calories": 580,
+      "protein": 32,
+      "carbs": 52,
+      "fat": 22,
+      "sodium": 750,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Egg",
+        "Dairy",
+        "Sesame",
+        "Soy",
+        "Wheat"
+      ],
+      "healthBenefits": [
+        "Balanced meal",
+        "Good protein content",
+        "Includes vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in saturated fat"
+      ]
+    },
+    "ebi curry": {
+      "calories": 480,
+      "protein": 22,
+      "carbs": 52,
+      "fat": 18,
+      "sodium": 820,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Wheat"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables",
+        "Source of omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in fat"
+      ]
+    },
+    "pork": {
+      "calories": 110,
+      "protein": 12,
+      "carbs": 1,
+      "fat": 6,
+      "sodium": 320,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good protein source",
+        "Low carb"
+      ],
+      "healthWarnings": [
+        "Grilled with salt"
+      ]
+    },
+    "crispy karaage": {
+      "calories": 195,
+      "protein": 12,
+      "carbs": 10,
+      "fat": 12,
+      "sodium": 340,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Wheat",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "Deep fried"
+      ]
+    },
+    "bento b": {
+      "calories": 575,
+      "protein": 33,
+      "carbs": 50,
+      "fat": 21,
+      "sodium": 740,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Egg",
+        "Dairy",
+        "Sesame",
+        "Soy",
+        "Wheat"
+      ],
+      "healthBenefits": [
+        "Balanced meal",
+        "High protein",
+        "Includes vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in saturated fat"
+      ]
+    },
+    "karaage curry": {
+      "calories": 520,
+      "protein": 24,
+      "carbs": 50,
+      "fat": 22,
+      "sodium": 800,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Wheat",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good protein content",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Deep fried"
+      ]
+    },
+    "chicken ball": {
+      "calories": 105,
+      "protein": 7,
+      "carbs": 6,
+      "fat": 6,
+      "sodium": 220,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Egg",
+        "Dairy",
+        "Sesame",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good protein source"
+      ],
+      "healthWarnings": [
+        "Contains dairy and egg"
+      ]
+    },
+    "piri-kara karaage": {
+      "calories": 190,
+      "protein": 12,
+      "carbs": 9,
+      "fat": 11,
+      "sodium": 380,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Wheat",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "Spicy",
+        "Deep fried"
+      ]
+    },
+    "bento c": {
+      "calories": 560,
+      "protein": 31,
+      "carbs": 48,
+      "fat": 24,
+      "sodium": 730,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Wheat",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Balanced meal",
+        "Good protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Deep fried"
+      ]
+    },
+    "chicken fillet": {
+      "calories": 120,
+      "protein": 13,
+      "carbs": 3,
+      "fat": 6,
+      "sodium": 290,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Lean protein source",
+        "Low carb"
+      ],
+      "healthWarnings": [
+        "Grilled with salt"
+      ]
+    },
+    "deep fried prawn": {
+      "calories": 165,
+      "protein": 10,
+      "carbs": 12,
+      "fat": 8,
+      "sodium": 310,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Egg",
+        "Prawn",
+        "Wheat",
+        "Sulphites"
+      ],
+      "healthBenefits": [
+        "Good protein source",
+        "Source of omega-3"
+      ],
+      "healthWarnings": [
+        "Deep fried",
+        "Contains sulphites"
+      ]
+    },
+    "chicken skin": {
+      "calories": 135,
+      "protein": 10,
+      "carbs": 1,
+      "fat": 10,
+      "sodium": 310,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good protein source"
+      ],
+      "healthWarnings": [
+        "High in fat and saturated fat"
+      ]
+    },
+    "mini hashed potato": {
+      "calories": 145,
+      "protein": 3,
+      "carbs": 16,
+      "fat": 7,
+      "sodium": 280,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Wheat"
+      ],
+      "healthBenefits": [
+        "Contains carbohydrates for energy"
+      ],
+      "healthWarnings": [
+        "Deep fried",
+        "High in fat"
+      ]
+    },
+    "deep fried siew mai": {
+      "calories": 155,
+      "protein": 8,
+      "carbs": 10,
+      "fat": 9,
+      "sodium": 350,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Prawn",
+        "Sesame",
+        "Wheat",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Contains protein"
+      ],
+      "healthWarnings": [
+        "Deep fried",
+        "High in sodium"
+      ]
+    },
+    "tontoro pork": {
+      "calories": 145,
+      "protein": 13,
+      "carbs": 2,
+      "fat": 9,
+      "sodium": 330,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good protein source",
+        "Rich in flavor"
+      ],
+      "healthWarnings": [
+        "High in fat"
+      ]
+    },
+    "pork with asparagus": {
+      "calories": 165,
+      "protein": 15,
+      "carbs": 3,
+      "fat": 10,
+      "sodium": 380,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good protein source",
+        "Contains vegetables",
+        "Low carb"
+      ],
+      "healthWarnings": [
+        "Moderate in fat"
+      ]
+    },
+    "chicken gyoza": {
+      "calories": 175,
+      "protein": 8,
+      "carbs": 14,
+      "fat": 9,
+      "sodium": 420,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Wheat",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Contains protein"
+      ],
+      "healthWarnings": [
+        "Deep fried",
+        "High in sodium"
+      ]
+    },
+    "chicken with green pepper": {
+      "calories": 95,
+      "protein": 12,
+      "carbs": 2,
+      "fat": 4.5,
+      "sodium": 320,
+      "sugar": 0.5,
+      "fiber": 0.3,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Low in carbs",
+        "Rich in vitamin C from peppers"
+      ],
+      "healthWarnings": [
+        "Moderate sodium content"
+      ]
+    },
+    "curry croquette with cheese": {
+      "calories": 165,
+      "protein": 5,
+      "carbs": 14,
+      "fat": 9,
+      "sodium": 380,
+      "sugar": 1,
+      "fiber": 0.5,
+      "allergens": [
+        "Dairy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Source of calcium from cheese"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in fat",
+        "High in sodium"
+      ]
+    },
+    "chicken with leek": {
+      "calories": 88,
+      "protein": 11,
+      "carbs": 3,
+      "fat": 4,
+      "sodium": 310,
+      "sugar": 0.8,
+      "fiber": 0.4,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Low in carbs"
+      ],
+      "healthWarnings": [
+        "Moderate sodium content"
+      ]
+    },
+    "quail egg": {
+      "calories": 72,
+      "protein": 6,
+      "carbs": 0.5,
+      "fat": 5,
+      "sodium": 290,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Excellent source of protein",
+        "Rich in choline",
+        "Low in carbs"
+      ],
+      "healthWarnings": [
+        "High in cholesterol"
+      ]
+    },
+    "nitamago (japanese braised egg)": {
+      "calories": 85,
+      "protein": 7,
+      "carbs": 2,
+      "fat": 5.5,
+      "sodium": 420,
+      "sugar": 1.5,
+      "fiber": 0,
+      "allergens": [
+        "Egg",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Rich in choline"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in cholesterol"
+      ]
+    },
+    "super jumbo sausage": {
+      "calories": 185,
+      "protein": 10,
+      "carbs": 2,
+      "fat": 14,
+      "sodium": 520,
+      "sugar": 0.5,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in saturated fat",
+        "Very high in sodium"
+      ]
+    },
+    "smoked cheese sausage": {
+      "calories": 195,
+      "protein": 11,
+      "carbs": 1,
+      "fat": 15,
+      "sodium": 540,
+      "sugar": 0.3,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in saturated fat",
+        "Very high in sodium"
+      ]
+    },
+    "gulugulu skin": {
+      "calories": 125,
+      "protein": 8,
+      "carbs": 1,
+      "fat": 9.5,
+      "sodium": 480,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Low in carbs"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "Very high in sodium"
+      ]
+    },
+    "chicken with onion": {
+      "calories": 92,
+      "protein": 11,
+      "carbs": 3,
+      "fat": 4.2,
+      "sodium": 315,
+      "sugar": 1,
+      "fiber": 0.3,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Low in carbs"
+      ],
+      "healthWarnings": [
+        "Moderate sodium content"
+      ]
+    },
+    "unagi": {
+      "calories": 165,
+      "protein": 16,
+      "carbs": 8,
+      "fat": 7,
+      "sodium": 450,
+      "sugar": 7,
+      "fiber": 0,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Excellent source of protein",
+        "Rich in omega-3 fatty acids",
+        "Good source of vitamin A"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate sugar content"
+      ]
+    }
+  }
+}

@@ -1,0 +1,523 @@
+{
+  "brand": "san-ren-xing-bedok-mall",
+  "generatedAt": "2026-02-21T11:26:44.175Z",
+  "items": {
+    "sauerkraut fish 酸菜鱼": {
+      "calories": 480,
+      "protein": 42,
+      "carbs": 12,
+      "fat": 28,
+      "sodium": 1820,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of omega-3",
+        "Rich in vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat",
+        "Spicy - may irritate digestive system"
+      ]
+    },
+    "prosperity abalone yu sheng 发财原粒鲍鱼鱼生": {
+      "calories": 520,
+      "protein": 48,
+      "carbs": 28,
+      "fat": 18,
+      "sodium": 2100,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Shellfish",
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of minerals",
+        "Low in saturated fat"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Raw seafood - food safety concern",
+        "High in cholesterol"
+      ]
+    },
+    "stir-fried vegetable with black fungus&mushroom(chef recommendation) 珍菌爆三翠(厨师推荐)": {
+      "calories": 180,
+      "protein": 12,
+      "carbs": 18,
+      "fat": 8,
+      "sodium": 920,
+      "sugar": 4,
+      "fiber": 5,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "Good source of vitamins",
+        "Low in calories",
+        "Rich in antioxidants"
+      ],
+      "healthWarnings": [
+        "Moderate sodium content"
+      ]
+    },
+    "bento a - drumstick bento": {
+      "calories": 520,
+      "protein": 38,
+      "carbs": 52,
+      "fat": 14,
+      "sodium": 1100,
+      "sugar": 2,
+      "fiber": 3,
+      "allergens": [
+        "Egg",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Balanced meal",
+        "Good source of protein",
+        "Contains vegetables",
+        "Includes whole grains"
+      ],
+      "healthWarnings": [
+        "Moderate sodium",
+        "Contains braised preparation with added oil"
+      ]
+    },
+    "nutritious stew-pot chicken mushrooms (chef recommendation) 养生锅 (厨师推荐)": {
+      "calories": 420,
+      "protein": 52,
+      "carbs": 16,
+      "fat": 16,
+      "sodium": 1400,
+      "sugar": 3,
+      "fiber": 4,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in mushrooms - immune support",
+        "Good source of B vitamins",
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "Moderate sodium",
+        "High in cholesterol"
+      ]
+    },
+    "hot yam paste in coconut (chef recommendation) 原味椰子芋泥露 (厨师推荐)": {
+      "calories": 280,
+      "protein": 4,
+      "carbs": 38,
+      "fat": 12,
+      "sodium": 320,
+      "sugar": 18,
+      "fiber": 3,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains potassium",
+        "Provides energy"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in fat from coconut milk",
+        "High in calories for dessert portion"
+      ]
+    },
+    "steamed garlic prawn with vermeceili 蒜蓉粉丝开边虾": {
+      "calories": 380,
+      "protein": 36,
+      "carbs": 24,
+      "fat": 14,
+      "sodium": 1520,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Shellfish",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iodine",
+        "Low in calories"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in cholesterol",
+        "Contains shellfish allergen"
+      ]
+    },
+    "stir-fried kai lan with beancurd skin 芥兰腐皮": {
+      "calories": 240,
+      "protein": 16,
+      "carbs": 14,
+      "fat": 14,
+      "sodium": 1050,
+      "sugar": 2,
+      "fiber": 4,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "High in fiber",
+        "Rich in vitamins",
+        "Good source of calcium"
+      ],
+      "healthWarnings": [
+        "Moderate sodium",
+        "Contains oil for stir-frying"
+      ]
+    },
+    "nourishing peach gum dessert 养颜桃胶": {
+      "calories": 160,
+      "protein": 3,
+      "carbs": 28,
+      "fat": 3,
+      "sodium": 280,
+      "sugar": 16,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in fat",
+        "Contains red dates - traditional wellness",
+        "Low calorie dessert"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Limited nutritional value"
+      ]
+    },
+    "deep fried fish soup in claypot 原味鱼汤": {
+      "calories": 420,
+      "protein": 38,
+      "carbs": 18,
+      "fat": 20,
+      "sodium": 1680,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of omega-3",
+        "Rich in minerals"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat from deep frying",
+        "High cholesterol content"
+      ]
+    },
+    "bento b - fried rice bento": {
+      "calories": 580,
+      "protein": 32,
+      "carbs": 62,
+      "fat": 18,
+      "sodium": 1420,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Egg",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Includes vegetables",
+        "Balanced carbs and protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat",
+        "High in calories"
+      ]
+    },
+    "stir-fried cabbage with pork strips 干锅高丽菜": {
+      "calories": 320,
+      "protein": 26,
+      "carbs": 12,
+      "fat": 20,
+      "sodium": 1200,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of fiber",
+        "Rich in vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat from stir-frying",
+        "High in saturated fat"
+      ]
+    },
+    "bento c - fish bento": {
+      "calories": 540,
+      "protein": 34,
+      "carbs": 54,
+      "fat": 18,
+      "sodium": 1100,
+      "sugar": 2,
+      "fiber": 3,
+      "allergens": [
+        "Fish",
+        "Egg",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3 from fish",
+        "Balanced meal"
+      ],
+      "healthWarnings": [
+        "High in fat from deep frying",
+        "Moderate sodium",
+        "High in calories"
+      ]
+    },
+    "pumpkin creamy butter prawn 金瓜奶油虾": {
+      "calories": 420,
+      "protein": 32,
+      "carbs": 18,
+      "fat": 26,
+      "sodium": 1340,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Dairy",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains pumpkin - vitamin A",
+        "Creamy sauce adds richness"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium",
+        "High in calories from cream and butter"
+      ]
+    },
+    "bento d - vegan bento": {
+      "calories": 480,
+      "protein": 28,
+      "carbs": 56,
+      "fat": 12,
+      "sodium": 1050,
+      "sugar": 2,
+      "fiber": 5,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "Good plant-based protein",
+        "Balanced nutrients",
+        "Suitable for vegan diet"
+      ],
+      "healthWarnings": [
+        "Moderate sodium",
+        "Plant-based meat processing"
+      ]
+    },
+    "stir-fried beancurd 西施豆腐": {
+      "calories": 220,
+      "protein": 18,
+      "carbs": 10,
+      "fat": 12,
+      "sodium": 880,
+      "sugar": 2,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of calcium",
+        "Low in calories",
+        "Contains iron"
+      ],
+      "healthWarnings": [
+        "Moderate sodium",
+        "Contains oil from stir-frying"
+      ]
+    },
+    "家庭套餐 a （2 人份) family set a (2 pax)": {
+      "calories": 1240,
+      "protein": 84,
+      "carbs": 96,
+      "fat": 42,
+      "sodium": 2680,
+      "sugar": 8,
+      "fiber": 5,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Balanced meal for 2",
+        "Contains multiple food groups"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat",
+        "High in calories"
+      ]
+    },
+    "stir-fried asparagus with bacon 家乡小炒皇": {
+      "calories": 340,
+      "protein": 24,
+      "carbs": 14,
+      "fat": 22,
+      "sodium": 1480,
+      "sugar": 3,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of asparagus nutrients",
+        "Rich in vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in cholesterol from bacon"
+      ]
+    },
+    "家庭套餐 b （4 人份) family set b (4 pax)": {
+      "calories": 2180,
+      "protein": 168,
+      "carbs": 156,
+      "fat": 72,
+      "sodium": 4720,
+      "sugar": 12,
+      "fiber": 8,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Comprehensive meal for 4",
+        "Variety of proteins and vegetables"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in fat",
+        "High in calories",
+        "High in cholesterol"
+      ]
+    },
+    "spinach in supreme stock 上汤苋菜": {
+      "calories": 160,
+      "protein": 14,
+      "carbs": 12,
+      "fat": 6,
+      "sodium": 1100,
+      "sugar": 2,
+      "fiber": 4,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "Rich in iron",
+        "High in vitamins",
+        "Low in calories"
+      ],
+      "healthWarnings": [
+        "Moderate sodium",
+        "High in oxalates - may affect mineral absorption"
+      ]
+    },
+    "stir-fried french bean 干煸四季豆": {
+      "calories": 280,
+      "protein": 8,
+      "carbs": 12,
+      "fat": 22,
+      "sodium": 820,
+      "sugar": 2,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Rich in vitamins and minerals",
+        "Low in sugar"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat due to stir-frying oil"
+      ]
+    },
+    "dry fried poplar mushroom 干锅茶树菇": {
+      "calories": 320,
+      "protein": 12,
+      "carbs": 14,
+      "fat": 24,
+      "sodium": 920,
+      "sugar": 1,
+      "fiber": 4,
+      "allergens": [
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Rich in umami and antioxidants",
+        "High in fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat due to dry-frying preparation",
+        "Contains sesame oil"
+      ]
+    }
+  }
+}

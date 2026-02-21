@@ -1,0 +1,1251 @@
+{
+  "brand": "pepper-lunch",
+  "generatedAt": "2026-02-21T11:15:37.567Z",
+  "items": {
+    "meat trio bento. set a (1 drink + 1 side dish)": {
+      "calories": 720,
+      "protein": 42,
+      "carbs": 68,
+      "fat": 28,
+      "sodium": 1420,
+      "sugar": 8,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "striploin steak (beef) donburi. set a (1 drink + 1 side dish)": {
+      "calories": 780,
+      "protein": 48,
+      "carbs": 72,
+      "fat": 32,
+      "sodium": 1380,
+      "sugar": 7,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "High in iron",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in cholesterol"
+      ]
+    },
+    "beef & beef hamburg j'curry rice. set a (1 drink + 1 side dish)": {
+      "calories": 750,
+      "protein": 45,
+      "carbs": 75,
+      "fat": 30,
+      "sodium": 1520,
+      "sugar": 9,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "beef aglio olio. set a (1 drink + 1 side dish)": {
+      "calories": 680,
+      "protein": 38,
+      "carbs": 68,
+      "fat": 26,
+      "sodium": 1180,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "jumbo beef pepper rice bowl with drink.": {
+      "calories": 620,
+      "protein": 36,
+      "carbs": 58,
+      "fat": 24,
+      "sodium": 1280,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "meat trio bento. set b (1 drink + 2 side dishes)": {
+      "calories": 800,
+      "protein": 45,
+      "carbs": 78,
+      "fat": 32,
+      "sodium": 1520,
+      "sugar": 9,
+      "fiber": 5,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of fiber",
+        "Good source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "beef aglio olio. set b (1 drink + 2 side dishes)": {
+      "calories": 750,
+      "protein": 40,
+      "carbs": 76,
+      "fat": 28,
+      "sodium": 1240,
+      "sugar": 7,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of fiber",
+        "Good source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "striploin steak (beef) donburi. set b (1 drink + 2 side dishes)": {
+      "calories": 860,
+      "protein": 50,
+      "carbs": 82,
+      "fat": 36,
+      "sodium": 1480,
+      "sugar": 8,
+      "fiber": 5,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "High in iron",
+        "Good source of B vitamins",
+        "Good source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in cholesterol"
+      ]
+    },
+    "beef & beef hamburg j'curry rice. set b (1 drink + 2 side dishes)": {
+      "calories": 820,
+      "protein": 47,
+      "carbs": 85,
+      "fat": 34,
+      "sodium": 1620,
+      "sugar": 10,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of fiber",
+        "Good source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "jumbo chicken pepper rice bowl with drink.": {
+      "calories": 580,
+      "protein": 38,
+      "carbs": 56,
+      "fat": 18,
+      "sodium": 1200,
+      "sugar": 5,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "striploin steak (beef) & diced cut steak (beef) bento. set a (1 drink + 1 side d": {
+      "calories": 820,
+      "protein": 52,
+      "carbs": 74,
+      "fat": 34,
+      "sodium": 1400,
+      "sugar": 7,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "High in iron",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in cholesterol"
+      ]
+    },
+    "scallop & chicken j'curry rice. set a (1 drink + 1 side dish)": {
+      "calories": 710,
+      "protein": 40,
+      "carbs": 72,
+      "fat": 28,
+      "sodium": 1480,
+      "sugar": 8,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Shellfish",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of carbohydrates",
+        "Source of omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "seafood aglio olio. set a (1 drink + 1 side dish)": {
+      "calories": 690,
+      "protein": 36,
+      "carbs": 70,
+      "fat": 26,
+      "sodium": 1350,
+      "sugar": 5,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Shellfish",
+        "Soy",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of carbohydrates",
+        "Source of omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "diced cut steak (beef) donburi. set a (1 drink + 1 side dish)": {
+      "calories": 700,
+      "protein": 42,
+      "carbs": 70,
+      "fat": 28,
+      "sodium": 1340,
+      "sugar": 6,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "High in iron",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "2 jumbo beef pepper rice bowl set.": {
+      "calories": 1240,
+      "protein": 72,
+      "carbs": 116,
+      "fat": 48,
+      "sodium": 2560,
+      "sugar": 12,
+      "fiber": 6,
+      "allergens": [
+        "Soy",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "seafood aglio olio. set b (1 drink + 2 side dishes)": {
+      "calories": 760,
+      "protein": 38,
+      "carbs": 78,
+      "fat": 28,
+      "sodium": 1410,
+      "sugar": 6,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Shellfish",
+        "Soy",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of fiber",
+        "Source of omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "scallop & chicken j'curry rice. set b (1 drink + 2 side dishes)": {
+      "calories": 780,
+      "protein": 42,
+      "carbs": 82,
+      "fat": 30,
+      "sodium": 1580,
+      "sugar": 9,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Shellfish",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of fiber",
+        "Source of omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "striploin steak (beef) & diced cut steak (beef) bento. set b (1 drink + 2 side d": {
+      "calories": 900,
+      "protein": 54,
+      "carbs": 84,
+      "fat": 38,
+      "sodium": 1500,
+      "sugar": 8,
+      "fiber": 5,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "High in iron",
+        "Good source of B vitamins",
+        "Good source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in cholesterol"
+      ]
+    },
+    "2 jumbo chicken pepper rice bowl set.": {
+      "calories": 1160,
+      "protein": 76,
+      "carbs": 112,
+      "fat": 36,
+      "sodium": 2400,
+      "sugar": 10,
+      "fiber": 6,
+      "allergens": [
+        "Soy",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "diced cut steak (beef) donburi. set b (1 drink + 2 side dishes)": {
+      "calories": 770,
+      "protein": 44,
+      "carbs": 80,
+      "fat": 30,
+      "sodium": 1440,
+      "sugar": 7,
+      "fiber": 5,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "High in iron",
+        "Good source of B vitamins",
+        "Good source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "beef pepper yakiudon. set a (1 drink + 1 side dish)": {
+      "calories": 720,
+      "protein": 32,
+      "carbs": 78,
+      "fat": 28,
+      "sodium": 1680,
+      "sugar": 8,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "1 jumbo beef pr + 1 jumbo chic pr set.": {
+      "calories": 1420,
+      "protein": 68,
+      "carbs": 128,
+      "fat": 52,
+      "sodium": 2800,
+      "sugar": 12,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains iron"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "broccoli & mushroom j'curry rice. set a (1 drink + 1 side dish)": {
+      "calories": 580,
+      "protein": 18,
+      "carbs": 82,
+      "fat": 16,
+      "sodium": 1240,
+      "sugar": 10,
+      "fiber": 5,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains vitamins and minerals"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "teriyaki chicken with egg donburi. set a (1 drink + 1 side dish)": {
+      "calories": 650,
+      "protein": 36,
+      "carbs": 76,
+      "fat": 18,
+      "sodium": 1520,
+      "sugar": 12,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "beef trio bento. set a (1 drink + 1 side dish)": {
+      "calories": 780,
+      "protein": 42,
+      "carbs": 72,
+      "fat": 32,
+      "sodium": 1640,
+      "sugar": 8,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains iron and B vitamins"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "teriyaki chicken with egg donburi. set b (1 drink + 2 side dishes)": {
+      "calories": 720,
+      "protein": 38,
+      "carbs": 84,
+      "fat": 20,
+      "sodium": 1640,
+      "sugar": 13,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vitamins and fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "beef pepper yakiudon. set b (1 drink + 2 side dishes)": {
+      "calories": 800,
+      "protein": 35,
+      "carbs": 88,
+      "fat": 30,
+      "sodium": 1780,
+      "sugar": 9,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "beef trio bento. set b (1 drink + 2 side dishes)": {
+      "calories": 860,
+      "protein": 45,
+      "carbs": 82,
+      "fat": 34,
+      "sodium": 1760,
+      "sugar": 9,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains iron and B vitamins"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "broccoli & mushroom j'curry rice. set b (1 drink + 2 side dishes)": {
+      "calories": 660,
+      "protein": 20,
+      "carbs": 94,
+      "fat": 18,
+      "sodium": 1360,
+      "sugar": 11,
+      "fiber": 6,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains vitamins and minerals"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "chicken pepper yakiudon. set a (1 drink + 1 side dish)": {
+      "calories": 680,
+      "protein": 30,
+      "carbs": 78,
+      "fat": 22,
+      "sodium": 1600,
+      "sugar": 7,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "seafood trio bento. set a (1 drink + 1 side dish)": {
+      "calories": 720,
+      "protein": 38,
+      "carbs": 70,
+      "fat": 26,
+      "sodium": 1580,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Fish",
+        "Shellfish",
+        "Gluten",
+        "Soy",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "High in omega-3",
+        "Contains selenium"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Contains shellfish"
+      ]
+    },
+    "beef sukiyaki. set a (1 drink + 1 side dish)": {
+      "calories": 620,
+      "protein": 34,
+      "carbs": 68,
+      "fat": 20,
+      "sodium": 1440,
+      "sugar": 10,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains iron"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "loco moco beef hamburg donburi. set a (1 drink + 1 side dish)": {
+      "calories": 710,
+      "protein": 35,
+      "carbs": 74,
+      "fat": 26,
+      "sodium": 1520,
+      "sugar": 9,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "seafood trio bento. set b (1 drink + 2 side dishes)": {
+      "calories": 800,
+      "protein": 40,
+      "carbs": 80,
+      "fat": 28,
+      "sodium": 1700,
+      "sugar": 7,
+      "fiber": 4,
+      "allergens": [
+        "Fish",
+        "Shellfish",
+        "Gluten",
+        "Soy",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "High in omega-3",
+        "Contains selenium"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Contains shellfish"
+      ]
+    },
+    "chicken pepper yakiudon. set b (1 drink + 2 side dishes)": {
+      "calories": 760,
+      "protein": 32,
+      "carbs": 88,
+      "fat": 24,
+      "sodium": 1720,
+      "sugar": 8,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "beef sukiyaki. set b (1 drink + 2 side dishes)": {
+      "calories": 700,
+      "protein": 36,
+      "carbs": 78,
+      "fat": 22,
+      "sodium": 1560,
+      "sugar": 11,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains iron"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "loco moco beef hamburg donburi. set b (1 drink + 2 side dishes)": {
+      "calories": 790,
+      "protein": 37,
+      "carbs": 84,
+      "fat": 28,
+      "sodium": 1640,
+      "sugar": 10,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "salmon & chicken bento. set a (1 drink + 1 side dish)": {
+      "calories": 700,
+      "protein": 40,
+      "carbs": 70,
+      "fat": 24,
+      "sodium": 1520,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Soy",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "High in omega-3",
+        "Contains vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "salmon sukiyaki. set a (1 drink + 1 side dish)": {
+      "calories": 640,
+      "protein": 36,
+      "carbs": 68,
+      "fat": 22,
+      "sodium": 1460,
+      "sugar": 10,
+      "fiber": 3,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "High in omega-3",
+        "Contains selenium"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "jumbo beef pepper rice bowl. set a (1 drink + 1 side dish)": {
+      "calories": 740,
+      "protein": 36,
+      "carbs": 76,
+      "fat": 28,
+      "sodium": 1680,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains iron"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "salmon sukiyaki. set b (1 drink + 2 side dishes)": {
+      "calories": 820,
+      "protein": 42,
+      "carbs": 78,
+      "fat": 32,
+      "sodium": 1240,
+      "sugar": 12,
+      "fiber": 4,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "Good source of protein",
+        "Rich in vitamins and minerals"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in saturated fat"
+      ]
+    },
+    "salmon & chicken bento. set b (1 drink + 2 side dishes)": {
+      "calories": 890,
+      "protein": 48,
+      "carbs": 85,
+      "fat": 28,
+      "sodium": 1180,
+      "sugar": 8,
+      "fiber": 3,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of omega-3",
+        "Balanced macronutrients"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate calorie content"
+      ]
+    },
+    "jumbo beef pepper rice bowl. set b (1 drink + 2 side dishes)": {
+      "calories": 920,
+      "protein": 52,
+      "carbs": 92,
+      "fat": 32,
+      "sodium": 1420,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron",
+        "B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "beef pepper rice bowl. set a (1 drink + 1 side dish)": {
+      "calories": 720,
+      "protein": 38,
+      "carbs": 76,
+      "fat": 24,
+      "sodium": 1180,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron",
+        "B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate to high saturated fat"
+      ]
+    },
+    "beef pepper rice bowl. set b (1 drink + 2 side dishes)": {
+      "calories": 810,
+      "protein": 42,
+      "carbs": 85,
+      "fat": 28,
+      "sodium": 1340,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron",
+        "B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "jumbo chicken pepper rice bowl. set a (1 drink + 1 side dish)": {
+      "calories": 780,
+      "protein": 44,
+      "carbs": 78,
+      "fat": 22,
+      "sodium": 1220,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Lower in fat than beef",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "jumbo chicken pepper rice bowl. set b (1 drink + 2 side dishes)": {
+      "calories": 870,
+      "protein": 48,
+      "carbs": 87,
+      "fat": 26,
+      "sodium": 1380,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Lower in fat than beef",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate calorie content"
+      ]
+    },
+    "chicken pepper rice bowl. set a (1 drink + 1 side dish)": {
+      "calories": 680,
+      "protein": 36,
+      "carbs": 74,
+      "fat": 18,
+      "sodium": 1100,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Lower in fat",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "chicken pepper rice bowl. set b (1 drink + 2 side dishes)": {
+      "calories": 760,
+      "protein": 40,
+      "carbs": 82,
+      "fat": 22,
+      "sodium": 1260,
+      "sugar": 5,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Lower in fat",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "jumbo salmon pepper rice bowl. set a (1 drink + 1 side dish)": {
+      "calories": 780,
+      "protein": 42,
+      "carbs": 76,
+      "fat": 26,
+      "sodium": 1200,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "High in protein",
+        "Good source of vitamin D"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "jumbo salmon pepper rice bowl. set b (1 drink + 2 side dishes)": {
+      "calories": 860,
+      "protein": 46,
+      "carbs": 85,
+      "fat": 30,
+      "sodium": 1360,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "High in protein",
+        "Good source of vitamin D"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate saturated fat"
+      ]
+    },
+    "salmon pepper rice bowl. set a (1 drink + 1 side dish)": {
+      "calories": 700,
+      "protein": 38,
+      "carbs": 72,
+      "fat": 22,
+      "sodium": 1080,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "High in protein",
+        "Good source of vitamin D"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "salmon pepper rice bowl. set b (1 drink + 2 side dishes)": {
+      "calories": 780,
+      "protein": 42,
+      "carbs": 81,
+      "fat": 26,
+      "sodium": 1240,
+      "sugar": 5,
+      "fiber": 3,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "High in protein",
+        "Good source of vitamin D"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "broccoli & mushroom pepper rice bowl. set a (1 drink + 1 side dish)": {
+      "calories": 580,
+      "protein": 18,
+      "carbs": 78,
+      "fat": 18,
+      "sodium": 1040,
+      "sugar": 6,
+      "fiber": 6,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "Good source of vitamins and minerals",
+        "Lower in calories",
+        "Vegetarian"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Lower protein content"
+      ]
+    },
+    "broccoli & mushroom pepper rice bowl. set b (1 drink + 2 side dishes)": {
+      "calories": 650,
+      "protein": 22,
+      "carbs": 86,
+      "fat": 22,
+      "sodium": 1200,
+      "sugar": 7,
+      "fiber": 7,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "Good source of vitamins and minerals",
+        "Vegetarian",
+        "Lower in saturated fat"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Lower protein content compared to meat options"
+      ]
+    }
+  }
+}

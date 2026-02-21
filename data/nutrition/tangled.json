@@ -1,0 +1,420 @@
+{
+  "brand": "tangled",
+  "generatedAt": "2026-02-21T11:59:05.027Z",
+  "items": {
+    "rigatoni (spinach)-eggless": {
+      "calories": 380,
+      "protein": 13,
+      "carbs": 72,
+      "fat": 3,
+      "sodium": 520,
+      "sugar": 3,
+      "fiber": 6,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "Good source of iron from spinach",
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "Moderate sodium content"
+      ]
+    },
+    "spaghetti meet balls": {
+      "calories": 650,
+      "protein": 38,
+      "carbs": 68,
+      "fat": 22,
+      "sodium": 1180,
+      "sugar": 8,
+      "fiber": 5,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Moderate calories"
+      ]
+    },
+    "vegan wagon (vegan friendly)": {
+      "calories": 420,
+      "protein": 15,
+      "carbs": 70,
+      "fat": 8,
+      "sodium": 680,
+      "sugar": 6,
+      "fiber": 7,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "Good source of vegetables",
+        "Lower in fat",
+        "Vegan friendly"
+      ],
+      "healthWarnings": [
+        "Moderate sodium content"
+      ]
+    },
+    "rigatoni (squid ink)": {
+      "calories": 395,
+      "protein": 14,
+      "carbs": 74,
+      "fat": 3,
+      "sodium": 580,
+      "sugar": 2,
+      "fiber": 5,
+      "allergens": [
+        "Gluten",
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "Low in fat",
+        "Good source of minerals"
+      ],
+      "healthWarnings": [
+        "Moderate sodium content"
+      ]
+    },
+    "rigatoni (egg)": {
+      "calories": 410,
+      "protein": 16,
+      "carbs": 73,
+      "fat": 5,
+      "sodium": 490,
+      "sugar": 2,
+      "fiber": 5,
+      "allergens": [
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "Moderate sodium content"
+      ]
+    },
+    "spaghetti (egg)": {
+      "calories": 560,
+      "protein": 20,
+      "carbs": 68,
+      "fat": 20,
+      "sodium": 720,
+      "sugar": 3,
+      "fiber": 5,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in saturated fat",
+        "Moderate sodium"
+      ]
+    },
+    "creamy chicky": {
+      "calories": 680,
+      "protein": 42,
+      "carbs": 66,
+      "fat": 24,
+      "sodium": 950,
+      "sugar": 4,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "mango tango": {
+      "calories": 620,
+      "protein": 28,
+      "carbs": 72,
+      "fat": 18,
+      "sodium": 1040,
+      "sugar": 12,
+      "fiber": 6,
+      "allergens": [
+        "Gluten",
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains antioxidants from mango",
+        "Source of omega-3 from prawns"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate saturated fat"
+      ]
+    },
+    "spaghetti (squid ink)": {
+      "calories": 550,
+      "protein": 26,
+      "carbs": 70,
+      "fat": 14,
+      "sodium": 890,
+      "sugar": 3,
+      "fiber": 5,
+      "allergens": [
+        "Gluten",
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Source of minerals"
+      ],
+      "healthWarnings": [
+        "Moderate sodium",
+        "Moderate fat content"
+      ]
+    },
+    "smoky ducky": {
+      "calories": 640,
+      "protein": 35,
+      "carbs": 66,
+      "fat": 22,
+      "sodium": 1210,
+      "sugar": 8,
+      "fiber": 5,
+      "allergens": [
+        "Gluten",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of antioxidants from berries"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Spicy may irritate stomach"
+      ]
+    },
+    "pappardelle ricce (egg)": {
+      "calories": 430,
+      "protein": 18,
+      "carbs": 72,
+      "fat": 7,
+      "sodium": 510,
+      "sugar": 2,
+      "fiber": 5,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "Moderate sodium content"
+      ]
+    },
+    "pesto besto": {
+      "calories": 700,
+      "protein": 42,
+      "carbs": 65,
+      "fat": 28,
+      "sodium": 880,
+      "sugar": 5,
+      "fiber": 6,
+      "allergens": [
+        "Gluten",
+        "Fish",
+        "Tree Nut",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of omega-3 from salmon",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in saturated fat",
+        "Moderate sodium"
+      ]
+    },
+    "pappardelle ricce (mushroom)": {
+      "calories": 385,
+      "protein": 14,
+      "carbs": 71,
+      "fat": 4,
+      "sodium": 550,
+      "sugar": 3,
+      "fiber": 6,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "Good source of B vitamins from mushrooms",
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "Moderate sodium content"
+      ]
+    },
+    "pappardelle ricce (beetroot)": {
+      "calories": 410,
+      "protein": 15,
+      "carbs": 75,
+      "fat": 4,
+      "sodium": 580,
+      "sugar": 8,
+      "fiber": 7,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "Good source of folate from beetroot",
+        "Contains antioxidants",
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "Moderate sodium content"
+      ]
+    },
+    "trufflin' cool (chilled)": {
+      "calories": 580,
+      "protein": 32,
+      "carbs": 62,
+      "fat": 20,
+      "sodium": 1120,
+      "sugar": 2,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Shellfish",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Source of omega-3",
+        "Low temperature aids digestion"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate fat content"
+      ]
+    },
+    "moo ragu": {
+      "calories": 720,
+      "protein": 48,
+      "carbs": 68,
+      "fat": 26,
+      "sodium": 1050,
+      "sugar": 6,
+      "fiber": 5,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Excellent source of iron",
+        "High in B vitamins"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "pinky promise": {
+      "calories": 710,
+      "protein": 40,
+      "carbs": 68,
+      "fat": 26,
+      "sodium": 1180,
+      "sugar": 9,
+      "fiber": 5,
+      "allergens": [
+        "Gluten",
+        "Fish",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of omega-3 from salmon",
+        "Contains antioxidants from beetroot"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat",
+        "High in saturated fat"
+      ]
+    },
+    "ooh lala": {
+      "calories": 680,
+      "protein": 38,
+      "carbs": 70,
+      "fat": 22,
+      "sodium": 1280,
+      "sugar": 7,
+      "fiber": 5,
+      "allergens": [
+        "Gluten",
+        "Shellfish",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of minerals from clams",
+        "Source of omega-3"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in saturated fat",
+        "Spicy content"
+      ]
+    },
+    "yolo pomodoro": {
+      "calories": 420,
+      "protein": 16,
+      "carbs": 72,
+      "fat": 6,
+      "sodium": 680,
+      "sugar": 8,
+      "fiber": 7,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "Good source of vegetables",
+        "Contains lycopene from tomatoes",
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "Moderate sodium content"
+      ]
+    }
+  }
+}

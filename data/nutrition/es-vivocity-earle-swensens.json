@@ -1,0 +1,3607 @@
+{
+  "brand": "es-vivocity-earle-swensens",
+  "generatedAt": "2026-02-16T14:46:08.372Z",
+  "items": {
+    "spicy laksa": {
+      "calories": 420,
+      "protein": 16,
+      "carbs": 38,
+      "fat": 22,
+      "sodium": 950,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in saturated fat",
+        "Spicy"
+      ]
+    },
+    "beef pepperoni": {
+      "calories": 680,
+      "protein": 32,
+      "carbs": 68,
+      "fat": 28,
+      "sodium": 1480,
+      "sugar": 3,
+      "fiber": 2.5,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "muah chee (vivocity outlet exclusive)": {
+      "calories": 280,
+      "protein": 3,
+      "carbs": 42,
+      "fat": 11,
+      "sodium": 120,
+      "sugar": 28,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Peanut"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "margherita": {
+      "calories": 280,
+      "protein": 12,
+      "carbs": 36,
+      "fat": 9,
+      "sodium": 520,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains calcium"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in saturated fat"
+      ]
+    },
+    "turkey bacon bits": {
+      "calories": 80,
+      "protein": 10,
+      "carbs": 1,
+      "fat": 4,
+      "sodium": 480,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Low in carbs"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "tiger prawns": {
+      "calories": 95,
+      "protein": 20,
+      "carbs": 0,
+      "fat": 1,
+      "sodium": 180,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Low in fat",
+        "Good source of selenium"
+      ],
+      "healthWarnings": []
+    },
+    "kueh bingka": {
+      "calories": 180,
+      "protein": 3,
+      "carbs": 24,
+      "fat": 8,
+      "sodium": 120,
+      "sugar": 14,
+      "fiber": 1,
+      "allergens": [
+        "Egg",
+        "Dairy",
+        "Coconut"
+      ],
+      "healthBenefits": [
+        "Traditional Nonya kueh"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Moderate in fat"
+      ]
+    },
+    "cheddar": {
+      "calories": 120,
+      "protein": 8,
+      "carbs": 1,
+      "fat": 10,
+      "sodium": 240,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of calcium"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "chendol": {
+      "calories": 280,
+      "protein": 3,
+      "carbs": 52,
+      "fat": 6,
+      "sodium": 140,
+      "sugar": 38,
+      "fiber": 2,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains coconut milk"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "beef arrabbiata": {
+      "calories": 520,
+      "protein": 26,
+      "carbs": 58,
+      "fat": 18,
+      "sodium": 1140,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "rotisserie chicken": {
+      "calories": 380,
+      "protein": 52,
+      "carbs": 0,
+      "fat": 18,
+      "sodium": 620,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate saturated fat"
+      ]
+    },
+    "mesclun": {
+      "calories": 120,
+      "protein": 4,
+      "carbs": 8,
+      "fat": 8,
+      "sodium": 180,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in calories",
+        "High in fiber",
+        "Good source of vitamins"
+      ],
+      "healthWarnings": []
+    },
+    "curry chicken baked rice": {
+      "calories": 520,
+      "protein": 24,
+      "carbs": 62,
+      "fat": 18,
+      "sodium": 860,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "Moderate in fat"
+      ]
+    },
+    "wafer biscuits": {
+      "calories": 110,
+      "protein": 1,
+      "carbs": 16,
+      "fat": 5,
+      "sodium": 80,
+      "sugar": 8,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in processed carbs"
+      ]
+    },
+    "chocolate sauce": {
+      "calories": 200,
+      "protein": 2,
+      "carbs": 28,
+      "fat": 9,
+      "sodium": 80,
+      "sugar": 24,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains cocoa antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "plain crackers": {
+      "calories": 140,
+      "protein": 3,
+      "carbs": 18,
+      "fat": 6,
+      "sodium": 320,
+      "sugar": 0,
+      "fiber": 1,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium",
+        "Processed food"
+      ]
+    },
+    "beef lasagna": {
+      "calories": 480,
+      "protein": 28,
+      "carbs": 42,
+      "fat": 22,
+      "sodium": 720,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "caesar dressing": {
+      "calories": 150,
+      "protein": 2,
+      "carbs": 2,
+      "fat": 15,
+      "sodium": 400,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Fish",
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "cream of chicken": {
+      "calories": 180,
+      "protein": 12,
+      "carbs": 14,
+      "fat": 8,
+      "sodium": 580,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "chocolate fountain": {
+      "calories": 420,
+      "protein": 6,
+      "carbs": 52,
+      "fat": 21,
+      "sodium": 140,
+      "sugar": 38,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Sesame",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from chocolate"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in calories",
+        "High in saturated fat"
+      ]
+    },
+    "deep fried breaded fish & chips": {
+      "calories": 680,
+      "protein": 32,
+      "carbs": 58,
+      "fat": 32,
+      "sodium": 1140,
+      "sugar": 1,
+      "fiber": 3,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in fat",
+        "High in sodium"
+      ]
+    },
+    "gelato": {
+      "calories": 220,
+      "protein": 4,
+      "carbs": 28,
+      "fat": 11,
+      "sodium": 80,
+      "sugar": 24,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "briyani rice": {
+      "calories": 380,
+      "protein": 12,
+      "carbs": 52,
+      "fat": 13,
+      "sodium": 720,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of carbohydrates",
+        "Contains spices with antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "salted butter": {
+      "calories": 100,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 11,
+      "sodium": 190,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "ice creams": {
+      "calories": 220,
+      "protein": 4,
+      "carbs": 26,
+      "fat": 12,
+      "sodium": 75,
+      "sugar": 22,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "kueh pie tee": {
+      "calories": 240,
+      "protein": 6,
+      "carbs": 28,
+      "fat": 11,
+      "sodium": 480,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "Traditional Peranakan dish"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "sliced natural sourdough": {
+      "calories": 130,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 1,
+      "sodium": 280,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Low in fat",
+        "Good source of carbs"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "d.i.y. chendol shaved ice": {
+      "calories": 280,
+      "protein": 2,
+      "carbs": 52,
+      "fat": 6,
+      "sodium": 80,
+      "sugar": 48,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Refreshing dessert"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in carbs"
+      ]
+    },
+    "forest mushroom cream": {
+      "calories": 95,
+      "protein": 2,
+      "carbs": 3,
+      "fat": 8,
+      "sodium": 320,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Low in carbs"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "thousand island": {
+      "calories": 150,
+      "protein": 0.5,
+      "carbs": 3,
+      "fat": 15,
+      "sodium": 380,
+      "sugar": 2.5,
+      "fiber": 0,
+      "allergens": [
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "profiteroles": {
+      "calories": 280,
+      "protein": 4,
+      "carbs": 26,
+      "fat": 16,
+      "sodium": 140,
+      "sugar": 18,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "croutons": {
+      "calories": 120,
+      "protein": 3,
+      "carbs": 14,
+      "fat": 6,
+      "sodium": 280,
+      "sugar": 0.5,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "black pepper beef bacon": {
+      "calories": 180,
+      "protein": 12,
+      "carbs": 1,
+      "fat": 14,
+      "sodium": 720,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of protein",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "hawaiian": {
+      "calories": 680,
+      "protein": 26,
+      "carbs": 72,
+      "fat": 28,
+      "sodium": 1380,
+      "sugar": 12,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Pork"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "flower crabs": {
+      "calories": 95,
+      "protein": 18,
+      "carbs": 2,
+      "fat": 2,
+      "sodium": 380,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "Excellent source of protein",
+        "Low in fat",
+        "High in minerals"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Shellfish allergen"
+      ]
+    },
+    "mutton korma": {
+      "calories": 480,
+      "protein": 32,
+      "carbs": 18,
+      "fat": 32,
+      "sodium": 720,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "ritz crackers": {
+      "calories": 160,
+      "protein": 2,
+      "carbs": 16,
+      "fat": 9,
+      "sodium": 380,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "kueh salat": {
+      "calories": 280,
+      "protein": 5,
+      "carbs": 35,
+      "fat": 13,
+      "sodium": 220,
+      "sugar": 18,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Coconut"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "fish baked rice": {
+      "calories": 520,
+      "protein": 28,
+      "carbs": 58,
+      "fat": 16,
+      "sodium": 620,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Good source of omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "monterey jack": {
+      "calories": 110,
+      "protein": 7,
+      "carbs": 1,
+      "fat": 9,
+      "sodium": 180,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of calcium",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "black pepper sauce": {
+      "calories": 45,
+      "protein": 1,
+      "carbs": 3,
+      "fat": 3,
+      "sodium": 420,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Low calorie condiment"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "butter lettuce": {
+      "calories": 45,
+      "protein": 2,
+      "carbs": 8,
+      "fat": 0.5,
+      "sodium": 25,
+      "sugar": 1,
+      "fiber": 1.5,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in calories",
+        "Good source of vitamin K",
+        "Good source of folate"
+      ],
+      "healthWarnings": []
+    },
+    "swensen's og beef sliders": {
+      "calories": 520,
+      "protein": 24,
+      "carbs": 42,
+      "fat": 26,
+      "sodium": 980,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in fat",
+        "High in sodium"
+      ]
+    },
+    "oyster mee sua (cny special)": {
+      "calories": 380,
+      "protein": 16,
+      "carbs": 48,
+      "fat": 14,
+      "sodium": 780,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Good source of selenium"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "pumpkin bisque with crabmeat (cny special)": {
+      "calories": 220,
+      "protein": 12,
+      "carbs": 16,
+      "fat": 12,
+      "sodium": 680,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Rich in vitamin A"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "hazelnut spread": {
+      "calories": 190,
+      "protein": 4,
+      "carbs": 17,
+      "fat": 13,
+      "sodium": 85,
+      "sugar": 15,
+      "fiber": 1,
+      "allergens": [
+        "Tree Nut",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of vitamin E"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "attap seeds": {
+      "calories": 85,
+      "protein": 0,
+      "carbs": 22,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 18,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Traditional ingredient"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "roast beef": {
+      "calories": 280,
+      "protein": 38,
+      "carbs": 0,
+      "fat": 14,
+      "sodium": 540,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Excellent source of protein",
+        "High in iron",
+        "High in B vitamins"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in sodium"
+      ]
+    },
+    "swiss multigrain country loaf": {
+      "calories": 280,
+      "protein": 10,
+      "carbs": 48,
+      "fat": 4,
+      "sodium": 480,
+      "sugar": 2,
+      "fiber": 6,
+      "allergens": [
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "Good source of whole grains"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "smoked duck carbonara": {
+      "calories": 580,
+      "protein": 26,
+      "carbs": 52,
+      "fat": 28,
+      "sodium": 840,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "northern india butter chicken": {
+      "calories": 420,
+      "protein": 36,
+      "carbs": 12,
+      "fat": 24,
+      "sodium": 820,
+      "sugar": 6,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Excellent source of protein",
+        "Contains spices"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in sodium"
+      ]
+    },
+    "apple crumble": {
+      "calories": 380,
+      "protein": 4,
+      "carbs": 52,
+      "fat": 18,
+      "sodium": 180,
+      "sugar": 38,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Tree Nut"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "ayam buah keluak": {
+      "calories": 420,
+      "protein": 32,
+      "carbs": 8,
+      "fat": 28,
+      "sodium": 520,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "roast black angus beef ribeye": {
+      "calories": 420,
+      "protein": 42,
+      "carbs": 0,
+      "fat": 28,
+      "sodium": 380,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Excellent source of protein",
+        "Good source of iron",
+        "Good source of B12"
+      ],
+      "healthWarnings": [
+        "High in saturated fat"
+      ]
+    },
+    "rainbow mini marshmallows": {
+      "calories": 90,
+      "protein": 1,
+      "carbs": 22,
+      "fat": 0.5,
+      "sodium": 35,
+      "sugar": 20,
+      "fiber": 0,
+      "allergens": [
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "kueh kosui": {
+      "calories": 120,
+      "protein": 1.5,
+      "carbs": 28,
+      "fat": 0.5,
+      "sodium": 95,
+      "sugar": 18,
+      "fiber": 0.5,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "Low nutritional value"
+      ]
+    },
+    "minangkabau beef rendang": {
+      "calories": 480,
+      "protein": 38,
+      "carbs": 8,
+      "fat": 32,
+      "sodium": 620,
+      "sugar": 1.5,
+      "fiber": 1.5,
+      "allergens": [
+        "Coconut"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "peanut butter chips": {
+      "calories": 210,
+      "protein": 5,
+      "carbs": 22,
+      "fat": 12,
+      "sodium": 110,
+      "sugar": 18,
+      "fiber": 1.5,
+      "allergens": [
+        "Peanut"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in fat"
+      ]
+    },
+    "prawn crackers": {
+      "calories": 160,
+      "protein": 2,
+      "carbs": 18,
+      "fat": 8,
+      "sodium": 320,
+      "sugar": 0.5,
+      "fiber": 0.5,
+      "allergens": [
+        "Shellfish",
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium",
+        "High in trans fats"
+      ]
+    },
+    "chicken salami": {
+      "calories": 110,
+      "protein": 12,
+      "carbs": 1,
+      "fat": 6,
+      "sodium": 580,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "sea scallops": {
+      "calories": 95,
+      "protein": 18,
+      "carbs": 3,
+      "fat": 1,
+      "sodium": 280,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Low in fat"
+      ],
+      "healthWarnings": []
+    },
+    "chicken satay": {
+      "calories": 180,
+      "protein": 20,
+      "carbs": 6,
+      "fat": 9,
+      "sodium": 400,
+      "sugar": 2,
+      "fiber": 0.5,
+      "allergens": [
+        "Peanut"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Grilled preparation"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Peanut allergen",
+        "High in fat"
+      ]
+    },
+    "classic mini hot dogs": {
+      "calories": 150,
+      "protein": 8,
+      "carbs": 12,
+      "fat": 8,
+      "sodium": 550,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Soy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "natural roast beef jus": {
+      "calories": 35,
+      "protein": 2.5,
+      "carbs": 2,
+      "fat": 1.5,
+      "sodium": 420,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "vinaigrette": {
+      "calories": 140,
+      "protein": 0.1,
+      "carbs": 1,
+      "fat": 15,
+      "sodium": 280,
+      "sugar": 0.5,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "french baguette": {
+      "calories": 280,
+      "protein": 9,
+      "carbs": 54,
+      "fat": 1.5,
+      "sodium": 520,
+      "sugar": 1,
+      "fiber": 2,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "swensen's fries": {
+      "calories": 280,
+      "protein": 3,
+      "carbs": 35,
+      "fat": 14,
+      "sodium": 480,
+      "sugar": 0.5,
+      "fiber": 3,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains potassium"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "orange cheddar": {
+      "calories": 180,
+      "protein": 11,
+      "carbs": 0.5,
+      "fat": 15,
+      "sodium": 380,
+      "sugar": 0.2,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "banana crumble": {
+      "calories": 380,
+      "protein": 4,
+      "carbs": 52,
+      "fat": 17,
+      "sodium": 240,
+      "sugar": 32,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains potassium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "chicken baked rice": {
+      "calories": 580,
+      "protein": 28,
+      "carbs": 66,
+      "fat": 18,
+      "sodium": 1020,
+      "sugar": 2,
+      "fiber": 1.5,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Good source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in calories"
+      ]
+    },
+    "dal fry": {
+      "calories": 240,
+      "protein": 12,
+      "carbs": 28,
+      "fat": 9,
+      "sodium": 680,
+      "sugar": 3,
+      "fiber": 6,
+      "allergens": [],
+      "healthBenefits": [
+        "High in fiber",
+        "Good source of protein",
+        "High in iron"
+      ],
+      "healthWarnings": [
+        "Moderate sodium"
+      ]
+    },
+    "strawberry jam": {
+      "calories": 55,
+      "protein": 0.1,
+      "carbs": 14,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 13,
+      "fiber": 0.3,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Low nutritional value"
+      ]
+    },
+    "black mussels": {
+      "calories": 80,
+      "protein": 13,
+      "carbs": 3,
+      "fat": 2,
+      "sodium": 240,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "Excellent source of protein",
+        "Rich in omega-3",
+        "High in iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Shellfish allergen"
+      ]
+    },
+    "potato salad": {
+      "calories": 320,
+      "protein": 4,
+      "carbs": 28,
+      "fat": 22,
+      "sodium": 480,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains potassium",
+        "Good source of vitamin C"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "pasta marinara": {
+      "calories": 420,
+      "protein": 12,
+      "carbs": 62,
+      "fat": 12,
+      "sodium": 680,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of carbohydrates",
+        "Contains lycopene"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "chicken tikka": {
+      "calories": 620,
+      "protein": 38,
+      "carbs": 64,
+      "fat": 22,
+      "sodium": 1280,
+      "sugar": 3.5,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains spices with anti-inflammatory properties"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "roasted peanuts": {
+      "calories": 190,
+      "protein": 7,
+      "carbs": 7,
+      "fat": 16,
+      "sodium": 95,
+      "sugar": 1,
+      "fiber": 2.5,
+      "allergens": [
+        "Peanut"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of healthy fats",
+        "Contains vitamin E"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in fat"
+      ]
+    },
+    "caramel churros": {
+      "calories": 320,
+      "protein": 3,
+      "carbs": 42,
+      "fat": 15,
+      "sodium": 180,
+      "sugar": 28,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "coconut milk": {
+      "calories": 220,
+      "protein": 2,
+      "carbs": 8,
+      "fat": 20,
+      "sodium": 40,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Contains medium-chain fatty acids"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "roast leg of lamb": {
+      "calories": 420,
+      "protein": 52,
+      "carbs": 0,
+      "fat": 22,
+      "sodium": 95,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron",
+        "Rich in B vitamins"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "dry apricots": {
+      "calories": 65,
+      "protein": 1.2,
+      "carbs": 17,
+      "fat": 0.3,
+      "sodium": 2,
+      "sugar": 12,
+      "fiber": 1.6,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Rich in antioxidants",
+        "Contains iron"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in natural sugars"
+      ]
+    },
+    "yellow mustard": {
+      "calories": 3,
+      "protein": 0.2,
+      "carbs": 0.3,
+      "fat": 0,
+      "sodium": 55,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Very low calorie",
+        "Contains turmeric"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "chicken sliced ham": {
+      "calories": 120,
+      "protein": 18,
+      "carbs": 1.5,
+      "fat": 5,
+      "sodium": 890,
+      "sugar": 0.5,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Contains nitrates",
+        "High in saturated fat"
+      ]
+    },
+    "brownie": {
+      "calories": 220,
+      "protein": 3,
+      "carbs": 28,
+      "fat": 12,
+      "sodium": 95,
+      "sugar": 18,
+      "fiber": 1.5,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains cocoa antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "trio cheese": {
+      "calories": 720,
+      "protein": 28,
+      "carbs": 78,
+      "fat": 32,
+      "sodium": 1840,
+      "sugar": 4,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains calcium"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "danish feta": {
+      "calories": 99,
+      "protein": 5.1,
+      "carbs": 1.2,
+      "fat": 8.1,
+      "sodium": 383,
+      "sugar": 0.4,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains probiotics",
+        "High in calcium"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "gula melaka sauce": {
+      "calories": 85,
+      "protein": 0.1,
+      "carbs": 22,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 21,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains minerals",
+        "Traditional ingredient"
+      ],
+      "healthWarnings": [
+        "Very high in sugar"
+      ]
+    },
+    "aglio olio": {
+      "calories": 520,
+      "protein": 14,
+      "carbs": 58,
+      "fat": 24,
+      "sodium": 580,
+      "sugar": 2.5,
+      "fiber": 3.5,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains garlic",
+        "Contains olive oil (monounsaturated fat)"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in fat"
+      ]
+    },
+    "pasta salad": {
+      "calories": 220,
+      "protein": 6,
+      "carbs": 28,
+      "fat": 10,
+      "sodium": 350,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains vegetables",
+        "Source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat",
+        "Contains gluten"
+      ]
+    },
+    "chocolate chips": {
+      "calories": 160,
+      "protein": 2,
+      "carbs": 16,
+      "fat": 10,
+      "sodium": 5,
+      "sugar": 14,
+      "fiber": 1.2,
+      "allergens": [
+        "Dairy",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "potato chips": {
+      "calories": 155,
+      "protein": 2.2,
+      "carbs": 15,
+      "fat": 10,
+      "sodium": 165,
+      "sugar": 0.2,
+      "fiber": 1.3,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in calories",
+        "High in fat",
+        "High in sodium"
+      ]
+    },
+    "half shell crayfishes": {
+      "calories": 95,
+      "protein": 17,
+      "carbs": 2,
+      "fat": 2.5,
+      "sodium": 180,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Low in calories",
+        "Contains omega-3 fatty acids"
+      ],
+      "healthWarnings": [
+        "Shellfish allergen"
+      ]
+    },
+    "goma dressing": {
+      "calories": 110,
+      "protein": 3,
+      "carbs": 4,
+      "fat": 9,
+      "sodium": 280,
+      "sugar": 1,
+      "fiber": 0.5,
+      "allergens": [
+        "Sesame",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Source of sesame oil"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "ondeh ondeh": {
+      "calories": 95,
+      "protein": 1.5,
+      "carbs": 18,
+      "fat": 2.5,
+      "sodium": 45,
+      "sugar": 8,
+      "fiber": 0.8,
+      "allergens": [
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Traditional Nonya delicacy",
+        "Moderate portion"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains palm sugar"
+      ]
+    },
+    "white clams": {
+      "calories": 85,
+      "protein": 15,
+      "carbs": 3,
+      "fat": 1,
+      "sodium": 285,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "High in omega-3",
+        "Low in calories"
+      ],
+      "healthWarnings": [
+        "Moderate sodium"
+      ]
+    },
+    "campagne sour bread": {
+      "calories": 140,
+      "protein": 4,
+      "carbs": 27,
+      "fat": 1.5,
+      "sodium": 280,
+      "sugar": 2,
+      "fiber": 1.8,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of carbohydrates",
+        "Contains fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Contains gluten"
+      ]
+    },
+    "assam sambal prawn": {
+      "calories": 160,
+      "protein": 18,
+      "carbs": 4,
+      "fat": 8,
+      "sodium": 420,
+      "sugar": 2,
+      "fiber": 0.5,
+      "allergens": [
+        "Shellfish",
+        "Fish",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Low in carbs"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Spicy preparation"
+      ]
+    },
+    "nonya achar": {
+      "calories": 90,
+      "protein": 2,
+      "carbs": 12,
+      "fat": 4,
+      "sodium": 680,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Low in calories"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "apricot jam": {
+      "calories": 60,
+      "protein": 0.3,
+      "carbs": 15,
+      "fat": 0.1,
+      "sodium": 35,
+      "sugar": 13,
+      "fiber": 0.3,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains fruit",
+        "Source of energy"
+      ],
+      "healthWarnings": [
+        "Very high in sugar"
+      ]
+    },
+    "chicken masala": {
+      "calories": 240,
+      "protein": 22,
+      "carbs": 8,
+      "fat": 14,
+      "sodium": 480,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Spiced with turmeric"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "papadum": {
+      "calories": 110,
+      "protein": 3,
+      "carbs": 14,
+      "fat": 5,
+      "sodium": 280,
+      "sugar": 1,
+      "fiber": 2,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "roasted herbs potatoes": {
+      "calories": 140,
+      "protein": 2.5,
+      "carbs": 19,
+      "fat": 6.5,
+      "sodium": 320,
+      "sugar": 1.5,
+      "fiber": 1.8,
+      "allergens": [],
+      "healthBenefits": [
+        "Source of potassium",
+        "Contains herbs"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "mini pancakes": {
+      "calories": 85,
+      "protein": 1.5,
+      "carbs": 14,
+      "fat": 3,
+      "sodium": 45,
+      "sugar": 6,
+      "fiber": 0.3,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Moderate portion size"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains allergens"
+      ]
+    },
+    "croffle": {
+      "calories": 320,
+      "protein": 6,
+      "carbs": 38,
+      "fat": 16,
+      "sodium": 280,
+      "sugar": 18,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sugar",
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "ranch dressing": {
+      "calories": 180,
+      "protein": 1,
+      "carbs": 2,
+      "fat": 19,
+      "sodium": 420,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "mala stir-fry pot (geneo outlet exclusive)": {
+      "calories": 480,
+      "protein": 28,
+      "carbs": 32,
+      "fat": 22,
+      "sodium": 1240,
+      "sugar": 8,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Spicy"
+      ]
+    },
+    "seafood salad": {
+      "calories": 220,
+      "protein": 24,
+      "carbs": 8,
+      "fat": 10,
+      "sodium": 580,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Fish",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Low in carbs"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "kueh dadar": {
+      "calories": 180,
+      "protein": 3,
+      "carbs": 24,
+      "fat": 8,
+      "sodium": 120,
+      "sugar": 12,
+      "fiber": 1,
+      "allergens": [
+        "Egg",
+        "Dairy",
+        "Coconut"
+      ],
+      "healthBenefits": [
+        "Traditional Nonya pastry",
+        "Moderate portion"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "california raisins": {
+      "calories": 130,
+      "protein": 2,
+      "carbs": 31,
+      "fat": 0.3,
+      "sodium": 15,
+      "sugar": 24,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Natural antioxidants",
+        "Iron content"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "Concentrated calories"
+      ]
+    },
+    "mutton satay": {
+      "calories": 240,
+      "protein": 22,
+      "carbs": 4,
+      "fat": 15,
+      "sodium": 420,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Peanut",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in saturated fat"
+      ]
+    },
+    "brioche buns": {
+      "calories": 210,
+      "protein": 6,
+      "carbs": 32,
+      "fat": 6,
+      "sodium": 340,
+      "sugar": 4,
+      "fiber": 1.2,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Refined carbohydrates"
+      ]
+    },
+    "orange jam": {
+      "calories": 60,
+      "protein": 0,
+      "carbs": 15,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 13,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "truffle mushroom": {
+      "calories": 380,
+      "protein": 14,
+      "carbs": 42,
+      "fat": 18,
+      "sodium": 680,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "peanut sauce": {
+      "calories": 190,
+      "protein": 7,
+      "carbs": 10,
+      "fat": 14,
+      "sodium": 520,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Peanut",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good protein source",
+        "Contains healthy fats"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in fat",
+        "Peanut allergen"
+      ]
+    },
+    "matar paneer": {
+      "calories": 240,
+      "protein": 14,
+      "carbs": 14,
+      "fat": 14,
+      "sodium": 520,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Good source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "mango pickle": {
+      "calories": 45,
+      "protein": 0.5,
+      "carbs": 10,
+      "fat": 0.5,
+      "sodium": 520,
+      "sugar": 8,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in sugar"
+      ]
+    },
+    "fresh strawberries": {
+      "calories": 50,
+      "protein": 1,
+      "carbs": 12,
+      "fat": 0,
+      "sodium": 2,
+      "sugar": 7,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "High in vitamin C",
+        "Good source of fiber"
+      ],
+      "healthWarnings": []
+    },
+    "ayam masak merah (geneo outlet exclusive)": {
+      "calories": 420,
+      "protein": 35,
+      "carbs": 12,
+      "fat": 26,
+      "sodium": 920,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "fruit loops": {
+      "calories": 110,
+      "protein": 1.5,
+      "carbs": 24,
+      "fat": 1,
+      "sodium": 150,
+      "sugar": 12,
+      "fiber": 1.5,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Colorful antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Artificial colors"
+      ]
+    },
+    "corn kernels": {
+      "calories": 90,
+      "protein": 3,
+      "carbs": 16,
+      "fat": 1.5,
+      "sodium": 35,
+      "sugar": 3,
+      "fiber": 2.5,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains lutein",
+        "Low fat"
+      ],
+      "healthWarnings": []
+    },
+    "flower clams": {
+      "calories": 90,
+      "protein": 16,
+      "carbs": 2,
+      "fat": 1,
+      "sodium": 310,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "High in omega-3",
+        "Low in calories"
+      ],
+      "healthWarnings": [
+        "Moderate sodium"
+      ]
+    },
+    "mint sauce": {
+      "calories": 45,
+      "protein": 0.5,
+      "carbs": 8,
+      "fat": 0.2,
+      "sodium": 420,
+      "sugar": 5,
+      "fiber": 0.5,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in calories",
+        "Contains mint antioxidants"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in sugar"
+      ]
+    },
+    "chicken bak kwa (cny special)": {
+      "calories": 280,
+      "protein": 32,
+      "carbs": 8,
+      "fat": 12,
+      "sodium": 890,
+      "sugar": 6,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in sugar"
+      ]
+    },
+    "cherry tomatoes": {
+      "calories": 28,
+      "protein": 1,
+      "carbs": 6,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "High in vitamin C",
+        "Low in calories",
+        "Contains lycopene"
+      ],
+      "healthWarnings": []
+    },
+    "granola": {
+      "calories": 180,
+      "protein": 5,
+      "carbs": 24,
+      "fat": 8,
+      "sodium": 95,
+      "sugar": 12,
+      "fiber": 3,
+      "allergens": [
+        "Tree Nut",
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories per serving"
+      ]
+    },
+    "lime pickle": {
+      "calories": 20,
+      "protein": 0,
+      "carbs": 2,
+      "fat": 1,
+      "sodium": 420,
+      "sugar": 0,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Good source of vitamin C"
+      ],
+      "healthWarnings": [
+        "Very high in sodium"
+      ]
+    },
+    "smashed croissant": {
+      "calories": 380,
+      "protein": 7,
+      "carbs": 40,
+      "fat": 20,
+      "sodium": 420,
+      "sugar": 12,
+      "fiber": 1.5,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in calories",
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "kueh lapis": {
+      "calories": 280,
+      "protein": 3,
+      "carbs": 38,
+      "fat": 13,
+      "sodium": 180,
+      "sugar": 22,
+      "fiber": 1,
+      "allergens": [
+        "Egg",
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "marshmallows": {
+      "calories": 160,
+      "protein": 1,
+      "carbs": 40,
+      "fat": 0,
+      "sodium": 80,
+      "sugar": 32,
+      "fiber": 0,
+      "allergens": [
+        "Gelatin"
+      ],
+      "healthBenefits": [
+        "Fat-free"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "Empty calories"
+      ]
+    },
+    "preserved prunes": {
+      "calories": 140,
+      "protein": 1.5,
+      "carbs": 35,
+      "fat": 0.4,
+      "sodium": 8,
+      "sugar": 24,
+      "fiber": 3.5,
+      "allergens": [],
+      "healthBenefits": [
+        "Excellent source of fiber",
+        "Good for digestive health",
+        "Natural laxative"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "Concentrated calories"
+      ]
+    },
+    "thai dressing": {
+      "calories": 140,
+      "protein": 1,
+      "carbs": 8,
+      "fat": 11,
+      "sodium": 420,
+      "sugar": 5,
+      "fiber": 0,
+      "allergens": [
+        "Fish",
+        "Peanut",
+        "Sesame"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "braised chicken with chestnut (cny special)": {
+      "calories": 480,
+      "protein": 38,
+      "carbs": 28,
+      "fat": 24,
+      "sodium": 1040,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains potassium"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "daging masak merah (cny special)": {
+      "calories": 380,
+      "protein": 35,
+      "carbs": 6,
+      "fat": 24,
+      "sodium": 720,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "wok-fried salted egg chicken (cny special)": {
+      "calories": 580,
+      "protein": 36,
+      "carbs": 32,
+      "fat": 36,
+      "sodium": 1240,
+      "sugar": 12,
+      "fiber": 2,
+      "allergens": [
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "tabasco hot sauce": {
+      "calories": 3,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 110,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Very low calorie"
+      ],
+      "healthWarnings": [
+        "High in sodium per serving"
+      ]
+    },
+    "kueh talam ubi": {
+      "calories": 240,
+      "protein": 2,
+      "carbs": 35,
+      "fat": 10,
+      "sodium": 200,
+      "sugar": 18,
+      "fiber": 2,
+      "allergens": [
+        "Egg",
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains vitamins from sweet potato"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "chocolate balls": {
+      "calories": 140,
+      "protein": 2,
+      "carbs": 16,
+      "fat": 8,
+      "sodium": 45,
+      "sugar": 14,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "waffle": {
+      "calories": 420,
+      "protein": 8,
+      "carbs": 52,
+      "fat": 20,
+      "sodium": 380,
+      "sugar": 18,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of energy"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "black olives": {
+      "calories": 85,
+      "protein": 1,
+      "carbs": 4,
+      "fat": 8,
+      "sodium": 520,
+      "sugar": 0,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "High in antioxidants",
+        "Good source of monounsaturated fat"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "opor ikan (cny special)": {
+      "calories": 280,
+      "protein": 22,
+      "carbs": 8,
+      "fat": 18,
+      "sodium": 520,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Fish",
+        "Coconut",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3 fatty acids"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "wok-fried cereal crayfish (cny special)": {
+      "calories": 320,
+      "protein": 28,
+      "carbs": 12,
+      "fat": 18,
+      "sodium": 680,
+      "sugar": 8,
+      "fiber": 1,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of omega-3",
+        "Rich in minerals"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in cholesterol"
+      ]
+    },
+    "wok-fried cereal prawn (cny special)": {
+      "calories": 310,
+      "protein": 26,
+      "carbs": 12,
+      "fat": 18,
+      "sodium": 650,
+      "sugar": 8,
+      "fiber": 1,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of omega-3",
+        "Rich in minerals"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in cholesterol"
+      ]
+    },
+    "hazelnut wafer cubes": {
+      "calories": 160,
+      "protein": 3,
+      "carbs": 14,
+      "fat": 10,
+      "sodium": 65,
+      "sugar": 10,
+      "fiber": 1,
+      "allergens": [
+        "Tree Nut",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of healthy fats"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "kueh talam pandan": {
+      "calories": 180,
+      "protein": 4,
+      "carbs": 28,
+      "fat": 6,
+      "sodium": 140,
+      "sugar": 16,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Traditional dessert"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "durian pengat": {
+      "calories": 240,
+      "protein": 3,
+      "carbs": 32,
+      "fat": 11,
+      "sodium": 85,
+      "sugar": 24,
+      "fiber": 2,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Rich in minerals"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in fat"
+      ]
+    },
+    "japanese cucumbers": {
+      "calories": 35,
+      "protein": 2,
+      "carbs": 6,
+      "fat": 0.5,
+      "sodium": 95,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in calories",
+        "Good source of hydration",
+        "Good source of fiber"
+      ],
+      "healthWarnings": []
+    },
+    "nian gao spring roll (cny special)": {
+      "calories": 180,
+      "protein": 2,
+      "carbs": 24,
+      "fat": 8,
+      "sodium": 140,
+      "sugar": 8,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories",
+        "High in saturated fat"
+      ]
+    },
+    "ayam percik (cny special)": {
+      "calories": 320,
+      "protein": 28,
+      "carbs": 6,
+      "fat": 20,
+      "sodium": 580,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "red grape vinegar": {
+      "calories": 15,
+      "protein": 0,
+      "carbs": 1,
+      "fat": 0,
+      "sodium": 180,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "May aid digestion"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "assam sambal prawn (cny special)": {
+      "calories": 280,
+      "protein": 28,
+      "carbs": 10,
+      "fat": 14,
+      "sodium": 720,
+      "sugar": 6,
+      "fiber": 1,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in cholesterol"
+      ]
+    },
+    "crawfish (cny special)": {
+      "calories": 85,
+      "protein": 18,
+      "carbs": 0,
+      "fat": 1,
+      "sodium": 320,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Low in fat",
+        "Good source of minerals"
+      ],
+      "healthWarnings": [
+        "Shellfish allergen",
+        "High in sodium"
+      ]
+    },
+    "mini oreo biscuits": {
+      "calories": 140,
+      "protein": 1,
+      "carbs": 18,
+      "fat": 7,
+      "sodium": 95,
+      "sugar": 12,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Soy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "Highly processed"
+      ]
+    },
+    "lapis sagu": {
+      "calories": 210,
+      "protein": 1,
+      "carbs": 28,
+      "fat": 11,
+      "sodium": 120,
+      "sugar": 18,
+      "fiber": 0,
+      "allergens": [
+        "Coconut",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "nasi kunyit (cny special)": {
+      "calories": 240,
+      "protein": 4,
+      "carbs": 42,
+      "fat": 6,
+      "sodium": 480,
+      "sugar": 1,
+      "fiber": 2,
+      "allergens": [
+        "Coconut"
+      ],
+      "healthBenefits": [
+        "Good source of carbohydrates",
+        "Contains turmeric"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in carbohydrates"
+      ]
+    },
+    "pineapple tart (cny special)": {
+      "calories": 240,
+      "protein": 2,
+      "carbs": 32,
+      "fat": 12,
+      "sodium": 120,
+      "sugar": 18,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Tree Nut"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "ikan belado (cny special)": {
+      "calories": 380,
+      "protein": 32,
+      "carbs": 12,
+      "fat": 22,
+      "sodium": 720,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "marinated baby octopus (cny special)": {
+      "calories": 110,
+      "protein": 16,
+      "carbs": 3,
+      "fat": 4,
+      "sodium": 380,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Shellfish",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Low in calories",
+        "Good source of minerals"
+      ],
+      "healthWarnings": [
+        "Shellfish allergen",
+        "High in sodium"
+      ]
+    },
+    "deep-fried beancurd chicken roll (cny special)": {
+      "calories": 280,
+      "protein": 18,
+      "carbs": 12,
+      "fat": 18,
+      "sodium": 450,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium",
+        "Deep fried"
+      ]
+    },
+    "thousand hundreds": {
+      "calories": 130,
+      "protein": 1,
+      "carbs": 16,
+      "fat": 7,
+      "sodium": 80,
+      "sugar": 11,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "hokkaido butter cookies (cny special)": {
+      "calories": 200,
+      "protein": 2,
+      "carbs": 24,
+      "fat": 11,
+      "sodium": 110,
+      "sugar": 14,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "kueh sago lapis": {
+      "calories": 280,
+      "protein": 1,
+      "carbs": 42,
+      "fat": 12,
+      "sodium": 140,
+      "sugar": 28,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "deep fried beancurd chicken roll": {
+      "calories": 320,
+      "protein": 16,
+      "carbs": 28,
+      "fat": 16,
+      "sodium": 580,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "cantonese steamed seabass (cny special)": {
+      "calories": 220,
+      "protein": 28,
+      "carbs": 8,
+      "fat": 10,
+      "sodium": 580,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "almond sugee cookies (cny special)": {
+      "calories": 180,
+      "protein": 3,
+      "carbs": 20,
+      "fat": 10,
+      "sodium": 95,
+      "sugar": 12,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Source of tree nuts"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "wok-fried supreme tang hoon (cny special)": {
+      "calories": 340,
+      "protein": 12,
+      "carbs": 38,
+      "fat": 14,
+      "sodium": 640,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Shellfish",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "diced almonds": {
+      "calories": 160,
+      "protein": 6,
+      "carbs": 6,
+      "fat": 14,
+      "sodium": 2,
+      "sugar": 1,
+      "fiber": 3,
+      "allergens": [
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of fiber",
+        "Source of healthy fats"
+      ],
+      "healthWarnings": []
+    },
+    "cheng tng (cny special)": {
+      "calories": 180,
+      "protein": 2,
+      "carbs": 45,
+      "fat": 0,
+      "sodium": 120,
+      "sugar": 35,
+      "fiber": 3,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in fat",
+        "Source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "honey spread": {
+      "calories": 64,
+      "protein": 0,
+      "carbs": 17,
+      "fat": 0,
+      "sodium": 12,
+      "sugar": 16,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "lohan chai (cny special)": {
+      "calories": 160,
+      "protein": 2,
+      "carbs": 32,
+      "fat": 3,
+      "sodium": 120,
+      "sugar": 24,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "sambal spring roll (cny special)": {
+      "calories": 240,
+      "protein": 5,
+      "carbs": 28,
+      "fat": 11,
+      "sodium": 420,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "cherries": {
+      "calories": 12,
+      "protein": 0,
+      "carbs": 3,
+      "fat": 0,
+      "sodium": 1,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in calories"
+      ],
+      "healthWarnings": []
+    },
+    "unlimited prosperity rice (cny special)": {
+      "calories": 420,
+      "protein": 12,
+      "carbs": 58,
+      "fat": 14,
+      "sodium": 680,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of carbohydrates",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in saturated fat"
+      ]
+    },
+    "chocolate fudge": {
+      "calories": 160,
+      "protein": 1,
+      "carbs": 24,
+      "fat": 7,
+      "sodium": 95,
+      "sugar": 20,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Source of antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "pulut hitam (cny special)": {
+      "calories": 220,
+      "protein": 3,
+      "carbs": 48,
+      "fat": 2,
+      "sodium": 110,
+      "sugar": 28,
+      "fiber": 4,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "pineapple sauce": {
+      "calories": 110,
+      "protein": 0,
+      "carbs": 28,
+      "fat": 0,
+      "sodium": 85,
+      "sugar": 24,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Source of vitamin C",
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "dark cocoa cashew nut cookies (cny special)": {
+      "calories": 280,
+      "protein": 6,
+      "carbs": 32,
+      "fat": 14,
+      "sodium": 180,
+      "sugar": 22,
+      "fiber": 2,
+      "allergens": [
+        "Tree Nut",
+        "Dairy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Source of antioxidants",
+        "Contains tree nuts"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "butterscotch sauce": {
+      "calories": 130,
+      "protein": 0,
+      "carbs": 26,
+      "fat": 3,
+      "sodium": 140,
+      "sugar": 22,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "marshmallow sauce": {
+      "calories": 90,
+      "protein": 1,
+      "carbs": 22,
+      "fat": 0,
+      "sodium": 75,
+      "sugar": 20,
+      "fiber": 0,
+      "allergens": [
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "bananas": {
+      "calories": 105,
+      "protein": 1,
+      "carbs": 27,
+      "fat": 0,
+      "sodium": 1,
+      "sugar": 14,
+      "fiber": 3,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of potassium",
+        "Good source of fiber",
+        "Low in sodium"
+      ],
+      "healthWarnings": []
+    },
+    "kit kat cereal": {
+      "calories": 140,
+      "protein": 3,
+      "carbs": 18,
+      "fat": 6,
+      "sodium": 110,
+      "sugar": 12,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Gluten",
+        "Tree Nut"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "Moderate in saturated fat"
+      ]
+    },
+    "speculoos crumble": {
+      "calories": 85,
+      "protein": 1.2,
+      "carbs": 10.5,
+      "fat": 4.5,
+      "sodium": 95,
+      "sugar": 5.8,
+      "fiber": 0.3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Tree Nut"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "butter": {
+      "calories": 102,
+      "protein": 0.1,
+      "carbs": 0.1,
+      "fat": 11.5,
+      "sodium": 91,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "lotus biscuits caramelized apple spread": {
+      "calories": 95,
+      "protein": 0.8,
+      "carbs": 18.5,
+      "fat": 2.2,
+      "sodium": 65,
+      "sugar": 12.5,
+      "fiber": 0.4,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "lotus biscuits": {
+      "calories": 68,
+      "protein": 0.9,
+      "carbs": 12.5,
+      "fat": 1.8,
+      "sodium": 58,
+      "sugar": 7.2,
+      "fiber": 0.2,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "caramelized apple spread": {
+      "calories": 52,
+      "protein": 0.1,
+      "carbs": 13.2,
+      "fat": 0.1,
+      "sodium": 12,
+      "sugar": 10.8,
+      "fiber": 0.3,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains fruit"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    }
+  }
+}

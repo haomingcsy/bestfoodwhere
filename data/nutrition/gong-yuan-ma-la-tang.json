@@ -1,0 +1,171 @@
+{
+  "brand": "gong-yuan-ma-la-tang",
+  "generatedAt": "2026-02-16T15:17:44.228Z",
+  "items": {
+    "ma la pork bone collagen soup 麻辣猪骨胶原汤": {
+      "calories": 180,
+      "protein": 18,
+      "carbs": 4,
+      "fat": 10,
+      "sodium": 920,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in collagen",
+        "Good source of minerals"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Spicy"
+      ]
+    },
+    "tomato soup 番茄汤": {
+      "calories": 85,
+      "protein": 3,
+      "carbs": 14,
+      "fat": 3,
+      "sodium": 680,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "Rich in lycopene",
+        "Good source of vitamin C",
+        "Low in calories"
+      ],
+      "healthWarnings": [
+        "Moderate sodium",
+        "Contains natural sugars"
+      ]
+    },
+    "pork bone collagen soup 猪骨胶原汤": {
+      "calories": 160,
+      "protein": 20,
+      "carbs": 2,
+      "fat": 8,
+      "sodium": 650,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in collagen",
+        "Supports joint health"
+      ],
+      "healthWarnings": [
+        "High in saturated fat"
+      ]
+    },
+    "(dry) chinese sesame ma la dressing 中华麻辣拌 (sauce contains peanuts)": {
+      "calories": 280,
+      "protein": 10,
+      "carbs": 18,
+      "fat": 19,
+      "sodium": 850,
+      "sugar": 3,
+      "fiber": 3,
+      "allergens": [
+        "Peanut",
+        "Sesame",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains healthy fats"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "High in fat",
+        "Contains peanuts",
+        "Spicy"
+      ]
+    },
+    "(dry) ma la dressing 麻辣拌": {
+      "calories": 240,
+      "protein": 6,
+      "carbs": 12,
+      "fat": 18,
+      "sodium": 920,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from chili"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in calories",
+        "High in fat",
+        "Very spicy"
+      ]
+    },
+    "pickled vegetable soup 酸菜汤": {
+      "calories": 65,
+      "protein": 3,
+      "carbs": 10,
+      "fat": 2,
+      "sodium": 1200,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in calories",
+        "Good source of probiotics",
+        "Contains beneficial bacteria"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in preservatives"
+      ]
+    },
+    "hot & sour pork bone collagen soup 酸辣猪骨胶": {
+      "calories": 170,
+      "protein": 19,
+      "carbs": 5,
+      "fat": 8,
+      "sodium": 980,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in collagen",
+        "May aid digestion"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Spicy"
+      ]
+    },
+    "garden vegetable soup 素素滋补汤": {
+      "calories": 60,
+      "protein": 2,
+      "carbs": 12,
+      "fat": 1,
+      "sodium": 520,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in calories",
+        "Good source of fiber",
+        "Rich in vegetables",
+        "Vegetarian friendly"
+      ],
+      "healthWarnings": []
+    }
+  }
+}

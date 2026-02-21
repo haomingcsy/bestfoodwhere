@@ -1,0 +1,501 @@
+{
+  "brand": "ho-kee-pau",
+  "generatedAt": "2026-02-16T15:24:08.748Z",
+  "items": {
+    "big pau (pork) 大包 （猪肉)": {
+      "calories": 280,
+      "protein": 10,
+      "carbs": 38,
+      "fat": 9,
+      "sodium": 520,
+      "sugar": 6,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Moderate portion"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in saturated fat"
+      ]
+    },
+    "big pau (chicken) 大包 （鸡肉)": {
+      "calories": 260,
+      "protein": 12,
+      "carbs": 37,
+      "fat": 7,
+      "sodium": 480,
+      "sugar": 5,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Lower fat than pork"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "char siew pau 叉烧包": {
+      "calories": 240,
+      "protein": 9,
+      "carbs": 35,
+      "fat": 7,
+      "sodium": 550,
+      "sugar": 7,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in sugar"
+      ]
+    },
+    "red bean paste pau 豆沙包": {
+      "calories": 220,
+      "protein": 5,
+      "carbs": 45,
+      "fat": 3,
+      "sodium": 280,
+      "sugar": 18,
+      "fiber": 2,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Source of antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in carbohydrates"
+      ]
+    },
+    "lotus paste pau 莲蓉包": {
+      "calories": 230,
+      "protein": 4,
+      "carbs": 46,
+      "fat": 4,
+      "sodium": 270,
+      "sugar": 20,
+      "fiber": 1,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in carbohydrates"
+      ]
+    },
+    "vegetable pau 菜包": {
+      "calories": 200,
+      "protein": 7,
+      "carbs": 36,
+      "fat": 4,
+      "sodium": 420,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Good source of vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "siew mai 烧卖": {
+      "calories": 280,
+      "protein": 12,
+      "carbs": 24,
+      "fat": 14,
+      "sodium": 580,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat",
+        "High in saturated fat"
+      ]
+    },
+    "har gao 虾饺": {
+      "calories": 260,
+      "protein": 10,
+      "carbs": 28,
+      "fat": 11,
+      "sodium": 520,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "jiu chai dumpling 韭菜饺": {
+      "calories": 240,
+      "protein": 8,
+      "carbs": 30,
+      "fat": 10,
+      "sodium": 480,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Source of chives"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "beancurd skin roll 腐皮卷": {
+      "calories": 220,
+      "protein": 10,
+      "carbs": 18,
+      "fat": 12,
+      "sodium": 460,
+      "sugar": 1,
+      "fiber": 2,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Good source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "spring roll 春卷": {
+      "calories": 260,
+      "protein": 7,
+      "carbs": 32,
+      "fat": 12,
+      "sodium": 440,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Source of vegetables"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in sodium"
+      ]
+    },
+    "prawn dumpling 明虾饺": {
+      "calories": 270,
+      "protein": 11,
+      "carbs": 28,
+      "fat": 12,
+      "sodium": 540,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Low in sugar"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "yam cake 芋头糕": {
+      "calories": 200,
+      "protein": 4,
+      "carbs": 32,
+      "fat": 7,
+      "sodium": 380,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Source of yam"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "beancurd chives 韭黄卷": {
+      "calories": 210,
+      "protein": 9,
+      "carbs": 18,
+      "fat": 11,
+      "sodium": 450,
+      "sugar": 1,
+      "fiber": 2,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Good source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "char siew roll 叉烧酥": {
+      "calories": 240,
+      "protein": 8,
+      "carbs": 30,
+      "fat": 10,
+      "sodium": 500,
+      "sugar": 4,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "lor mai kai 糯米鸡": {
+      "calories": 340,
+      "protein": 14,
+      "carbs": 42,
+      "fat": 12,
+      "sodium": 560,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Good source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "Moderate in fat"
+      ]
+    },
+    "hokee rice dumpling 和记粽": {
+      "calories": 380,
+      "protein": 12,
+      "carbs": 52,
+      "fat": 12,
+      "sodium": 620,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of carbohydrates",
+        "Source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "fan choy 饭菜": {
+      "calories": 320,
+      "protein": 11,
+      "carbs": 45,
+      "fat": 10,
+      "sodium": 580,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of carbohydrates",
+        "Source of vegetables and protein"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "egg tart 疍挞": {
+      "calories": 280,
+      "protein": 6,
+      "carbs": 32,
+      "fat": 14,
+      "sodium": 220,
+      "sugar": 12,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of protein"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in fat",
+        "High in saturated fat"
+      ]
+    },
+    "lotus leaf rice 荷叶饭": {
+      "calories": 360,
+      "protein": 13,
+      "carbs": 48,
+      "fat": 12,
+      "sodium": 640,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Good source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "pork congee 猪肉粥": {
+      "calories": 320,
+      "protein": 12,
+      "carbs": 48,
+      "fat": 6,
+      "sodium": 1200,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Easy to digest",
+        "Comforting warm dish"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Low in fiber"
+      ]
+    },
+    "chicken congee 鸡肉粥": {
+      "calories": 310,
+      "protein": 14,
+      "carbs": 46,
+      "fat": 5,
+      "sodium": 1150,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Lean protein",
+        "Easy to digest"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Low in fiber"
+      ]
+    },
+    "century egg and pork congee 皮蛋瘦肉粥": {
+      "calories": 350,
+      "protein": 15,
+      "carbs": 47,
+      "fat": 8,
+      "sodium": 1280,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains iron",
+        "Easy to digest"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in cholesterol",
+        "Low in fiber"
+      ]
+    },
+    "wanton noodles 云吞面": {
+      "calories": 380,
+      "protein": 13,
+      "carbs": 52,
+      "fat": 11,
+      "sodium": 1400,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Soy",
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Carbohydrate source for energy"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Contains shellfish"
+      ]
+    }
+  }
+}

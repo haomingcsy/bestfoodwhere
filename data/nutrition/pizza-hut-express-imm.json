@@ -1,0 +1,470 @@
+{
+  "brand": "pizza-hut-express-imm",
+  "generatedAt": "2026-02-21T11:15:57.182Z",
+  "items": {
+    "hut melts - hawaiian": {
+      "calories": 520,
+      "protein": 22,
+      "carbs": 48,
+      "fat": 26,
+      "sodium": 1200,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "beef lasagne": {
+      "calories": 580,
+      "protein": 28,
+      "carbs": 52,
+      "fat": 28,
+      "sodium": 1350,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "4pcs honey roasted wings": {
+      "calories": 380,
+      "protein": 28,
+      "carbs": 18,
+      "fat": 24,
+      "sodium": 850,
+      "sugar": 12,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "mix and match (3 slices)": {
+      "calories": 780,
+      "protein": 32,
+      "carbs": 84,
+      "fat": 36,
+      "sodium": 1800,
+      "sugar": 12,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "veggie lover's slice (sourdough crust)": {
+      "calories": 260,
+      "protein": 10,
+      "carbs": 32,
+      "fat": 11,
+      "sodium": 580,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of vegetables",
+        "Contains fiber"
+      ],
+      "healthWarnings": [
+        "Moderate in sodium"
+      ]
+    },
+    "melts meal": {
+      "calories": 850,
+      "protein": 28,
+      "carbs": 88,
+      "fat": 40,
+      "sodium": 1600,
+      "sugar": 32,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Includes beverage"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories",
+        "High in sugar"
+      ]
+    },
+    "coca-cola® (canned)": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 39,
+      "fat": 0,
+      "sodium": 40,
+      "sugar": 39,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "garlic bread": {
+      "calories": 280,
+      "protein": 6,
+      "carbs": 28,
+      "fat": 16,
+      "sodium": 520,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Sesame"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "coca-cola® zero sugar (canned)": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 40,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Zero sugar",
+        "Zero calories"
+      ],
+      "healthWarnings": [
+        "Contains artificial sweeteners"
+      ]
+    },
+    "pizza meal": {
+      "calories": 720,
+      "protein": 26,
+      "carbs": 82,
+      "fat": 32,
+      "sodium": 1500,
+      "sugar": 28,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Includes beverage"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories",
+        "High in sugar"
+      ]
+    },
+    "hawaiian slice (sourdough crust)": {
+      "calories": 270,
+      "protein": 12,
+      "carbs": 32,
+      "fat": 11,
+      "sodium": 620,
+      "sugar": 7,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "Moderate in sodium"
+      ]
+    },
+    "mix and match (6 slices)": {
+      "calories": 1560,
+      "protein": 64,
+      "carbs": 168,
+      "fat": 72,
+      "sodium": 3600,
+      "sugar": 24,
+      "fiber": 8,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Very high in calories"
+      ]
+    },
+    "hut melts - beef pepperoni": {
+      "calories": 540,
+      "protein": 24,
+      "carbs": 46,
+      "fat": 28,
+      "sodium": 1280,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "curry zazzle baked rice": {
+      "calories": 620,
+      "protein": 22,
+      "carbs": 68,
+      "fat": 28,
+      "sodium": 1400,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "4pcs drumlets": {
+      "calories": 360,
+      "protein": 32,
+      "carbs": 12,
+      "fat": 22,
+      "sodium": 920,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "pepperoni slice (sourdough crust)": {
+      "calories": 290,
+      "protein": 13,
+      "carbs": 30,
+      "fat": 14,
+      "sodium": 680,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "Moderate in sodium"
+      ]
+    },
+    "fuze tea® jasmine green tea (canned)": {
+      "calories": 50,
+      "protein": 0,
+      "carbs": 12,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 10,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Low calorie"
+      ],
+      "healthWarnings": [
+        "Contains sugar"
+      ]
+    },
+    "fuze tea® iced lemon tea (canned)": {
+      "calories": 50,
+      "protein": 0,
+      "carbs": 12,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 10,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Low calorie"
+      ],
+      "healthWarnings": [
+        "Contains sugar"
+      ]
+    },
+    "cheese slice (sourdough crust)": {
+      "calories": 280,
+      "protein": 11,
+      "carbs": 32,
+      "fat": 12,
+      "sodium": 640,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of calcium",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "Moderate in sodium"
+      ]
+    },
+    "sprite® (canned)": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 36,
+      "fat": 0,
+      "sodium": 70,
+      "sugar": 36,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "bbq chicken slice (sourdough crust)": {
+      "calories": 320,
+      "protein": 16,
+      "carbs": 38,
+      "fat": 12,
+      "sodium": 680,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vitamin C from capsicums"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in sugar",
+        "Moderate in saturated fat"
+      ]
+    },
+    "curry chicken slice (sourdough crust)": {
+      "calories": 310,
+      "protein": 15,
+      "carbs": 40,
+      "fat": 11,
+      "sodium": 720,
+      "sugar": 5,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains fiber from potatoes",
+        "Contains spices with antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in saturated fat"
+      ]
+    },
+    "truffle shuffle 'n' chicken bacon pizza (sourdough crust)": {
+      "calories": 340,
+      "protein": 17,
+      "carbs": 36,
+      "fat": 15,
+      "sodium": 750,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains mushrooms with B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Moderate to high in calories"
+      ]
+    }
+  }
+}

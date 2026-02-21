@@ -1,0 +1,296 @@
+{
+  "brand": "awfully-chocolate-jem",
+  "generatedAt": "2026-02-16T13:29:34.173Z",
+  "items": {
+    "dark chocolate": {
+      "calories": 380,
+      "protein": 5,
+      "carbs": 42,
+      "fat": 22,
+      "sodium": 85,
+      "sugar": 38,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Source of minerals"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "original chocolate cakes": {
+      "calories": 420,
+      "protein": 6,
+      "carbs": 48,
+      "fat": 24,
+      "sodium": 95,
+      "sugar": 42,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "congratulations": {
+      "calories": 410,
+      "protein": 5,
+      "carbs": 50,
+      "fat": 22,
+      "sodium": 120,
+      "sugar": 44,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten",
+        "Tree Nut"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "white chocolate": {
+      "calories": 440,
+      "protein": 5,
+      "carbs": 52,
+      "fat": 24,
+      "sodium": 100,
+      "sugar": 48,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "love": {
+      "calories": 400,
+      "protein": 5,
+      "carbs": 46,
+      "fat": 22,
+      "sodium": 110,
+      "sugar": 40,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "signature cakes": {
+      "calories": 430,
+      "protein": 6,
+      "carbs": 50,
+      "fat": 24,
+      "sodium": 105,
+      "sugar": 44,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "alcoholic": {
+      "calories": 390,
+      "protein": 5,
+      "carbs": 44,
+      "fat": 21,
+      "sodium": 90,
+      "sugar": 36,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten",
+        "Tree Nut"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories",
+        "Contains alcohol"
+      ]
+    },
+    "celebration cakes": {
+      "calories": 420,
+      "protein": 5,
+      "carbs": 49,
+      "fat": 23,
+      "sodium": 115,
+      "sugar": 43,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten",
+        "Tree Nut"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "thank you": {
+      "calories": 415,
+      "protein": 5,
+      "carbs": 48,
+      "fat": 23,
+      "sodium": 108,
+      "sugar": 41,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten",
+        "Tree Nut"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "gluten free": {
+      "calories": 440,
+      "protein": 6,
+      "carbs": 48,
+      "fat": 26,
+      "sodium": 95,
+      "sugar": 42,
+      "fiber": 3,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Gluten-free",
+        "Higher in fiber"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "customised cakes": {
+      "calories": 425,
+      "protein": 5,
+      "carbs": 49,
+      "fat": 23,
+      "sodium": 100,
+      "sugar": 43,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten",
+        "Tree Nut"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "limited edition": {
+      "calories": 435,
+      "protein": 6,
+      "carbs": 50,
+      "fat": 24,
+      "sodium": 105,
+      "sugar": 45,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "gelatine free": {
+      "calories": 420,
+      "protein": 5,
+      "carbs": 48,
+      "fat": 23,
+      "sodium": 100,
+      "sugar": 42,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Gelatine-free",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    }
+  }
+}

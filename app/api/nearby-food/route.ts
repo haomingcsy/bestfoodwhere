@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from "next/server";
-import { fetchAllBrands } from "@/lib/google-sheets";
+import { fetchAllBrandsWithLocationsSupabase } from "@/lib/supabase-menu";
 import {
   calculateDistance,
   geocodeLocationName,
@@ -94,8 +94,8 @@ export async function GET(request: NextRequest) {
   }
 
   try {
-    // Fetch all brands from Google Sheets
-    const brands = await fetchAllBrands();
+    // Fetch all brands from Supabase
+    const brands = await fetchAllBrandsWithLocationsSupabase();
 
     // Collect all unique location names first
     const uniqueLocations = new Set<string>();

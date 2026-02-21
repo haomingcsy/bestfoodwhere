@@ -1,0 +1,551 @@
+{
+  "brand": "shake-shake-in-a-tub-jewel-changi-airport",
+  "generatedAt": "2026-02-21T11:38:30.011Z",
+  "items": {
+    "popcorn chicken combo (huge)": {
+      "calories": 890,
+      "protein": 28,
+      "carbs": 95,
+      "fat": 42,
+      "sodium": 1680,
+      "sugar": 8,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "shoestring fries - huge": {
+      "calories": 620,
+      "protein": 8,
+      "carbs": 78,
+      "fat": 31,
+      "sodium": 1240,
+      "sugar": 2,
+      "fiber": 6,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "a&w mug root beer": {
+      "calories": 170,
+      "protein": 0,
+      "carbs": 46,
+      "fat": 0,
+      "sodium": 85,
+      "sugar": 46,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "shoestring fries - giant": {
+      "calories": 850,
+      "protein": 11,
+      "carbs": 107,
+      "fat": 42,
+      "sodium": 1700,
+      "sugar": 3,
+      "fiber": 8,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "sprite": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 36,
+      "fat": 0,
+      "sodium": 65,
+      "sugar": 36,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "onion ring combo (huge)": {
+      "calories": 750,
+      "protein": 12,
+      "carbs": 88,
+      "fat": 38,
+      "sodium": 1450,
+      "sugar": 6,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "sweet potato fries combo (huge)": {
+      "calories": 780,
+      "protein": 10,
+      "carbs": 92,
+      "fat": 39,
+      "sodium": 1320,
+      "sugar": 12,
+      "fiber": 7,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Source of fiber",
+        "Contains beta-carotene"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories",
+        "Moderate sugar content"
+      ]
+    },
+    "shoestring fries - super giant": {
+      "calories": 1050,
+      "protein": 14,
+      "carbs": 132,
+      "fat": 52,
+      "sodium": 2100,
+      "sugar": 4,
+      "fiber": 10,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Very high in calories"
+      ]
+    },
+    "curly fries - huge": {
+      "calories": 580,
+      "protein": 7,
+      "carbs": 72,
+      "fat": 29,
+      "sodium": 1180,
+      "sugar": 2,
+      "fiber": 5,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "popcorn chicken combo (giant)": {
+      "calories": 1240,
+      "protein": 38,
+      "carbs": 140,
+      "fat": 58,
+      "sodium": 2340,
+      "sugar": 12,
+      "fiber": 5,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Very high in calories"
+      ]
+    },
+    "coke": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 39,
+      "fat": 0,
+      "sodium": 55,
+      "sugar": 39,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "curly fries - giant": {
+      "calories": 800,
+      "protein": 10,
+      "carbs": 100,
+      "fat": 40,
+      "sodium": 1600,
+      "sugar": 3,
+      "fiber": 7,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "mixed popcorn chicken & onion ring combo (giant)": {
+      "calories": 1100,
+      "protein": 32,
+      "carbs": 120,
+      "fat": 52,
+      "sodium": 2100,
+      "sugar": 10,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Very high in calories"
+      ]
+    },
+    "curly fries - super giant": {
+      "calories": 980,
+      "protein": 12,
+      "carbs": 123,
+      "fat": 49,
+      "sodium": 1960,
+      "sugar": 4,
+      "fiber": 9,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Very high in calories"
+      ]
+    },
+    "crisscut fries - huge": {
+      "calories": 560,
+      "protein": 7,
+      "carbs": 70,
+      "fat": 28,
+      "sodium": 1140,
+      "sugar": 2,
+      "fiber": 5,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "crisscut fries - giant": {
+      "calories": 780,
+      "protein": 10,
+      "carbs": 98,
+      "fat": 39,
+      "sodium": 1560,
+      "sugar": 3,
+      "fiber": 7,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "crisscut fries - super giant": {
+      "calories": 950,
+      "protein": 12,
+      "carbs": 120,
+      "fat": 48,
+      "sodium": 1900,
+      "sugar": 4,
+      "fiber": 9,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Very high in calories"
+      ]
+    },
+    "sweet potato fries - medium": {
+      "calories": 380,
+      "protein": 5,
+      "carbs": 46,
+      "fat": 19,
+      "sodium": 640,
+      "sugar": 6,
+      "fiber": 4,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Source of fiber",
+        "Contains beta-carotene"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "sweet potato fries - huge": {
+      "calories": 620,
+      "protein": 8,
+      "carbs": 76,
+      "fat": 31,
+      "sodium": 1080,
+      "sugar": 10,
+      "fiber": 6,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Source of fiber",
+        "Contains beta-carotene"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "popcorn chicken - medium": {
+      "calories": 420,
+      "protein": 22,
+      "carbs": 28,
+      "fat": 26,
+      "sodium": 680,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "popcorn chicken - giant": {
+      "calories": 780,
+      "protein": 40,
+      "carbs": 52,
+      "fat": 48,
+      "sodium": 1260,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "Very high in saturated fat",
+        "Very high in calories"
+      ]
+    },
+    "crispy chicken nuggets - 6pcs": {
+      "calories": 360,
+      "protein": 18,
+      "carbs": 24,
+      "fat": 22,
+      "sodium": 580,
+      "sugar": 0,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "crispy chicken nuggets - 9pcs": {
+      "calories": 540,
+      "protein": 27,
+      "carbs": 36,
+      "fat": 33,
+      "sodium": 870,
+      "sugar": 0,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "onion ring - giant": {
+      "calories": 520,
+      "protein": 8,
+      "carbs": 56,
+      "fat": 28,
+      "sodium": 920,
+      "sugar": 2,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Contains fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "tater tots - huge": {
+      "calories": 480,
+      "protein": 6,
+      "carbs": 48,
+      "fat": 28,
+      "sodium": 840,
+      "sugar": 1,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Contains fiber",
+        "Source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "tater tots - giant": {
+      "calories": 650,
+      "protein": 8,
+      "carbs": 66,
+      "fat": 38,
+      "sodium": 1140,
+      "sugar": 2,
+      "fiber": 5,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Contains fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Very high in calories"
+      ]
+    },
+    "tater tots - super giant": {
+      "calories": 720,
+      "protein": 9,
+      "carbs": 74,
+      "fat": 42,
+      "sodium": 1280,
+      "sugar": 2,
+      "fiber": 6,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Contains fiber"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in saturated fat",
+        "Very high in calories"
+      ]
+    }
+  }
+}

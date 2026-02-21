@@ -1,0 +1,529 @@
+{
+  "brand": "downstairs-suntec-city",
+  "generatedAt": "2026-02-16T14:31:34.293Z",
+  "items": {
+    "teh (hot)": {
+      "calories": 45,
+      "protein": 0.5,
+      "carbs": 8,
+      "fat": 1.5,
+      "sodium": 120,
+      "sugar": 6,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "curry chicken with rice": {
+      "calories": 620,
+      "protein": 28,
+      "carbs": 72,
+      "fat": 18,
+      "sodium": 1200,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains turmeric"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "macaroni soup": {
+      "calories": 480,
+      "protein": 18,
+      "carbs": 58,
+      "fat": 14,
+      "sodium": 1400,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Shellfish",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate saturated fat"
+      ]
+    },
+    "teh (ice)": {
+      "calories": 65,
+      "protein": 0.5,
+      "carbs": 15,
+      "fat": 1,
+      "sodium": 140,
+      "sugar": 13,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "mee tai mak soup": {
+      "calories": 420,
+      "protein": 12,
+      "carbs": 65,
+      "fat": 9,
+      "sodium": 1350,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Moderate protein",
+        "Contains noodles"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "kopi (hot)": {
+      "calories": 50,
+      "protein": 1,
+      "carbs": 7,
+      "fat": 2,
+      "sodium": 110,
+      "sugar": 5,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains caffeine"
+      ],
+      "healthWarnings": []
+    },
+    "downstairs wanton mee": {
+      "calories": 510,
+      "protein": 16,
+      "carbs": 68,
+      "fat": 15,
+      "sodium": 1480,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains noodles"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate saturated fat"
+      ]
+    },
+    "kopi (ice)": {
+      "calories": 75,
+      "protein": 1,
+      "carbs": 14,
+      "fat": 2,
+      "sodium": 130,
+      "sugar": 12,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains caffeine"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "chicken chop hor fun": {
+      "calories": 580,
+      "protein": 32,
+      "carbs": 64,
+      "fat": 16,
+      "sodium": 1350,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of carbs"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate saturated fat"
+      ]
+    },
+    "teh o (hot)": {
+      "calories": 35,
+      "protein": 0.5,
+      "carbs": 6,
+      "fat": 1,
+      "sodium": 100,
+      "sugar": 5,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "teh o (ice)": {
+      "calories": 50,
+      "protein": 0.5,
+      "carbs": 11,
+      "fat": 1,
+      "sodium": 120,
+      "sugar": 10,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "salted egg chicken rice": {
+      "calories": 720,
+      "protein": 35,
+      "carbs": 72,
+      "fat": 22,
+      "sodium": 1580,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains egg"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in cholesterol"
+      ]
+    },
+    "curry pork cutlet rice": {
+      "calories": 680,
+      "protein": 32,
+      "carbs": 70,
+      "fat": 20,
+      "sodium": 1420,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "kopi o (hot)": {
+      "calories": 40,
+      "protein": 1,
+      "carbs": 5,
+      "fat": 2,
+      "sodium": 100,
+      "sugar": 3,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains caffeine"
+      ],
+      "healthWarnings": []
+    },
+    "lu rou fan with lava egg": {
+      "calories": 650,
+      "protein": 24,
+      "carbs": 74,
+      "fat": 22,
+      "sodium": 1380,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Egg",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains egg"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "kopi o (ice)": {
+      "calories": 55,
+      "protein": 1,
+      "carbs": 9,
+      "fat": 2,
+      "sodium": 120,
+      "sugar": 7,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains caffeine"
+      ],
+      "healthWarnings": []
+    },
+    "lu rou mian with lava egg": {
+      "calories": 640,
+      "protein": 22,
+      "carbs": 78,
+      "fat": 18,
+      "sodium": 1420,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of carbs",
+        "Contains noodles"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate saturated fat"
+      ]
+    },
+    "teh c (hot)": {
+      "calories": 85,
+      "protein": 1,
+      "carbs": 12,
+      "fat": 4,
+      "sodium": 140,
+      "sugar": 10,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains calcium"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "Moderate sugar"
+      ]
+    },
+    "teh c (ice)": {
+      "calories": 110,
+      "protein": 1,
+      "carbs": 18,
+      "fat": 4.5,
+      "sodium": 160,
+      "sugar": 16,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Moderate saturated fat"
+      ]
+    },
+    "kopi c (hot)": {
+      "calories": 90,
+      "protein": 1,
+      "carbs": 11,
+      "fat": 4.5,
+      "sodium": 130,
+      "sugar": 8,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains calcium",
+        "Contains caffeine"
+      ],
+      "healthWarnings": [
+        "Moderate saturated fat"
+      ]
+    },
+    "kopi c (ice)": {
+      "calories": 120,
+      "protein": 3,
+      "carbs": 18,
+      "fat": 4,
+      "sodium": 85,
+      "sugar": 15,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "milo (hot)": {
+      "calories": 180,
+      "protein": 4,
+      "carbs": 30,
+      "fat": 5,
+      "sodium": 120,
+      "sugar": 24,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains calcium",
+        "Source of iron"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "milo (ice)": {
+      "calories": 200,
+      "protein": 4,
+      "carbs": 32,
+      "fat": 5,
+      "sodium": 125,
+      "sugar": 26,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains calcium",
+        "Source of iron"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "yuen yeung (hot)": {
+      "calories": 140,
+      "protein": 3,
+      "carbs": 20,
+      "fat": 4,
+      "sodium": 95,
+      "sugar": 16,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "yuen yueng (ice)": {
+      "calories": 150,
+      "protein": 3,
+      "carbs": 22,
+      "fat": 4,
+      "sodium": 100,
+      "sugar": 18,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "ice lemon tea": {
+      "calories": 110,
+      "protein": 0,
+      "carbs": 27,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 25,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "lime juice": {
+      "calories": 90,
+      "protein": 1,
+      "carbs": 22,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 18,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of vitamin C",
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "canned drinks": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 35,
+      "fat": 0,
+      "sodium": 40,
+      "sugar": 33,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in calories"
+      ]
+    },
+    "mineral water": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 30,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Zero calories",
+        "Hydrating"
+      ],
+      "healthWarnings": []
+    }
+  }
+}

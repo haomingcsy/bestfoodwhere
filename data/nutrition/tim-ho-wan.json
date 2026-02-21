@@ -1,0 +1,157 @@
+{
+  "brand": "tim-ho-wan",
+  "generatedAt": "2026-02-21T12:07:20.417Z",
+  "items": {
+    "baked bbq pork buns": {
+      "calories": 280,
+      "protein": 10,
+      "carbs": 38,
+      "fat": 9,
+      "sodium": 520,
+      "sugar": 8,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Moderate portion size"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in saturated fat"
+      ]
+    },
+    "steamed egg cake": {
+      "calories": 160,
+      "protein": 6,
+      "carbs": 22,
+      "fat": 5,
+      "sodium": 180,
+      "sugar": 12,
+      "fiber": 0,
+      "allergens": [
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Light and fluffy"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains saturated fat"
+      ]
+    },
+    "pork & shrimp dumplings in hot": {
+      "calories": 200,
+      "protein": 12,
+      "carbs": 20,
+      "fat": 8,
+      "sodium": 580,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Shellfish",
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in fat"
+      ]
+    },
+    "steamed vegetable dumplings": {
+      "calories": 120,
+      "protein": 4,
+      "carbs": 18,
+      "fat": 3,
+      "sodium": 420,
+      "sugar": 1,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Low in calories",
+        "Good source of fiber",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "steamed pork spare rib black bean": {
+      "calories": 240,
+      "protein": 18,
+      "carbs": 8,
+      "fat": 16,
+      "sodium": 720,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "steamed bean curd vegetable": {
+      "calories": 100,
+      "protein": 8,
+      "carbs": 6,
+      "fat": 5,
+      "sodium": 380,
+      "sugar": 1,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Low in calories",
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "steamed fish bundle": {
+      "calories": 150,
+      "protein": 16,
+      "carbs": 8,
+      "fat": 6,
+      "sodium": 480,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of omega-3",
+        "Low in calories"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    }
+  }
+}

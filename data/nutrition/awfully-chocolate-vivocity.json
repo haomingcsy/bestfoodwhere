@@ -1,0 +1,76 @@
+{
+  "brand": "awfully-chocolate-vivocity",
+  "generatedAt": "2026-02-16T13:29:38.782Z",
+  "items": {
+    "70% dark chocolate": {
+      "calories": 170,
+      "protein": 2.5,
+      "carbs": 13,
+      "fat": 12,
+      "sodium": 5,
+      "sugar": 10,
+      "fiber": 2.5,
+      "allergens": [
+        "Dairy",
+        "Tree Nut",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in antioxidants",
+        "Good source of magnesium",
+        "Contains polyphenols"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in saturated fat"
+      ]
+    },
+    "60% dark chocolate": {
+      "calories": 165,
+      "protein": 2,
+      "carbs": 16,
+      "fat": 11,
+      "sodium": 5,
+      "sugar": 13,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Tree Nut",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in antioxidants",
+        "Good source of magnesium",
+        "Contains polyphenols"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in saturated fat",
+        "High in sugar"
+      ]
+    },
+    "45% dark milk chocolate": {
+      "calories": 155,
+      "protein": 2.5,
+      "carbs": 18,
+      "fat": 9,
+      "sodium": 35,
+      "sugar": 16,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Tree Nut",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Source of calcium",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    }
+  }
+}

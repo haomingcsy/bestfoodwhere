@@ -1,0 +1,369 @@
+{
+  "brand": "wunderfolks-handmade-tarts-junction-8-bishan",
+  "generatedAt": "2026-02-21T12:21:56.372Z",
+  "items": {
+    "dark chocolate & sea salt cookie": {
+      "calories": 180,
+      "protein": 2.5,
+      "carbs": 20,
+      "fat": 10,
+      "sodium": 85,
+      "sugar": 14,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Source of antioxidants from cocoa"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "original tiramisu": {
+      "calories": 320,
+      "protein": 6,
+      "carbs": 28,
+      "fat": 20,
+      "sodium": 95,
+      "sugar": 22,
+      "fiber": 0.5,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains caffeine"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "citrus meringue tart": {
+      "calories": 280,
+      "protein": 4,
+      "carbs": 32,
+      "fat": 15,
+      "sodium": 120,
+      "sugar": 24,
+      "fiber": 0.5,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Source of vitamin C from citrus"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "fruitilicious mixed fruit tart": {
+      "calories": 1850,
+      "protein": 18,
+      "carbs": 200,
+      "fat": 95,
+      "sodium": 550,
+      "sugar": 140,
+      "fiber": 6,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "Good source of vitamins from fruit"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "Very high in calories",
+        "High in saturated fat"
+      ]
+    },
+    "earl grey cookie": {
+      "calories": 150,
+      "protein": 2,
+      "carbs": 18,
+      "fat": 8,
+      "sodium": 75,
+      "sugar": 10,
+      "fiber": 0.5,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from Earl Grey tea"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "biscoff tiramisu": {
+      "calories": 360,
+      "protein": 6,
+      "carbs": 38,
+      "fat": 21,
+      "sodium": 105,
+      "sugar": 28,
+      "fiber": 0.5,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains caffeine"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "dark chocolate tart": {
+      "calories": 2100,
+      "protein": 24,
+      "carbs": 180,
+      "fat": 140,
+      "sodium": 520,
+      "sugar": 150,
+      "fiber": 8,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in antioxidants from dark chocolate"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "Very high in calories",
+        "Very high in saturated fat"
+      ]
+    },
+    "lychee ispahan tart": {
+      "calories": 260,
+      "protein": 3.5,
+      "carbs": 28,
+      "fat": 14,
+      "sodium": 100,
+      "sugar": 22,
+      "fiber": 0.5,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Source of vitamin C from lychee",
+        "Contains antioxidants from rose"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "hazelnut milk chocolate cookie": {
+      "calories": 200,
+      "protein": 3,
+      "carbs": 19,
+      "fat": 12,
+      "sodium": 80,
+      "sugar": 13,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Source of vitamin E from hazelnuts"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "espressomisu tart": {
+      "calories": 295,
+      "protein": 5,
+      "carbs": 26,
+      "fat": 18,
+      "sodium": 110,
+      "sugar": 19,
+      "fiber": 0.5,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Contains caffeine",
+        "Source of antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "lemony meringue tart": {
+      "calories": 1950,
+      "protein": 20,
+      "carbs": 210,
+      "fat": 100,
+      "sodium": 580,
+      "sugar": 155,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Source of vitamin C from lemon"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "Very high in calories",
+        "Very high in saturated fat"
+      ]
+    },
+    "matcha tiramisu": {
+      "calories": 340,
+      "protein": 6,
+      "carbs": 30,
+      "fat": 21,
+      "sodium": 100,
+      "sugar": 24,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in antioxidants from matcha",
+        "Contains L-theanine"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "pistachio strawberry tart": {
+      "calories": 290,
+      "protein": 4.5,
+      "carbs": 27,
+      "fat": 17,
+      "sodium": 115,
+      "sugar": 20,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Tree Nut",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Source of vitamin E from pistachios",
+        "Source of vitamin C from strawberry"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "half fruit half chocolate tart": {
+      "calories": 1975,
+      "protein": 21,
+      "carbs": 190,
+      "fat": 117.5,
+      "sodium": 535,
+      "sugar": 145,
+      "fiber": 7,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in antioxidants",
+        "Good source of vitamins"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "Very high in calories",
+        "Very high in saturated fat"
+      ]
+    },
+    "half fruit half lemon tart": {
+      "calories": 1900,
+      "protein": 19,
+      "carbs": 205,
+      "fat": 97.5,
+      "sodium": 565,
+      "sugar": 147.5,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in vitamin C",
+        "High in fiber"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "Very high in calories",
+        "Very high in saturated fat"
+      ]
+    },
+    "half lemon half chocolate tart": {
+      "calories": 2025,
+      "protein": 22,
+      "carbs": 195,
+      "fat": 120,
+      "sodium": 550,
+      "sugar": 152.5,
+      "fiber": 5,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in antioxidants",
+        "Source of vitamin C"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "Very high in calories",
+        "Very high in saturated fat"
+      ]
+    }
+  }
+}

@@ -1,0 +1,390 @@
+{
+  "brand": "kane-mochi",
+  "generatedAt": "2026-02-21T10:37:32.267Z",
+  "items": {
+    "chocolate": {
+      "calories": 280,
+      "protein": 4,
+      "carbs": 38,
+      "fat": 12,
+      "sodium": 95,
+      "sugar": 32,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "thai iced tea": {
+      "calories": 240,
+      "protein": 3,
+      "carbs": 42,
+      "fat": 6,
+      "sodium": 120,
+      "sugar": 38,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains polyphenols from tea"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in sodium"
+      ]
+    },
+    "durian": {
+      "calories": 310,
+      "protein": 5,
+      "carbs": 36,
+      "fat": 16,
+      "sodium": 85,
+      "sugar": 28,
+      "fiber": 2,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of vitamin C",
+        "Contains dietary fiber"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in fat",
+        "High in calories"
+      ]
+    },
+    "matcha": {
+      "calories": 220,
+      "protein": 4,
+      "carbs": 32,
+      "fat": 8,
+      "sodium": 110,
+      "sugar": 26,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Rich in antioxidants",
+        "Contains L-theanine"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "milk": {
+      "calories": 200,
+      "protein": 6,
+      "carbs": 28,
+      "fat": 7,
+      "sodium": 140,
+      "sugar": 24,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of calcium",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "melon": {
+      "calories": 180,
+      "protein": 3,
+      "carbs": 30,
+      "fat": 5,
+      "sodium": 100,
+      "sugar": 26,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of vitamin A",
+        "Contains electrolytes"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "mocha chip": {
+      "calories": 300,
+      "protein": 4,
+      "carbs": 40,
+      "fat": 14,
+      "sodium": 105,
+      "sugar": 34,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from coffee"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "salted caramel": {
+      "calories": 290,
+      "protein": 4,
+      "carbs": 38,
+      "fat": 13,
+      "sodium": 180,
+      "sugar": 33,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "cookies & cream": {
+      "calories": 320,
+      "protein": 4,
+      "carbs": 42,
+      "fat": 15,
+      "sodium": 150,
+      "sugar": 36,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "taro": {
+      "calories": 260,
+      "protein": 4,
+      "carbs": 36,
+      "fat": 11,
+      "sodium": 100,
+      "sugar": 30,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Good source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "peach": {
+      "calories": 190,
+      "protein": 3,
+      "carbs": 32,
+      "fat": 5,
+      "sodium": 95,
+      "sugar": 28,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of vitamin C",
+        "Contains natural antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "brown sugar milk tea": {
+      "calories": 270,
+      "protein": 4,
+      "carbs": 40,
+      "fat": 9,
+      "sodium": 125,
+      "sugar": 36,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains polyphenols from tea"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in sodium"
+      ]
+    },
+    "strawberry": {
+      "calories": 200,
+      "protein": 3,
+      "carbs": 30,
+      "fat": 6,
+      "sodium": 90,
+      "sugar": 26,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of vitamin C",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "blueberry": {
+      "calories": 210,
+      "protein": 3,
+      "carbs": 32,
+      "fat": 6,
+      "sodium": 95,
+      "sugar": 28,
+      "fiber": 2,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Rich in antioxidants",
+        "Good source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "passionfruit": {
+      "calories": 220,
+      "protein": 3,
+      "carbs": 34,
+      "fat": 7,
+      "sodium": 100,
+      "sugar": 30,
+      "fiber": 2,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of vitamin C",
+        "Contains dietary fiber"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "lychee": {
+      "calories": 190,
+      "protein": 3,
+      "carbs": 30,
+      "fat": 5,
+      "sodium": 85,
+      "sugar": 26,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of vitamin C",
+        "Contains copper"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "mango": {
+      "calories": 240,
+      "protein": 3,
+      "carbs": 36,
+      "fat": 8,
+      "sodium": 100,
+      "sugar": 32,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of vitamin A",
+        "Good source of vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "raspberry": {
+      "calories": 210,
+      "protein": 3,
+      "carbs": 32,
+      "fat": 7,
+      "sodium": 95,
+      "sugar": 27,
+      "fiber": 2,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Rich in antioxidants",
+        "Good source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "korean banana milk": {
+      "calories": 230,
+      "protein": 4,
+      "carbs": 35,
+      "fat": 8,
+      "sodium": 130,
+      "sugar": 30,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of potassium",
+        "Contains vitamin B6"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in sodium"
+      ]
+    },
+    "strawberry cheesecake": {
+      "calories": 340,
+      "protein": 5,
+      "carbs": 42,
+      "fat": 17,
+      "sodium": 160,
+      "sugar": 38,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    }
+  }
+}

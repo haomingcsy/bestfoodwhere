@@ -1,0 +1,144 @@
+{
+  "brand": "hokkaido-baked-cheese-tart",
+  "generatedAt": "2026-02-16T15:24:13.909Z",
+  "items": {
+    "box of 6 (regular)": {
+      "calories": 1020,
+      "protein": 18,
+      "carbs": 102,
+      "fat": 54,
+      "sodium": 720,
+      "sugar": 48,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in calories",
+        "High in saturated fat",
+        "High in sugar"
+      ]
+    },
+    "bottled water": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Hydrating",
+        "Zero calories"
+      ],
+      "healthWarnings": []
+    },
+    "chocolate": {
+      "calories": 210,
+      "protein": 4,
+      "carbs": 18,
+      "fat": 13,
+      "sodium": 180,
+      "sugar": 12,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sugar"
+      ]
+    },
+    "original": {
+      "calories": 190,
+      "protein": 5,
+      "carbs": 16,
+      "fat": 11,
+      "sodium": 200,
+      "sugar": 8,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains calcium"
+      ],
+      "healthWarnings": [
+        "High in saturated fat"
+      ]
+    },
+    "box of 6 (premium)": {
+      "calories": 1080,
+      "protein": 19,
+      "carbs": 108,
+      "fat": 58,
+      "sodium": 780,
+      "sugar": 52,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in calories",
+        "High in saturated fat",
+        "High in sugar"
+      ]
+    },
+    "blueberry": {
+      "calories": 220,
+      "protein": 4,
+      "carbs": 22,
+      "fat": 12,
+      "sodium": 170,
+      "sugar": 14,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "salted egg": {
+      "calories": 230,
+      "protein": 6,
+      "carbs": 19,
+      "fat": 14,
+      "sodium": 380,
+      "sugar": 9,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    }
+  }
+}

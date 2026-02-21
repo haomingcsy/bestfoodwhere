@@ -1,0 +1,106 @@
+{
+  "brand": "wok-hey-vivocity-harbourfront",
+  "generatedAt": "2026-02-21T12:21:07.985Z",
+  "items": {
+    "ebi rice": {
+      "calories": 520,
+      "protein": 18,
+      "carbs": 68,
+      "fat": 15,
+      "sodium": 1200,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Fish",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3 from seafood",
+        "Rich in carbohydrates for energy"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in fat",
+        "High in calories"
+      ]
+    },
+    "fresh ramen": {
+      "calories": 580,
+      "protein": 22,
+      "carbs": 72,
+      "fat": 16,
+      "sodium": 1450,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Gluten",
+        "Egg",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables",
+        "Rich in carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "Contains gluten"
+      ]
+    },
+    "shanghai fried rice": {
+      "calories": 550,
+      "protein": 24,
+      "carbs": 66,
+      "fat": 17,
+      "sodium": 1280,
+      "sugar": 2,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables",
+        "Rich in carbohydrates for energy"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "Moderate in saturated fat"
+      ]
+    },
+    "fresh udon": {
+      "calories": 620,
+      "protein": 28,
+      "carbs": 74,
+      "fat": 18,
+      "sodium": 1380,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Excellent source of protein",
+        "Contains vegetables",
+        "Rich in carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "Moderate in saturated fat",
+        "Contains gluten"
+      ]
+    }
+  }
+}

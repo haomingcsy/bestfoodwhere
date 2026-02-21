@@ -1,0 +1,50 @@
+{
+  "brand": "thye-moh-chan",
+  "generatedAt": "2026-02-21T12:07:15.652Z",
+  "items": {
+    "traditional sweet tau sar piah": {
+      "calories": 280,
+      "protein": 5,
+      "carbs": 38,
+      "fat": 12,
+      "sodium": 320,
+      "sugar": 12,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Source of carbohydrates for energy"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "Calorie-dense pastry"
+      ]
+    },
+    "traditional salty tau sar piah": {
+      "calories": 270,
+      "protein": 7,
+      "carbs": 36,
+      "fat": 11,
+      "sodium": 580,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Source of plant-based protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Calorie-dense pastry"
+      ]
+    }
+  }
+}

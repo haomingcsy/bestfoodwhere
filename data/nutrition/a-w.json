@@ -1,0 +1,1736 @@
+{
+  "brand": "a-w",
+  "generatedAt": "2026-02-16T13:14:57.871Z",
+  "items": {
+    "a&w® root beer (reg)": {
+      "calories": 220,
+      "protein": 0,
+      "carbs": 58,
+      "fat": 0,
+      "sodium": 75,
+      "sugar": 58,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "cheeseburger beary meal": {
+      "calories": 520,
+      "protein": 22,
+      "carbs": 52,
+      "fat": 24,
+      "sodium": 890,
+      "sugar": 18,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "golden aroma® drumstick rooty® rice box": {
+      "calories": 620,
+      "protein": 28,
+      "carbs": 68,
+      "fat": 24,
+      "sodium": 1020,
+      "sugar": 8,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "Moderate saturated fat"
+      ]
+    },
+    "1pc golden aroma® chicken": {
+      "calories": 320,
+      "protein": 24,
+      "carbs": 16,
+      "fat": 18,
+      "sodium": 620,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "fish o fry": {
+      "calories": 680,
+      "protein": 32,
+      "carbs": 64,
+      "fat": 32,
+      "sodium": 1180,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "2pc golden aroma® chicken upsized": {
+      "calories": 920,
+      "protein": 48,
+      "carbs": 72,
+      "fat": 44,
+      "sodium": 1420,
+      "sugar": 28,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "mozza® burger upsized": {
+      "calories": 1280,
+      "protein": 48,
+      "carbs": 136,
+      "fat": 62,
+      "sodium": 2240,
+      "sugar": 36,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "High in saturated fat",
+        "High in sugar"
+      ]
+    },
+    "coney dog buddy meal": {
+      "calories": 1240,
+      "protein": 44,
+      "carbs": 104,
+      "fat": 64,
+      "sodium": 2180,
+      "sugar": 56,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in saturated fat",
+        "Very high in calories",
+        "High in sugar"
+      ]
+    },
+    "nacho cheese sauce": {
+      "calories": 120,
+      "protein": 4,
+      "carbs": 3,
+      "fat": 10,
+      "sodium": 420,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "trio platter": {
+      "calories": 680,
+      "protein": 24,
+      "carbs": 58,
+      "fat": 36,
+      "sodium": 1220,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "2pc golden aroma® chicken combo": {
+      "calories": 920,
+      "protein": 34,
+      "carbs": 88,
+      "fat": 44,
+      "sodium": 1680,
+      "sugar": 24,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories",
+        "High in sugar"
+      ]
+    },
+    "chicken coney dog with beef sauce upsized": {
+      "calories": 890,
+      "protein": 36,
+      "carbs": 80,
+      "fat": 44,
+      "sodium": 1580,
+      "sugar": 30,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "3pc golden aroma® chicken upsized": {
+      "calories": 1180,
+      "protein": 72,
+      "carbs": 80,
+      "fat": 58,
+      "sodium": 1680,
+      "sugar": 30,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Excellent source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Very high in calories"
+      ]
+    },
+    "2pc golden aroma® chicken": {
+      "calories": 640,
+      "protein": 48,
+      "carbs": 16,
+      "fat": 36,
+      "sodium": 1240,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Excellent source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "fortune buddy meal": {
+      "calories": 1420,
+      "protein": 56,
+      "carbs": 128,
+      "fat": 62,
+      "sodium": 2080,
+      "sugar": 48,
+      "fiber": 4,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in saturated fat",
+        "Very high in calories"
+      ]
+    },
+    "chubby chicken + 2pc gac buddy meal": {
+      "calories": 1240,
+      "protein": 68,
+      "carbs": 120,
+      "fat": 56,
+      "sodium": 2480,
+      "sugar": 28,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "High in saturated fat"
+      ]
+    },
+    "chicken hotdog beary meal": {
+      "calories": 480,
+      "protein": 18,
+      "carbs": 48,
+      "fat": 22,
+      "sodium": 780,
+      "sugar": 16,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "mid-wings rooty® rice box": {
+      "calories": 580,
+      "protein": 26,
+      "carbs": 68,
+      "fat": 22,
+      "sodium": 980,
+      "sugar": 8,
+      "fiber": 3,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "Moderate saturated fat"
+      ]
+    },
+    "chicken coney dog with chicken sauce upsized": {
+      "calories": 890,
+      "protein": 36,
+      "carbs": 80,
+      "fat": 44,
+      "sodium": 1520,
+      "sugar": 32,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "5pc spicy chicken chunks": {
+      "calories": 680,
+      "protein": 28,
+      "carbs": 52,
+      "fat": 38,
+      "sodium": 1420,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "cream cheese beef burger upsized": {
+      "calories": 1180,
+      "protein": 42,
+      "carbs": 108,
+      "fat": 58,
+      "sodium": 1850,
+      "sugar": 32,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories",
+        "High in sugar"
+      ]
+    },
+    "a&w® root beer (med)": {
+      "calories": 310,
+      "protein": 0,
+      "carbs": 78,
+      "fat": 0,
+      "sodium": 55,
+      "sugar": 78,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "6pc golden aroma® chicken": {
+      "calories": 850,
+      "protein": 68,
+      "carbs": 42,
+      "fat": 42,
+      "sodium": 1680,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "chicken hotdog upsized": {
+      "calories": 1020,
+      "protein": 32,
+      "carbs": 102,
+      "fat": 48,
+      "sodium": 1720,
+      "sugar": 28,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories",
+        "High in sugar"
+      ]
+    },
+    "beary family bundle": {
+      "calories": 2240,
+      "protein": 94,
+      "carbs": 242,
+      "fat": 96,
+      "sodium": 3680,
+      "sugar": 78,
+      "fiber": 6,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories",
+        "High in sugar"
+      ]
+    },
+    "spicy chicken chunks rooty® rice box": {
+      "calories": 720,
+      "protein": 24,
+      "carbs": 88,
+      "fat": 28,
+      "sodium": 1320,
+      "sugar": 8,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "double cheeseburger upsized": {
+      "calories": 1240,
+      "protein": 48,
+      "carbs": 104,
+      "fat": 64,
+      "sodium": 2040,
+      "sugar": 30,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories",
+        "High in sugar"
+      ]
+    },
+    "1pc golden aroma® chicken beary meal": {
+      "calories": 380,
+      "protein": 18,
+      "carbs": 38,
+      "fat": 16,
+      "sodium": 520,
+      "sugar": 12,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Appropriate for children"
+      ],
+      "healthWarnings": [
+        "Moderate in sodium",
+        "Contains sugar"
+      ]
+    },
+    "6pc chicken nuggets": {
+      "calories": 420,
+      "protein": 18,
+      "carbs": 28,
+      "fat": 24,
+      "sodium": 680,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "Moderate in sodium"
+      ]
+    },
+    "coca-cola (reg)": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 39,
+      "fat": 0,
+      "sodium": 55,
+      "sugar": 39,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "3pc golden aroma® chicken combo": {
+      "calories": 1080,
+      "protein": 52,
+      "carbs": 92,
+      "fat": 52,
+      "sodium": 1820,
+      "sugar": 26,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories",
+        "High in sugar"
+      ]
+    },
+    "coca-cola (med)": {
+      "calories": 210,
+      "protein": 0,
+      "carbs": 56,
+      "fat": 0,
+      "sodium": 70,
+      "sugar": 56,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "5pc mozzarella cheese sticks": {
+      "calories": 520,
+      "protein": 16,
+      "carbs": 38,
+      "fat": 32,
+      "sodium": 1080,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Good source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "6pc golden aroma® chicken family feast": {
+      "calories": 1980,
+      "protein": 96,
+      "carbs": 164,
+      "fat": 88,
+      "sodium": 3240,
+      "sugar": 54,
+      "fiber": 5,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories",
+        "High in sugar"
+      ]
+    },
+    "4pc chicken nuggets beary meal": {
+      "calories": 420,
+      "protein": 16,
+      "carbs": 42,
+      "fat": 18,
+      "sodium": 580,
+      "sugar": 14,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Appropriate for children"
+      ],
+      "healthWarnings": [
+        "Moderate in sodium",
+        "Contains sugar"
+      ]
+    },
+    "cream cheese chicken burger upsized": {
+      "calories": 1160,
+      "protein": 40,
+      "carbs": 108,
+      "fat": 56,
+      "sodium": 1820,
+      "sugar": 32,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories",
+        "High in sugar"
+      ]
+    },
+    "mid-wings rooty® rice set": {
+      "calories": 780,
+      "protein": 32,
+      "carbs": 94,
+      "fat": 32,
+      "sodium": 1480,
+      "sugar": 16,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Moderate in sugar"
+      ]
+    },
+    "9pc golden aroma® chicken": {
+      "calories": 1890,
+      "protein": 156,
+      "carbs": 84,
+      "fat": 96,
+      "sodium": 2840,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "chicken coney dog with beef sauce": {
+      "calories": 420,
+      "protein": 16,
+      "carbs": 32,
+      "fat": 26,
+      "sodium": 1050,
+      "sugar": 4,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "chicken coney dog with beef sauce combo": {
+      "calories": 920,
+      "protein": 22,
+      "carbs": 108,
+      "fat": 44,
+      "sodium": 1860,
+      "sugar": 38,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories",
+        "High in sugar"
+      ]
+    },
+    "mozza® burger": {
+      "calories": 680,
+      "protein": 42,
+      "carbs": 48,
+      "fat": 38,
+      "sodium": 1480,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "mozza® burger combo": {
+      "calories": 920,
+      "protein": 38,
+      "carbs": 88,
+      "fat": 42,
+      "sodium": 1640,
+      "sugar": 12,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Sesame",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in fat",
+        "High in sodium"
+      ]
+    },
+    "9pc golden aroma® chicken family feast": {
+      "calories": 2840,
+      "protein": 198,
+      "carbs": 204,
+      "fat": 132,
+      "sodium": 4120,
+      "sugar": 76,
+      "fiber": 6,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "Very high in calories",
+        "Very high in sodium",
+        "High in saturated fat",
+        "High in sugar"
+      ]
+    },
+    "chubby chicken sandwich upsized": {
+      "calories": 1080,
+      "protein": 36,
+      "carbs": 128,
+      "fat": 48,
+      "sodium": 1960,
+      "sugar": 32,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "High in saturated fat",
+        "High in sugar"
+      ]
+    },
+    "3pc mozzarella cheese sticks": {
+      "calories": 320,
+      "protein": 12,
+      "carbs": 24,
+      "fat": 18,
+      "sodium": 580,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Source of calcium",
+        "Source of protein"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "chicken coney dog with chicken sauce combo": {
+      "calories": 920,
+      "protein": 22,
+      "carbs": 108,
+      "fat": 44,
+      "sodium": 1860,
+      "sugar": 38,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories",
+        "High in sugar"
+      ]
+    },
+    "sprite (reg)": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 36,
+      "fat": 0,
+      "sodium": 65,
+      "sugar": 36,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "beef coney cheese fries": {
+      "calories": 620,
+      "protein": 14,
+      "carbs": 64,
+      "fat": 34,
+      "sodium": 1540,
+      "sugar": 2,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Source of fiber",
+        "Source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "High in saturated fat"
+      ]
+    },
+    "cream cheese beef burger": {
+      "calories": 720,
+      "protein": 40,
+      "carbs": 52,
+      "fat": 42,
+      "sodium": 1560,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "sprite (med)": {
+      "calories": 210,
+      "protein": 0,
+      "carbs": 54,
+      "fat": 0,
+      "sodium": 95,
+      "sugar": 54,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "spicy chicken sandwich upsized": {
+      "calories": 1120,
+      "protein": 38,
+      "carbs": 128,
+      "fat": 52,
+      "sodium": 2040,
+      "sugar": 32,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "High in saturated fat",
+        "High in sugar"
+      ]
+    },
+    "chicken hot dog combo": {
+      "calories": 880,
+      "protein": 20,
+      "carbs": 104,
+      "fat": 42,
+      "sodium": 1720,
+      "sugar": 36,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories",
+        "High in sugar"
+      ]
+    },
+    "chicken coney cheese fries": {
+      "calories": 620,
+      "protein": 14,
+      "carbs": 64,
+      "fat": 34,
+      "sodium": 1540,
+      "sugar": 2,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Source of fiber",
+        "Source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "High in saturated fat"
+      ]
+    },
+    "double cheeseburger": {
+      "calories": 560,
+      "protein": 34,
+      "carbs": 40,
+      "fat": 30,
+      "sodium": 1260,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "grilled chicken sandwich upsized": {
+      "calories": 1000,
+      "protein": 42,
+      "carbs": 128,
+      "fat": 40,
+      "sodium": 1880,
+      "sugar": 32,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "High in sugar"
+      ]
+    },
+    "iced lemon tea (reg)": {
+      "calories": 120,
+      "protein": 0,
+      "carbs": 30,
+      "fat": 0,
+      "sodium": 40,
+      "sugar": 28,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "ice lemon tea (med)": {
+      "calories": 180,
+      "protein": 0,
+      "carbs": 45,
+      "fat": 0,
+      "sodium": 60,
+      "sugar": 42,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "gourmet onion rings": {
+      "calories": 420,
+      "protein": 6,
+      "carbs": 42,
+      "fat": 24,
+      "sodium": 680,
+      "sugar": 2,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of fiber"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in fat",
+        "High in sodium"
+      ]
+    },
+    "cream cheese chicken burger": {
+      "calories": 620,
+      "protein": 32,
+      "carbs": 48,
+      "fat": 32,
+      "sodium": 1280,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in fat",
+        "High in sodium"
+      ]
+    },
+    "marina fish sandwich upsized": {
+      "calories": 850,
+      "protein": 28,
+      "carbs": 78,
+      "fat": 42,
+      "sodium": 1520,
+      "sugar": 18,
+      "fiber": 3,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Source of omega-3",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in fat",
+        "High in sodium",
+        "High in sugar"
+      ]
+    },
+    "curly fries (reg)": {
+      "calories": 350,
+      "protein": 4,
+      "carbs": 42,
+      "fat": 18,
+      "sodium": 560,
+      "sugar": 0,
+      "fiber": 4,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Source of fiber"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in fat",
+        "High in sodium"
+      ]
+    },
+    "iced milo (reg)": {
+      "calories": 210,
+      "protein": 4,
+      "carbs": 38,
+      "fat": 4,
+      "sodium": 120,
+      "sugar": 34,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of protein",
+        "Contains calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "chubby chicken sandwich": {
+      "calories": 480,
+      "protein": 38,
+      "carbs": 36,
+      "fat": 18,
+      "sodium": 920,
+      "sugar": 4,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "spicy chicken sandwich": {
+      "calories": 520,
+      "protein": 32,
+      "carbs": 38,
+      "fat": 24,
+      "sodium": 1040,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in sodium"
+      ]
+    },
+    "cream cheese beef burger combo": {
+      "calories": 1020,
+      "protein": 48,
+      "carbs": 88,
+      "fat": 48,
+      "sodium": 1760,
+      "sugar": 12,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Sesame",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in fat",
+        "High in sodium"
+      ]
+    },
+    "curly fries (lrg)": {
+      "calories": 480,
+      "protein": 5,
+      "carbs": 58,
+      "fat": 24,
+      "sodium": 780,
+      "sugar": 0,
+      "fiber": 5,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Source of fiber"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in fat",
+        "High in sodium"
+      ]
+    },
+    "iced milo (med)": {
+      "calories": 300,
+      "protein": 5,
+      "carbs": 54,
+      "fat": 6,
+      "sodium": 160,
+      "sugar": 48,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of protein",
+        "Contains calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "double cheeseburger combo": {
+      "calories": 950,
+      "protein": 48,
+      "carbs": 88,
+      "fat": 44,
+      "sodium": 1680,
+      "sugar": 12,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Sesame",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in fat",
+        "High in sodium"
+      ]
+    },
+    "grilled chicken sandwich": {
+      "calories": 420,
+      "protein": 40,
+      "carbs": 34,
+      "fat": 12,
+      "sodium": 840,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Lower in fat"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "coke zero can": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 80,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Zero calories",
+        "Zero sugar"
+      ],
+      "healthWarnings": [
+        "Contains artificial sweeteners"
+      ]
+    },
+    "straight cut fries": {
+      "calories": 340,
+      "protein": 4,
+      "carbs": 40,
+      "fat": 18,
+      "sodium": 540,
+      "sugar": 0,
+      "fiber": 3,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Source of fiber"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in fat",
+        "High in sodium"
+      ]
+    },
+    "ayataka green tea": {
+      "calories": 60,
+      "protein": 0,
+      "carbs": 14,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 12,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "cream cheese chicken burger combo": {
+      "calories": 970,
+      "protein": 36,
+      "carbs": 88,
+      "fat": 44,
+      "sodium": 1560,
+      "sugar": 12,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Sesame",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in fat",
+        "High in sodium"
+      ]
+    },
+    "marina fish sandwich": {
+      "calories": 420,
+      "protein": 20,
+      "carbs": 38,
+      "fat": 18,
+      "sodium": 840,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Source of omega-3",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "bottled water": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Zero calories",
+        "Hydrating"
+      ],
+      "healthWarnings": []
+    },
+    "chubby chicken sandwich combo": {
+      "calories": 1180,
+      "protein": 32,
+      "carbs": 128,
+      "fat": 56,
+      "sodium": 1890,
+      "sugar": 38,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat",
+        "High in sugar"
+      ]
+    },
+    "chicken coney dog with chicken sauce": {
+      "calories": 400,
+      "protein": 18,
+      "carbs": 32,
+      "fat": 22,
+      "sodium": 980,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "spicy chicken sandwich combo": {
+      "calories": 1220,
+      "protein": 35,
+      "carbs": 128,
+      "fat": 58,
+      "sodium": 2050,
+      "sugar": 38,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat",
+        "High in sugar"
+      ]
+    },
+    "grilled chicken sandwich combo": {
+      "calories": 1140,
+      "protein": 38,
+      "carbs": 128,
+      "fat": 48,
+      "sodium": 1820,
+      "sugar": 38,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat",
+        "High in sugar"
+      ]
+    },
+    "marina fish sandwich combo": {
+      "calories": 1160,
+      "protein": 28,
+      "carbs": 132,
+      "fat": 52,
+      "sodium": 1950,
+      "sugar": 38,
+      "fiber": 3,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Dairy",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Source of omega-3"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat",
+        "High in sugar"
+      ]
+    },
+    "chicken hotdog": {
+      "calories": 320,
+      "protein": 14,
+      "carbs": 28,
+      "fat": 16,
+      "sodium": 650,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    }
+  }
+}

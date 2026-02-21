@@ -1,0 +1,69 @@
+{
+  "brand": "au-croissant",
+  "generatedAt": "2026-02-16T13:28:31.738Z",
+  "items": {
+    "butter croissant": {
+      "calories": 280,
+      "protein": 5,
+      "carbs": 28,
+      "fat": 16,
+      "sodium": 320,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "almond croissant": {
+      "calories": 320,
+      "protein": 8,
+      "carbs": 30,
+      "fat": 19,
+      "sodium": 280,
+      "sugar": 12,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains tree nuts"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "double chocolate croissant": {
+      "calories": 350,
+      "protein": 6,
+      "carbs": 38,
+      "fat": 19,
+      "sodium": 300,
+      "sugar": 18,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sugar",
+        "High in calories"
+      ]
+    }
+  }
+}

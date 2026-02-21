@@ -1,0 +1,30 @@
+{
+  "brand": "heavenly-wang-amk-hub",
+  "generatedAt": "2026-02-16T15:20:55.108Z",
+  "items": {
+    "egg mayo sandwich": {
+      "calories": 520,
+      "protein": 18,
+      "carbs": 48,
+      "fat": 26,
+      "sodium": 920,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Moderate calorie content"
+      ]
+    }
+  }
+}

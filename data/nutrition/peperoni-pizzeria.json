@@ -1,0 +1,2069 @@
+{
+  "brand": "peperoni-pizzeria",
+  "generatedAt": "2026-02-21T11:14:54.689Z",
+  "items": {
+    "chicken wings (8pcs)": {
+      "calories": 520,
+      "protein": 38,
+      "carbs": 12,
+      "fat": 38,
+      "sodium": 890,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "seared salmon fillet": {
+      "calories": 480,
+      "protein": 48,
+      "carbs": 8,
+      "fat": 26,
+      "sodium": 720,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "Excellent source of protein",
+        "Rich in vitamin D"
+      ],
+      "healthWarnings": [
+        "Moderate in saturated fat",
+        "Moderate in sodium"
+      ]
+    },
+    "san pellegrino (sparkling)": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 50,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Zero calories",
+        "Hydrating"
+      ],
+      "healthWarnings": []
+    },
+    "wild mushroom": {
+      "calories": 280,
+      "protein": 10,
+      "carbs": 28,
+      "fat": 14,
+      "sodium": 680,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in saturated fat"
+      ]
+    },
+    "mionetto prosecco doc treviso brut n.v": {
+      "calories": 95,
+      "protein": 0,
+      "carbs": 1,
+      "fat": 0,
+      "sodium": 8,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Sulfites"
+      ],
+      "healthBenefits": [
+        "Low calorie per serving"
+      ],
+      "healthWarnings": [
+        "Contains alcohol",
+        "Contains sulfites"
+      ]
+    },
+    "(l) classico and speciale half/half (red base)": {
+      "calories": 1420,
+      "protein": 62,
+      "carbs": 156,
+      "fat": 54,
+      "sodium": 2240,
+      "sugar": 8,
+      "fiber": 6,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "asahi": {
+      "calories": 142,
+      "protein": 1,
+      "carbs": 3,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Contains alcohol"
+      ]
+    },
+    "giuseppe e luigi, trevenezie igp sauvignon blanc": {
+      "calories": 105,
+      "protein": 0,
+      "carbs": 2,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Sulfites"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Contains alcohol",
+        "Contains sulfites"
+      ]
+    },
+    "(l) diavola": {
+      "calories": 1340,
+      "protein": 58,
+      "carbs": 152,
+      "fat": 52,
+      "sodium": 2480,
+      "sugar": 6,
+      "fiber": 6,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "Very high in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "coke zero": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 35,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Zero calories",
+        "Zero sugar"
+      ],
+      "healthWarnings": []
+    },
+    "classico combo for 4": {
+      "calories": 2680,
+      "protein": 104,
+      "carbs": 320,
+      "fat": 96,
+      "sodium": 4560,
+      "sugar": 12,
+      "fiber": 12,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "Very high in calories",
+        "Very high in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "classic burrata": {
+      "calories": 420,
+      "protein": 24,
+      "carbs": 12,
+      "fat": 32,
+      "sodium": 980,
+      "sugar": 3,
+      "fiber": 3,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains probiotics from fermented elements"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "(l) burrata & prosciutto": {
+      "calories": 1580,
+      "protein": 66,
+      "carbs": 156,
+      "fat": 62,
+      "sodium": 2640,
+      "sugar": 8,
+      "fiber": 6,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "Very high in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "carbonara": {
+      "calories": 680,
+      "protein": 32,
+      "carbs": 62,
+      "fat": 36,
+      "sodium": 1240,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "piccini chianti docg": {
+      "calories": 112,
+      "protein": 0,
+      "carbs": 3,
+      "fat": 0,
+      "sodium": 8,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Sulfites"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "Contains alcohol",
+        "Contains sulfites"
+      ]
+    },
+    "(m) diavola": {
+      "calories": 850,
+      "protein": 38,
+      "carbs": 96,
+      "fat": 34,
+      "sodium": 1560,
+      "sugar": 4,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "(m) burrata & prosciutto": {
+      "calories": 960,
+      "protein": 42,
+      "carbs": 96,
+      "fat": 40,
+      "sodium": 1680,
+      "sugar": 5,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "bolognese": {
+      "calories": 640,
+      "protein": 34,
+      "carbs": 58,
+      "fat": 32,
+      "sodium": 1100,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains iron from meat"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "toasted ciabatta bread (4pcs)": {
+      "calories": 240,
+      "protein": 8,
+      "carbs": 36,
+      "fat": 6,
+      "sodium": 420,
+      "sugar": 1,
+      "fiber": 2,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "Moderate in sodium"
+      ]
+    },
+    "(l) prosciutto di parma": {
+      "calories": 1480,
+      "protein": 62,
+      "carbs": 154,
+      "fat": 56,
+      "sodium": 2820,
+      "sugar": 7,
+      "fiber": 6,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "Very high in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "chicken milanese": {
+      "calories": 820,
+      "protein": 48,
+      "carbs": 62,
+      "fat": 42,
+      "sodium": 1240,
+      "sugar": 4,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "(m) prosciutto di parma": {
+      "calories": 610,
+      "protein": 28,
+      "carbs": 52,
+      "fat": 32,
+      "sodium": 1480,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Processed meat"
+      ]
+    },
+    "chicken wings (4pcs)": {
+      "calories": 380,
+      "protein": 26,
+      "carbs": 12,
+      "fat": 28,
+      "sodium": 680,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in saturated fat",
+        "Deep fried"
+      ]
+    },
+    "(l) classico half/half (red base)": {
+      "calories": 1240,
+      "protein": 52,
+      "carbs": 128,
+      "fat": 56,
+      "sodium": 2180,
+      "sugar": 8,
+      "fiber": 6,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "terre gaie, claris, pinot grigio igt": {
+      "calories": 240,
+      "protein": 0,
+      "carbs": 4,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Sulfites"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "Contains alcohol"
+      ]
+    },
+    "pete's pure, cabernet sauvignon": {
+      "calories": 250,
+      "protein": 0,
+      "carbs": 5,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Sulfites"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Contains resveratrol"
+      ],
+      "healthWarnings": [
+        "Contains alcohol"
+      ]
+    },
+    "chicken caesar": {
+      "calories": 480,
+      "protein": 42,
+      "carbs": 28,
+      "fat": 24,
+      "sodium": 920,
+      "sugar": 3,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains fiber",
+        "Good source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "(m) margherita": {
+      "calories": 520,
+      "protein": 22,
+      "carbs": 56,
+      "fat": 24,
+      "sodium": 1040,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains lycopene"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "corona": {
+      "calories": 148,
+      "protein": 1,
+      "carbs": 13,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Contains alcohol",
+        "High in carbs"
+      ]
+    },
+    "(l) margherita": {
+      "calories": 740,
+      "protein": 32,
+      "carbs": 80,
+      "fat": 34,
+      "sodium": 1480,
+      "sugar": 6,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains lycopene"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "sprite": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 36,
+      "fat": 0,
+      "sodium": 65,
+      "sugar": 36,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in sodium"
+      ]
+    },
+    "classico combo for 2": {
+      "calories": 1420,
+      "protein": 56,
+      "carbs": 156,
+      "fat": 62,
+      "sodium": 2680,
+      "sugar": 12,
+      "fiber": 8,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "aqua panna (still)": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 50,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Hydrating",
+        "Zero calories"
+      ],
+      "healthWarnings": []
+    },
+    "heineken": {
+      "calories": 166,
+      "protein": 1,
+      "carbs": 11,
+      "fat": 0,
+      "sodium": 8,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Contains alcohol",
+        "High in carbs"
+      ]
+    },
+    "(l) brown butter pulled chicken": {
+      "calories": 820,
+      "protein": 44,
+      "carbs": 76,
+      "fat": 42,
+      "sodium": 1680,
+      "sugar": 8,
+      "fiber": 5,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains kale"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "(m) funghi (white)": {
+      "calories": 580,
+      "protein": 24,
+      "carbs": 54,
+      "fat": 32,
+      "sodium": 1120,
+      "sugar": 3,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains mushrooms with antioxidants"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "speciale combo for 2": {
+      "calories": 1680,
+      "protein": 68,
+      "carbs": 164,
+      "fat": 78,
+      "sodium": 3240,
+      "sugar": 14,
+      "fiber": 8,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "Very high in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "(m) brown butter pulled chicken": {
+      "calories": 620,
+      "protein": 34,
+      "carbs": 56,
+      "fat": 32,
+      "sodium": 1280,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains kale"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "(l) carne": {
+      "calories": 940,
+      "protein": 48,
+      "carbs": 80,
+      "fat": 52,
+      "sodium": 2140,
+      "sugar": 6,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat",
+        "Processed meats"
+      ]
+    },
+    "aglio e olio": {
+      "calories": 420,
+      "protein": 14,
+      "carbs": 52,
+      "fat": 18,
+      "sodium": 680,
+      "sugar": 2,
+      "fiber": 3,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains garlic",
+        "Good source of carbs",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in fat"
+      ]
+    },
+    "piccini pinocchio rosso d'italia nv": {
+      "calories": 120,
+      "protein": 0,
+      "carbs": 4,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "May support heart health"
+      ],
+      "healthWarnings": [
+        "High in alcohol",
+        "Contains sulfites"
+      ]
+    },
+    "(l) speciale half/half (red base)": {
+      "calories": 880,
+      "protein": 38,
+      "carbs": 98,
+      "fat": 35,
+      "sodium": 1680,
+      "sugar": 8,
+      "fiber": 5,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "pasqua, passimento romeo & juliet igt bianco": {
+      "calories": 115,
+      "protein": 0,
+      "carbs": 3,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in alcohol",
+        "Contains sulfites"
+      ]
+    },
+    "root beer": {
+      "calories": 150,
+      "protein": 0,
+      "carbs": 39,
+      "fat": 0,
+      "sodium": 65,
+      "sugar": 39,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in calories"
+      ]
+    },
+    "aubergine parmigiana": {
+      "calories": 420,
+      "protein": 18,
+      "carbs": 28,
+      "fat": 28,
+      "sodium": 920,
+      "sugar": 8,
+      "fiber": 6,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "pork meatballs al forno (5pcs)": {
+      "calories": 380,
+      "protein": 22,
+      "carbs": 22,
+      "fat": 22,
+      "sodium": 680,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "(l) classico half/half (white base)": {
+      "calories": 820,
+      "protein": 36,
+      "carbs": 92,
+      "fat": 32,
+      "sodium": 1520,
+      "sugar": 6,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "bucket of 5 bottles": {
+      "calories": 600,
+      "protein": 2,
+      "carbs": 20,
+      "fat": 0,
+      "sodium": 150,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in alcohol",
+        "High in calories"
+      ]
+    },
+    "(l) hawaiian": {
+      "calories": 820,
+      "protein": 34,
+      "carbs": 96,
+      "fat": 32,
+      "sodium": 1480,
+      "sugar": 14,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains fruit"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories",
+        "High in sugar"
+      ]
+    },
+    "speciale combo for 4": {
+      "calories": 2240,
+      "protein": 96,
+      "carbs": 244,
+      "fat": 88,
+      "sodium": 3840,
+      "sugar": 24,
+      "fiber": 12,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Shellfish",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "Very high in saturated fat",
+        "Very high in calories"
+      ]
+    },
+    "(l) frutti di mare": {
+      "calories": 920,
+      "protein": 48,
+      "carbs": 88,
+      "fat": 38,
+      "sodium": 1680,
+      "sugar": 8,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Shellfish",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of omega-3",
+        "Contains seafood"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "fritto misto": {
+      "calories": 420,
+      "protein": 28,
+      "carbs": 24,
+      "fat": 24,
+      "sodium": 680,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Shellfish",
+        "Fish",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "baby back ribs (pork)": {
+      "calories": 680,
+      "protein": 42,
+      "carbs": 34,
+      "fat": 42,
+      "sodium": 1280,
+      "sugar": 12,
+      "fiber": 3,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "(m) hawaiian": {
+      "calories": 580,
+      "protein": 24,
+      "carbs": 68,
+      "fat": 22,
+      "sodium": 1040,
+      "sugar": 10,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains fruit"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in sugar"
+      ]
+    },
+    "valiano poggio teo chianti classico docg": {
+      "calories": 125,
+      "protein": 0,
+      "carbs": 4,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "May support heart health"
+      ],
+      "healthWarnings": [
+        "High in alcohol",
+        "Contains sulfites"
+      ]
+    },
+    "chicken & mushroom pesto": {
+      "calories": 520,
+      "protein": 32,
+      "carbs": 48,
+      "fat": 20,
+      "sodium": 840,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "coke": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 39,
+      "fat": 0,
+      "sodium": 55,
+      "sugar": 39,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in calories"
+      ]
+    },
+    "(m) smoked farmer's ham with kale & egg": {
+      "calories": 540,
+      "protein": 26,
+      "carbs": 62,
+      "fat": 20,
+      "sodium": 1120,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains leafy greens"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "(l) classico and speciale half/half (white base)": {
+      "calories": 880,
+      "protein": 38,
+      "carbs": 96,
+      "fat": 34,
+      "sodium": 1600,
+      "sugar": 7,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "ginger ale": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 36,
+      "fat": 0,
+      "sodium": 65,
+      "sugar": 36,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in calories"
+      ]
+    },
+    "roasted beetroot caprese": {
+      "calories": 320,
+      "protein": 12,
+      "carbs": 28,
+      "fat": 18,
+      "sodium": 480,
+      "sugar": 12,
+      "fiber": 6,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "Good source of antioxidants",
+        "Low in calories"
+      ],
+      "healthWarnings": [
+        "Moderate sodium content"
+      ]
+    },
+    "(m) quattro formaggi": {
+      "calories": 680,
+      "protein": 32,
+      "carbs": 62,
+      "fat": 35,
+      "sodium": 1240,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Good source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "(l) quattro formaggi": {
+      "calories": 920,
+      "protein": 44,
+      "carbs": 84,
+      "fat": 48,
+      "sodium": 1680,
+      "sugar": 6,
+      "fiber": 4,
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Good source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "(m) portobello (white)": {
+      "calories": 620,
+      "protein": 28,
+      "carbs": 58,
+      "fat": 32,
+      "sodium": 980,
+      "sugar": 5,
+      "fiber": 3,
+      "allergens": [
+        "Dairy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "shoestring fries": {
+      "calories": 380,
+      "protein": 4,
+      "carbs": 48,
+      "fat": 18,
+      "sodium": 520,
+      "sugar": 0,
+      "fiber": 4,
+      "allergens": [],
+      "healthBenefits": [
+        "Source of potassium"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "(l) grilled vegetable": {
+      "calories": 580,
+      "protein": 24,
+      "carbs": 72,
+      "fat": 22,
+      "sodium": 1140,
+      "sugar": 8,
+      "fiber": 8,
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "Good source of vegetables",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "pesce": {
+      "calories": 520,
+      "protein": 44,
+      "carbs": 42,
+      "fat": 18,
+      "sodium": 1080,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Fish",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of omega-3",
+        "Low in saturated fat"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "hoegaarden 4.9%": {
+      "calories": 220,
+      "protein": 2,
+      "carbs": 18,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Alcoholic beverage",
+        "High in carbs"
+      ]
+    },
+    "(l) speciale half/half (white base)": {
+      "calories": 850,
+      "protein": 38,
+      "carbs": 76,
+      "fat": 44,
+      "sodium": 1520,
+      "sugar": 8,
+      "fiber": 4,
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "(m) crispy bacon & potato (white)": {
+      "calories": 640,
+      "protein": 28,
+      "carbs": 56,
+      "fat": 34,
+      "sodium": 1160,
+      "sugar": 3,
+      "fiber": 3,
+      "allergens": [
+        "Dairy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "pesto ravioli with burrata mousse": {
+      "calories": 580,
+      "protein": 22,
+      "carbs": 58,
+      "fat": 28,
+      "sodium": 1000,
+      "sugar": 8,
+      "fiber": 3,
+      "allergens": [
+        "Dairy",
+        "Gluten",
+        "Tree Nut",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains healthy fats"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "(m) frutti di mare": {
+      "calories": 620,
+      "protein": 38,
+      "carbs": 60,
+      "fat": 22,
+      "sodium": 1280,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Fish",
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "(l) funghi (white)": {
+      "calories": 720,
+      "protein": 32,
+      "carbs": 72,
+      "fat": 36,
+      "sodium": 1240,
+      "sugar": 6,
+      "fiber": 4,
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "(l) crispy bacon & potato (white)": {
+      "calories": 780,
+      "protein": 36,
+      "carbs": 72,
+      "fat": 40,
+      "sodium": 1380,
+      "sugar": 4,
+      "fiber": 4,
+      "allergens": [
+        "Dairy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "tonic water": {
+      "calories": 60,
+      "protein": 0,
+      "carbs": 15,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 15,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "(l) napoletana": {
+      "calories": 620,
+      "protein": 28,
+      "carbs": 68,
+      "fat": 26,
+      "sodium": 1580,
+      "sugar": 6,
+      "fiber": 4,
+      "allergens": [
+        "Fish",
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "(l) pancetta & broccolini (white)": {
+      "calories": 740,
+      "protein": 34,
+      "carbs": 68,
+      "fat": 38,
+      "sodium": 1420,
+      "sugar": 8,
+      "fiber": 4,
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "High in vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "crispy portobello": {
+      "calories": 420,
+      "protein": 24,
+      "carbs": 36,
+      "fat": 18,
+      "sodium": 840,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "(m) chorizo & mushroom": {
+      "calories": 700,
+      "protein": 34,
+      "carbs": 62,
+      "fat": 36,
+      "sodium": 1360,
+      "sugar": 5,
+      "fiber": 3,
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "soda water": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 75,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": []
+    },
+    "(m) grilled vegetables": {
+      "calories": 520,
+      "protein": 18,
+      "carbs": 58,
+      "fat": 22,
+      "sodium": 1240,
+      "sugar": 8,
+      "fiber": 6,
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "Good source of vegetables",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in saturated fat"
+      ]
+    },
+    "amatriciana": {
+      "calories": 680,
+      "protein": 28,
+      "carbs": 72,
+      "fat": 28,
+      "sodium": 1580,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "lasagne": {
+      "calories": 820,
+      "protein": 38,
+      "carbs": 68,
+      "fat": 42,
+      "sodium": 1680,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "calamari fritti": {
+      "calories": 420,
+      "protein": 24,
+      "carbs": 28,
+      "fat": 24,
+      "sodium": 880,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Shellfish",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains selenium"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "Deep fried preparation"
+      ]
+    },
+    "(l) portobello (white)": {
+      "calories": 640,
+      "protein": 22,
+      "carbs": 64,
+      "fat": 28,
+      "sodium": 1420,
+      "sugar": 6,
+      "fiber": 4,
+      "allergens": [
+        "Dairy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains mushroom nutrients"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in saturated fat"
+      ]
+    },
+    "(m) napoletana": {
+      "calories": 580,
+      "protein": 20,
+      "carbs": 62,
+      "fat": 24,
+      "sodium": 1620,
+      "sugar": 4,
+      "fiber": 4,
+      "allergens": [
+        "Dairy",
+        "Gluten",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains antioxidants from olives"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in saturated fat"
+      ]
+    },
+    "(m) carne": {
+      "calories": 680,
+      "protein": 30,
+      "carbs": 56,
+      "fat": 36,
+      "sodium": 1540,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "(l) salmon & asparagus": {
+      "calories": 720,
+      "protein": 32,
+      "carbs": 66,
+      "fat": 32,
+      "sodium": 1360,
+      "sugar": 8,
+      "fiber": 3,
+      "allergens": [
+        "Dairy",
+        "Gluten",
+        "Fish",
+        "Egg",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "Good source of protein",
+        "Contains asparagus nutrients"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in saturated fat"
+      ]
+    },
+    "(m) pancetta & broccolini (white)": {
+      "calories": 620,
+      "protein": 24,
+      "carbs": 58,
+      "fat": 30,
+      "sodium": 1480,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains cruciferous vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "avocado & tomato bruschetta": {
+      "calories": 280,
+      "protein": 8,
+      "carbs": 32,
+      "fat": 14,
+      "sodium": 480,
+      "sugar": 2,
+      "fiber": 4,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "High in healthy fats",
+        "Contains potassium"
+      ],
+      "healthWarnings": [
+        "Moderate in calories"
+      ]
+    },
+    "(l) smoked farmer's ham with kale & egg": {
+      "calories": 700,
+      "protein": 30,
+      "carbs": 64,
+      "fat": 32,
+      "sodium": 1580,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Dairy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains kale nutrients",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "pumpkin gnocchi with bacon & sage oil": {
+      "calories": 720,
+      "protein": 22,
+      "carbs": 74,
+      "fat": 32,
+      "sodium": 1240,
+      "sugar": 8,
+      "fiber": 4,
+      "allergens": [
+        "Dairy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains pumpkin nutrients",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "Moderate in saturated fat"
+      ]
+    },
+    "(l) chorizo & mushroom": {
+      "calories": 760,
+      "protein": 28,
+      "carbs": 66,
+      "fat": 38,
+      "sodium": 1640,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories",
+        "Spicy preparation"
+      ]
+    },
+    "(m) salmon & asparagus": {
+      "calories": 580,
+      "protein": 26,
+      "carbs": 58,
+      "fat": 26,
+      "sodium": 1280,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Gluten",
+        "Fish",
+        "Egg",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in saturated fat"
+      ]
+    },
+    "arrabbiata": {
+      "calories": 480,
+      "protein": 16,
+      "carbs": 68,
+      "fat": 14,
+      "sodium": 1080,
+      "sugar": 8,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains capsaicin"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Spicy preparation"
+      ]
+    },
+    "arancini (wild mushroom)": {
+      "calories": 380,
+      "protein": 10,
+      "carbs": 42,
+      "fat": 18,
+      "sodium": 720,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains mushroom nutrients"
+      ],
+      "healthWarnings": [
+        "Deep fried preparation",
+        "Moderate in sodium"
+      ]
+    },
+    "squid ink pasta": {
+      "calories": 620,
+      "protein": 26,
+      "carbs": 76,
+      "fat": 18,
+      "sodium": 1320,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains selenium"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in calories"
+      ]
+    },
+    "arancini (bolognese)": {
+      "calories": 400,
+      "protein": 12,
+      "carbs": 44,
+      "fat": 18,
+      "sodium": 760,
+      "sugar": 4,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "Deep fried preparation",
+        "Moderate in sodium"
+      ]
+    },
+    "roasted cauliflower": {
+      "calories": 180,
+      "protein": 8,
+      "carbs": 18,
+      "fat": 8,
+      "sodium": 320,
+      "sugar": 3,
+      "fiber": 4,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "Low in calories",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "olives": {
+      "calories": 280,
+      "protein": 3,
+      "carbs": 8,
+      "fat": 28,
+      "sodium": 1240,
+      "sugar": 0,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "High in monounsaturated fat",
+        "Contains antioxidants",
+        "Good source of vitamin E"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "blistered cherry tomatoes": {
+      "calories": 240,
+      "protein": 12,
+      "carbs": 12,
+      "fat": 16,
+      "sodium": 380,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "High in lycopene",
+        "Good source of calcium",
+        "Low sodium"
+      ],
+      "healthWarnings": [
+        "Moderate in fat",
+        "Contains dairy"
+      ]
+    }
+  }
+}

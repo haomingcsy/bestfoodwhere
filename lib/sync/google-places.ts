@@ -21,6 +21,16 @@ const API_COSTS = {
 const RATE_LIMIT_MS = 200; // 200ms between calls (5 calls/second max)
 let lastApiCall = 0;
 
+interface PlaceReview {
+  author: string;
+  authorPhotoUrl: string;
+  authorProfileUrl: string;
+  rating: number;
+  date: string;
+  content: string;
+  publishTime: string;
+}
+
 interface PlaceSearchResult {
   placeId: string;
   name: string;
@@ -36,6 +46,28 @@ interface PlaceSearchResult {
   websiteUri?: string;
   phoneNumber?: string;
   googleMapsUri?: string;
+  reviews?: PlaceReview[];
+}
+
+/**
+ * Transform raw Google Places API review objects into our clean format
+ */
+function transformReviews(
+  rawReviews: Record<string, unknown>[],
+): PlaceReview[] {
+  if (!Array.isArray(rawReviews)) return [];
+  return rawReviews.map((review) => ({
+    author:
+      (review.authorAttribution as Record<string, string>)?.displayName || "",
+    authorPhotoUrl:
+      (review.authorAttribution as Record<string, string>)?.photoUri || "",
+    authorProfileUrl:
+      (review.authorAttribution as Record<string, string>)?.uri || "",
+    rating: (review.rating as number) || 0,
+    date: (review.relativePublishTimeDescription as string) || "",
+    content: (review.text as Record<string, string>)?.text || "",
+    publishTime: (review.publishTime as string) || "",
+  }));
 }
 
 interface PlaceDetails extends PlaceSearchResult {
@@ -165,7 +197,7 @@ export class GooglePlacesAPI {
             "Content-Type": "application/json",
             "X-Goog-Api-Key": this.apiKey,
             "X-Goog-FieldMask":
-              "places.id,places.displayName,places.formattedAddress,places.rating,places.userRatingCount,places.photos,places.currentOpeningHours,places.businessStatus,places.websiteUri,places.nationalPhoneNumber,places.googleMapsUri",
+              "places.id,places.displayName,places.formattedAddress,places.rating,places.userRatingCount,places.photos,places.currentOpeningHours,places.businessStatus,places.websiteUri,places.nationalPhoneNumber,places.googleMapsUri,places.reviews",
           },
           body: JSON.stringify({
             textQuery: query,
@@ -222,6 +254,7 @@ export class GooglePlacesAPI {
         websiteUri: place.websiteUri,
         phoneNumber: place.nationalPhoneNumber,
         googleMapsUri: place.googleMapsUri,
+        reviews: place.reviews ? transformReviews(place.reviews) : undefined,
       };
 
       // Update restaurant if ID provided
@@ -328,7 +361,7 @@ export class GooglePlacesAPI {
           headers: {
             "X-Goog-Api-Key": this.apiKey,
             "X-Goog-FieldMask":
-              "id,displayName,formattedAddress,rating,userRatingCount,photos,currentOpeningHours,businessStatus,websiteUri,nationalPhoneNumber,googleMapsUri,priceLevel,types,editorialSummary",
+              "id,displayName,formattedAddress,rating,userRatingCount,photos,currentOpeningHours,businessStatus,websiteUri,nationalPhoneNumber,googleMapsUri,priceLevel,types,editorialSummary,reviews",
           },
         },
       );
@@ -377,6 +410,7 @@ export class GooglePlacesAPI {
         priceLevel: place.priceLevel,
         types: place.types,
         editorialSummary: place.editorialSummary?.text,
+        reviews: place.reviews ? transformReviews(place.reviews) : undefined,
       };
 
       // Update restaurant if ID provided
@@ -433,6 +467,10 @@ export class GooglePlacesAPI {
     }
     if (place.websiteUri) {
       updates.website = place.websiteUri;
+    }
+    // Store reviews in the reviews JSONB column
+    if ("reviews" in place && (place as PlaceDetails).reviews?.length) {
+      updates.reviews = (place as PlaceDetails).reviews;
     }
 
     const { error } = await this.supabase

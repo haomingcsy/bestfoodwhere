@@ -1,6 +1,6 @@
 "use client";
 
-import { useCallback, useState, useTransition } from "react";
+import { useCallback, useState, useTransition, useEffect, useRef } from "react";
 import { useRouter, useSearchParams } from "next/navigation";
 import { CUISINE_CATEGORIES, PRICE_RANGES } from "@/types/shopping-mall";
 
@@ -25,11 +25,16 @@ export function RestaurantFilterBar({ mallSlug, cuisines }: Props) {
     searchParams.get("openNow") === "true",
   );
 
+  const debounceRef = useRef<NodeJS.Timeout | null>(null);
+
   const availableCuisines = cuisines?.length ? cuisines : CUISINE_CATEGORIES;
 
   const updateURL = useCallback(
     (params: Record<string, string | boolean | null>) => {
       const newParams = new URLSearchParams(searchParams.toString());
+
+      // Reset to page 1 when filters change
+      newParams.delete("page");
 
       Object.entries(params).forEach(([key, value]) => {
         if (value === null || value === "" || value === false) {
@@ -39,17 +44,36 @@ export function RestaurantFilterBar({ mallSlug, cuisines }: Props) {
         }
       });
 
+      const queryString = newParams.toString();
+      const url = queryString
+        ? `/shopping-malls/${mallSlug}?${queryString}`
+        : `/shopping-malls/${mallSlug}`;
+
       startTransition(() => {
-        router.push(`/shopping-malls/${mallSlug}?${newParams.toString()}`, {
-          scroll: false,
-        });
+        router.push(url, { scroll: false });
       });
     },
     [mallSlug, router, searchParams],
   );
 
+  // Debounced search — filters as you type
+  useEffect(() => {
+    if (debounceRef.current) clearTimeout(debounceRef.current);
+
+    debounceRef.current = setTimeout(() => {
+      updateURL({ q: search });
+    }, 400);
+
+    return () => {
+      if (debounceRef.current) clearTimeout(debounceRef.current);
+    };
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [search]);
+
   const handleSearchSubmit = (e: React.FormEvent) => {
     e.preventDefault();
+    // Immediate update on Enter
+    if (debounceRef.current) clearTimeout(debounceRef.current);
     updateURL({ q: search });
   };
 
@@ -76,6 +100,7 @@ export function RestaurantFilterBar({ mallSlug, cuisines }: Props) {
     setSelectedCuisine("");
     setSelectedPrice("");
     setOpenNow(false);
+    if (debounceRef.current) clearTimeout(debounceRef.current);
     startTransition(() => {
       router.push(`/shopping-malls/${mallSlug}`, { scroll: false });
     });
@@ -103,9 +128,14 @@ export function RestaurantFilterBar({ mallSlug, cuisines }: Props) {
               type="text"
               value={search}
               onChange={(e) => setSearch(e.target.value)}
-              placeholder="Search restaurants..."
+              placeholder="Search restaurants, cuisines..."
               className="w-full rounded-xl border border-gray-200 bg-gray-50 py-3 pl-10 pr-4 text-sm outline-none transition focus:border-bfw-orange focus:bg-white focus:ring-2 focus:ring-bfw-orange/20"
             />
+            {isPending && (
+              <span className="absolute right-3 top-1/2 -translate-y-1/2">
+                <span className="inline-block h-4 w-4 border-2 border-gray-300 border-t-transparent rounded-full animate-spin" />
+              </span>
+            )}
           </div>
         </form>
 
@@ -117,7 +147,7 @@ export function RestaurantFilterBar({ mallSlug, cuisines }: Props) {
             onChange={handleCuisineChange}
             className="rounded-xl border border-gray-200 bg-white px-4 py-3 text-sm outline-none transition focus:border-bfw-orange focus:ring-2 focus:ring-bfw-orange/20"
           >
-            <option value="">All Categories</option>
+            <option value="">All Cuisines</option>
             {availableCuisines.map((cuisine) => (
               <option key={cuisine} value={cuisine}>
                 {cuisine}
@@ -164,11 +194,6 @@ export function RestaurantFilterBar({ mallSlug, cuisines }: Props) {
           )}
         </div>
       </div>
-
-      {/* Loading indicator */}
-      {isPending && (
-        <div className="mt-2 text-sm text-gray-500">Updating...</div>
-      )}
     </div>
   );
 }

@@ -1,0 +1,2376 @@
+{
+  "brand": "pin-wei-mala",
+  "generatedAt": "2026-02-21T11:17:04.913Z",
+  "items": {
+    "spicy prawns 香辣虾": {
+      "calories": 280,
+      "protein": 32,
+      "carbs": 8,
+      "fat": 12,
+      "sodium": 1200,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of selenium",
+        "Low in carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in cholesterol"
+      ]
+    },
+    "ma la xiang guo 麻辣香锅 👍": {
+      "calories": 420,
+      "protein": 22,
+      "carbs": 35,
+      "fat": 18,
+      "sodium": 1800,
+      "sugar": 5,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Sesame",
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "Good source of vegetables",
+        "Contains capsaicin"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat",
+        "Spicy"
+      ]
+    },
+    "番茄味麻辣烫 tomato soup": {
+      "calories": 320,
+      "protein": 18,
+      "carbs": 32,
+      "fat": 12,
+      "sodium": 1600,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains lycopene",
+        "Good source of vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Spicy"
+      ]
+    },
+    "紫苏煎黄瓜 perilla fried cucumbers": {
+      "calories": 180,
+      "protein": 8,
+      "carbs": 12,
+      "fat": 11,
+      "sodium": 900,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Low in calories",
+        "Good source of vitamins",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "Moderate sodium"
+      ]
+    },
+    "tossed mung cleat in sauce 大拉皮": {
+      "calories": 280,
+      "protein": 12,
+      "carbs": 38,
+      "fat": 8,
+      "sodium": 1100,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "liuzhou river snails rice noodle 螺蛳粉小姐": {
+      "calories": 450,
+      "protein": 16,
+      "carbs": 52,
+      "fat": 18,
+      "sodium": 1700,
+      "sugar": 6,
+      "fiber": 4,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of carbohydrates",
+        "Contains iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "roasted beef with potato 土豆烧牛腩": {
+      "calories": 420,
+      "protein": 35,
+      "carbs": 22,
+      "fat": 20,
+      "sodium": 1300,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron",
+        "Contains B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "加多宝凉茶": {
+      "calories": 40,
+      "protein": 0,
+      "carbs": 10,
+      "fat": 0,
+      "sodium": 80,
+      "sugar": 9,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in calories",
+        "Traditional herbal beverage"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "cabbage beancurd soup 白菜豆腐汤": {
+      "calories": 160,
+      "protein": 14,
+      "carbs": 12,
+      "fat": 6,
+      "sodium": 1050,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Low in calories",
+        "Rich in vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "homestyle tofu 家常豆腐": {
+      "calories": 240,
+      "protein": 16,
+      "carbs": 14,
+      "fat": 14,
+      "sodium": 1200,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains iron",
+        "Low cholesterol"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "twice cooked pork 回锅肉": {
+      "calories": 380,
+      "protein": 28,
+      "carbs": 16,
+      "fat": 24,
+      "sodium": 1400,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "小炒黄牛肉粉 stir-fried yellow beef powder": {
+      "calories": 480,
+      "protein": 32,
+      "carbs": 48,
+      "fat": 16,
+      "sodium": 1320,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains iron",
+        "Balanced meal"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Refined carbohydrates"
+      ]
+    },
+    "steamed chicken with chili sauce 口水鸡": {
+      "calories": 320,
+      "protein": 38,
+      "carbs": 10,
+      "fat": 14,
+      "sodium": 1250,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Low in carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Spicy"
+      ]
+    },
+    "麻辣烫 mala tang": {
+      "calories": 340,
+      "protein": 16,
+      "carbs": 38,
+      "fat": 14,
+      "sodium": 1650,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "Contains vegetables",
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Spicy"
+      ]
+    },
+    "sour and spicy shredded potatoes 酸辣土豆丝": {
+      "calories": 200,
+      "protein": 6,
+      "carbs": 28,
+      "fat": 8,
+      "sodium": 1100,
+      "sugar": 2,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Low in protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Spicy"
+      ]
+    },
+    "肥肠粉 rice noodles for fat intestines": {
+      "calories": 480,
+      "protein": 18,
+      "carbs": 50,
+      "fat": 22,
+      "sodium": 1550,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of carbohydrates",
+        "Contains iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "康师傅纯萃零糖茉莉花茶": {
+      "calories": 5,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Zero sugar",
+        "Low in calories"
+      ],
+      "healthWarnings": []
+    },
+    "tomato egg soup 番茄鸡蛋汤": {
+      "calories": 140,
+      "protein": 12,
+      "carbs": 10,
+      "fat": 6,
+      "sodium": 980,
+      "sugar": 4,
+      "fiber": 1,
+      "allergens": [
+        "Egg",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains lycopene",
+        "Low in calories"
+      ],
+      "healthWarnings": [
+        "Moderate sodium"
+      ]
+    },
+    "cumin beef 孜然牛肉": {
+      "calories": 520,
+      "protein": 42,
+      "carbs": 8,
+      "fat": 38,
+      "sodium": 1240,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron",
+        "Rich in B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "萝卜干炒腊肉 stir-fried bacon with dried radish": {
+      "calories": 480,
+      "protein": 28,
+      "carbs": 12,
+      "fat": 36,
+      "sodium": 1680,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Source of protein",
+        "Contains minerals"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Processed meat"
+      ]
+    },
+    "intestine pepper broth 尖椒大肠": {
+      "calories": 380,
+      "protein": 28,
+      "carbs": 6,
+      "fat": 28,
+      "sodium": 1420,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Source of iron and B12"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in cholesterol",
+        "High in saturated fat"
+      ]
+    },
+    "cucumber 刀拍前男友": {
+      "calories": 85,
+      "protein": 2,
+      "carbs": 8,
+      "fat": 5,
+      "sodium": 480,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Low calorie",
+        "Good source of hydration",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "Moderate sodium"
+      ]
+    },
+    "康师傅冰糖雪梨": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 35,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 32,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains pear extract"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Empty calories"
+      ]
+    },
+    "野山椒炒黄牛肉 green pepper fried beef": {
+      "calories": 430,
+      "protein": 42,
+      "carbs": 10,
+      "fat": 23,
+      "sodium": 1380,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "Good source of capsaicin"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "酸菜鱼粉 sauerkraut fish meal": {
+      "calories": 420,
+      "protein": 24,
+      "carbs": 42,
+      "fat": 18,
+      "sodium": 1380,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3",
+        "Balanced carbs"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Contains fish allergen"
+      ]
+    },
+    "shredded cabbage 手撕包菜": {
+      "calories": 280,
+      "protein": 6,
+      "carbs": 12,
+      "fat": 22,
+      "sodium": 860,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Low in calories",
+        "Rich in vitamin C"
+      ],
+      "healthWarnings": [
+        "High in fat from oil",
+        "Spicy preparation"
+      ]
+    },
+    "金钱蛋 money egg": {
+      "calories": 420,
+      "protein": 18,
+      "carbs": 12,
+      "fat": 32,
+      "sodium": 920,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains choline",
+        "Source of selenium"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in cholesterol"
+      ]
+    },
+    "pepper fried pork slices 尖椒土豆炒肉片": {
+      "calories": 460,
+      "protein": 32,
+      "carbs": 18,
+      "fat": 30,
+      "sodium": 1140,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains potassium",
+        "Source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "藤椒味麻辣烫 sichuan peppercorns soup": {
+      "calories": 45,
+      "protein": 1,
+      "carbs": 8,
+      "fat": 1,
+      "sodium": 480,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains Sichuan pepper compounds"
+      ],
+      "healthWarnings": [
+        "High sodium for portion size"
+      ]
+    },
+    "dumplings 水饺（10粒）": {
+      "calories": 320,
+      "protein": 14,
+      "carbs": 38,
+      "fat": 12,
+      "sodium": 740,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Source of protein",
+        "Contains carbohydrates for energy"
+      ],
+      "healthWarnings": [
+        "Moderate sodium",
+        "Refined carbohydrates"
+      ]
+    },
+    "stir-fried beans 干煸四季豆": {
+      "calories": 320,
+      "protein": 5,
+      "carbs": 12,
+      "fat": 28,
+      "sodium": 620,
+      "sugar": 2,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains vitamins A and C",
+        "Plant-based protein"
+      ],
+      "healthWarnings": [
+        "High in oil/fat"
+      ]
+    },
+    "金汤麻辣烫 golden soup spicy pricess": {
+      "calories": 50,
+      "protein": 1,
+      "carbs": 10,
+      "fat": 1,
+      "sodium": 520,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains turmeric compounds"
+      ],
+      "healthWarnings": [
+        "High sodium for portion size"
+      ]
+    },
+    "fish flavoured pork 鱼香肉丝": {
+      "calories": 480,
+      "protein": 34,
+      "carbs": 14,
+      "fat": 32,
+      "sodium": 1200,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "100号": {
+      "calories": 150,
+      "protein": 0,
+      "carbs": 37,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 35,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "Empty calories"
+      ]
+    },
+    "嫩滑猪肉米粉 tender pork rice noodles": {
+      "calories": 420,
+      "protein": 26,
+      "carbs": 44,
+      "fat": 14,
+      "sodium": 1240,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Balanced meal",
+        "Source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Refined carbohydrates"
+      ]
+    },
+    "酸菜排骨 pickled cabbage spare ribs": {
+      "calories": 580,
+      "protein": 46,
+      "carbs": 8,
+      "fat": 40,
+      "sodium": 1480,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of calcium",
+        "Rich in collagen"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in cholesterol"
+      ]
+    },
+    "69. rice 米饭": {
+      "calories": 180,
+      "protein": 3,
+      "carbs": 40,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 0,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of carbohydrates",
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "High in carbohydrates"
+      ]
+    },
+    "golden soup beef rice noodles": {
+      "calories": 520,
+      "protein": 22,
+      "carbs": 68,
+      "fat": 12,
+      "sodium": 1280,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in carbohydrates"
+      ]
+    },
+    "spicy beef": {
+      "calories": 480,
+      "protein": 38,
+      "carbs": 12,
+      "fat": 32,
+      "sodium": 1420,
+      "sugar": 4,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Sesame",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Spicy - may cause digestive issues"
+      ]
+    },
+    "crystal noodle 酸辣粉": {
+      "calories": 380,
+      "protein": 12,
+      "carbs": 64,
+      "fat": 6,
+      "sodium": 1160,
+      "sugar": 5,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Spicy - may irritate stomach"
+      ]
+    },
+    "可乐": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 38,
+      "fat": 0,
+      "sodium": 45,
+      "sugar": 36,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in calories",
+        "Contains caffeine"
+      ]
+    },
+    "green fried shredded pork 青椒肉丝": {
+      "calories": 420,
+      "protein": 32,
+      "carbs": 8,
+      "fat": 28,
+      "sodium": 1200,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in vitamin C from peppers"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "eggplants with garlic sauce 鱼香茄子": {
+      "calories": 320,
+      "protein": 8,
+      "carbs": 18,
+      "fat": 24,
+      "sodium": 980,
+      "sugar": 6,
+      "fiber": 4,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Low in protein",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat from oil"
+      ]
+    },
+    "肉丝长沙炒米粉changsha fried rice noodles": {
+      "calories": 540,
+      "protein": 20,
+      "carbs": 70,
+      "fat": 14,
+      "sodium": 1320,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Sesame",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in carbohydrates"
+      ]
+    },
+    "beijing sauce wire 京酱肉丝": {
+      "calories": 450,
+      "protein": 35,
+      "carbs": 14,
+      "fat": 30,
+      "sodium": 1340,
+      "sugar": 8,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in sugar"
+      ]
+    },
+    "冰红茶": {
+      "calories": 120,
+      "protein": 0,
+      "carbs": 30,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 28,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants from tea"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "Contains caffeine"
+      ]
+    },
+    "bitter gourd fried eggs 苦瓜煎蛋": {
+      "calories": 340,
+      "protein": 14,
+      "carbs": 12,
+      "fat": 26,
+      "sodium": 920,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Rich in vitamin C",
+        "Low in carbs"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in sodium"
+      ]
+    },
+    "凉拌猪耳朵 cold pig ears": {
+      "calories": 380,
+      "protein": 28,
+      "carbs": 8,
+      "fat": 28,
+      "sodium": 1100,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Sesame",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in collagen"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in cholesterol"
+      ]
+    },
+    "yangzhou fried rice 扬州炒饭": {
+      "calories": 480,
+      "protein": 16,
+      "carbs": 58,
+      "fat": 18,
+      "sodium": 1240,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in carbohydrates"
+      ]
+    },
+    "mu shu pork 木须肉": {
+      "calories": 420,
+      "protein": 30,
+      "carbs": 16,
+      "fat": 28,
+      "sodium": 1180,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "山椒鸡胗米粉rice noodles with chicken": {
+      "calories": 480,
+      "protein": 24,
+      "carbs": 66,
+      "fat": 10,
+      "sodium": 1300,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Lean protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in carbohydrates"
+      ]
+    },
+    "红烧肉干豆角 braised pork with dried beans": {
+      "calories": 580,
+      "protein": 42,
+      "carbs": 18,
+      "fat": 38,
+      "sodium": 1480,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of fiber",
+        "Rich in iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "shrimp fried eggs 虾仁炒蛋": {
+      "calories": 360,
+      "protein": 24,
+      "carbs": 8,
+      "fat": 26,
+      "sodium": 1040,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Shellfish",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in omega-3 from shrimp"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in cholesterol"
+      ]
+    },
+    "small farm pork 湖南螺丝椒炒肉": {
+      "calories": 380,
+      "protein": 28,
+      "carbs": 8,
+      "fat": 28,
+      "sodium": 980,
+      "sugar": 4,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "香辣排骨米粉 spicy ribs rice noodle": {
+      "calories": 560,
+      "protein": 26,
+      "carbs": 68,
+      "fat": 16,
+      "sodium": 1380,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in carbohydrates",
+        "Spicy - may cause digestive issues"
+      ]
+    },
+    "sugar and tomato": {
+      "calories": 85,
+      "protein": 1.5,
+      "carbs": 12,
+      "fat": 4,
+      "sodium": 280,
+      "sugar": 8,
+      "fiber": 1.5,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Good source of vitamin C",
+        "Contains lycopene"
+      ],
+      "healthWarnings": []
+    },
+    "spicy chicken": {
+      "calories": 580,
+      "protein": 42,
+      "carbs": 18,
+      "fat": 38,
+      "sodium": 1200,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains capsaicin"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Spicy"
+      ]
+    },
+    "spareribs with brown sauce": {
+      "calories": 620,
+      "protein": 45,
+      "carbs": 22,
+      "fat": 40,
+      "sodium": 1100,
+      "sugar": 8,
+      "fiber": 0.5,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in sugar"
+      ]
+    },
+    "fried rice with sausage": {
+      "calories": 520,
+      "protein": 16,
+      "carbs": 65,
+      "fat": 22,
+      "sodium": 980,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "garlic vegetable": {
+      "calories": 180,
+      "protein": 8,
+      "carbs": 12,
+      "fat": 12,
+      "sodium": 620,
+      "sugar": 2,
+      "fiber": 2.5,
+      "allergens": [],
+      "healthBenefits": [
+        "High in fiber",
+        "Good source of vitamin C",
+        "Low calorie",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "braised pork": {
+      "calories": 650,
+      "protein": 38,
+      "carbs": 8,
+      "fat": 52,
+      "sodium": 1050,
+      "sugar": 4,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains iron and B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Very high in saturated fat",
+        "High in calories"
+      ]
+    },
+    "crispy guoba with chiken": {
+      "calories": 680,
+      "protein": 48,
+      "carbs": 38,
+      "fat": 40,
+      "sodium": 1300,
+      "sugar": 5,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "mapo tofu": {
+      "calories": 380,
+      "protein": 18,
+      "carbs": 12,
+      "fat": 28,
+      "sodium": 1100,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains capsaicin"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Spicy"
+      ]
+    },
+    "tofu with preserved eggs": {
+      "calories": 240,
+      "protein": 16,
+      "carbs": 6,
+      "fat": 16,
+      "sodium": 840,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains calcium"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in cholesterol"
+      ]
+    },
+    "stir fried field chicken": {
+      "calories": 520,
+      "protein": 58,
+      "carbs": 8,
+      "fat": 28,
+      "sodium": 1200,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Very high in protein",
+        "Lean meat"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in saturated fat"
+      ]
+    },
+    "pepper dried tofu": {
+      "calories": 320,
+      "protein": 22,
+      "carbs": 14,
+      "fat": 20,
+      "sodium": 920,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of fiber",
+        "Contains capsaicin"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Spicy"
+      ]
+    },
+    "tomato and eggs": {
+      "calories": 280,
+      "protein": 12,
+      "carbs": 14,
+      "fat": 20,
+      "sodium": 680,
+      "sugar": 6,
+      "fiber": 1.5,
+      "allergens": [
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains lycopene and vitamin C"
+      ],
+      "healthWarnings": [
+        "Moderate sodium"
+      ]
+    },
+    "braised eggplant with beans": {
+      "calories": 320,
+      "protein": 12,
+      "carbs": 20,
+      "fat": 22,
+      "sodium": 780,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "fricassee hot green pepper": {
+      "calories": 280,
+      "protein": 6,
+      "carbs": 14,
+      "fat": 22,
+      "sodium": 620,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in vitamin C",
+        "Contains capsaicin"
+      ],
+      "healthWarnings": [
+        "Spicy"
+      ]
+    },
+    "dried bean curd salad": {
+      "calories": 220,
+      "protein": 16,
+      "carbs": 8,
+      "fat": 14,
+      "sodium": 580,
+      "sugar": 2,
+      "fiber": 1.5,
+      "allergens": [
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of calcium"
+      ],
+      "healthWarnings": []
+    },
+    "fried potato green pepper and eggplant": {
+      "calories": 380,
+      "protein": 8,
+      "carbs": 32,
+      "fat": 26,
+      "sodium": 720,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [],
+      "healthBenefits": [
+        "High in fiber",
+        "Contains antioxidants and vitamin C"
+      ],
+      "healthWarnings": [
+        "High in calories from oil"
+      ]
+    },
+    "lao gan ma belly silk": {
+      "calories": 420,
+      "protein": 38,
+      "carbs": 6,
+      "fat": 28,
+      "sodium": 1080,
+      "sugar": 2,
+      "fiber": 0.5,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Peanut"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "hunan fried chicken": {
+      "calories": 580,
+      "protein": 52,
+      "carbs": 12,
+      "fat": 34,
+      "sodium": 1150,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "fried sausage with snow peas": {
+      "calories": 450,
+      "protein": 24,
+      "carbs": 16,
+      "fat": 32,
+      "sodium": 1050,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "stir fried tripe with garlic sprouts": {
+      "calories": 380,
+      "protein": 42,
+      "carbs": 10,
+      "fat": 20,
+      "sodium": 1100,
+      "sugar": 2,
+      "fiber": 1.5,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Very high in protein",
+        "Contains iron and collagen"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate saturated fat"
+      ]
+    },
+    "四季豆炒肉 fried pork with green beans": {
+      "calories": 380,
+      "protein": 28,
+      "carbs": 12,
+      "fat": 26,
+      "sodium": 1200,
+      "sugar": 3,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vitamins from green beans"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "大碗山药 big bowl of yam": {
+      "calories": 280,
+      "protein": 4,
+      "carbs": 62,
+      "fat": 8,
+      "sodium": 800,
+      "sugar": 12,
+      "fiber": 6,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Rich in potassium",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Moderate sodium"
+      ]
+    },
+    "豆花鱼片 fish with toufu": {
+      "calories": 420,
+      "protein": 42,
+      "carbs": 8,
+      "fat": 22,
+      "sodium": 1400,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "High in omega-3 fatty acids",
+        "Good source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate saturated fat"
+      ]
+    },
+    "豆花牛肉 beef with toufu": {
+      "calories": 440,
+      "protein": 45,
+      "carbs": 8,
+      "fat": 24,
+      "sodium": 1400,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "Good source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "排骨山药钵 ribs and yam bow": {
+      "calories": 520,
+      "protein": 38,
+      "carbs": 45,
+      "fat": 22,
+      "sodium": 1600,
+      "sugar": 10,
+      "fiber": 5,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains potassium",
+        "Rich in collagen"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Moderate calories"
+      ]
+    },
+    "香辣跳跳蛙 spicy jumping frog": {
+      "calories": 580,
+      "protein": 52,
+      "carbs": 15,
+      "fat": 28,
+      "sodium": 1800,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Very high in protein",
+        "Low in carbs",
+        "Contains minerals"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Very spicy"
+      ]
+    },
+    "湖南小炒香干 hunan fried toufu": {
+      "calories": 340,
+      "protein": 22,
+      "carbs": 10,
+      "fat": 24,
+      "sodium": 1300,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "High in calcium",
+        "Vegetarian"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "歌乐山辣子鸡 spicy chicken": {
+      "calories": 420,
+      "protein": 40,
+      "carbs": 10,
+      "fat": 22,
+      "sodium": 1350,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Very spicy"
+      ]
+    },
+    "蒜苗炒腊肉 garlic fried becon": {
+      "calories": 460,
+      "protein": 32,
+      "carbs": 8,
+      "fat": 34,
+      "sodium": 1600,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains garlic benefits"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Very high in saturated fat"
+      ]
+    },
+    "酸豆角腊肉 sour beans with becon": {
+      "calories": 420,
+      "protein": 28,
+      "carbs": 12,
+      "fat": 30,
+      "sodium": 1550,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains probiotics",
+        "Good protein content"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "红油藕片 red oil root slice": {
+      "calories": 240,
+      "protein": 3,
+      "carbs": 28,
+      "fat": 12,
+      "sodium": 900,
+      "sugar": 8,
+      "fiber": 4,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Rich in antioxidants",
+        "Low in calories"
+      ],
+      "healthWarnings": [
+        "Moderate sodium",
+        "Moderate oil content"
+      ]
+    },
+    "烧椒皮蛋 pepper preserved egg": {
+      "calories": 220,
+      "protein": 14,
+      "carbs": 8,
+      "fat": 14,
+      "sodium": 1100,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Egg",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains selenium"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Preservative content"
+      ]
+    },
+    "香辣土豆片 spicy potato": {
+      "calories": 260,
+      "protein": 4,
+      "carbs": 38,
+      "fat": 10,
+      "sodium": 850,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of carbohydrates",
+        "Contains potassium",
+        "Vegetarian"
+      ],
+      "healthWarnings": [
+        "Moderate sodium",
+        "Fried preparation"
+      ]
+    },
+    "蒜香烤鱼 garlic fish": {
+      "calories": 480,
+      "protein": 48,
+      "carbs": 5,
+      "fat": 26,
+      "sodium": 1450,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Very high in protein",
+        "Excellent source of omega-3",
+        "Good for heart health"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate saturated fat"
+      ]
+    },
+    "香辣烤鱼 bbq fish": {
+      "calories": 490,
+      "protein": 48,
+      "carbs": 6,
+      "fat": 27,
+      "sodium": 1500,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Very high in protein",
+        "Excellent source of omega-3",
+        "Rich in vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate saturated fat",
+        "Very spicy"
+      ]
+    },
+    "老家腊肉钵 homemade bacon bowl": {
+      "calories": 480,
+      "protein": 35,
+      "carbs": 12,
+      "fat": 32,
+      "sodium": 1650,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains minerals"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Very high in saturated fat"
+      ]
+    },
+    "野山椒鸡胗 green pepper chicken gizzards": {
+      "calories": 340,
+      "protein": 38,
+      "carbs": 8,
+      "fat": 16,
+      "sodium": 1300,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "Low in fat compared to other meats"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in cholesterol"
+      ]
+    },
+    "酸豆角炒肉 sour beans minced pork": {
+      "calories": 360,
+      "protein": 26,
+      "carbs": 12,
+      "fat": 24,
+      "sodium": 1280,
+      "sugar": 3,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains fiber",
+        "Contains probiotics"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "老干妈排骨 laoganma ribs": {
+      "calories": 440,
+      "protein": 36,
+      "carbs": 10,
+      "fat": 28,
+      "sodium": 1500,
+      "sugar": 4,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains collagen",
+        "Rich in minerals"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Moderate spice level"
+      ]
+    },
+    "pickled fish 酸菜鱼": {
+      "calories": 420,
+      "protein": 38,
+      "carbs": 12,
+      "fat": 22,
+      "sodium": 1200,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of omega-3",
+        "Low carb"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "湖南剁辣椒萝卜干 hunan chopped pepper dried radish": {
+      "calories": 140,
+      "protein": 6,
+      "carbs": 18,
+      "fat": 4,
+      "sodium": 850,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Low calorie",
+        "Good source of fiber",
+        "Rich in vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "大蒜炒腊香肠 sautéed sausages with garlic": {
+      "calories": 420,
+      "protein": 22,
+      "carbs": 6,
+      "fat": 34,
+      "sodium": 1350,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Garlic"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in cholesterol"
+      ]
+    },
+    "湖南腊草鱼 hunan grass carp": {
+      "calories": 520,
+      "protein": 48,
+      "carbs": 4,
+      "fat": 36,
+      "sodium": 1100,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Fish",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of omega-3",
+        "High in vitamin D"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in cholesterol"
+      ]
+    },
+    "湘西腊肥肠 hunan cured pork intestines": {
+      "calories": 480,
+      "protein": 32,
+      "carbs": 2,
+      "fat": 38,
+      "sodium": 1400,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron",
+        "Rich in B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Very high in saturated fat",
+        "Very high in cholesterol"
+      ]
+    },
+    "自制湖南腊鸭 homemade hunan cured duck": {
+      "calories": 520,
+      "protein": 42,
+      "carbs": 2,
+      "fat": 40,
+      "sodium": 1250,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron",
+        "Rich in B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Very high in saturated fat",
+        "High in cholesterol"
+      ]
+    },
+    "自制香辣腊猪耳朵 homemade spicy cured pig's ears": {
+      "calories": 380,
+      "protein": 28,
+      "carbs": 3,
+      "fat": 30,
+      "sodium": 1180,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of collagen"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "自制香辣腊排骨 homemade spicy cured pork ribs": {
+      "calories": 540,
+      "protein": 38,
+      "carbs": 2,
+      "fat": 42,
+      "sodium": 1320,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Very high in saturated fat",
+        "High in cholesterol"
+      ]
+    },
+    "自制香辣腊牛肉  homemade cured beef": {
+      "calories": 480,
+      "protein": 45,
+      "carbs": 2,
+      "fat": 32,
+      "sodium": 1280,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Excellent source of iron",
+        "Rich in B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "大盆长豆角 big pot long beans": {
+      "calories": 200,
+      "protein": 8,
+      "carbs": 16,
+      "fat": 12,
+      "sodium": 720,
+      "sugar": 4,
+      "fiber": 4,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Rich in vitamin K",
+        "Low calorie"
+      ],
+      "healthWarnings": [
+        "Moderate sodium"
+      ]
+    },
+    "大盆冬瓜 large plate winter melon": {
+      "calories": 140,
+      "protein": 4,
+      "carbs": 14,
+      "fat": 7,
+      "sodium": 680,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Low calorie",
+        "Good source of vitamin C",
+        "Hydrating"
+      ],
+      "healthWarnings": [
+        "Moderate sodium"
+      ]
+    },
+    "辣八豆炒鸡蛋 stir fried eggs with spicy eight bean": {
+      "calories": 280,
+      "protein": 14,
+      "carbs": 12,
+      "fat": 20,
+      "sodium": 640,
+      "sugar": 3,
+      "fiber": 3,
+      "allergens": [
+        "Egg",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "High in choline",
+        "Rich in antioxidants"
+      ],
+      "healthWarnings": [
+        "High in saturated fat"
+      ]
+    },
+    "酸辣蕨根粉 hot and sour fern root powder": {
+      "calories": 160,
+      "protein": 2,
+      "carbs": 28,
+      "fat": 4,
+      "sodium": 760,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Low in protein",
+        "Low calorie",
+        "Good source of carbs"
+      ],
+      "healthWarnings": [
+        "Moderate sodium"
+      ]
+    },
+    "排骨大虾土钵 ribs prawn clay pot": {
+      "calories": 420,
+      "protein": 42,
+      "carbs": 8,
+      "fat": 24,
+      "sodium": 1100,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of omega-3",
+        "Rich in minerals"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "石门肥肠钵 shimen intestines bowl": {
+      "calories": 420,
+      "protein": 30,
+      "carbs": 6,
+      "fat": 32,
+      "sodium": 1350,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Very high in saturated fat",
+        "Very high in cholesterol"
+      ]
+    },
+    "香辣猪脚钵  preserved pork feet bow": {
+      "calories": 480,
+      "protein": 34,
+      "carbs": 4,
+      "fat": 38,
+      "sodium": 1280,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of collagen",
+        "Rich in gelatin"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Very high in saturated fat",
+        "High in cholesterol"
+      ]
+    },
+    "剁辣椒炒白菜 chopped pepper sprout white": {
+      "calories": 240,
+      "protein": 12,
+      "carbs": 10,
+      "fat": 16,
+      "sodium": 680,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Rich in vitamin C",
+        "Good source of fiber"
+      ],
+      "healthWarnings": [
+        "Moderate sodium"
+      ]
+    },
+    "常德钵仔鸡 changde clay pot chicken": {
+      "calories": 380,
+      "protein": 36,
+      "carbs": 6,
+      "fat": 24,
+      "sodium": 920,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of B vitamins",
+        "Lean meat"
+      ],
+      "healthWarnings": [
+        "Moderate sodium",
+        "High in saturated fat"
+      ]
+    }
+  }
+}

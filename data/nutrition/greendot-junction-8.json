@@ -1,0 +1,1350 @@
+{
+  "brand": "greendot-junction-8",
+  "generatedAt": "2026-02-21T10:35:43.831Z",
+  "items": {
+    "signature laksa 招牌叻沙面": {
+      "calories": 520,
+      "protein": 18,
+      "carbs": 72,
+      "fat": 16,
+      "sodium": 1280,
+      "sugar": 8,
+      "fiber": 8,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Rich in mushrooms",
+        "Plant-based protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in saturated fat"
+      ]
+    },
+    "imperial prosperity yu sheng 新春鸿运发财捞生": {
+      "calories": 420,
+      "protein": 12,
+      "carbs": 68,
+      "fat": 10,
+      "sodium": 920,
+      "sugar": 28,
+      "fiber": 6,
+      "allergens": [
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in vitamin C",
+        "Rich in fiber",
+        "Fresh vegetables"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in sodium"
+      ]
+    },
+    "signature lion mane mushroom rendang bento set 招牌任当猴头菇便当": {
+      "calories": 580,
+      "protein": 22,
+      "carbs": 68,
+      "fat": 20,
+      "sodium": 1040,
+      "sugar": 12,
+      "fiber": 7,
+      "allergens": [
+        "Egg",
+        "Dairy",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good protein source",
+        "Contains medicinal mushroom",
+        "Balanced meal"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Contains saturated fat"
+      ]
+    },
+    "white rice 白饭": {
+      "calories": 206,
+      "protein": 4,
+      "carbs": 46,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of carbohydrates",
+        "Energy source"
+      ],
+      "healthWarnings": []
+    },
+    "stir-fried  mushroom & vegetable pot 干炒香菇什锦蔬菜锅": {
+      "calories": 680,
+      "protein": 28,
+      "carbs": 52,
+      "fat": 38,
+      "sodium": 1520,
+      "sugar": 14,
+      "fiber": 12,
+      "allergens": [
+        "Egg",
+        "Dairy",
+        "Soy",
+        "Gluten",
+        "Peanut"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "Variety of mushrooms",
+        "Rich in vegetables",
+        "Good protein source"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat",
+        "High in saturated fat"
+      ]
+    },
+    "customised bento set 每日自制便当": {
+      "calories": 420,
+      "protein": 16,
+      "carbs": 54,
+      "fat": 14,
+      "sodium": 780,
+      "sugar": 8,
+      "fiber": 6,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Customizable",
+        "Balanced meal",
+        "Good source of vegetables"
+      ],
+      "healthWarnings": [
+        "Sodium content varies by selection"
+      ]
+    },
+    "crispy char siew yam 叉烧芋饺脆": {
+      "calories": 380,
+      "protein": 8,
+      "carbs": 48,
+      "fat": 16,
+      "sodium": 640,
+      "sugar": 4,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of carbohydrates",
+        "Contains yam"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "Fried preparation"
+      ]
+    },
+    "signature party set meal 招牌派对套餐": {
+      "calories": 1420,
+      "protein": 48,
+      "carbs": 168,
+      "fat": 52,
+      "sodium": 2640,
+      "sugar": 20,
+      "fiber": 14,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Sesame",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good protein source",
+        "Balanced meal for sharing",
+        "Includes soup"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "High in fat"
+      ]
+    },
+    "broccoli stir fry 清炒西兰花": {
+      "calories": 180,
+      "protein": 14,
+      "carbs": 12,
+      "fat": 8,
+      "sodium": 520,
+      "sugar": 3,
+      "fiber": 4,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in vitamin C",
+        "Good source of fiber",
+        "Low calorie",
+        "Rich in minerals"
+      ],
+      "healthWarnings": [
+        "Moderate sodium"
+      ]
+    },
+    "crunchy fillet wrap 香脆鱼柳卷饼": {
+      "calories": 520,
+      "protein": 20,
+      "carbs": 62,
+      "fat": 20,
+      "sodium": 980,
+      "sugar": 6,
+      "fiber": 5,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good protein source",
+        "Whole grain wrap"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Fried preparation",
+        "High in fat"
+      ]
+    },
+    "signature lion mane mushroom rendang with turmeric rice 任当猴头菇香米黄姜饭": {
+      "calories": 540,
+      "protein": 20,
+      "carbs": 64,
+      "fat": 18,
+      "sodium": 1040,
+      "sugar": 10,
+      "fiber": 6,
+      "allergens": [
+        "Egg",
+        "Dairy",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains medicinal mushroom",
+        "Turmeric benefits",
+        "Good protein source"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Contains saturated fat"
+      ]
+    },
+    "rendang lion mane mushroom 仁当猴头菇": {
+      "calories": 280,
+      "protein": 14,
+      "carbs": 12,
+      "fat": 18,
+      "sodium": 680,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Egg",
+        "Dairy",
+        "Soy",
+        "Gluten",
+        "Coconut"
+      ],
+      "healthBenefits": [
+        "Medicinal mushroom",
+        "Good protein source"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "Moderate sodium"
+      ]
+    },
+    "osmanthus jelly w seasonal fruits 桂花冻伴时令果丁": {
+      "calories": 140,
+      "protein": 2,
+      "carbs": 34,
+      "fat": 0,
+      "sodium": 40,
+      "sugar": 28,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains fresh fruits",
+        "Low fat",
+        "Refreshing"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "ala carte soup bowl 全蔬汤锅": {
+      "calories": 240,
+      "protein": 16,
+      "carbs": 22,
+      "fat": 8,
+      "sodium": 1080,
+      "sugar": 6,
+      "fiber": 5,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Low calorie",
+        "High in vegetables",
+        "Good protein source",
+        "Warming"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "six fortune happiness platter 六六大顺如意拼盘": {
+      "calories": 680,
+      "protein": 22,
+      "carbs": 76,
+      "fat": 26,
+      "sodium": 1440,
+      "sugar": 32,
+      "fiber": 8,
+      "allergens": [
+        "Dairy",
+        "Soy",
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Festive variety",
+        "Balanced selections"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in sugar",
+        "High in fat"
+      ]
+    },
+    "angelica herbal trio mushroom bento set 药材三鲜菇便当": {
+      "calories": 480,
+      "protein": 18,
+      "carbs": 66,
+      "fat": 12,
+      "sodium": 820,
+      "sugar": 14,
+      "fiber": 8,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Herbal benefits",
+        "Rich in mushrooms",
+        "Good fiber source",
+        "Includes soup"
+      ],
+      "healthWarnings": [
+        "Moderate sodium"
+      ]
+    },
+    "soup bowl w brown rice 全蔬汤锅配糙米饭": {
+      "calories": 420,
+      "protein": 18,
+      "carbs": 62,
+      "fat": 10,
+      "sodium": 1100,
+      "sugar": 8,
+      "fiber": 8,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "Brown rice benefits",
+        "Good protein source",
+        "Balanced meal"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "set for 2 两人套餐": {
+      "calories": 940,
+      "protein": 36,
+      "carbs": 108,
+      "fat": 36,
+      "sodium": 1680,
+      "sugar": 16,
+      "fiber": 10,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Varies"
+      ],
+      "healthBenefits": [
+        "Balanced for 2 people",
+        "Includes soup",
+        "Good variety"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in calories"
+      ]
+    },
+    "curry rendang lion mane mushroom wrap 仁当猴头菇卷饼": {
+      "calories": 480,
+      "protein": 18,
+      "carbs": 58,
+      "fat": 18,
+      "sodium": 1040,
+      "sugar": 8,
+      "fiber": 5,
+      "allergens": [
+        "Egg",
+        "Dairy",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Medicinal mushroom",
+        "Whole grain wrap",
+        "Good protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "lemongrass pandan tea 班兰香茅茶": {
+      "calories": 45,
+      "protein": 0,
+      "carbs": 10,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 6,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Aromatic herbs",
+        "Aids digestion"
+      ],
+      "healthWarnings": []
+    },
+    "signature trio treasure fragrant pot 招牌干炒三鲜香锅": {
+      "calories": 480,
+      "protein": 18,
+      "carbs": 52,
+      "fat": 22,
+      "sodium": 1280,
+      "sugar": 8,
+      "fiber": 8,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "Good source of plant-based protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "brown rice 糙米饭": {
+      "calories": 215,
+      "protein": 5,
+      "carbs": 45,
+      "fat": 2,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 3.5,
+      "allergens": [],
+      "healthBenefits": [
+        "High in fiber",
+        "Good source of B vitamins",
+        "Low glycemic index"
+      ],
+      "healthWarnings": []
+    },
+    "angelica herbal noodle w cordyceps 虫草花当归药材面": {
+      "calories": 420,
+      "protein": 16,
+      "carbs": 58,
+      "fat": 12,
+      "sodium": 1050,
+      "sugar": 4,
+      "fiber": 5,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Dairy",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Contains herbal ingredients",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "angelica herbal trio mushroom 药材三鲜菇": {
+      "calories": 185,
+      "protein": 8,
+      "carbs": 22,
+      "fat": 8,
+      "sodium": 680,
+      "sugar": 3,
+      "fiber": 4,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in antioxidants",
+        "Contains medicinal herbs",
+        "Low calorie"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "crispy bean curd skin with sesame rice set 素香豆皮麻油饭": {
+      "calories": 520,
+      "protein": 20,
+      "carbs": 48,
+      "fat": 26,
+      "sodium": 920,
+      "sugar": 5,
+      "fiber": 6,
+      "allergens": [
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in plant-based protein",
+        "Contains sesame seeds for minerals"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in sodium"
+      ]
+    },
+    "chinese cabbage 手撕包菜": {
+      "calories": 95,
+      "protein": 3,
+      "carbs": 8,
+      "fat": 6,
+      "sodium": 520,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Low calorie",
+        "High in vitamin C",
+        "Contains fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "pan-fried lion mane gyoza 猴头菇煎饺": {
+      "calories": 380,
+      "protein": 12,
+      "carbs": 42,
+      "fat": 18,
+      "sodium": 780,
+      "sugar": 3,
+      "fiber": 3,
+      "allergens": [
+        "Egg",
+        "Dairy",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains medicinal mushrooms",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in sodium"
+      ]
+    },
+    "roasted buckwheat sencha 荞麦煎茶": {
+      "calories": 5,
+      "protein": 0,
+      "carbs": 1,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "braised ipoh hor fun 特制酱怡保河粉": {
+      "calories": 450,
+      "protein": 14,
+      "carbs": 56,
+      "fat": 18,
+      "sodium": 1180,
+      "sugar": 6,
+      "fiber": 5,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Contains vegetables",
+        "Good source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "sweet chili beancurd skin wrap 香脆豆皮卷饼": {
+      "calories": 580,
+      "protein": 16,
+      "carbs": 62,
+      "fat": 28,
+      "sodium": 840,
+      "sugar": 12,
+      "fiber": 4,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains whole grains",
+        "Plant-based protein source"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in sugar",
+        "High in sodium"
+      ]
+    },
+    "sweet & sour nuggets 酸甜大豆": {
+      "calories": 310,
+      "protein": 14,
+      "carbs": 32,
+      "fat": 14,
+      "sodium": 620,
+      "sugar": 8,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of plant-based protein"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in sodium"
+      ]
+    },
+    "stir fry gu lou yok brown rice set 香炒彩椒咕噜大豆饭": {
+      "calories": 520,
+      "protein": 18,
+      "carbs": 58,
+      "fat": 20,
+      "sodium": 1040,
+      "sugar": 10,
+      "fiber": 6,
+      "allergens": [
+        "Soy",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "Contains vegetables",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in sugar"
+      ]
+    },
+    "french bean stir fry 脆炒四季豆": {
+      "calories": 120,
+      "protein": 4,
+      "carbs": 10,
+      "fat": 7,
+      "sodium": 540,
+      "sugar": 2,
+      "fiber": 2.5,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Low calorie",
+        "High in vitamins",
+        "Good source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "soup bowl w handmade noodles 全蔬汤锅配手工面": {
+      "calories": 380,
+      "protein": 15,
+      "carbs": 54,
+      "fat": 10,
+      "sodium": 920,
+      "sugar": 5,
+      "fiber": 7,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "Contains multiple vegetables",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "sweet & sour soya nugget bento set 酸甜大豆便当": {
+      "calories": 550,
+      "protein": 16,
+      "carbs": 68,
+      "fat": 20,
+      "sodium": 1100,
+      "sugar": 14,
+      "fiber": 6,
+      "allergens": [
+        "Soy",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains vegetables",
+        "Good source of plant-based protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in sugar",
+        "High in fat"
+      ]
+    },
+    "konnyaku fish fingers 香脆蒟蒻鱼柳": {
+      "calories": 240,
+      "protein": 8,
+      "carbs": 28,
+      "fat": 11,
+      "sodium": 580,
+      "sugar": 2,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Low calorie",
+        "Good source of fiber from konnyaku"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "angelica braised nagaimo & chestnut bento 当归红烧栗子淮山便当": {
+      "calories": 480,
+      "protein": 14,
+      "carbs": 72,
+      "fat": 12,
+      "sodium": 880,
+      "sugar": 18,
+      "fiber": 8,
+      "allergens": [
+        "Soy",
+        "Dairy",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "Contains medicinal herbs",
+        "Good source of minerals"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in sugar"
+      ]
+    },
+    "sesame rice 麻油饭": {
+      "calories": 245,
+      "protein": 6,
+      "carbs": 28,
+      "fat": 12,
+      "sodium": 8,
+      "sugar": 0,
+      "fiber": 2,
+      "allergens": [
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Contains sesame for minerals",
+        "Good source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in fat"
+      ]
+    },
+    "(new)white peach oolong tea 白桃乌龙茶": {
+      "calories": 8,
+      "protein": 0,
+      "carbs": 2,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains antioxidants from tea"
+      ],
+      "healthWarnings": []
+    },
+    "konnyaku mee pok with crispy gyoza 蒟蒻丸菜饺面薄": {
+      "calories": 420,
+      "protein": 14,
+      "carbs": 52,
+      "fat": 16,
+      "sodium": 1020,
+      "sugar": 3,
+      "fiber": 4,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains konnyaku for fiber",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "mixed vegetable curry 蔬菜咖喱": {
+      "calories": 180,
+      "protein": 6,
+      "carbs": 18,
+      "fat": 9,
+      "sodium": 620,
+      "sugar": 4,
+      "fiber": 4,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "High in antioxidants",
+        "Low in calories"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "ala carte angelica braised nagaimo & chestnut 当归红烧栗子淮山": {
+      "calories": 240,
+      "protein": 4,
+      "carbs": 45,
+      "fat": 4,
+      "sodium": 480,
+      "sugar": 12,
+      "fiber": 6,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of fiber",
+        "High in antioxidants",
+        "Traditional Chinese medicine benefits"
+      ],
+      "healthWarnings": []
+    },
+    "braised tau kwa & mushroom bento set 卤茶花菇豆干便当": {
+      "calories": 520,
+      "protein": 22,
+      "carbs": 62,
+      "fat": 18,
+      "sodium": 1200,
+      "sugar": 8,
+      "fiber": 8,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "High in fiber",
+        "Contains probiotics"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "braised tau kwa & mushroom 卤茶花菇豆干": {
+      "calories": 220,
+      "protein": 16,
+      "carbs": 12,
+      "fat": 12,
+      "sodium": 680,
+      "sugar": 3,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Low in calories",
+        "High in minerals"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "golden shrimp dumplings with tartar mayo 沙律明虾饺": {
+      "calories": 320,
+      "protein": 12,
+      "carbs": 28,
+      "fat": 18,
+      "sodium": 780,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in sodium"
+      ]
+    },
+    "turmeric basmati rice 黄姜香米饭": {
+      "calories": 210,
+      "protein": 4,
+      "carbs": 45,
+      "fat": 2,
+      "sodium": 320,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of antioxidants",
+        "Low in fat"
+      ],
+      "healthWarnings": []
+    },
+    "taiwanese spicy handmade noodles 台湾辣酱干捞面": {
+      "calories": 480,
+      "protein": 18,
+      "carbs": 62,
+      "fat": 16,
+      "sodium": 1100,
+      "sugar": 5,
+      "fiber": 6,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains probiotics"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "braised qq tofu & black fungus qq豆腐": {
+      "calories": 200,
+      "protein": 18,
+      "carbs": 10,
+      "fat": 10,
+      "sodium": 660,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "High in iron"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "osmanthus goji berry jelly cup 桂花枸杞水晶果冻杯": {
+      "calories": 120,
+      "protein": 2,
+      "carbs": 28,
+      "fat": 0,
+      "sodium": 80,
+      "sugar": 22,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of antioxidants",
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "winter melon chilled tea with osmanthus jelly 冬瓜桂花冻茶": {
+      "calories": 80,
+      "protein": 1,
+      "carbs": 18,
+      "fat": 0,
+      "sodium": 120,
+      "sugar": 14,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in calories",
+        "Hydrating"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "braised pumpkin 香焖南瓜": {
+      "calories": 140,
+      "protein": 3,
+      "carbs": 22,
+      "fat": 5,
+      "sodium": 520,
+      "sugar": 8,
+      "fiber": 3,
+      "allergens": [],
+      "healthBenefits": [
+        "High in beta-carotene",
+        "Good source of fiber",
+        "Low in calories"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "braised qq tofu bento set qq豆腐便当": {
+      "calories": 480,
+      "protein": 24,
+      "carbs": 58,
+      "fat": 14,
+      "sodium": 1180,
+      "sugar": 7,
+      "fiber": 7,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "High in fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "crunchy blossom roll 脆皮三丝春卷": {
+      "calories": 280,
+      "protein": 8,
+      "carbs": 32,
+      "fat": 14,
+      "sodium": 620,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in sodium"
+      ]
+    },
+    "citrus tangerine jelly cup 甜橙柑橘水晶果冻杯": {
+      "calories": 125,
+      "protein": 1,
+      "carbs": 30,
+      "fat": 0,
+      "sodium": 75,
+      "sugar": 24,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of vitamin C",
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "honey citron tea 蜂蜜柚子茶": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 34,
+      "fat": 0,
+      "sodium": 60,
+      "sugar": 28,
+      "fiber": 0,
+      "allergens": [
+        "Honey"
+      ],
+      "healthBenefits": [
+        "Good source of vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "crispy wanton 脆皮云吞": {
+      "calories": 240,
+      "protein": 6,
+      "carbs": 24,
+      "fat": 13,
+      "sodium": 520,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Shrimp",
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in fat",
+        "High in sodium"
+      ]
+    },
+    "crispy soya nuggets 香脆大豆块": {
+      "calories": 280,
+      "protein": 18,
+      "carbs": 18,
+      "fat": 16,
+      "sodium": 580,
+      "sugar": 2,
+      "fiber": 4,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in sodium"
+      ]
+    },
+    "winter melon chilled tea 冬瓜茶": {
+      "calories": 60,
+      "protein": 0,
+      "carbs": 14,
+      "fat": 0,
+      "sodium": 100,
+      "sugar": 12,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in calories",
+        "Hydrating"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "apple juice 苹果汁": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 34,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 32,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Lacks fiber"
+      ]
+    },
+    "signature chili tofu 脆皮辣酱豆干": {
+      "calories": 240,
+      "protein": 16,
+      "carbs": 14,
+      "fat": 14,
+      "sodium": 720,
+      "sugar": 3,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains capsaicin"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in sodium"
+      ]
+    },
+    "chilled fresh orange juice 鲜橙汁": {
+      "calories": 110,
+      "protein": 1.5,
+      "carbs": 26,
+      "fat": 0.5,
+      "sodium": 2,
+      "sugar": 21,
+      "fiber": 0.5,
+      "allergens": [],
+      "healthBenefits": [
+        "High in vitamin C",
+        "Natural source of antioxidants"
+      ],
+      "healthWarnings": [
+        "High in natural sugars"
+      ]
+    },
+    "cheesey pulut hitam sticks 芋泥紫米芝士卷": {
+      "calories": 280,
+      "protein": 6,
+      "carbs": 38,
+      "fat": 12,
+      "sodium": 180,
+      "sugar": 18,
+      "fiber": 2,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains taro (good source of fiber)",
+        "Traditional glutinous rice"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "crispy veg gyoza 蔬菜饺": {
+      "calories": 140,
+      "protein": 3.5,
+      "carbs": 18,
+      "fat": 6,
+      "sodium": 320,
+      "sugar": 1.5,
+      "fiber": 1.5,
+      "allergens": [
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Vegan",
+        "Contains vegetables",
+        "Good source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Fried preparation"
+      ]
+    },
+    "winter melon yuzu fizz 冬瓜柚子气泡饮": {
+      "calories": 95,
+      "protein": 0,
+      "carbs": 24,
+      "fat": 0,
+      "sodium": 35,
+      "sugar": 22,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in calories",
+        "Refreshing and hydrating"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "lychee rose fizz 荔枝玫瑰气泡饮": {
+      "calories": 100,
+      "protein": 0,
+      "carbs": 25,
+      "fat": 0,
+      "sodium": 40,
+      "sugar": 23,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in calories",
+        "Contains antioxidants from lychee"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "passion mango fizz 芒果百香果气泡饮": {
+      "calories": 105,
+      "protein": 0,
+      "carbs": 26,
+      "fat": 0,
+      "sodium": 38,
+      "sugar": 24,
+      "fiber": 0.5,
+      "allergens": [],
+      "healthBenefits": [
+        "Vegan",
+        "Low in calories",
+        "Contains tropical fruit antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    }
+  }
+}

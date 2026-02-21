@@ -1,0 +1,2595 @@
+{
+  "brand": "starbucks-city-square-mall",
+  "generatedAt": "2026-02-21T11:49:14.124Z",
+  "items": {
+    "earl grey tea": {
+      "calories": 5,
+      "protein": 0,
+      "carbs": 1,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Very low calorie",
+        "No added sugar"
+      ],
+      "healthWarnings": []
+    },
+    "creamy chicken foldover": {
+      "calories": 420,
+      "protein": 16,
+      "carbs": 38,
+      "fat": 22,
+      "sodium": 680,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in sodium"
+      ]
+    },
+    "matcha cream frappuccino®": {
+      "calories": 280,
+      "protein": 5,
+      "carbs": 42,
+      "fat": 8,
+      "sodium": 160,
+      "sugar": 38,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from matcha"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "chai tea": {
+      "calories": 10,
+      "protein": 0,
+      "carbs": 1,
+      "fat": 0,
+      "sodium": 40,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "No added sugar",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "chocolate chip cream frappuccino®": {
+      "calories": 320,
+      "protein": 5,
+      "carbs": 45,
+      "fat": 12,
+      "sodium": 180,
+      "sugar": 42,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in fat"
+      ]
+    },
+    "caramel macchiato frappuccino®": {
+      "calories": 300,
+      "protein": 5,
+      "carbs": 43,
+      "fat": 10,
+      "sodium": 170,
+      "sugar": 39,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains caffeine"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "freshly brewed coffee": {
+      "calories": 5,
+      "protein": 1,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "No added sugar",
+        "Contains caffeine"
+      ],
+      "healthWarnings": []
+    },
+    "cheese bagel": {
+      "calories": 360,
+      "protein": 14,
+      "carbs": 50,
+      "fat": 11,
+      "sodium": 680,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Moderate fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "signature iced chocolate": {
+      "calories": 340,
+      "protein": 6,
+      "carbs": 48,
+      "fat": 13,
+      "sodium": 200,
+      "sugar": 44,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in fat"
+      ]
+    },
+    "creamy matcha cream frappuccino® (less sweet)": {
+      "calories": 290,
+      "protein": 6,
+      "carbs": 38,
+      "fat": 12,
+      "sodium": 140,
+      "sugar": 28,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Source of antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "caffè americano": {
+      "calories": 15,
+      "protein": 0.9,
+      "carbs": 0.3,
+      "fat": 0.1,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Zero sugar",
+        "Good source of antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "vanilla sweet cream cold brew": {
+      "calories": 220,
+      "protein": 4,
+      "carbs": 28,
+      "fat": 9,
+      "sodium": 140,
+      "sugar": 24,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains caffeine"
+      ],
+      "healthWarnings": [
+        "Moderate in sugar"
+      ]
+    },
+    "signature hot chocolate": {
+      "calories": 330,
+      "protein": 6,
+      "carbs": 46,
+      "fat": 12,
+      "sodium": 210,
+      "sugar": 41,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "Moderate in fat"
+      ]
+    },
+    "egg white, roasted pepper, mushroom & cheddar wrap": {
+      "calories": 320,
+      "protein": 14,
+      "carbs": 35,
+      "fat": 12,
+      "sodium": 520,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "spinach & mushroom quiche": {
+      "calories": 380,
+      "protein": 12,
+      "carbs": 32,
+      "fat": 22,
+      "sodium": 480,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "via® caffè mocha": {
+      "calories": 150,
+      "protein": 3,
+      "carbs": 20,
+      "fat": 6,
+      "sodium": 120,
+      "sugar": 18,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains caffeine"
+      ],
+      "healthWarnings": [
+        "Moderate in sugar"
+      ]
+    },
+    "sparkling water": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Hydrating",
+        "No calories"
+      ],
+      "healthWarnings": []
+    },
+    "rosemary chicken & emmental cheese croissant": {
+      "calories": 480,
+      "protein": 22,
+      "carbs": 38,
+      "fat": 26,
+      "sodium": 820,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in sodium"
+      ]
+    },
+    "mango dragonfruit with lemonade starbucks refreshers™": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 35,
+      "fat": 0,
+      "sodium": 110,
+      "sugar": 33,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains fruit",
+        "Refreshing"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "country chicken pie": {
+      "calories": 420,
+      "protein": 16,
+      "carbs": 44,
+      "fat": 20,
+      "sodium": 740,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in sodium"
+      ]
+    },
+    "blueberry acai yogurt parfait": {
+      "calories": 280,
+      "protein": 10,
+      "carbs": 45,
+      "fat": 6,
+      "sodium": 85,
+      "sugar": 28,
+      "fiber": 4,
+      "allergens": [
+        "Dairy",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains probiotics",
+        "High in antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "iced caffè americano": {
+      "calories": 5,
+      "protein": 0.3,
+      "carbs": 0.3,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains antioxidants",
+        "No added sugar",
+        "Caffeine for energy"
+      ],
+      "healthWarnings": []
+    },
+    "earl grey tea latte": {
+      "calories": 240,
+      "protein": 8,
+      "carbs": 28,
+      "fat": 9,
+      "sodium": 120,
+      "sugar": 24,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from tea"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains caffeine"
+      ]
+    },
+    "origami pike place® roast": {
+      "calories": 10,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "No added sugar"
+      ],
+      "healthWarnings": []
+    },
+    "coffee traveller": {
+      "calories": 40,
+      "protein": 2,
+      "carbs": 2,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "No added sugar"
+      ],
+      "healthWarnings": []
+    },
+    "caffè latte": {
+      "calories": 240,
+      "protein": 8,
+      "carbs": 28,
+      "fat": 9,
+      "sodium": 150,
+      "sugar": 24,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "starbucks® coffee tiramisu cake": {
+      "calories": 380,
+      "protein": 6,
+      "carbs": 48,
+      "fat": 18,
+      "sodium": 120,
+      "sugar": 38,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "guatemala antigua": {
+      "calories": 5,
+      "protein": 0,
+      "carbs": 1,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "No added sugar"
+      ],
+      "healthWarnings": []
+    },
+    "low-fat caffé latte": {
+      "calories": 180,
+      "protein": 9,
+      "carbs": 26,
+      "fat": 3,
+      "sodium": 140,
+      "sugar": 18,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Lower fat option",
+        "Contains calcium"
+      ],
+      "healthWarnings": [
+        "Contains sugar"
+      ]
+    },
+    "vienna creamy coffee frappuccino® (less sweet)": {
+      "calories": 310,
+      "protein": 8,
+      "carbs": 38,
+      "fat": 13,
+      "sodium": 200,
+      "sugar": 28,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "hojicha tea cream frappuccino®": {
+      "calories": 240,
+      "protein": 4,
+      "carbs": 36,
+      "fat": 8,
+      "sodium": 100,
+      "sugar": 24,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from tea"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "iced oatmilk signature chocolate": {
+      "calories": 330,
+      "protein": 8,
+      "carbs": 50,
+      "fat": 10,
+      "sodium": 200,
+      "sugar": 44,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Oat",
+        "Soy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "cold brew": {
+      "calories": 10,
+      "protein": 1,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "No added sugar"
+      ],
+      "healthWarnings": []
+    },
+    "be-kind™ dark chocolate nuts & sea salt bar": {
+      "calories": 200,
+      "protein": 6,
+      "carbs": 12,
+      "fat": 15,
+      "sodium": 180,
+      "sugar": 8,
+      "fiber": 3,
+      "allergens": [
+        "Tree Nut",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "High in fiber",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "origami veranda blend": {
+      "calories": 5,
+      "protein": 0,
+      "carbs": 1,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "No added sugar"
+      ],
+      "healthWarnings": []
+    },
+    "pink drink with strawberry acai starbucks refreshers™": {
+      "calories": 180,
+      "protein": 1,
+      "carbs": 40,
+      "fat": 3,
+      "sodium": 90,
+      "sugar": 32,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "caffè mocha": {
+      "calories": 290,
+      "protein": 8,
+      "carbs": 32,
+      "fat": 13,
+      "sodium": 140,
+      "sugar": 28,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "signature chocolate cake": {
+      "calories": 420,
+      "protein": 5,
+      "carbs": 52,
+      "fat": 22,
+      "sodium": 180,
+      "sugar": 38,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "emperor's clouds & mist™ tea": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Zero calories",
+        "No added sugar",
+        "Antioxidant-rich"
+      ],
+      "healthWarnings": []
+    },
+    "english breakfast tea latte": {
+      "calories": 180,
+      "protein": 8,
+      "carbs": 24,
+      "fat": 4,
+      "sodium": 140,
+      "sugar": 18,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "yuzu white chocolate cake": {
+      "calories": 420,
+      "protein": 7,
+      "carbs": 48,
+      "fat": 22,
+      "sodium": 280,
+      "sugar": 38,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains vitamin C from yuzu"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "chamomile tea": {
+      "calories": 5,
+      "protein": 0,
+      "carbs": 1,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Very low calorie",
+        "Herbal blend"
+      ],
+      "healthWarnings": []
+    },
+    "via® caramel latte": {
+      "calories": 150,
+      "protein": 6,
+      "carbs": 20,
+      "fat": 4,
+      "sodium": 120,
+      "sugar": 15,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "oatmilk latte": {
+      "calories": 220,
+      "protein": 10,
+      "carbs": 22,
+      "fat": 8,
+      "sodium": 150,
+      "sugar": 12,
+      "fiber": 2,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Dairy-free"
+      ],
+      "healthWarnings": []
+    },
+    "ham & cheese croissant": {
+      "calories": 380,
+      "protein": 14,
+      "carbs": 32,
+      "fat": 22,
+      "sodium": 680,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "breakfast blend": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Rich in antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "chicken ham & cheese egg crepe wrap": {
+      "calories": 340,
+      "protein": 16,
+      "carbs": 28,
+      "fat": 18,
+      "sodium": 680,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "blueberry crumble muffin": {
+      "calories": 320,
+      "protein": 5,
+      "carbs": 42,
+      "fat": 14,
+      "sodium": 280,
+      "sugar": 28,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains berries"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "oatmilk signature hot chocolate": {
+      "calories": 240,
+      "protein": 4,
+      "carbs": 38,
+      "fat": 7,
+      "sodium": 140,
+      "sugar": 30,
+      "fiber": 1,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Dairy-free alternative"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "dark mocha frappuccino®": {
+      "calories": 260,
+      "protein": 8,
+      "carbs": 42,
+      "fat": 6,
+      "sodium": 160,
+      "sugar": 36,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "vanilla cream frappuccino®": {
+      "calories": 240,
+      "protein": 7,
+      "carbs": 38,
+      "fat": 6,
+      "sodium": 150,
+      "sugar": 34,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "lemon meringue cheesecake": {
+      "calories": 400,
+      "protein": 6,
+      "carbs": 48,
+      "fat": 21,
+      "sodium": 240,
+      "sugar": 38,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "buttery scone": {
+      "calories": 220,
+      "protein": 4,
+      "carbs": 28,
+      "fat": 11,
+      "sodium": 240,
+      "sugar": 8,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in saturated fat"
+      ]
+    },
+    "caramel macchiato": {
+      "calories": 240,
+      "protein": 9,
+      "carbs": 32,
+      "fat": 7,
+      "sodium": 150,
+      "sugar": 28,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "origami caffè verona®": {
+      "calories": 5,
+      "protein": 0,
+      "carbs": 1,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "chai tea latte": {
+      "calories": 240,
+      "protein": 8,
+      "carbs": 35,
+      "fat": 4,
+      "sodium": 180,
+      "sugar": 28,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains antioxidants from spices"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "caramel frappuccino®": {
+      "calories": 280,
+      "protein": 7,
+      "carbs": 48,
+      "fat": 6,
+      "sodium": 190,
+      "sugar": 42,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains caffeine"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "caramel waffles": {
+      "calories": 320,
+      "protein": 6,
+      "carbs": 45,
+      "fat": 14,
+      "sodium": 380,
+      "sugar": 24,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "colombia": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "english breakfast": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "egg mayo & cheese multigrain croissant": {
+      "calories": 420,
+      "protein": 16,
+      "carbs": 38,
+      "fat": 22,
+      "sodium": 620,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains fiber"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "low-fat vanilla latte (less sweet)": {
+      "calories": 180,
+      "protein": 10,
+      "carbs": 18,
+      "fat": 3,
+      "sodium": 160,
+      "sugar": 12,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Low in fat",
+        "Contains caffeine"
+      ],
+      "healthWarnings": []
+    },
+    "iced low-fat vanilla latte (less sweet)": {
+      "calories": 180,
+      "protein": 10,
+      "carbs": 18,
+      "fat": 3,
+      "sodium": 160,
+      "sugar": 12,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Low in fat",
+        "Contains caffeine"
+      ],
+      "healthWarnings": []
+    },
+    "via® iced coffee": {
+      "calories": 35,
+      "protein": 1,
+      "carbs": 7,
+      "fat": 0,
+      "sodium": 70,
+      "sugar": 5,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains caffeine"
+      ],
+      "healthWarnings": []
+    },
+    "strawberry acai with lemonade starbucks refreshers™": {
+      "calories": 90,
+      "protein": 0,
+      "carbs": 22,
+      "fat": 0,
+      "sodium": 35,
+      "sugar": 20,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in fat",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "banana crumble loaf": {
+      "calories": 320,
+      "protein": 5,
+      "carbs": 48,
+      "fat": 12,
+      "sodium": 310,
+      "sugar": 28,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in sodium"
+      ]
+    },
+    "hojicha tea latte": {
+      "calories": 200,
+      "protein": 9,
+      "carbs": 28,
+      "fat": 4,
+      "sodium": 150,
+      "sugar": 20,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "dragon drink with mango dragonfruit starbucks refreshers™": {
+      "calories": 140,
+      "protein": 2,
+      "carbs": 28,
+      "fat": 2,
+      "sodium": 80,
+      "sugar": 24,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains caffeine from green coffee extract",
+        "Rich in vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "pistachio oatmilk matcha frappuccino®": {
+      "calories": 290,
+      "protein": 6,
+      "carbs": 38,
+      "fat": 11,
+      "sodium": 160,
+      "sugar": 30,
+      "fiber": 1,
+      "allergens": [
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Dairy-free option",
+        "Contains fiber"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "iced caffè latte": {
+      "calories": 150,
+      "protein": 9,
+      "carbs": 12,
+      "fat": 6,
+      "sodium": 160,
+      "sugar": 10,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein and calcium"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "chicken ham & cheese panwich": {
+      "calories": 460,
+      "protein": 18,
+      "carbs": 48,
+      "fat": 22,
+      "sodium": 780,
+      "sugar": 12,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "salted caramel croissant bites": {
+      "calories": 350,
+      "protein": 5,
+      "carbs": 42,
+      "fat": 18,
+      "sodium": 420,
+      "sugar": 22,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "iced low-fat caramel macchiato (less sweet)": {
+      "calories": 180,
+      "protein": 8,
+      "carbs": 24,
+      "fat": 3.5,
+      "sodium": 160,
+      "sugar": 18,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Low in fat",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "youthberry™ tea": {
+      "calories": 3,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "No added sugar",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "house blend": {
+      "calories": 1,
+      "protein": 0.1,
+      "carbs": 0.2,
+      "fat": 0.1,
+      "sodium": 2,
+      "sugar": 0,
+      "fiber": 0.1,
+      "allergens": [],
+      "healthBenefits": [
+        "Minimal calories per serving"
+      ],
+      "healthWarnings": []
+    },
+    "low-fat caramel macchiato (less sweet)": {
+      "calories": 185,
+      "protein": 8,
+      "carbs": 25,
+      "fat": 3.5,
+      "sodium": 165,
+      "sugar": 19,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Low in fat",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "via® matcha": {
+      "calories": 70,
+      "protein": 1,
+      "carbs": 14,
+      "fat": 0.5,
+      "sodium": 10,
+      "sugar": 12,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Antioxidant-rich",
+        "Low in calories"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "flat white": {
+      "calories": 210,
+      "protein": 9,
+      "carbs": 6,
+      "fat": 13,
+      "sodium": 150,
+      "sugar": 4,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Rich in calcium"
+      ],
+      "healthWarnings": [
+        "Moderate in saturated fat"
+      ]
+    },
+    "chocolate cookie crumble cake-in-a-cup": {
+      "calories": 320,
+      "protein": 4,
+      "carbs": 42,
+      "fat": 15,
+      "sodium": 180,
+      "sugar": 32,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "espresso frappuccino®": {
+      "calories": 190,
+      "protein": 6,
+      "carbs": 32,
+      "fat": 2.5,
+      "sodium": 135,
+      "sugar": 28,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "iced low-fat matcha latte (less sweet)": {
+      "calories": 140,
+      "protein": 7,
+      "carbs": 16,
+      "fat": 3,
+      "sodium": 140,
+      "sugar": 12,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Low in fat",
+        "Antioxidant-rich"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "matcha latte": {
+      "calories": 170,
+      "protein": 7,
+      "carbs": 20,
+      "fat": 3.5,
+      "sodium": 150,
+      "sugar": 16,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Low in fat",
+        "Antioxidant-rich"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "ristretto bianco": {
+      "calories": 120,
+      "protein": 8,
+      "carbs": 5,
+      "fat": 7,
+      "sodium": 140,
+      "sugar": 3,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Low in sugar",
+        "Good source of protein"
+      ],
+      "healthWarnings": []
+    },
+    "strawberry cake-in-a-cup": {
+      "calories": 260,
+      "protein": 3,
+      "carbs": 40,
+      "fat": 10,
+      "sodium": 170,
+      "sugar": 30,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in fat"
+      ]
+    },
+    "java chip frappuccino®": {
+      "calories": 280,
+      "protein": 5,
+      "carbs": 48,
+      "fat": 8,
+      "sodium": 180,
+      "sugar": 43,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Soy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "mocha frappuccino®": {
+      "calories": 260,
+      "protein": 6,
+      "carbs": 40,
+      "fat": 9,
+      "sodium": 150,
+      "sugar": 35,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in fat"
+      ]
+    },
+    "seaweed cashew nuts": {
+      "calories": 200,
+      "protein": 6,
+      "carbs": 12,
+      "fat": 15,
+      "sodium": 420,
+      "sugar": 1,
+      "fiber": 2,
+      "allergens": [
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Good source of healthy fats",
+        "Source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "via® vanilla latte": {
+      "calories": 120,
+      "protein": 5,
+      "carbs": 16,
+      "fat": 2.5,
+      "sodium": 95,
+      "sugar": 14,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "english breakfast tea": {
+      "calories": 2,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains antioxidants",
+        "No added sugar"
+      ],
+      "healthWarnings": []
+    },
+    "fair trade certified™ italian roast": {
+      "calories": 1480,
+      "protein": 18,
+      "carbs": 40,
+      "fat": 1,
+      "sodium": 8,
+      "sugar": 0,
+      "fiber": 8,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of antioxidants",
+        "Fair trade certified"
+      ],
+      "healthWarnings": []
+    },
+    "low-fat matcha latte (less sweet)": {
+      "calories": 130,
+      "protein": 6,
+      "carbs": 18,
+      "fat": 2,
+      "sodium": 95,
+      "sugar": 12,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Low-fat",
+        "Good source of protein",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "scrambled egg & turkey ham pita": {
+      "calories": 380,
+      "protein": 18,
+      "carbs": 35,
+      "fat": 18,
+      "sodium": 680,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Egg",
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "buttery croissant": {
+      "calories": 280,
+      "protein": 6,
+      "carbs": 28,
+      "fat": 16,
+      "sodium": 280,
+      "sugar": 4,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "iced low-fat caffé latte": {
+      "calories": 120,
+      "protein": 7,
+      "carbs": 10,
+      "fat": 2,
+      "sodium": 105,
+      "sugar": 8,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Low-fat",
+        "Good source of protein"
+      ],
+      "healthWarnings": []
+    },
+    "honey chicken wholemeal sandwich": {
+      "calories": 380,
+      "protein": 22,
+      "carbs": 40,
+      "fat": 14,
+      "sodium": 720,
+      "sugar": 6,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains whole grains"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "kenya": {
+      "calories": 1480,
+      "protein": 20,
+      "carbs": 38,
+      "fat": 1,
+      "sodium": 10,
+      "sugar": 0,
+      "fiber": 9,
+      "allergens": [],
+      "healthBenefits": [
+        "High in antioxidants",
+        "Medium roast coffee"
+      ],
+      "healthWarnings": []
+    },
+    "via® tea essence hojicha": {
+      "calories": 50,
+      "protein": 0,
+      "carbs": 10,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 8,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "dirty matcha": {
+      "calories": 150,
+      "protein": 6,
+      "carbs": 16,
+      "fat": 5,
+      "sodium": 100,
+      "sugar": 12,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Good source of protein"
+      ],
+      "healthWarnings": []
+    },
+    "white chocolate mocha frappuccino®": {
+      "calories": 310,
+      "protein": 5,
+      "carbs": 48,
+      "fat": 8,
+      "sodium": 160,
+      "sugar": 42,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "vanilla latte": {
+      "calories": 190,
+      "protein": 7,
+      "carbs": 17,
+      "fat": 7,
+      "sodium": 150,
+      "sugar": 14,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "Contains added sugar"
+      ]
+    },
+    "mint blend tea": {
+      "calories": 2,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "No added sugar",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "iced chai tea latte": {
+      "calories": 140,
+      "protein": 5,
+      "carbs": 18,
+      "fat": 4,
+      "sodium": 110,
+      "sugar": 14,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "Contains added sugar"
+      ]
+    },
+    "almond croissant": {
+      "calories": 320,
+      "protein": 8,
+      "carbs": 30,
+      "fat": 18,
+      "sodium": 290,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Tree Nut",
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "Tree nut allergen"
+      ]
+    },
+    "komodo dragon blend® (whole bean)": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Source of antioxidants",
+        "Low calorie"
+      ],
+      "healthWarnings": []
+    },
+    "via® colombia": {
+      "calories": 3,
+      "protein": 0.3,
+      "carbs": 0.6,
+      "fat": 0.1,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Source of antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "iced caramel macchiato": {
+      "calories": 220,
+      "protein": 7,
+      "carbs": 32,
+      "fat": 8,
+      "sodium": 200,
+      "sugar": 29,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in sodium"
+      ]
+    },
+    "white chocolate mocha": {
+      "calories": 320,
+      "protein": 10,
+      "carbs": 42,
+      "fat": 12,
+      "sodium": 170,
+      "sugar": 39,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "iced oatmilk latte": {
+      "calories": 180,
+      "protein": 8,
+      "carbs": 18,
+      "fat": 7,
+      "sodium": 120,
+      "sugar": 12,
+      "fiber": 2,
+      "allergens": [
+        "Oat"
+      ],
+      "healthBenefits": [
+        "Lower in saturated fat",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "pistachio oatmilk coffee frappuccino®": {
+      "calories": 280,
+      "protein": 6,
+      "carbs": 40,
+      "fat": 10,
+      "sodium": 160,
+      "sugar": 32,
+      "fiber": 1,
+      "allergens": [
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Contains fiber",
+        "Dairy-free option"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "bagel": {
+      "calories": 290,
+      "protein": 11,
+      "carbs": 56,
+      "fat": 1.5,
+      "sodium": 560,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of carbohydrates",
+        "Source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "via® fair trade certified™ italian roast": {
+      "calories": 3,
+      "protein": 0.3,
+      "carbs": 0.6,
+      "fat": 0.1,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Source of antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "double strength caffè latte": {
+      "calories": 220,
+      "protein": 14,
+      "carbs": 16,
+      "fat": 9,
+      "sodium": 170,
+      "sugar": 12,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Source of antioxidants"
+      ],
+      "healthWarnings": [
+        "High in saturated fat"
+      ]
+    },
+    "iced matcha latte": {
+      "calories": 210,
+      "protein": 7,
+      "carbs": 28,
+      "fat": 7,
+      "sodium": 140,
+      "sugar": 24,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of antioxidants",
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "yuan yang coffee frappuccino": {
+      "calories": 310,
+      "protein": 6,
+      "carbs": 46,
+      "fat": 10,
+      "sodium": 190,
+      "sugar": 41,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Soy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "siren's blend": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Source of antioxidants",
+        "Low calorie"
+      ],
+      "healthWarnings": []
+    },
+    "zen clouds oolong tea": {
+      "calories": 5,
+      "protein": 0,
+      "carbs": 1,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Very low calorie",
+        "No added sugar",
+        "Source of antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "iced pistachio oatmilk matcha latte": {
+      "calories": 280,
+      "protein": 3.5,
+      "carbs": 42,
+      "fat": 10,
+      "sodium": 120,
+      "sugar": 36,
+      "fiber": 1,
+      "allergens": [
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Good source of antioxidants from matcha"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "yuzu oolong tea": {
+      "calories": 80,
+      "protein": 0,
+      "carbs": 20,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 18,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Source of antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "double strength hazelnut latte (less sweet)": {
+      "calories": 220,
+      "protein": 7,
+      "carbs": 24,
+      "fat": 9,
+      "sodium": 150,
+      "sugar": 18,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Reduced sugar version"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content",
+        "Contains dairy"
+      ]
+    },
+    "sumatra": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Source of antioxidants",
+        "Contains chlorogenic acid"
+      ],
+      "healthWarnings": []
+    },
+    "via® pike place® roast": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Source of antioxidants",
+        "Contains chlorogenic acid"
+      ],
+      "healthWarnings": []
+    },
+    "iced hojicha tea latte": {
+      "calories": 210,
+      "protein": 8,
+      "carbs": 28,
+      "fat": 7,
+      "sodium": 150,
+      "sugar": 22,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of antioxidants",
+        "Contains L-theanine"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "chocolate croissant": {
+      "calories": 360,
+      "protein": 7,
+      "carbs": 38,
+      "fat": 20,
+      "sodium": 280,
+      "sugar": 18,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in calories",
+        "High in saturated fat",
+        "High in sugar"
+      ]
+    },
+    "chocolate chunk monster cookie": {
+      "calories": 380,
+      "protein": 5,
+      "carbs": 48,
+      "fat": 19,
+      "sodium": 220,
+      "sugar": 32,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains fiber"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "double strength oatmilk latte": {
+      "calories": 180,
+      "protein": 3,
+      "carbs": 20,
+      "fat": 8,
+      "sodium": 140,
+      "sugar": 14,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Dairy-free alternative",
+        "Good source of plant-based beverage"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "single-origin ethiopia": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Source of antioxidants",
+        "Contains chlorogenic acid"
+      ],
+      "healthWarnings": []
+    },
+    "iced dirty matcha": {
+      "calories": 240,
+      "protein": 9,
+      "carbs": 28,
+      "fat": 8,
+      "sodium": 170,
+      "sugar": 20,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of antioxidants",
+        "Contains L-theanine"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "iced shaken hibiscus tea lemonade": {
+      "calories": 80,
+      "protein": 0,
+      "carbs": 20,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 18,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in calories",
+        "Source of antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "single-origin guatemala casi cielo™": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Source of antioxidants",
+        "Contains chlorogenic acid"
+      ],
+      "healthWarnings": []
+    },
+    "iced shaken hibiscus tea with pomegranate pearls": {
+      "calories": 120,
+      "protein": 0,
+      "carbs": 30,
+      "fat": 0,
+      "sodium": 25,
+      "sugar": 26,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Source of antioxidants",
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "iced strawberry matcha latte": {
+      "calories": 240,
+      "protein": 8,
+      "carbs": 32,
+      "fat": 7,
+      "sodium": 160,
+      "sugar": 26,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of antioxidants",
+        "Contains L-theanine"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "double strength low-fat latte": {
+      "calories": 120,
+      "protein": 8,
+      "carbs": 12,
+      "fat": 2,
+      "sodium": 150,
+      "sugar": 9,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Low in fat",
+        "Good source of protein"
+      ],
+      "healthWarnings": []
+    },
+    "iced shaken zen clouds oolong lemonade": {
+      "calories": 90,
+      "protein": 0,
+      "carbs": 22,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 20,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in calories",
+        "Source of antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "french roast": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Zero calorie beverage when brewed black"
+      ],
+      "healthWarnings": []
+    },
+    "iced shaken strawberry zen clouds oolong lemonade": {
+      "calories": 80,
+      "protein": 0.2,
+      "carbs": 20,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 0,
+      "fiber": 0.5,
+      "allergens": [],
+      "healthBenefits": [
+        "Zero added sugar",
+        "Low calorie",
+        "Contains antioxidants from tea"
+      ],
+      "healthWarnings": []
+    },
+    "pike place® roast": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Zero calorie beverage when brewed black"
+      ],
+      "healthWarnings": []
+    },
+    "iced vanilla latte": {
+      "calories": 200,
+      "protein": 8,
+      "carbs": 25,
+      "fat": 7,
+      "sodium": 170,
+      "sugar": 23,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein and calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "iced shaken strawberry black tea lemonade": {
+      "calories": 85,
+      "protein": 0.2,
+      "carbs": 21,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 0,
+      "fiber": 0.5,
+      "allergens": [],
+      "healthBenefits": [
+        "Zero added sugar",
+        "Low calorie",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "iced shaken strawberry hibiscus tea lemonade": {
+      "calories": 85,
+      "protein": 0.2,
+      "carbs": 21,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 0,
+      "fiber": 0.5,
+      "allergens": [],
+      "healthBenefits": [
+        "Zero added sugar",
+        "Low calorie",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "iced caffè mocha": {
+      "calories": 240,
+      "protein": 8,
+      "carbs": 32,
+      "fat": 9,
+      "sodium": 170,
+      "sugar": 28,
+      "fiber": 0.5,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "iced white chocolate mocha": {
+      "calories": 280,
+      "protein": 8,
+      "carbs": 38,
+      "fat": 11,
+      "sodium": 190,
+      "sugar": 35,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "iced yuzu oolong tea": {
+      "calories": 120,
+      "protein": 0.1,
+      "carbs": 29,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 26,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants from tea"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "pistachio oatmilk iced shaken latte (less sweet)": {
+      "calories": 200,
+      "protein": 3,
+      "carbs": 22,
+      "fat": 10,
+      "sodium": 130,
+      "sugar": 16,
+      "fiber": 1,
+      "allergens": [
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Dairy-free alternative",
+        "Reduced sugar version"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "salted caramel oatmilk iced shaken latte (less sweet)": {
+      "calories": 190,
+      "protein": 3,
+      "carbs": 20,
+      "fat": 9,
+      "sodium": 280,
+      "sugar": 14,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Dairy-free alternative",
+        "Reduced sugar version"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "vanilla oatmilk iced shaken latte (less sweet)": {
+      "calories": 170,
+      "protein": 3,
+      "carbs": 18,
+      "fat": 8,
+      "sodium": 130,
+      "sugar": 12,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Dairy-free alternative",
+        "Reduced sugar version",
+        "Low calorie"
+      ],
+      "healthWarnings": []
+    }
+  }
+}

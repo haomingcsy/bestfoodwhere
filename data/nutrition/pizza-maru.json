@@ -1,0 +1,285 @@
+{
+  "brand": "pizza-maru",
+  "generatedAt": "2026-02-21T11:16:05.352Z",
+  "items": {
+    "all items": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": []
+    },
+    "maru set": {
+      "calories": 1200,
+      "protein": 45,
+      "carbs": 125,
+      "fat": 48,
+      "sodium": 1850,
+      "sugar": 8,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Complete meal",
+        "Balanced macronutrients"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "chicago pizza": {
+      "calories": 950,
+      "protein": 38,
+      "carbs": 95,
+      "fat": 42,
+      "sodium": 1950,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains calcium"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "premium pizza": {
+      "calories": 1100,
+      "protein": 42,
+      "carbs": 105,
+      "fat": 48,
+      "sodium": 2100,
+      "sugar": 7,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Shellfish",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains calcium"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Very high in calories"
+      ]
+    },
+    "classic pizza": {
+      "calories": 850,
+      "protein": 35,
+      "carbs": 90,
+      "fat": 38,
+      "sodium": 1800,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains calcium"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "korean fried chicken": {
+      "calories": 780,
+      "protein": 52,
+      "carbs": 42,
+      "fat": 38,
+      "sodium": 1680,
+      "sugar": 12,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "fried chicken (boneless)": {
+      "calories": 650,
+      "protein": 48,
+      "carbs": 38,
+      "fat": 32,
+      "sodium": 1450,
+      "sugar": 8,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Lower fat than bone-in"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "twigim": {
+      "calories": 420,
+      "protein": 12,
+      "carbs": 52,
+      "fat": 18,
+      "sodium": 680,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Contains vegetables",
+        "Lower in calories"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Deep fried"
+      ]
+    },
+    "pasta": {
+      "calories": 720,
+      "protein": 28,
+      "carbs": 82,
+      "fat": 28,
+      "sodium": 1200,
+      "sugar": 8,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of carbohydrates",
+        "Contains protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "toppokki": {
+      "calories": 580,
+      "protein": 14,
+      "carbs": 78,
+      "fat": 18,
+      "sodium": 1420,
+      "sugar": 18,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Source of carbohydrates",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "risotto": {
+      "calories": 650,
+      "protein": 22,
+      "carbs": 72,
+      "fat": 28,
+      "sodium": 980,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of carbohydrates",
+        "Contains protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in saturated fat"
+      ]
+    },
+    "soup & salad": {
+      "calories": 280,
+      "protein": 18,
+      "carbs": 28,
+      "fat": 10,
+      "sodium": 820,
+      "sugar": 6,
+      "fiber": 4,
+      "allergens": [
+        "Dairy",
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "Low in calories",
+        "Good source of vegetables",
+        "High in vitamins"
+      ],
+      "healthWarnings": [
+        "Moderate sodium"
+      ]
+    },
+    "beverage": {
+      "calories": 180,
+      "protein": 0,
+      "carbs": 42,
+      "fat": 0,
+      "sodium": 35,
+      "sugar": 38,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Hydrating"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    }
+  }
+}

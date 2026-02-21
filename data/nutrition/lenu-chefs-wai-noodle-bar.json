@@ -1,0 +1,1213 @@
+{
+  "brand": "lenu-chefs-wai-noodle-bar",
+  "generatedAt": "2026-02-21T10:51:24.465Z",
+  "items": {
+    "红烧牛骨汤 authentic braised beef broth": {
+      "calories": 280,
+      "protein": 28,
+      "carbs": 2,
+      "fat": 18,
+      "sodium": 1200,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in collagen",
+        "Good source of minerals"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "c1 美国肥牛番茄猪骨汤面 (辣／无辣) us marbled beef noodle in tomato pork bone soup (spicy/non-spicy)": {
+      "calories": 580,
+      "protein": 32,
+      "carbs": 62,
+      "fat": 22,
+      "sodium": 1400,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vitamins from tomato"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in carbohydrates",
+        "Moderate saturated fat"
+      ]
+    },
+    "河粉 rice noodle": {
+      "calories": 190,
+      "protein": 3,
+      "carbs": 42,
+      "fat": 1,
+      "sodium": 80,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Low fat",
+        "Good source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High glycemic index",
+        "Low in protein"
+      ]
+    },
+    "b1 水煮鱼柳猪骨汤面 spicy poached fish fillet noodle in pork bone soup": {
+      "calories": 520,
+      "protein": 38,
+      "carbs": 55,
+      "fat": 16,
+      "sodium": 1350,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "High in omega-3",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Spicy may irritate sensitive stomachs"
+      ]
+    },
+    "g1 青梅醋 plum vinegar": {
+      "calories": 45,
+      "protein": 0,
+      "carbs": 10,
+      "fat": 0,
+      "sodium": 120,
+      "sugar": 8,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "May aid digestion"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Acidic"
+      ]
+    },
+    "f1 皮蛋豆腐 chilled silken tofu with century egg": {
+      "calories": 140,
+      "protein": 12,
+      "carbs": 4,
+      "fat": 8,
+      "sodium": 680,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains iron",
+        "Low calorie"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Century egg contains lead compounds"
+      ]
+    },
+    "e1 葱烤猪软骨 braised pork rib with scallion": {
+      "calories": 380,
+      "protein": 32,
+      "carbs": 8,
+      "fat": 26,
+      "sodium": 920,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in collagen",
+        "Contains minerals"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "d1 秘制甜酱配江鱼仔拌面 chef wai's dry noodle with anchovies in house made sweet sauce": {
+      "calories": 480,
+      "protein": 18,
+      "carbs": 58,
+      "fat": 18,
+      "sodium": 1100,
+      "sugar": 12,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Contains omega-3 from anchovies",
+        "Good source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "a1 红烧和牛肉面 wagyu beef noodle in braised beef broth": {
+      "calories": 620,
+      "protein": 38,
+      "carbs": 58,
+      "fat": 26,
+      "sodium": 1380,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in minerals",
+        "High quality beef"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "b2 酸菜鱼柳猪骨汤煨面 fish fillet with pickled vegetable noodle in pork bone soup": {
+      "calories": 530,
+      "protein": 36,
+      "carbs": 56,
+      "fat": 17,
+      "sodium": 1420,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "High in omega-3",
+        "Contains probiotics from pickled vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in carbohydrates"
+      ]
+    },
+    "拉面 la mian": {
+      "calories": 210,
+      "protein": 7,
+      "carbs": 44,
+      "fat": 2,
+      "sodium": 100,
+      "sugar": 1,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Low fat",
+        "Good source of carbohydrates",
+        "Chewy texture aids digestion"
+      ],
+      "healthWarnings": [
+        "High glycemic index",
+        "Low in protein"
+      ]
+    },
+    "香辣牛骨汤 spicy braised beef broth": {
+      "calories": 310,
+      "protein": 29,
+      "carbs": 4,
+      "fat": 20,
+      "sodium": 1250,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in collagen",
+        "May boost metabolism"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Spicy irritant"
+      ]
+    },
+    "a2 红烧金钱牛腱面 beef shank noodle in braised beef broth": {
+      "calories": 540,
+      "protein": 34,
+      "carbs": 56,
+      "fat": 18,
+      "sodium": 1320,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron and minerals",
+        "Lean beef"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in carbohydrates",
+        "Moderate saturated fat"
+      ]
+    },
+    "c2 菜肉云吞番茄猪骨汤面 (辣／无辣) vegetable pork wanton noodle in tomato pork bone soup (spicy/non-spicy)": {
+      "calories": 520,
+      "protein": 28,
+      "carbs": 58,
+      "fat": 18,
+      "sodium": 1380,
+      "sugar": 7,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables",
+        "Contains tomato lycopene"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in carbohydrates",
+        "Moderate saturated fat"
+      ]
+    },
+    "d2 葱烤猪软骨拌面 braised pork rib with scallion dry noodle": {
+      "calories": 560,
+      "protein": 30,
+      "carbs": 60,
+      "fat": 22,
+      "sodium": 1280,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in collagen",
+        "Contains minerals"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in carbohydrates"
+      ]
+    },
+    "e2 红烧和牛 braised wagyu beef": {
+      "calories": 420,
+      "protein": 36,
+      "carbs": 3,
+      "fat": 30,
+      "sodium": 780,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "High quality beef",
+        "Contains oleic acid"
+      ],
+      "healthWarnings": [
+        "Very high in saturated fat",
+        "High in calories"
+      ]
+    },
+    "f2 牛汁卤豆干 (温) braised beancurd in beef broth (warm)": {
+      "calories": 120,
+      "protein": 14,
+      "carbs": 3,
+      "fat": 6,
+      "sodium": 720,
+      "sugar": 0,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron",
+        "Low calorie"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "g2 蜜桃醋 peach vinegar": {
+      "calories": 50,
+      "protein": 0,
+      "carbs": 11,
+      "fat": 0,
+      "sodium": 130,
+      "sugar": 9,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "May aid digestion"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Acidic"
+      ]
+    },
+    "粗米粉 thick vermicelli": {
+      "calories": 220,
+      "protein": 4,
+      "carbs": 48,
+      "fat": 1,
+      "sodium": 100,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Low fat",
+        "Good source of carbohydrates",
+        "Smooth texture"
+      ],
+      "healthWarnings": [
+        "High glycemic index",
+        "Low in protein"
+      ]
+    },
+    "f3 味付笋片 seasoned bamboo shoot": {
+      "calories": 60,
+      "protein": 3,
+      "carbs": 8,
+      "fat": 2,
+      "sodium": 580,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Low calorie",
+        "Good source of fiber",
+        "Contains minerals"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "酸菜牛骨汤 pickled vegetable braised beef broth": {
+      "calories": 180,
+      "protein": 18,
+      "carbs": 8,
+      "fat": 8,
+      "sodium": 1200,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "High in collagen",
+        "Low in calories"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "a3 红烧金钱牛腱牛筋面 beef shank and tendon noodle in braised beef broth": {
+      "calories": 650,
+      "protein": 42,
+      "carbs": 58,
+      "fat": 22,
+      "sodium": 1800,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "High in collagen",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "b3 菜肉云吞猪骨汤煨面 vegetable pork wanton noodle in pork bone soup": {
+      "calories": 580,
+      "protein": 28,
+      "carbs": 62,
+      "fat": 18,
+      "sodium": 1600,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables",
+        "High in collagen"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in saturated fat"
+      ]
+    },
+    "d3 抄手拌面 pork wanton in chilli vinaigrette dry noodle": {
+      "calories": 520,
+      "protein": 22,
+      "carbs": 58,
+      "fat": 18,
+      "sodium": 1400,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Egg",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains capsaicin"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in saturated fat"
+      ]
+    },
+    "g3 葡萄醋 grape vinegar": {
+      "calories": 45,
+      "protein": 0,
+      "carbs": 10,
+      "fat": 0,
+      "sodium": 80,
+      "sugar": 8,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "e3 红烧牛筋 braised beef tendon": {
+      "calories": 280,
+      "protein": 32,
+      "carbs": 4,
+      "fat": 12,
+      "sodium": 900,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "High in collagen",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in saturated fat"
+      ]
+    },
+    "c3 鸡扒番茄猪骨汤面 crispy chicken cutlet noodle in tomato pork bone soup": {
+      "calories": 620,
+      "protein": 36,
+      "carbs": 60,
+      "fat": 20,
+      "sodium": 1550,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains lycopene",
+        "High in collagen"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in saturated fat"
+      ]
+    },
+    "f4 清爽黑云耳 chilled black fungus with minced garlic": {
+      "calories": 35,
+      "protein": 2,
+      "carbs": 6,
+      "fat": 1,
+      "sodium": 280,
+      "sugar": 1,
+      "fiber": 2,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Very low calorie",
+        "High in fiber",
+        "Good source of iron"
+      ],
+      "healthWarnings": []
+    },
+    "b4 葱烤猪软骨猪骨汤煨面 braised pork rib with scallion noodle in pork bone soup": {
+      "calories": 620,
+      "protein": 34,
+      "carbs": 60,
+      "fat": 22,
+      "sodium": 1700,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "High in collagen",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "a4 红烧美国肥牛面 us marbled beef noodle in braised beef broth": {
+      "calories": 640,
+      "protein": 38,
+      "carbs": 58,
+      "fat": 24,
+      "sodium": 1750,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "High in iron",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "c4 酥肉番茄猪骨汤面 fragrant pork chop noodle in tomato pork bone soup": {
+      "calories": 610,
+      "protein": 32,
+      "carbs": 60,
+      "fat": 22,
+      "sodium": 1600,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains lycopene",
+        "High in collagen"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "g4 苹果醋 apple vinegar": {
+      "calories": 40,
+      "protein": 0,
+      "carbs": 9,
+      "fat": 0,
+      "sodium": 75,
+      "sugar": 7,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "招牌猪骨汤 signature pork bone soup": {
+      "calories": 160,
+      "protein": 16,
+      "carbs": 6,
+      "fat": 7,
+      "sodium": 1100,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "High in collagen",
+        "Low in calories"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "e4 炸鸡块 crispy chicken": {
+      "calories": 320,
+      "protein": 28,
+      "carbs": 12,
+      "fat": 16,
+      "sodium": 650,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "Fried preparation"
+      ]
+    },
+    "d4 开洋葱油拌面 dried shrimp and scallion dry noodle": {
+      "calories": 480,
+      "protein": 16,
+      "carbs": 56,
+      "fat": 18,
+      "sodium": 1200,
+      "sugar": 1,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Sesame",
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in saturated fat"
+      ]
+    },
+    "g5 可乐 coke": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 39,
+      "fat": 0,
+      "sodium": 45,
+      "sugar": 39,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Very high in sugar"
+      ]
+    },
+    "番茄猪骨汤 tomato pork bone soup": {
+      "calories": 170,
+      "protein": 14,
+      "carbs": 10,
+      "fat": 7,
+      "sodium": 1150,
+      "sugar": 4,
+      "fiber": 1,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains lycopene",
+        "High in collagen"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "d5 红烧牛筋拌面 braised beef tendon dry noodle": {
+      "calories": 580,
+      "protein": 36,
+      "carbs": 58,
+      "fat": 18,
+      "sodium": 1500,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "High in collagen",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in saturated fat"
+      ]
+    },
+    "e5 红油抄手 pork wanton in chilli vinaigrette": {
+      "calories": 220,
+      "protein": 10,
+      "carbs": 18,
+      "fat": 10,
+      "sodium": 480,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Egg",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains capsaicin"
+      ],
+      "healthWarnings": [
+        "Moderate in saturated fat"
+      ]
+    },
+    "a5 红烧牛三宝面 beef combination noodle in braised beef broth": {
+      "calories": 710,
+      "protein": 48,
+      "carbs": 58,
+      "fat": 26,
+      "sodium": 1850,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Very high in protein",
+        "High in collagen",
+        "High in iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "b5 fragrant pork chop noodle in pork bone soup (spicy/non-spicy)": {
+      "calories": 680,
+      "protein": 32,
+      "carbs": 72,
+      "fat": 28,
+      "sodium": 1680,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains collagen from pork bone broth"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "b6 crispy chicken cutlet noodle in pork bone soup (spicy/non-spicy)": {
+      "calories": 720,
+      "protein": 36,
+      "carbs": 74,
+      "fat": 30,
+      "sodium": 1650,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Sesame",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains collagen from pork bone broth"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "d6 us marbled beef dry noodle": {
+      "calories": 750,
+      "protein": 38,
+      "carbs": 68,
+      "fat": 35,
+      "sodium": 1520,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "e6 vegetable pork wanton in pork bone soup": {
+      "calories": 280,
+      "protein": 14,
+      "carbs": 32,
+      "fat": 10,
+      "sodium": 920,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg",
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "g6 coke zero": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 95,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Contains artificial sweeteners",
+        "High in sodium"
+      ]
+    },
+    "d7 crispy chicken cutlet dry noodle": {
+      "calories": 720,
+      "protein": 35,
+      "carbs": 70,
+      "fat": 32,
+      "sodium": 1480,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Sesame",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "g7 taiwan soya bean milk": {
+      "calories": 120,
+      "protein": 6,
+      "carbs": 14,
+      "fat": 4,
+      "sodium": 120,
+      "sugar": 8,
+      "fiber": 1,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of plant-based protein",
+        "Contains isoflavones"
+      ],
+      "healthWarnings": []
+    },
+    "e7 xiao bai cai with oyster sauce": {
+      "calories": 85,
+      "protein": 4,
+      "carbs": 8,
+      "fat": 4,
+      "sodium": 580,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "Low in calories",
+        "Good source of fiber",
+        "High in vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "g8 fuze tea® jasmine green tea": {
+      "calories": 45,
+      "protein": 0,
+      "carbs": 11,
+      "fat": 0,
+      "sodium": 50,
+      "sugar": 10,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Low calorie"
+      ],
+      "healthWarnings": [
+        "Contains added sugar"
+      ]
+    },
+    "e8 poached lettuce in supreme soya sauce": {
+      "calories": 75,
+      "protein": 3,
+      "carbs": 6,
+      "fat": 4,
+      "sodium": 620,
+      "sugar": 1,
+      "fiber": 2,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Low in calories",
+        "Good source of fiber",
+        "High in vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "e9 poached broccoli in supreme soya sauce": {
+      "calories": 95,
+      "protein": 5,
+      "carbs": 10,
+      "fat": 4,
+      "sodium": 640,
+      "sugar": 2,
+      "fiber": 3,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Low in calories",
+        "High in fiber",
+        "Rich in vitamin C",
+        "Contains sulforaphane"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "g9 apple black tea": {
+      "calories": 55,
+      "protein": 0,
+      "carbs": 14,
+      "fat": 0,
+      "sodium": 40,
+      "sugar": 12,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Low calorie"
+      ],
+      "healthWarnings": [
+        "Contains added sugar"
+      ]
+    },
+    "e10 long jing lava egg": {
+      "calories": 75,
+      "protein": 7,
+      "carbs": 2,
+      "fat": 5,
+      "sodium": 380,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains choline"
+      ],
+      "healthWarnings": [
+        "High in cholesterol"
+      ]
+    },
+    "e11 crispy beancurd skin stuffed with fish paste (3pc)": {
+      "calories": 155,
+      "protein": 12,
+      "carbs": 8,
+      "fat": 8,
+      "sodium": 520,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Fish",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in saturated fat"
+      ]
+    },
+    "g11 fruit tree apple juice": {
+      "calories": 110,
+      "protein": 0,
+      "carbs": 28,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 24,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Low in fiber"
+      ]
+    },
+    "g12 rock sugar pear drink": {
+      "calories": 95,
+      "protein": 0,
+      "carbs": 24,
+      "fat": 0,
+      "sodium": 30,
+      "sugar": 22,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Traditional remedy for cough"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "g13 lan fong yuen hong kong style lemon tea": {
+      "calories": 80,
+      "protein": 0,
+      "carbs": 20,
+      "fat": 0,
+      "sodium": 45,
+      "sugar": 18,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains vitamin C",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "g14 bottled drinking water": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Hydrating",
+        "Zero calories"
+      ],
+      "healthWarnings": []
+    },
+    "g15 hot jasmine tea": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Zero calories"
+      ],
+      "healthWarnings": []
+    }
+  }
+}

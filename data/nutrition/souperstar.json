@@ -1,0 +1,123 @@
+{
+  "brand": "souperstar",
+  "generatedAt": "2026-02-21T11:44:36.351Z",
+  "items": {
+    "daily joy bundle (2-3pax)from": {
+      "calories": 1200,
+      "protein": 45,
+      "carbs": 140,
+      "fat": 35,
+      "sodium": 2800,
+      "sugar": 15,
+      "fiber": 8,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Shellfish",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables",
+        "Balanced meal"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in fat"
+      ]
+    },
+    "from": {
+      "calories": 950,
+      "protein": 35,
+      "carbs": 120,
+      "fat": 28,
+      "sodium": 2400,
+      "sugar": 12,
+      "fiber": 6,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "popiah - 8 rollsfrom": {
+      "calories": 680,
+      "protein": 18,
+      "carbs": 85,
+      "fat": 24,
+      "sodium": 1600,
+      "sugar": 8,
+      "fiber": 5,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Shellfish",
+        "Peanut"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains vegetables",
+        "Lower in calories"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Contains peanut"
+      ]
+    },
+    "popiah - 12 rollsfrom": {
+      "calories": 1020,
+      "protein": 27,
+      "carbs": 128,
+      "fat": 36,
+      "sodium": 2400,
+      "sugar": 12,
+      "fiber": 7,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Shellfish",
+        "Peanut"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat",
+        "Contains peanut"
+      ]
+    },
+    "soup - 6 cupsfrom": {
+      "calories": 780,
+      "protein": 42,
+      "carbs": 75,
+      "fat": 22,
+      "sodium": 2600,
+      "sugar": 8,
+      "fiber": 6,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables",
+        "Hydrating"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    }
+  }
+}

@@ -1,0 +1,1824 @@
+{
+  "brand": "pocha-korean-street-dining",
+  "generatedAt": "2026-02-21T11:18:47.089Z",
+  "items": {
+    "chicken bulgogi": {
+      "calories": 420,
+      "protein": 32,
+      "carbs": 18,
+      "fat": 24,
+      "sodium": 1240,
+      "sugar": 8,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains probiotics from kimchi"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "make it a meal": {
+      "calories": 280,
+      "protein": 8,
+      "carbs": 52,
+      "fat": 4,
+      "sodium": 680,
+      "sugar": 18,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Includes vegetables",
+        "Includes beverage"
+      ],
+      "healthWarnings": [
+        "High in sugar from soft drink"
+      ]
+    },
+    "hangari bokkeumbab": {
+      "calories": 420,
+      "protein": 14,
+      "carbs": 48,
+      "fat": 18,
+      "sodium": 1000,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains vegetables",
+        "Good source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "Moderate sodium",
+        "Moderate in fat"
+      ]
+    },
+    "jinro chamisul": {
+      "calories": 130,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High alcohol content",
+        "Empty calories"
+      ]
+    },
+    "bibimbab": {
+      "calories": 520,
+      "protein": 20,
+      "carbs": 62,
+      "fat": 20,
+      "sodium": 1100,
+      "sugar": 5,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Sesame",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in vegetables",
+        "Good source of protein",
+        "Good source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "tteokbokki": {
+      "calories": 420,
+      "protein": 8,
+      "carbs": 58,
+      "fat": 16,
+      "sodium": 1520,
+      "sugar": 12,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in sugar",
+        "High in carbohydrates"
+      ]
+    },
+    "gochujang ramyeon": {
+      "calories": 540,
+      "protein": 22,
+      "carbs": 68,
+      "fat": 18,
+      "sodium": 1680,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains capsaicin from chili"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in calories"
+      ]
+    },
+    "free flow - soft drinks & ice cream": {
+      "calories": 180,
+      "protein": 2,
+      "carbs": 38,
+      "fat": 2,
+      "sodium": 120,
+      "sugar": 34,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in calories"
+      ]
+    },
+    "creamy shin ramyeon": {
+      "calories": 520,
+      "protein": 18,
+      "carbs": 58,
+      "fat": 24,
+      "sodium": 1600,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Egg",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Contains protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories",
+        "Spicy"
+      ]
+    },
+    "busan": {
+      "calories": 580,
+      "protein": 42,
+      "carbs": 28,
+      "fat": 32,
+      "sodium": 1240,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in collagen",
+        "Good source of amino acids"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "pepsi": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 36,
+      "fat": 0,
+      "sodium": 65,
+      "sugar": 36,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Very high in sugar",
+        "Empty calories"
+      ]
+    },
+    "korean pouch drinks": {
+      "calories": 90,
+      "protein": 0,
+      "carbs": 22,
+      "fat": 0,
+      "sodium": 45,
+      "sugar": 20,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains fruit flavors",
+        "Lower calorie alternative to soda"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "sagol noodles": {
+      "calories": 580,
+      "protein": 24,
+      "carbs": 72,
+      "fat": 18,
+      "sodium": 1480,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Shellfish",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of carbohydrates",
+        "Contains fiber"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in calories"
+      ]
+    },
+    "sindang-dong tteokbokki": {
+      "calories": 450,
+      "protein": 12,
+      "carbs": 65,
+      "fat": 14,
+      "sodium": 1200,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Fish",
+        "Soy",
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "Good source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in sugar"
+      ]
+    },
+    "kimchi jjigae": {
+      "calories": 380,
+      "protein": 16,
+      "carbs": 28,
+      "fat": 22,
+      "sodium": 1800,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Shellfish",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Probiotic from kimchi",
+        "Rich in capsaicin"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "Spicy",
+        "High in fat"
+      ]
+    },
+    "korean fried chicken": {
+      "calories": 680,
+      "protein": 48,
+      "carbs": 35,
+      "fat": 38,
+      "sodium": 1100,
+      "sugar": 5,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "chingu set - choose any 2 mains": {
+      "calories": 850,
+      "protein": 42,
+      "carbs": 85,
+      "fat": 32,
+      "sodium": 1600,
+      "sugar": 12,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Sesame",
+        "Shellfish",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Serves 2 people"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "High in sugar"
+      ]
+    },
+    "king tonkatsu": {
+      "calories": 620,
+      "protein": 32,
+      "carbs": 48,
+      "fat": 32,
+      "sodium": 1250,
+      "sugar": 8,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium",
+        "High in sugar"
+      ]
+    },
+    "corndog": {
+      "calories": 320,
+      "protein": 10,
+      "carbs": 36,
+      "fat": 14,
+      "sodium": 620,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "busan style gukbap": {
+      "calories": 580,
+      "protein": 34,
+      "carbs": 48,
+      "fat": 24,
+      "sodium": 1500,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in collagen",
+        "Contains bone broth"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "terra (330ml)": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 35,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 35,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "pork bulgogi": {
+      "calories": 380,
+      "protein": 32,
+      "carbs": 22,
+      "fat": 18,
+      "sodium": 1080,
+      "sugar": 8,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat",
+        "Spicy variants available"
+      ]
+    },
+    "jinro green grape": {
+      "calories": 280,
+      "protein": 0,
+      "carbs": 15,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 12,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Contains alcohol",
+        "High in sugar"
+      ]
+    },
+    "kimchi bokkeumbab": {
+      "calories": 480,
+      "protein": 18,
+      "carbs": 58,
+      "fat": 16,
+      "sodium": 1050,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains vegetables",
+        "Good source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "sundubu pork jjigae": {
+      "calories": 420,
+      "protein": 28,
+      "carbs": 35,
+      "fat": 18,
+      "sodium": 1300,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Shellfish",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains soft tofu"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "7-up": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 35,
+      "fat": 0,
+      "sodium": 85,
+      "sugar": 35,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in calories",
+        "Contains artificial sweeteners"
+      ]
+    },
+    "chamisul soju (jinro)": {
+      "calories": 280,
+      "protein": 0,
+      "carbs": 2,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Contains alcohol",
+        "High in calories"
+      ]
+    },
+    "potato corndog": {
+      "calories": 380,
+      "protein": 12,
+      "carbs": 38,
+      "fat": 20,
+      "sodium": 680,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains potassium from potato"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in fat",
+        "Fried food"
+      ]
+    },
+    "bibimbab (no meat)": {
+      "calories": 520,
+      "protein": 12,
+      "carbs": 85,
+      "fat": 14,
+      "sodium": 1200,
+      "sugar": 8,
+      "fiber": 4,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Sesame",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Rich in vegetables",
+        "Source of iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in carbohydrates"
+      ]
+    },
+    "bokkeumbab (hangari / kimchi)": {
+      "calories": 420,
+      "protein": 14,
+      "carbs": 48,
+      "fat": 18,
+      "sodium": 1000,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains vegetables",
+        "Good source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "Moderate sodium",
+        "Moderate in fat"
+      ]
+    },
+    "chunky tteok": {
+      "calories": 720,
+      "protein": 18,
+      "carbs": 95,
+      "fat": 28,
+      "sodium": 1600,
+      "sugar": 12,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Sesame",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of protein",
+        "Source of calcium from cheese"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat",
+        "High in calories",
+        "High in sugar"
+      ]
+    },
+    "daejeon": {
+      "calories": 420,
+      "protein": 28,
+      "carbs": 52,
+      "fat": 8,
+      "sodium": 1320,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Shellfish",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in omega-3",
+        "Contains seafood"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in calories"
+      ]
+    },
+    "beef bulgogi": {
+      "calories": 620,
+      "protein": 32,
+      "carbs": 48,
+      "fat": 32,
+      "sodium": 1300,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Excellent source of protein",
+        "High in iron",
+        "B-vitamins from beef"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat",
+        "High in calories"
+      ]
+    },
+    "free flow tteokbokki set": {
+      "calories": 1400,
+      "protein": 38,
+      "carbs": 180,
+      "fat": 52,
+      "sodium": 3200,
+      "sugar": 24,
+      "fiber": 6,
+      "allergens": [
+        "Gluten",
+        "Sesame",
+        "Dairy",
+        "Shellfish",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good source of protein for 2 people",
+        "Includes free drink and dessert"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "Very high in calories",
+        "High in fat",
+        "High in sugar"
+      ]
+    },
+    "jjajangmyeon": {
+      "calories": 520,
+      "protein": 16,
+      "carbs": 68,
+      "fat": 18,
+      "sodium": 1620,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "Good source of carbohydrates",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in calories",
+        "High in saturated fat"
+      ]
+    },
+    "kimchi ramyeon": {
+      "calories": 420,
+      "protein": 14,
+      "carbs": 54,
+      "fat": 14,
+      "sodium": 1380,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Shellfish",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Probiotics from kimchi",
+        "Good source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in calories"
+      ]
+    },
+    "sundubu - pork": {
+      "calories": 420,
+      "protein": 28,
+      "carbs": 22,
+      "fat": 26,
+      "sodium": 1700,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Shellfish",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Excellent source of protein",
+        "Good source of calcium from tofu",
+        "Rich in iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Spicy",
+        "High in fat"
+      ]
+    },
+    "seafood pancake": {
+      "calories": 380,
+      "protein": 16,
+      "carbs": 35,
+      "fat": 20,
+      "sodium": 900,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Gluten",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3"
+      ],
+      "healthWarnings": [
+        "Moderate in calories",
+        "High in fat"
+      ]
+    },
+    "green grape soju (jinro)": {
+      "calories": 280,
+      "protein": 0,
+      "carbs": 20,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 18,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in alcohol content",
+        "High in sugar",
+        "Empty calories"
+      ]
+    },
+    "eomuk": {
+      "calories": 280,
+      "protein": 22,
+      "carbs": 18,
+      "fat": 14,
+      "sodium": 1100,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Excellent source of protein",
+        "Low in carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Contains fish"
+      ]
+    },
+    "sundubu jjigae": {
+      "calories": 280,
+      "protein": 22,
+      "carbs": 8,
+      "fat": 18,
+      "sodium": 1200,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron",
+        "Contains probiotics from fermented ingredients"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in saturated fat"
+      ]
+    },
+    "gangneung sundubu": {
+      "calories": 380,
+      "protein": 26,
+      "carbs": 35,
+      "fat": 16,
+      "sodium": 1400,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Spicy content may irritate sensitive stomachs"
+      ]
+    },
+    "terra beer (330ml)": {
+      "calories": 165,
+      "protein": 1,
+      "carbs": 11,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Contains alcohol",
+        "High in empty calories"
+      ]
+    },
+    "sundubu - seafood": {
+      "calories": 320,
+      "protein": 28,
+      "carbs": 10,
+      "fat": 20,
+      "sodium": 1350,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Gluten",
+        "Squid"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of omega-3",
+        "Contains iron and selenium"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in cholesterol",
+        "Spicy content"
+      ]
+    },
+    "bbimbab": {
+      "calories": 380,
+      "protein": 12,
+      "carbs": 48,
+      "fat": 14,
+      "sodium": 950,
+      "sugar": 4,
+      "fiber": 4,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Sesame",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "Rich in vegetables",
+        "Good source of antioxidants"
+      ],
+      "healthWarnings": [
+        "Moderate sodium",
+        "Contains egg"
+      ]
+    },
+    "gangneung": {
+      "calories": 380,
+      "protein": 26,
+      "carbs": 35,
+      "fat": 16,
+      "sodium": 1400,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Spicy content may irritate sensitive stomachs"
+      ]
+    },
+    "krispy chicken chunks": {
+      "calories": 420,
+      "protein": 28,
+      "carbs": 32,
+      "fat": 18,
+      "sodium": 1040,
+      "sugar": 6,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "jjapagetti": {
+      "calories": 420,
+      "protein": 14,
+      "carbs": 58,
+      "fat": 12,
+      "sodium": 1240,
+      "sugar": 10,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Contains carbohydrates",
+        "Good source of carbs"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in carbs",
+        "Contains added sugar"
+      ]
+    },
+    "incheon": {
+      "calories": 420,
+      "protein": 16,
+      "carbs": 52,
+      "fat": 14,
+      "sodium": 1300,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Egg",
+        "Pork"
+      ],
+      "healthBenefits": [
+        "Good source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in fat"
+      ]
+    },
+    "iced lemon tea": {
+      "calories": 90,
+      "protein": 0,
+      "carbs": 22,
+      "fat": 0,
+      "sodium": 30,
+      "sugar": 20,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "kimari": {
+      "calories": 280,
+      "protein": 8,
+      "carbs": 32,
+      "fat": 12,
+      "sodium": 680,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Probiotics from kimchi",
+        "Good source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "honey lemon": {
+      "calories": 95,
+      "protein": 0,
+      "carbs": 24,
+      "fat": 0,
+      "sodium": 45,
+      "sugar": 22,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in fat",
+        "Contains vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "budae jjigae": {
+      "calories": 520,
+      "protein": 28,
+      "carbs": 42,
+      "fat": 24,
+      "sodium": 1480,
+      "sugar": 8,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Fish",
+        "Shellfish",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "kimchi pancake": {
+      "calories": 380,
+      "protein": 12,
+      "carbs": 44,
+      "fat": 16,
+      "sodium": 920,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Soy",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Contains probiotics",
+        "Good source of carbs"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat",
+        "High in calories"
+      ]
+    },
+    "samgyetang": {
+      "calories": 480,
+      "protein": 42,
+      "carbs": 35,
+      "fat": 16,
+      "sodium": 1120,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains ginseng",
+        "Good source of vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in calories"
+      ]
+    },
+    "soju bomb - chamisul soju + 2 terra beer (330ml)": {
+      "calories": 380,
+      "protein": 3,
+      "carbs": 12,
+      "fat": 0,
+      "sodium": 35,
+      "sugar": 10,
+      "fiber": 0,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in alcohol",
+        "High in calories",
+        "Contains added sugar"
+      ]
+    },
+    "jjapagetti truffle": {
+      "calories": 460,
+      "protein": 14,
+      "carbs": 60,
+      "fat": 16,
+      "sodium": 1260,
+      "sugar": 10,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Sesame",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat",
+        "High in carbs"
+      ]
+    },
+    "muan stir-fried octopus": {
+      "calories": 380,
+      "protein": 32,
+      "carbs": 38,
+      "fat": 10,
+      "sodium": 1380,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "High in omega-3",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Spicy"
+      ]
+    },
+    "muan": {
+      "calories": 380,
+      "protein": 32,
+      "carbs": 38,
+      "fat": 10,
+      "sodium": 1380,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "High in omega-3",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Spicy"
+      ]
+    },
+    "seoul": {
+      "calories": 420,
+      "protein": 12,
+      "carbs": 54,
+      "fat": 14,
+      "sodium": 680,
+      "sugar": 12,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains vegetables",
+        "Good source of carbs"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in fat",
+        "High in sugar"
+      ]
+    },
+    "hangari bokkeumbab (no meat)": {
+      "calories": 280,
+      "protein": 8,
+      "carbs": 42,
+      "fat": 8,
+      "sodium": 720,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Low in protein",
+        "Good source of carbs",
+        "Vegetarian"
+      ],
+      "healthWarnings": [
+        "Moderate sodium",
+        "Moderate in calories"
+      ]
+    },
+    "chuncheon": {
+      "calories": 480,
+      "protein": 36,
+      "carbs": 40,
+      "fat": 16,
+      "sodium": 1100,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "High in fat"
+      ]
+    },
+    "barley tea": {
+      "calories": 5,
+      "protein": 0,
+      "carbs": 1,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Hydrating",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "kimchi mandu": {
+      "calories": 280,
+      "protein": 8,
+      "carbs": 32,
+      "fat": 12,
+      "sodium": 680,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Probiotics from kimchi",
+        "Good source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "incheon jjajangmyeon": {
+      "calories": 480,
+      "protein": 18,
+      "carbs": 62,
+      "fat": 14,
+      "sodium": 1420,
+      "sugar": 12,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "High in sugar"
+      ]
+    },
+    "budae jjigae - beef / pork": {
+      "calories": 540,
+      "protein": 30,
+      "carbs": 44,
+      "fat": 26,
+      "sodium": 1520,
+      "sugar": 8,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Fish",
+        "Shellfish",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "korean fried chicken wings with rice": {
+      "calories": 650,
+      "protein": 32,
+      "carbs": 58,
+      "fat": 28,
+      "sodium": 1200,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "kimchi jjigae - beef / pork": {
+      "calories": 420,
+      "protein": 28,
+      "carbs": 18,
+      "fat": 24,
+      "sodium": 1580,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Probiotics from kimchi",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "warm / ice water": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Hydrating",
+        "Zero calories"
+      ],
+      "healthWarnings": []
+    },
+    "fries": {
+      "calories": 420,
+      "protein": 5,
+      "carbs": 48,
+      "fat": 22,
+      "sodium": 580,
+      "sugar": 0,
+      "fiber": 4,
+      "allergens": [
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Source of carbohydrates",
+        "Contains fiber"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in fat",
+        "High in sodium"
+      ]
+    },
+    "seoul rose tteokbokki": {
+      "calories": 380,
+      "protein": 10,
+      "carbs": 52,
+      "fat": 14,
+      "sodium": 920,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of carbohydrates",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "korean fried chicken (4pcs) + white rice": {
+      "calories": 580,
+      "protein": 28,
+      "carbs": 52,
+      "fat": 24,
+      "sodium": 1050,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "korean fried chicken wing (2pcs)": {
+      "calories": 240,
+      "protein": 14,
+      "carbs": 12,
+      "fat": 14,
+      "sodium": 520,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "korean pancake": {
+      "calories": 380,
+      "protein": 12,
+      "carbs": 44,
+      "fat": 16,
+      "sodium": 840,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Egg",
+        "Gluten",
+        "Shellfish",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat",
+        "High in calories"
+      ]
+    },
+    "seafood pancake (2pcs)": {
+      "calories": 140,
+      "protein": 5,
+      "carbs": 16,
+      "fat": 6,
+      "sodium": 380,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Egg",
+        "Gluten",
+        "Shellfish",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "doenjang jjigae - beef / pork": {
+      "calories": 380,
+      "protein": 26,
+      "carbs": 16,
+      "fat": 22,
+      "sodium": 1540,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Shellfish",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron",
+        "Contains probiotics"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "krispy chunks with fried tteok": {
+      "calories": 450,
+      "protein": 16,
+      "carbs": 56,
+      "fat": 18,
+      "sodium": 1100,
+      "sugar": 4,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Good source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "High in fat"
+      ]
+    },
+    "chuncheon stir-fried chicken with cheese": {
+      "calories": 680,
+      "protein": 42,
+      "carbs": 58,
+      "fat": 28,
+      "sodium": 1240,
+      "sugar": 8,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains calcium from cheese"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "krispy chunks": {
+      "calories": 620,
+      "protein": 38,
+      "carbs": 42,
+      "fat": 32,
+      "sodium": 1180,
+      "sugar": 12,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat",
+        "High in calories",
+        "Fried food"
+      ]
+    },
+    "spicy jeju ramyeon": {
+      "calories": 520,
+      "protein": 28,
+      "carbs": 62,
+      "fat": 18,
+      "sodium": 1520,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in calories"
+      ]
+    },
+    "luncheon meat (2pcs)": {
+      "calories": 340,
+      "protein": 12,
+      "carbs": 2,
+      "fat": 32,
+      "sodium": 780,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "Very high in fat",
+        "Very high in sodium",
+        "Processed meat"
+      ]
+    },
+    "kimchi mandu (2pcs)": {
+      "calories": 130,
+      "protein": 5,
+      "carbs": 16,
+      "fat": 5,
+      "sodium": 420,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Contains probiotics from kimchi",
+        "Low calorie"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "sunny side up": {
+      "calories": 160,
+      "protein": 13,
+      "carbs": 1,
+      "fat": 12,
+      "sodium": 140,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains choline",
+        "Low carb"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in cholesterol"
+      ]
+    },
+    "spicy jeyuk pork bulgogi": {
+      "calories": 240,
+      "protein": 22,
+      "carbs": 8,
+      "fat": 14,
+      "sodium": 680,
+      "sugar": 5,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "High in iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    }
+  }
+}

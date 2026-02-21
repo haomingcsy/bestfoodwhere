@@ -1,0 +1,2895 @@
+{
+  "brand": "breadtalk",
+  "generatedAt": "2026-02-16T13:56:52.949Z",
+  "items": {
+    "hazelnut cookie": {
+      "calories": 520,
+      "protein": 8,
+      "carbs": 52,
+      "fat": 32,
+      "sodium": 180,
+      "sugar": 28,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Tree Nut",
+        "Sesame"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "chicken parmesan": {
+      "calories": 380,
+      "protein": 18,
+      "carbs": 35,
+      "fat": 20,
+      "sodium": 620,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "saint nick": {
+      "calories": 280,
+      "protein": 6,
+      "carbs": 38,
+      "fat": 12,
+      "sodium": 280,
+      "sugar": 18,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "milk tea": {
+      "calories": 180,
+      "protein": 4,
+      "carbs": 28,
+      "fat": 5,
+      "sodium": 140,
+      "sugar": 22,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "sea salt cheese": {
+      "calories": 480,
+      "protein": 10,
+      "carbs": 58,
+      "fat": 23,
+      "sodium": 420,
+      "sugar": 42,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "caramel pudding": {
+      "calories": 160,
+      "protein": 3,
+      "carbs": 28,
+      "fat": 4,
+      "sodium": 120,
+      "sugar": 22,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "original soy milk (350ml)": {
+      "calories": 140,
+      "protein": 7,
+      "carbs": 12,
+      "fat": 6,
+      "sodium": 80,
+      "sugar": 8,
+      "fiber": 1,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Dairy-free"
+      ],
+      "healthWarnings": []
+    },
+    "red bean shio pan": {
+      "calories": 280,
+      "protein": 6,
+      "carbs": 38,
+      "fat": 12,
+      "sodium": 420,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "peanut butter (250g)": {
+      "calories": 1480,
+      "protein": 48,
+      "carbs": 48,
+      "fat": 120,
+      "sodium": 360,
+      "sugar": 12,
+      "fiber": 8,
+      "allergens": [
+        "Peanut"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Good source of fiber"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in fat"
+      ]
+    },
+    "original palmier french pastry 5pcs": {
+      "calories": 340,
+      "protein": 5,
+      "carbs": 38,
+      "fat": 18,
+      "sodium": 280,
+      "sugar": 16,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "japan light cheese cake": {
+      "calories": 380,
+      "protein": 8,
+      "carbs": 42,
+      "fat": 20,
+      "sodium": 320,
+      "sugar": 26,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "honey marble": {
+      "calories": 220,
+      "protein": 4,
+      "carbs": 32,
+      "fat": 9,
+      "sodium": 180,
+      "sugar": 18,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "3-in-1 floss gift pack": {
+      "calories": 2400,
+      "protein": 48,
+      "carbs": 240,
+      "fat": 120,
+      "sodium": 1800,
+      "sugar": 96,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Pork"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sugar",
+        "High in sodium"
+      ]
+    },
+    "milky way": {
+      "calories": 280,
+      "protein": 7,
+      "carbs": 42,
+      "fat": 9,
+      "sodium": 320,
+      "sugar": 14,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": []
+    },
+    "strawberry yogurt": {
+      "calories": 280,
+      "protein": 6,
+      "carbs": 38,
+      "fat": 11,
+      "sodium": 200,
+      "sugar": 28,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "wholemeal toast (8pcs)": {
+      "calories": 520,
+      "protein": 18,
+      "carbs": 88,
+      "fat": 8,
+      "sodium": 880,
+      "sugar": 4,
+      "fiber": 12,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "4pcs signature flosss set": {
+      "calories": 680,
+      "protein": 16,
+      "carbs": 72,
+      "fat": 36,
+      "sodium": 560,
+      "sugar": 28,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Pork"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "hot sandwich": {
+      "calories": 420,
+      "protein": 20,
+      "carbs": 40,
+      "fat": 20,
+      "sodium": 720,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "momoji": {
+      "calories": 240,
+      "protein": 6,
+      "carbs": 32,
+      "fat": 10,
+      "sodium": 280,
+      "sugar": 14,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Pork"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": []
+    },
+    "holly pistachio": {
+      "calories": 290,
+      "protein": 7,
+      "carbs": 36,
+      "fat": 14,
+      "sodium": 240,
+      "sugar": 16,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Tree Nut"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "white toast (8pcs)": {
+      "calories": 840,
+      "protein": 24,
+      "carbs": 156,
+      "fat": 8,
+      "sodium": 1440,
+      "sugar": 6,
+      "fiber": 6,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of carbohydrates",
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "assorted kaya (100g)": {
+      "calories": 320,
+      "protein": 2,
+      "carbs": 52,
+      "fat": 12,
+      "sodium": 140,
+      "sugar": 48,
+      "fiber": 0,
+      "allergens": [
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Traditional local spread"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "strawberry yogurt (4 inch)": {
+      "calories": 280,
+      "protein": 6,
+      "carbs": 38,
+      "fat": 12,
+      "sodium": 95,
+      "sugar": 32,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains probiotics from yogurt",
+        "Contains fruit"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "cranberry cream cheese": {
+      "calories": 320,
+      "protein": 8,
+      "carbs": 42,
+      "fat": 14,
+      "sodium": 380,
+      "sugar": 18,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from cranberries"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "taro treasure box": {
+      "calories": 480,
+      "protein": 8,
+      "carbs": 68,
+      "fat": 20,
+      "sodium": 280,
+      "sugar": 42,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "almond butter cookie 奶香杏仁曲奇": {
+      "calories": 520,
+      "protein": 10,
+      "carbs": 52,
+      "fat": 30,
+      "sodium": 240,
+      "sugar": 24,
+      "fiber": 3,
+      "allergens": [
+        "Tree Nut",
+        "Dairy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains almonds (good source of vitamin E and magnesium)"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in sugar"
+      ]
+    },
+    "4pcs sausage bun set": {
+      "calories": 680,
+      "protein": 24,
+      "carbs": 72,
+      "fat": 32,
+      "sodium": 920,
+      "sugar": 12,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "matcha red bean": {
+      "calories": 380,
+      "protein": 10,
+      "carbs": 68,
+      "fat": 6,
+      "sodium": 420,
+      "sugar": 28,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from matcha",
+        "Red bean provides fiber and protein"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "original pork floss (btl)": {
+      "calories": 380,
+      "protein": 28,
+      "carbs": 8,
+      "fat": 28,
+      "sodium": 1200,
+      "sugar": 4,
+      "fiber": 0,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Excellent source of protein",
+        "Low in carbohydrates"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "dark chocolate pudding": {
+      "calories": 240,
+      "protein": 4,
+      "carbs": 28,
+      "fat": 12,
+      "sodium": 110,
+      "sugar": 24,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from dark chocolate"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "tau sar piah (4pc box)": {
+      "calories": 520,
+      "protein": 8,
+      "carbs": 64,
+      "fat": 24,
+      "sodium": 360,
+      "sugar": 20,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Contains mung bean (good source of protein and fiber)"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in sugar"
+      ]
+    },
+    "cold brew oolong tea": {
+      "calories": 10,
+      "protein": 0,
+      "carbs": 2,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains antioxidants from tea"
+      ],
+      "healthWarnings": []
+    },
+    "marble chocolate (5pcs/pkt)": {
+      "calories": 280,
+      "protein": 4,
+      "carbs": 34,
+      "fat": 14,
+      "sodium": 80,
+      "sugar": 28,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from chocolate"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "golden layer brulee tart": {
+      "calories": 320,
+      "protein": 6,
+      "carbs": 38,
+      "fat": 16,
+      "sodium": 120,
+      "sugar": 24,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "marble chocolate toast": {
+      "calories": 620,
+      "protein": 18,
+      "carbs": 84,
+      "fat": 22,
+      "sodium": 580,
+      "sugar": 28,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in sodium"
+      ]
+    },
+    "sam the turkey": {
+      "calories": 420,
+      "protein": 12,
+      "carbs": 52,
+      "fat": 18,
+      "sodium": 240,
+      "sugar": 22,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "flosss": {
+      "calories": 280,
+      "protein": 10,
+      "carbs": 38,
+      "fat": 8,
+      "sodium": 420,
+      "sugar": 8,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "chilli pork floss (btl)": {
+      "calories": 380,
+      "protein": 28,
+      "carbs": 8,
+      "fat": 28,
+      "sodium": 1280,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Chilli"
+      ],
+      "healthBenefits": [
+        "Excellent source of protein",
+        "Low in carbohydrates",
+        "Contains capsaicin from chilli"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "chantilly box": {
+      "calories": 400,
+      "protein": 8,
+      "carbs": 54,
+      "fat": 16,
+      "sodium": 160,
+      "sugar": 36,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains taro"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "fire momoji": {
+      "calories": 240,
+      "protein": 8,
+      "carbs": 32,
+      "fat": 8,
+      "sodium": 340,
+      "sugar": 14,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains capsaicin from spice"
+      ],
+      "healthWarnings": [
+        "Moderate sodium"
+      ]
+    },
+    "kaya gift set": {
+      "calories": 280,
+      "protein": 2,
+      "carbs": 56,
+      "fat": 5,
+      "sodium": 180,
+      "sugar": 48,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in carbs"
+      ]
+    },
+    "gourmet fruit loaf (10pcs)": {
+      "calories": 1200,
+      "protein": 20,
+      "carbs": 220,
+      "fat": 20,
+      "sodium": 380,
+      "sugar": 80,
+      "fiber": 12,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in carbs"
+      ]
+    },
+    "peanut butter cookie 好事花生曲奇": {
+      "calories": 1800,
+      "protein": 45,
+      "carbs": 180,
+      "fat": 95,
+      "sodium": 480,
+      "sugar": 100,
+      "fiber": 8,
+      "allergens": [
+        "Peanut",
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains healthy fats"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in fat",
+        "High in sugar"
+      ]
+    },
+    "4pcs cheesy set": {
+      "calories": 620,
+      "protein": 18,
+      "carbs": 68,
+      "fat": 32,
+      "sodium": 520,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "cold brew green tea": {
+      "calories": 5,
+      "protein": 0,
+      "carbs": 1,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "strawberry yogurt (6-inch)": {
+      "calories": 840,
+      "protein": 18,
+      "carbs": 114,
+      "fat": 33,
+      "sodium": 600,
+      "sugar": 84,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "salted egg croissant bites": {
+      "calories": 480,
+      "protein": 8,
+      "carbs": 52,
+      "fat": 26,
+      "sodium": 380,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "shio pan": {
+      "calories": 210,
+      "protein": 4,
+      "carbs": 28,
+      "fat": 9,
+      "sodium": 480,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "chantilly (4-inch)": {
+      "calories": 520,
+      "protein": 9,
+      "carbs": 62,
+      "fat": 26,
+      "sodium": 320,
+      "sugar": 48,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "bak kwa delight 肉干物语": {
+      "calories": 320,
+      "protein": 14,
+      "carbs": 32,
+      "fat": 14,
+      "sodium": 580,
+      "sugar": 6,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "california toast (8pcs)": {
+      "calories": 1040,
+      "protein": 18,
+      "carbs": 180,
+      "fat": 24,
+      "sodium": 320,
+      "sugar": 60,
+      "fiber": 10,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in carbs"
+      ]
+    },
+    "4pcs tea cake set": {
+      "calories": 520,
+      "protein": 12,
+      "carbs": 72,
+      "fat": 20,
+      "sodium": 240,
+      "sugar": 42,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "dirty choco croissant": {
+      "calories": 380,
+      "protein": 7,
+      "carbs": 40,
+      "fat": 21,
+      "sodium": 220,
+      "sugar": 16,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in saturated fat"
+      ]
+    },
+    "crispy pork floss (btl)": {
+      "calories": 380,
+      "protein": 32,
+      "carbs": 8,
+      "fat": 26,
+      "sodium": 680,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "caramel croissant bites": {
+      "calories": 480,
+      "protein": 8,
+      "carbs": 54,
+      "fat": 26,
+      "sodium": 280,
+      "sugar": 18,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in saturated fat"
+      ]
+    },
+    "strawberry conserve": {
+      "calories": 320,
+      "protein": 1,
+      "carbs": 78,
+      "fat": 0,
+      "sodium": 60,
+      "sugar": 68,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains pectin"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "california raisin": {
+      "calories": 280,
+      "protein": 4,
+      "carbs": 48,
+      "fat": 8,
+      "sodium": 120,
+      "sugar": 32,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains fiber"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "dark forest box": {
+      "calories": 440,
+      "protein": 7,
+      "carbs": 54,
+      "fat": 22,
+      "sodium": 240,
+      "sugar": 40,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Tree Nut"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "tiramisu boluo": {
+      "calories": 380,
+      "protein": 6,
+      "carbs": 52,
+      "fat": 16,
+      "sodium": 140,
+      "sugar": 32,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "fire flosss": {
+      "calories": 240,
+      "protein": 8,
+      "carbs": 28,
+      "fat": 10,
+      "sodium": 480,
+      "sugar": 4,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "chocolate muffin": {
+      "calories": 380,
+      "protein": 5,
+      "carbs": 48,
+      "fat": 18,
+      "sodium": 320,
+      "sugar": 28,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "croissant": {
+      "calories": 280,
+      "protein": 6,
+      "carbs": 30,
+      "fat": 15,
+      "sodium": 420,
+      "sugar": 4,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "4pcs donut set": {
+      "calories": 1120,
+      "protein": 12,
+      "carbs": 140,
+      "fat": 52,
+      "sodium": 680,
+      "sugar": 68,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "mangococo box": {
+      "calories": 400,
+      "protein": 7,
+      "carbs": 50,
+      "fat": 19,
+      "sodium": 260,
+      "sugar": 36,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Tree Nut"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "chantilly (6-inch)": {
+      "calories": 2240,
+      "protein": 24,
+      "carbs": 280,
+      "fat": 96,
+      "sodium": 480,
+      "sugar": 180,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains fresh berries"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "Very high in saturated fat",
+        "High in calories"
+      ]
+    },
+    "wild blueberry": {
+      "calories": 240,
+      "protein": 0,
+      "carbs": 58,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 48,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "Source of antioxidants",
+        "Contains fruit"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "kaya marble (5pcs)": {
+      "calories": 560,
+      "protein": 9,
+      "carbs": 72,
+      "fat": 24,
+      "sodium": 520,
+      "sugar": 32,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Sesame"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "let it snow": {
+      "calories": 320,
+      "protein": 5,
+      "carbs": 42,
+      "fat": 14,
+      "sodium": 280,
+      "sugar": 24,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "salted egg lava mochi ingot": {
+      "calories": 280,
+      "protein": 6,
+      "carbs": 38,
+      "fat": 11,
+      "sodium": 420,
+      "sugar": 16,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "peanut croissant": {
+      "calories": 340,
+      "protein": 9,
+      "carbs": 36,
+      "fat": 18,
+      "sodium": 380,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Peanut"
+      ],
+      "healthBenefits": [
+        "Source of plant protein"
+      ],
+      "healthWarnings": [
+        "High in saturated fat"
+      ]
+    },
+    "goma croissant": {
+      "calories": 330,
+      "protein": 8,
+      "carbs": 35,
+      "fat": 17,
+      "sodium": 360,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "High in saturated fat"
+      ]
+    },
+    "marble steam cake": {
+      "calories": 220,
+      "protein": 4,
+      "carbs": 32,
+      "fat": 8,
+      "sodium": 200,
+      "sugar": 18,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "honey": {
+      "calories": 280,
+      "protein": 0,
+      "carbs": 72,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 68,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains natural sugars",
+        "Anti-inflammatory properties"
+      ],
+      "healthWarnings": [
+        "Very high in sugar"
+      ]
+    },
+    "4pcs superfoods set": {
+      "calories": 920,
+      "protein": 20,
+      "carbs": 112,
+      "fat": 36,
+      "sodium": 640,
+      "sugar": 28,
+      "fiber": 6,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains whole grains"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "slice - the popcorn express!": {
+      "calories": 480,
+      "protein": 8,
+      "carbs": 62,
+      "fat": 22,
+      "sodium": 320,
+      "sugar": 32,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Tree Nut"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "curry chic": {
+      "calories": 320,
+      "protein": 11,
+      "carbs": 40,
+      "fat": 12,
+      "sodium": 580,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "kopimisu": {
+      "calories": 440,
+      "protein": 8,
+      "carbs": 54,
+      "fat": 20,
+      "sodium": 160,
+      "sugar": 38,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "dark forest gateau (4-inch)": {
+      "calories": 680,
+      "protein": 10,
+      "carbs": 72,
+      "fat": 38,
+      "sodium": 280,
+      "sugar": 54,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Contains fruit"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "spring onion floss cake": {
+      "calories": 280,
+      "protein": 6,
+      "carbs": 36,
+      "fat": 12,
+      "sodium": 480,
+      "sugar": 8,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "the tozzo mustang": {
+      "calories": 380,
+      "protein": 8,
+      "carbs": 50,
+      "fat": 16,
+      "sodium": 340,
+      "sugar": 22,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "golden honey croissant": {
+      "calories": 320,
+      "protein": 5,
+      "carbs": 32,
+      "fat": 19,
+      "sodium": 280,
+      "sugar": 12,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sugar"
+      ]
+    },
+    "apple worm": {
+      "calories": 280,
+      "protein": 6,
+      "carbs": 48,
+      "fat": 6,
+      "sodium": 320,
+      "sugar": 18,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains fruit"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "blueberry muffin": {
+      "calories": 380,
+      "protein": 5,
+      "carbs": 52,
+      "fat": 16,
+      "sodium": 380,
+      "sugar": 28,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "slice - noisette bark": {
+      "calories": 420,
+      "protein": 6,
+      "carbs": 44,
+      "fat": 24,
+      "sodium": 120,
+      "sugar": 32,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Contains nuts"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "coffee almond cake": {
+      "calories": 310,
+      "protein": 6,
+      "carbs": 38,
+      "fat": 14,
+      "sodium": 200,
+      "sugar": 22,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Contains nuts"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "dark forest gateau (mini)": {
+      "calories": 380,
+      "protein": 5,
+      "carbs": 42,
+      "fat": 20,
+      "sodium": 140,
+      "sugar": 35,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "joy & luck 多喜多福": {
+      "calories": 420,
+      "protein": 14,
+      "carbs": 48,
+      "fat": 18,
+      "sodium": 680,
+      "sugar": 8,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Pork"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "double dog": {
+      "calories": 380,
+      "protein": 15,
+      "carbs": 32,
+      "fat": 20,
+      "sodium": 720,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "caramel shio pan": {
+      "calories": 340,
+      "protein": 5,
+      "carbs": 38,
+      "fat": 18,
+      "sodium": 320,
+      "sugar": 18,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in sodium"
+      ]
+    },
+    "green grape charlotte (4 inch) 青提夏洛特": {
+      "calories": 280,
+      "protein": 4,
+      "carbs": 38,
+      "fat": 12,
+      "sodium": 100,
+      "sugar": 26,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains fruit",
+        "Good source of vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "original cheese steam cake": {
+      "calories": 220,
+      "protein": 6,
+      "carbs": 28,
+      "fat": 10,
+      "sodium": 250,
+      "sugar": 14,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "chocolate butter cookies": {
+      "calories": 520,
+      "protein": 6,
+      "carbs": 56,
+      "fat": 30,
+      "sodium": 240,
+      "sugar": 32,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "pistachio express": {
+      "calories": 300,
+      "protein": 7,
+      "carbs": 34,
+      "fat": 15,
+      "sodium": 180,
+      "sugar": 16,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Contains nuts",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "lucky banana cake 蕉财进宝": {
+      "calories": 380,
+      "protein": 5,
+      "carbs": 52,
+      "fat": 17,
+      "sodium": 240,
+      "sugar": 32,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains fruit"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "sugar donut": {
+      "calories": 260,
+      "protein": 4,
+      "carbs": 32,
+      "fat": 12,
+      "sodium": 280,
+      "sugar": 16,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "maple muffin": {
+      "calories": 380,
+      "protein": 5,
+      "carbs": 50,
+      "fat": 17,
+      "sodium": 380,
+      "sugar": 26,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "jingle berry": {
+      "calories": 320,
+      "protein": 5,
+      "carbs": 42,
+      "fat": 14,
+      "sodium": 220,
+      "sugar": 22,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains fruit"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "salted egg kuih kapit 咸蛋香饼": {
+      "calories": 480,
+      "protein": 8,
+      "carbs": 58,
+      "fat": 24,
+      "sodium": 420,
+      "sugar": 28,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in sodium"
+      ]
+    },
+    "dark forest gâteau 6-inch": {
+      "calories": 2280,
+      "protein": 28,
+      "carbs": 252,
+      "fat": 120,
+      "sodium": 840,
+      "sugar": 210,
+      "fiber": 6,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "butter cookies": {
+      "calories": 520,
+      "protein": 6,
+      "carbs": 56,
+      "fat": 30,
+      "sodium": 240,
+      "sugar": 28,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "cheese shio pan": {
+      "calories": 280,
+      "protein": 8,
+      "carbs": 28,
+      "fat": 15,
+      "sodium": 520,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "chocolate donut": {
+      "calories": 310,
+      "protein": 4,
+      "carbs": 42,
+      "fat": 14,
+      "sodium": 180,
+      "sugar": 28,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Tree Nut"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "orange steam cake (ala carte)": {
+      "calories": 180,
+      "protein": 3,
+      "carbs": 32,
+      "fat": 5,
+      "sodium": 150,
+      "sugar": 18,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "scallion butter cookie": {
+      "calories": 520,
+      "protein": 7,
+      "carbs": 56,
+      "fat": 30,
+      "sodium": 680,
+      "sugar": 12,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "pretty pink (slice)": {
+      "calories": 280,
+      "protein": 4,
+      "carbs": 38,
+      "fat": 12,
+      "sodium": 120,
+      "sugar": 32,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "sesame shio pan": {
+      "calories": 300,
+      "protein": 8,
+      "carbs": 30,
+      "fat": 16,
+      "sodium": 580,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of sesame seeds"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "coffee palmier french pastry (5pcs/pkt)": {
+      "calories": 380,
+      "protein": 5,
+      "carbs": 42,
+      "fat": 21,
+      "sodium": 240,
+      "sugar": 16,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sugar"
+      ]
+    },
+    "rainbow donut": {
+      "calories": 300,
+      "protein": 3,
+      "carbs": 40,
+      "fat": 14,
+      "sodium": 160,
+      "sugar": 26,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "choco layer brulee tart": {
+      "calories": 380,
+      "protein": 6,
+      "carbs": 38,
+      "fat": 22,
+      "sodium": 200,
+      "sugar": 24,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "palmier french pastry (5pcs/pkt)": {
+      "calories": 360,
+      "protein": 4,
+      "carbs": 40,
+      "fat": 20,
+      "sodium": 220,
+      "sugar": 14,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sugar"
+      ]
+    },
+    "pretty pink (4-inch)": {
+      "calories": 1120,
+      "protein": 16,
+      "carbs": 152,
+      "fat": 48,
+      "sodium": 480,
+      "sugar": 128,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "mini pineapple pastry": {
+      "calories": 480,
+      "protein": 6,
+      "carbs": 58,
+      "fat": 24,
+      "sodium": 400,
+      "sugar": 18,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in saturated fat"
+      ]
+    },
+    "peanut momoji": {
+      "calories": 240,
+      "protein": 6,
+      "carbs": 28,
+      "fat": 12,
+      "sodium": 140,
+      "sugar": 14,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Peanut",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "pretty pink (6-inch)": {
+      "calories": 1680,
+      "protein": 24,
+      "carbs": 228,
+      "fat": 72,
+      "sodium": 720,
+      "sugar": 192,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "chocolate palmier french pastry 5pcs": {
+      "calories": 400,
+      "protein": 5,
+      "carbs": 44,
+      "fat": 23,
+      "sodium": 260,
+      "sugar": 20,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "banana cake": {
+      "calories": 210,
+      "protein": 3,
+      "carbs": 34,
+      "fat": 7,
+      "sodium": 160,
+      "sugar": 16,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of potassium"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "sunflower": {
+      "calories": 320,
+      "protein": 9,
+      "carbs": 32,
+      "fat": 17,
+      "sodium": 280,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Tree Nut",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Good source of vitamin E"
+      ],
+      "healthWarnings": [
+        "High in saturated fat"
+      ]
+    },
+    "black sesame momoji": {
+      "calories": 250,
+      "protein": 6,
+      "carbs": 30,
+      "fat": 12,
+      "sodium": 160,
+      "sugar": 14,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Sesame",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "jasmine light cheese cake": {
+      "calories": 420,
+      "protein": 9,
+      "carbs": 52,
+      "fat": 20,
+      "sodium": 380,
+      "sugar": 38,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "sausage standard": {
+      "calories": 280,
+      "protein": 12,
+      "carbs": 38,
+      "fat": 8,
+      "sodium": 520,
+      "sugar": 8,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in sugar"
+      ]
+    },
+    "cheese sausage": {
+      "calories": 310,
+      "protein": 13,
+      "carbs": 39,
+      "fat": 11,
+      "sodium": 580,
+      "sugar": 8,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in sugar"
+      ]
+    },
+    "kopimisu box": {
+      "calories": 420,
+      "protein": 8,
+      "carbs": 52,
+      "fat": 20,
+      "sodium": 280,
+      "sugar": 38,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "berry lovely 草莓巧克力": {
+      "calories": 240,
+      "protein": 3,
+      "carbs": 42,
+      "fat": 7,
+      "sodium": 180,
+      "sugar": 28,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in calories"
+      ]
+    },
+    "anpan": {
+      "calories": 220,
+      "protein": 5,
+      "carbs": 42,
+      "fat": 3,
+      "sodium": 200,
+      "sugar": 18,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "ham & cheese": {
+      "calories": 290,
+      "protein": 13,
+      "carbs": 35,
+      "fat": 10,
+      "sodium": 620,
+      "sugar": 6,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "butter sugar loaf": {
+      "calories": 240,
+      "protein": 4,
+      "carbs": 36,
+      "fat": 9,
+      "sodium": 280,
+      "sugar": 12,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "get cheesy": {
+      "calories": 270,
+      "protein": 10,
+      "carbs": 32,
+      "fat": 11,
+      "sodium": 450,
+      "sugar": 5,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "tuna": {
+      "calories": 260,
+      "protein": 11,
+      "carbs": 34,
+      "fat": 8,
+      "sodium": 540,
+      "sugar": 4,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Fish",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Good source of omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "mixed fruits yogurt 4-inch": {
+      "calories": 500,
+      "protein": 8,
+      "carbs": 60,
+      "fat": 25,
+      "sodium": 300,
+      "sugar": 46,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "spicy tuna": {
+      "calories": 310,
+      "protein": 13,
+      "carbs": 38,
+      "fat": 10,
+      "sodium": 620,
+      "sugar": 5,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Fish",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "mixed fruits yogurt 6-inch": {
+      "calories": 750,
+      "protein": 12,
+      "carbs": 90,
+      "fat": 38,
+      "sodium": 450,
+      "sugar": 69,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "pesto tomato": {
+      "calories": 280,
+      "protein": 9,
+      "carbs": 36,
+      "fat": 10,
+      "sodium": 480,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Tree Nut",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "mangococo 4-inch": {
+      "calories": 320,
+      "protein": 4,
+      "carbs": 42,
+      "fat": 15,
+      "sodium": 180,
+      "sugar": 32,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "mangococo 6-inch": {
+      "calories": 480,
+      "protein": 6,
+      "carbs": 63,
+      "fat": 23,
+      "sodium": 270,
+      "sugar": 48,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "hawaiian paradise": {
+      "calories": 310,
+      "protein": 7,
+      "carbs": 42,
+      "fat": 12,
+      "sodium": 350,
+      "sugar": 16,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains tropical fruits"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "mixed fruits yogurt": {
+      "calories": 220,
+      "protein": 8,
+      "carbs": 32,
+      "fat": 6,
+      "sodium": 160,
+      "sugar": 22,
+      "fiber": 2,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains probiotics",
+        "Contains fruit"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "golden nacho cheese": {
+      "calories": 290,
+      "protein": 7,
+      "carbs": 32,
+      "fat": 14,
+      "sodium": 520,
+      "sugar": 4,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "lychee rose": {
+      "calories": 240,
+      "protein": 4,
+      "carbs": 36,
+      "fat": 9,
+      "sodium": 150,
+      "sugar": 28,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains lychee"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "hearty sausage croissant": {
+      "calories": 310,
+      "protein": 11,
+      "carbs": 28,
+      "fat": 17,
+      "sodium": 580,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains whole grain"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "strawberry shortcake 6-inch": {
+      "calories": 520,
+      "protein": 7,
+      "carbs": 68,
+      "fat": 24,
+      "sodium": 280,
+      "sugar": 48,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains strawberry"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "lychee rose 4-inch": {
+      "calories": 320,
+      "protein": 4,
+      "carbs": 48,
+      "fat": 12,
+      "sodium": 180,
+      "sugar": 38,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains lychee"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "choco caramel corn": {
+      "calories": 310,
+      "protein": 5,
+      "carbs": 42,
+      "fat": 13,
+      "sodium": 220,
+      "sugar": 30,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Good source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "strawberry shortcake": {
+      "calories": 260,
+      "protein": 4,
+      "carbs": 35,
+      "fat": 12,
+      "sodium": 180,
+      "sugar": 26,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains strawberry"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "strawberry shortcake 4-inch": {
+      "calories": 380,
+      "protein": 5,
+      "carbs": 50,
+      "fat": 18,
+      "sodium": 240,
+      "sugar": 38,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains strawberry"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "lychee rose 6-inch": {
+      "calories": 480,
+      "protein": 6,
+      "carbs": 72,
+      "fat": 18,
+      "sodium": 270,
+      "sugar": 56,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains lychee"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    }
+  }
+}

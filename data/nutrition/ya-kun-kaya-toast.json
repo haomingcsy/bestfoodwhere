@@ -1,0 +1,76 @@
+{
+  "brand": "ya-kun-kaya-toast",
+  "generatedAt": "2026-02-21T12:22:15.847Z",
+  "items": {
+    "hot beverages": {
+      "calories": 120,
+      "protein": 3,
+      "carbs": 18,
+      "fat": 3,
+      "sodium": 95,
+      "sugar": 12,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains caffeine"
+      ]
+    },
+    "asian signatures": {
+      "calories": 380,
+      "protein": 9,
+      "carbs": 42,
+      "fat": 18,
+      "sodium": 520,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Egg",
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "nutrition information": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": []
+    },
+    "cold beverages": {
+      "calories": 180,
+      "protein": 2,
+      "carbs": 35,
+      "fat": 2,
+      "sodium": 110,
+      "sugar": 28,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in calories"
+      ]
+    }
+  }
+}

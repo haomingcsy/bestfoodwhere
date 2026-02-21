@@ -1,0 +1,175 @@
+{
+  "brand": "tajimaya-yakiniku-vivocity",
+  "generatedAt": "2026-02-21T11:58:12.688Z",
+  "items": {
+    "pepsi black": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 55,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Artificial sweeteners",
+        "High in sodium"
+      ]
+    },
+    "set a - premium beef set": {
+      "calories": 1850,
+      "protein": 145,
+      "carbs": 65,
+      "fat": 115,
+      "sodium": 1450,
+      "sugar": 8,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "High in B vitamins",
+        "Source of omega-3"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "pepsi": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 39,
+      "fat": 0,
+      "sodium": 55,
+      "sugar": 39,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in sodium"
+      ]
+    },
+    "set b - japanese beef and pork": {
+      "calories": 1680,
+      "protein": 125,
+      "carbs": 65,
+      "fat": 100,
+      "sodium": 1380,
+      "sugar": 8,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "set c - premium combination set": {
+      "calories": 1520,
+      "protein": 135,
+      "carbs": 65,
+      "fat": 85,
+      "sodium": 1400,
+      "sugar": 8,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Shellfish",
+        "Fish",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in omega-3",
+        "Good source of selenium",
+        "Rich in B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate saturated fat",
+        "High in calories"
+      ]
+    },
+    "7 up": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 36,
+      "fat": 0,
+      "sodium": 75,
+      "sugar": 36,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in sodium"
+      ]
+    },
+    "set d - premium beef and pork": {
+      "calories": 1750,
+      "protein": 135,
+      "carbs": 65,
+      "fat": 105,
+      "sodium": 1420,
+      "sugar": 8,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "set e - premium pork": {
+      "calories": 1650,
+      "protein": 130,
+      "carbs": 65,
+      "fat": 95,
+      "sodium": 1380,
+      "sugar": 8,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in B vitamins",
+        "Good source of selenium"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium",
+        "High in calories"
+      ]
+    }
+  }
+}

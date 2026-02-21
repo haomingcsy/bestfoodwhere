@@ -1,0 +1,963 @@
+{
+  "brand": "shabu-sai-causeway-point",
+  "generatedAt": "2026-02-21T11:36:23.134Z",
+  "items": {
+    "fresh egg": {
+      "calories": 155,
+      "protein": 13,
+      "carbs": 1.1,
+      "fat": 11,
+      "sodium": 140,
+      "sugar": 0.6,
+      "fiber": 0,
+      "allergens": [
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in choline",
+        "Contains lutein"
+      ],
+      "healthWarnings": []
+    },
+    "fish ball (10 pieces)": {
+      "calories": 180,
+      "protein": 16,
+      "carbs": 8,
+      "fat": 8,
+      "sodium": 520,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Fish",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "ramen (150g)": {
+      "calories": 280,
+      "protein": 9,
+      "carbs": 54,
+      "fat": 2,
+      "sodium": 840,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in carbohydrates"
+      ]
+    },
+    "set a (2-3 pax)": {
+      "calories": 2450,
+      "protein": 185,
+      "carbs": 145,
+      "fat": 95,
+      "sodium": 3200,
+      "sugar": 12,
+      "fiber": 18,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Shellfish",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of vitamins and minerals"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "sukiyaki": {
+      "calories": 890,
+      "protein": 42,
+      "carbs": 85,
+      "fat": 38,
+      "sodium": 2800,
+      "sugar": 18,
+      "fiber": 8,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in sugar"
+      ]
+    },
+    "ice lemon tea": {
+      "calories": 120,
+      "protein": 0,
+      "carbs": 30,
+      "fat": 0,
+      "sodium": 25,
+      "sugar": 28,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "long cabbage (300g)": {
+      "calories": 54,
+      "protein": 2.7,
+      "carbs": 10,
+      "fat": 0.3,
+      "sodium": 90,
+      "sugar": 2,
+      "fiber": 2.4,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in calories",
+        "High in fiber",
+        "Rich in vitamins"
+      ],
+      "healthWarnings": []
+    },
+    "king tiger prawn (3 pieces)": {
+      "calories": 285,
+      "protein": 54,
+      "carbs": 0,
+      "fat": 3.5,
+      "sodium": 420,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "Very high in protein",
+        "Low in fat",
+        "Rich in selenium"
+      ],
+      "healthWarnings": []
+    },
+    "beef 150g": {
+      "calories": 280,
+      "protein": 38,
+      "carbs": 0,
+      "fat": 13,
+      "sodium": 75,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in saturated fat"
+      ]
+    },
+    "shrimp paste": {
+      "calories": 95,
+      "protein": 14,
+      "carbs": 3,
+      "fat": 3,
+      "sodium": 1450,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Shellfish",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "Very high in sodium"
+      ]
+    },
+    "tonkotsu": {
+      "calories": 920,
+      "protein": 44,
+      "carbs": 92,
+      "fat": 41,
+      "sodium": 2900,
+      "sugar": 16,
+      "fiber": 6,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of collagen"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "set b (4-5 pax)": {
+      "calories": 4120,
+      "protein": 340,
+      "carbs": 185,
+      "fat": 168,
+      "sodium": 5200,
+      "sugar": 18,
+      "fiber": 24,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Shellfish",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Very high in protein",
+        "Good source of vitamins and minerals"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in saturated fat",
+        "Very high in calories"
+      ]
+    },
+    "salmon (300g)": {
+      "calories": 550,
+      "protein": 64,
+      "carbs": 0,
+      "fat": 31,
+      "sodium": 130,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Very high in protein",
+        "Rich in omega-3 fatty acids",
+        "Good source of vitamin D"
+      ],
+      "healthWarnings": []
+    },
+    "pork collar 150g": {
+      "calories": 285,
+      "protein": 32,
+      "carbs": 0,
+      "fat": 17,
+      "sodium": 85,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in saturated fat"
+      ]
+    },
+    "salmon fish ball (5 pieces)": {
+      "calories": 185,
+      "protein": 18,
+      "carbs": 7,
+      "fat": 9,
+      "sodium": 480,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Fish",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "udon (200g)": {
+      "calories": 270,
+      "protein": 8,
+      "carbs": 56,
+      "fat": 1,
+      "sodium": 680,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in carbohydrates"
+      ]
+    },
+    "golden mushroom (100g)": {
+      "calories": 32,
+      "protein": 2.8,
+      "carbs": 4.5,
+      "fat": 0.3,
+      "sodium": 8,
+      "sugar": 1.8,
+      "fiber": 1.2,
+      "allergens": [],
+      "healthBenefits": [
+        "Very low in calories",
+        "Rich in antioxidants",
+        "Good source of vitamins"
+      ],
+      "healthWarnings": []
+    },
+    "sprite": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 36,
+      "fat": 0,
+      "sodium": 65,
+      "sugar": 35,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Very high in sugar"
+      ]
+    },
+    "chicken 150g": {
+      "calories": 248,
+      "protein": 42,
+      "carbs": 0,
+      "fat": 8.5,
+      "sodium": 88,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Very high in protein",
+        "Low in fat",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": []
+    },
+    "half shelled scallop (4 pieces)": {
+      "calories": 128,
+      "protein": 24,
+      "carbs": 3,
+      "fat": 1.2,
+      "sodium": 310,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "Very high in protein",
+        "Low in fat",
+        "Rich in selenium"
+      ],
+      "healthWarnings": []
+    },
+    "individual set meal for 1 pax": {
+      "calories": 650,
+      "protein": 42,
+      "carbs": 58,
+      "fat": 24,
+      "sodium": 1280,
+      "sugar": 3,
+      "fiber": 5,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Shellfish",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables",
+        "Balanced meal"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in saturated fat"
+      ]
+    },
+    "coke": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 39,
+      "fat": 0,
+      "sodium": 55,
+      "sugar": 39,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "yuzu collagen": {
+      "calories": 180,
+      "protein": 18,
+      "carbs": 12,
+      "fat": 6,
+      "sodium": 920,
+      "sugar": 8,
+      "fiber": 1,
+      "allergens": [
+        "Fish",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains collagen",
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "shimeji mushroom (150g)": {
+      "calories": 27,
+      "protein": 3,
+      "carbs": 4,
+      "fat": 0,
+      "sodium": 8,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in calories",
+        "Good source of fiber",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "cheese tofu (5 pieces)": {
+      "calories": 140,
+      "protein": 12,
+      "carbs": 6,
+      "fat": 8,
+      "sodium": 380,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains calcium"
+      ],
+      "healthWarnings": [
+        "Moderate in sodium",
+        "Moderate in saturated fat"
+      ]
+    },
+    "beef tsukune": {
+      "calories": 220,
+      "protein": 24,
+      "carbs": 2,
+      "fat": 13,
+      "sodium": 450,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in saturated fat"
+      ]
+    },
+    "rice vermicelli (100g)": {
+      "calories": 190,
+      "protein": 3,
+      "carbs": 43,
+      "fat": 0,
+      "sodium": 2,
+      "sugar": 0,
+      "fiber": 1,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "High in carbohydrates"
+      ]
+    },
+    "rice": {
+      "calories": 130,
+      "protein": 3,
+      "carbs": 28,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "High in carbohydrates"
+      ]
+    },
+    "asari (500g)": {
+      "calories": 280,
+      "protein": 52,
+      "carbs": 5,
+      "fat": 2,
+      "sodium": 1100,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "Very high in protein",
+        "Low in fat",
+        "Rich in iron",
+        "High in omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Shellfish allergen"
+      ]
+    },
+    "pork belly 150g": {
+      "calories": 380,
+      "protein": 28,
+      "carbs": 0,
+      "fat": 31,
+      "sodium": 72,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "Very high in fat",
+        "High in saturated fat"
+      ]
+    },
+    "spicy": {
+      "calories": 120,
+      "protein": 3,
+      "carbs": 8,
+      "fat": 8,
+      "sodium": 1680,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Low in calories"
+      ],
+      "healthWarnings": [
+        "Very high in sodium"
+      ]
+    },
+    "vegetable platter": {
+      "calories": 85,
+      "protein": 8,
+      "carbs": 14,
+      "fat": 1,
+      "sodium": 120,
+      "sugar": 4,
+      "fiber": 4,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Low in calories",
+        "Good source of fiber",
+        "Rich in vitamins",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "pork tsukune": {
+      "calories": 180,
+      "protein": 20,
+      "carbs": 2,
+      "fat": 10,
+      "sodium": 400,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "Moderate in saturated fat"
+      ]
+    },
+    "shanghai green (200g)": {
+      "calories": 32,
+      "protein": 4,
+      "carbs": 5,
+      "fat": 0,
+      "sodium": 80,
+      "sugar": 1,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "Very low in calories",
+        "Good source of fiber",
+        "Rich in vitamins",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "wagyu 150g": {
+      "calories": 480,
+      "protein": 35,
+      "carbs": 0,
+      "fat": 39,
+      "sodium": 72,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron"
+      ],
+      "healthWarnings": [
+        "Very high in fat",
+        "Very high in saturated fat"
+      ]
+    },
+    "tofu (100g)": {
+      "calories": 76,
+      "protein": 8,
+      "carbs": 2,
+      "fat": 5,
+      "sodium": 7,
+      "sugar": 0,
+      "fiber": 1,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Low in calories",
+        "Contains calcium"
+      ],
+      "healthWarnings": []
+    },
+    "pork & chives dumpling (8 pieces)": {
+      "calories": 240,
+      "protein": 12,
+      "carbs": 26,
+      "fat": 10,
+      "sodium": 580,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in carbohydrates"
+      ]
+    },
+    "baby abalone (8 pieces)": {
+      "calories": 320,
+      "protein": 58,
+      "carbs": 8,
+      "fat": 2,
+      "sodium": 980,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "Very high in protein",
+        "Low in fat",
+        "Rich in minerals"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Shellfish allergen"
+      ]
+    },
+    "seaweed": {
+      "calories": 75,
+      "protein": 2,
+      "carbs": 14,
+      "fat": 1,
+      "sodium": 1420,
+      "sugar": 1,
+      "fiber": 2,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Low in calories",
+        "Good source of iodine",
+        "Rich in minerals"
+      ],
+      "healthWarnings": [
+        "Very high in sodium"
+      ]
+    },
+    "sauce & condiments set": {
+      "calories": 45,
+      "protein": 2,
+      "carbs": 6,
+      "fat": 1,
+      "sodium": 620,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Sesame",
+        "Fish"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "pork & preserved veg dumpling (8 pieces)": {
+      "calories": 240,
+      "protein": 12,
+      "carbs": 28,
+      "fat": 8,
+      "sodium": 520,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Pork"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "wakame seaweed (100g)": {
+      "calories": 45,
+      "protein": 3,
+      "carbs": 9,
+      "fat": 0.5,
+      "sodium": 1200,
+      "sugar": 1,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "Rich in iodine",
+        "High in minerals",
+        "Low calorie"
+      ],
+      "healthWarnings": [
+        "Very high in sodium"
+      ]
+    },
+    "tomato (category: soup (3 litre))": {
+      "calories": 180,
+      "protein": 6,
+      "carbs": 32,
+      "fat": 4,
+      "sodium": 680,
+      "sugar": 8,
+      "fiber": 3,
+      "allergens": [],
+      "healthBenefits": [
+        "Rich in lycopene",
+        "Good source of vitamin C",
+        "High in fiber"
+      ],
+      "healthWarnings": [
+        "Moderate sodium content"
+      ]
+    },
+    "pork & mushroom dumpling (8 pieces)": {
+      "calories": 220,
+      "protein": 11,
+      "carbs": 26,
+      "fat": 7,
+      "sodium": 480,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Pork"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains mushroom nutrients"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "carrot (200g)": {
+      "calories": 82,
+      "protein": 1.5,
+      "carbs": 19,
+      "fat": 0.3,
+      "sodium": 80,
+      "sugar": 9,
+      "fiber": 3.5,
+      "allergens": [],
+      "healthBenefits": [
+        "High in beta-carotene",
+        "Good source of fiber",
+        "Low calorie"
+      ],
+      "healthWarnings": []
+    },
+    "jap leek (200g)": {
+      "calories": 54,
+      "protein": 2,
+      "carbs": 12,
+      "fat": 0.2,
+      "sodium": 20,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of vitamin K",
+        "Contains antioxidants",
+        "Low calorie"
+      ],
+      "healthWarnings": []
+    },
+    "shiitake mushroom (100g)": {
+      "calories": 34,
+      "protein": 2.2,
+      "carbs": 6.8,
+      "fat": 0.3,
+      "sodium": 10,
+      "sugar": 0.3,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Rich in vitamin D",
+        "Good source of antioxidants",
+        "Low calorie"
+      ],
+      "healthWarnings": []
+    },
+    "potato (200g)": {
+      "calories": 154,
+      "protein": 2.8,
+      "carbs": 35,
+      "fat": 0.2,
+      "sodium": 20,
+      "sugar": 1,
+      "fiber": 2.4,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of potassium",
+        "Contains vitamin C",
+        "Naturally gluten-free"
+      ],
+      "healthWarnings": []
+    },
+    "tau pok (4 pieces)": {
+      "calories": 180,
+      "protein": 15,
+      "carbs": 6,
+      "fat": 10,
+      "sodium": 380,
+      "sugar": 1,
+      "fiber": 1.5,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Excellent source of plant protein",
+        "High in iron",
+        "Contains isoflavones"
+      ],
+      "healthWarnings": [
+        "Moderate sodium content"
+      ]
+    },
+    "tomato (200g)": {
+      "calories": 36,
+      "protein": 1.5,
+      "carbs": 8,
+      "fat": 0.3,
+      "sodium": 12,
+      "sugar": 4.5,
+      "fiber": 1.5,
+      "allergens": [],
+      "healthBenefits": [
+        "Rich in lycopene",
+        "Good source of vitamin C",
+        "Low calorie"
+      ],
+      "healthWarnings": []
+    },
+    "hk kailan (300g)": {
+      "calories": 60,
+      "protein": 4,
+      "carbs": 11,
+      "fat": 0.5,
+      "sodium": 80,
+      "sugar": 1,
+      "fiber": 2.5,
+      "allergens": [],
+      "healthBenefits": [
+        "High in calcium",
+        "Rich in vitamins A and C",
+        "Good source of fiber"
+      ],
+      "healthWarnings": []
+    }
+  }
+}

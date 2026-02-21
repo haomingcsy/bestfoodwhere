@@ -1,0 +1,1012 @@
+{
+  "brand": "hollin",
+  "generatedAt": "2026-02-16T15:25:22.201Z",
+  "items": {
+    "yuzu oolong tea": {
+      "calories": 120,
+      "protein": 0,
+      "carbs": 30,
+      "fat": 0,
+      "sodium": 25,
+      "sugar": 28,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants from tea",
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "lychee rock salt macchiato": {
+      "calories": 240,
+      "protein": 6,
+      "carbs": 35,
+      "fat": 8,
+      "sodium": 180,
+      "sugar": 32,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of calcium from milk"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in sodium"
+      ]
+    },
+    "milk tea": {
+      "calories": 180,
+      "protein": 4,
+      "carbs": 28,
+      "fat": 6,
+      "sodium": 90,
+      "sugar": 26,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "hollin black tea latte": {
+      "calories": 200,
+      "protein": 6,
+      "carbs": 26,
+      "fat": 7,
+      "sodium": 85,
+      "sugar": 24,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "peach yakult": {
+      "calories": 210,
+      "protein": 3,
+      "carbs": 48,
+      "fat": 1,
+      "sodium": 60,
+      "sugar": 45,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains probiotics from Yakult",
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "Very high in sugar"
+      ]
+    },
+    "yuzu green tea": {
+      "calories": 110,
+      "protein": 0,
+      "carbs": 28,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 26,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "oolong milk tea": {
+      "calories": 190,
+      "protein": 4,
+      "carbs": 29,
+      "fat": 6,
+      "sodium": 95,
+      "sugar": 27,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of calcium",
+        "Contains tea antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "yakult green tea": {
+      "calories": 180,
+      "protein": 2,
+      "carbs": 42,
+      "fat": 1,
+      "sodium": 50,
+      "sugar": 40,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains probiotics",
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "green tea latte": {
+      "calories": 190,
+      "protein": 6,
+      "carbs": 25,
+      "fat": 7,
+      "sodium": 80,
+      "sugar": 23,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "yuzu oolong rock salt macchiato": {
+      "calories": 250,
+      "protein": 6,
+      "carbs": 36,
+      "fat": 8,
+      "sodium": 200,
+      "sugar": 34,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in sodium"
+      ]
+    },
+    "lychee yakult": {
+      "calories": 200,
+      "protein": 2,
+      "carbs": 46,
+      "fat": 1,
+      "sodium": 55,
+      "sugar": 42,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains probiotics",
+        "Caffeine-free",
+        "Low sugar added"
+      ],
+      "healthWarnings": [
+        "High in sugar from fruit and Yakult"
+      ]
+    },
+    "peach oolong": {
+      "calories": 130,
+      "protein": 0,
+      "carbs": 32,
+      "fat": 0,
+      "sodium": 30,
+      "sugar": 30,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "peach rock salt macchiato": {
+      "calories": 235,
+      "protein": 6,
+      "carbs": 34,
+      "fat": 8,
+      "sodium": 175,
+      "sugar": 32,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in sodium"
+      ]
+    },
+    "green milk tea": {
+      "calories": 175,
+      "protein": 4,
+      "carbs": 27,
+      "fat": 6,
+      "sodium": 85,
+      "sugar": 25,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of calcium",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "earl grey latte": {
+      "calories": 205,
+      "protein": 6,
+      "carbs": 26,
+      "fat": 7,
+      "sodium": 90,
+      "sugar": 24,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "earl grey milk tea": {
+      "calories": 190,
+      "protein": 4,
+      "carbs": 29,
+      "fat": 6,
+      "sodium": 95,
+      "sugar": 27,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of calcium",
+        "Contains tea antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "oolong rock salt macchiato": {
+      "calories": 220,
+      "protein": 6,
+      "carbs": 30,
+      "fat": 8,
+      "sodium": 170,
+      "sugar": 28,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of calcium",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in sodium"
+      ]
+    },
+    "peach green tea": {
+      "calories": 125,
+      "protein": 0,
+      "carbs": 31,
+      "fat": 0,
+      "sodium": 25,
+      "sugar": 29,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "caramel black tea latte": {
+      "calories": 240,
+      "protein": 6,
+      "carbs": 35,
+      "fat": 7,
+      "sodium": 95,
+      "sugar": 32,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of calcium",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "lime yakult": {
+      "calories": 195,
+      "protein": 2,
+      "carbs": 45,
+      "fat": 1,
+      "sodium": 50,
+      "sugar": 42,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains probiotics",
+        "Caffeine-free",
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "caramel milk tea": {
+      "calories": 180,
+      "protein": 0.5,
+      "carbs": 42,
+      "fat": 0.2,
+      "sodium": 45,
+      "sugar": 38,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in carbohydrates"
+      ]
+    },
+    "soursop yakult": {
+      "calories": 140,
+      "protein": 1,
+      "carbs": 28,
+      "fat": 1.5,
+      "sodium": 85,
+      "sugar": 18,
+      "fiber": 0.5,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "No sugar added",
+        "Contains probiotics",
+        "Non caffeinated"
+      ],
+      "healthWarnings": []
+    },
+    "hazelnut black tea latte": {
+      "calories": 220,
+      "protein": 5,
+      "carbs": 28,
+      "fat": 9,
+      "sodium": 120,
+      "sugar": 24,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from black tea"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Moderate in saturated fat"
+      ]
+    },
+    "black tea rock salt macchiato": {
+      "calories": 150,
+      "protein": 4,
+      "carbs": 18,
+      "fat": 5,
+      "sodium": 280,
+      "sugar": 14,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from black tea",
+        "Lower sugar than other lattes"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "lychee green tea": {
+      "calories": 140,
+      "protein": 0.3,
+      "carbs": 34,
+      "fat": 0.1,
+      "sodium": 50,
+      "sugar": 32,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants from green tea",
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in carbohydrates"
+      ]
+    },
+    "green tea": {
+      "calories": 80,
+      "protein": 0.2,
+      "carbs": 18,
+      "fat": 0.1,
+      "sodium": 40,
+      "sugar": 16,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants from green tea",
+        "Low in calories",
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "Moderate in sugar"
+      ]
+    },
+    "shizuoka matcha latte": {
+      "calories": 190,
+      "protein": 5,
+      "carbs": 24,
+      "fat": 7,
+      "sodium": 110,
+      "sugar": 18,
+      "fiber": 0.5,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Rich in antioxidants from matcha",
+        "Contains L-theanine"
+      ],
+      "healthWarnings": [
+        "Moderate in sugar",
+        "Moderate in saturated fat"
+      ]
+    },
+    "pink guava yakult": {
+      "calories": 140,
+      "protein": 1,
+      "carbs": 28,
+      "fat": 1.5,
+      "sodium": 85,
+      "sugar": 18,
+      "fiber": 0.5,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "No sugar added",
+        "Contains probiotics",
+        "Non caffeinated"
+      ],
+      "healthWarnings": []
+    },
+    "hazelnut milk tea": {
+      "calories": 200,
+      "protein": 1,
+      "carbs": 40,
+      "fat": 4,
+      "sodium": 60,
+      "sugar": 36,
+      "fiber": 0,
+      "allergens": [
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in carbohydrates"
+      ]
+    },
+    "green tea rock salt macchiato": {
+      "calories": 140,
+      "protein": 3.5,
+      "carbs": 16,
+      "fat": 4.5,
+      "sodium": 270,
+      "sugar": 12,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from green tea",
+        "Lower sugar option"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "black tea": {
+      "calories": 75,
+      "protein": 0.2,
+      "carbs": 17,
+      "fat": 0.1,
+      "sodium": 35,
+      "sugar": 15,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants from black tea",
+        "Low in calories",
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "Moderate in sugar"
+      ]
+    },
+    "earl grey rock salt macchiato": {
+      "calories": 150,
+      "protein": 4,
+      "carbs": 18,
+      "fat": 5,
+      "sodium": 280,
+      "sugar": 14,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from Earl Grey tea",
+        "Lower sugar than other lattes"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "pure fresh milk": {
+      "calories": 160,
+      "protein": 8,
+      "carbs": 12,
+      "fat": 8,
+      "sodium": 130,
+      "sugar": 12,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Good source of calcium"
+      ],
+      "healthWarnings": [
+        "Moderate in saturated fat"
+      ]
+    },
+    "rocher oolong milk tea": {
+      "calories": 220,
+      "protein": 1.5,
+      "carbs": 42,
+      "fat": 5,
+      "sodium": 70,
+      "sugar": 38,
+      "fiber": 0,
+      "allergens": [
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from oolong tea"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in carbohydrates"
+      ]
+    },
+    "mango yakult": {
+      "calories": 140,
+      "protein": 1,
+      "carbs": 28,
+      "fat": 1.5,
+      "sodium": 85,
+      "sugar": 18,
+      "fiber": 0.5,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "No sugar added",
+        "Contains probiotics",
+        "Non caffeinated"
+      ],
+      "healthWarnings": []
+    },
+    "oolong tea": {
+      "calories": 80,
+      "protein": 0.2,
+      "carbs": 18,
+      "fat": 0.1,
+      "sodium": 40,
+      "sugar": 16,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants from oolong tea",
+        "Low in calories",
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "Moderate in sugar"
+      ]
+    },
+    "strawberry yakult": {
+      "calories": 140,
+      "protein": 1,
+      "carbs": 28,
+      "fat": 1.5,
+      "sodium": 85,
+      "sugar": 18,
+      "fiber": 0.5,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "No sugar added",
+        "Contains probiotics",
+        "Non caffeinated"
+      ],
+      "healthWarnings": []
+    },
+    "honey black tea latte/green tea latte": {
+      "calories": 200,
+      "protein": 5,
+      "carbs": 26,
+      "fat": 7,
+      "sodium": 115,
+      "sugar": 20,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from tea",
+        "No sugar added"
+      ],
+      "healthWarnings": [
+        "Moderate in sugar",
+        "Moderate in saturated fat"
+      ]
+    },
+    "rocher milk tea": {
+      "calories": 220,
+      "protein": 1.5,
+      "carbs": 42,
+      "fat": 5,
+      "sodium": 70,
+      "sugar": 38,
+      "fiber": 0,
+      "allergens": [
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in carbohydrates"
+      ]
+    },
+    "matcha rock salt macchiato": {
+      "calories": 170,
+      "protein": 4,
+      "carbs": 20,
+      "fat": 6,
+      "sodium": 260,
+      "sugar": 14,
+      "fiber": 0.5,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Rich in antioxidants from matcha",
+        "Contains L-theanine",
+        "Lower sugar option"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "caramel black tea rock salt macchiato": {
+      "calories": 280,
+      "protein": 3,
+      "carbs": 38,
+      "fat": 12,
+      "sodium": 320,
+      "sugar": 32,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from black tea"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "earl grey tea": {
+      "calories": 120,
+      "protein": 2,
+      "carbs": 18,
+      "fat": 3,
+      "sodium": 80,
+      "sugar": 15,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Low calorie"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "honey milk tea": {
+      "calories": 180,
+      "protein": 3,
+      "carbs": 28,
+      "fat": 5,
+      "sodium": 100,
+      "sugar": 22,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "No added sugar option",
+        "Contains honey"
+      ],
+      "healthWarnings": [
+        "Moderate sugar from honey",
+        "Contains dairy"
+      ]
+    },
+    "hazelnut black tea rock salt macchiato": {
+      "calories": 290,
+      "protein": 3,
+      "carbs": 40,
+      "fat": 13,
+      "sodium": 330,
+      "sugar": 34,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from black tea"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "Contains tree nuts"
+      ]
+    },
+    "lychee oolong": {
+      "calories": 140,
+      "protein": 1,
+      "carbs": 24,
+      "fat": 0,
+      "sodium": 70,
+      "sugar": 20,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants from oolong tea",
+        "Low fat"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "strawberry rock salt macchiato": {
+      "calories": 275,
+      "protein": 3,
+      "carbs": 37,
+      "fat": 11,
+      "sodium": 310,
+      "sugar": 31,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from strawberry"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "pink guava green tea": {
+      "calories": 130,
+      "protein": 1,
+      "carbs": 22,
+      "fat": 0,
+      "sodium": 65,
+      "sugar": 18,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains vitamin C from guava",
+        "Low fat"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "mango green tea": {
+      "calories": 150,
+      "protein": 1,
+      "carbs": 26,
+      "fat": 0,
+      "sodium": 75,
+      "sugar": 22,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants from green tea",
+        "Contains vitamin C"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "pink guava rock salt macchiato": {
+      "calories": 260,
+      "protein": 3,
+      "carbs": 35,
+      "fat": 11,
+      "sodium": 300,
+      "sugar": 29,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains vitamin C from guava"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "strawberry green tea": {
+      "calories": 155,
+      "protein": 1,
+      "carbs": 27,
+      "fat": 0,
+      "sodium": 80,
+      "sugar": 23,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants from green tea and strawberry"
+      ],
+      "healthWarnings": [
+        "Moderate to high sugar content"
+      ]
+    },
+    "mango rock salt macchiato": {
+      "calories": 285,
+      "protein": 3,
+      "carbs": 39,
+      "fat": 12,
+      "sodium": 320,
+      "sugar": 33,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains vitamin C from mango"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "honey green/black tea": {
+      "calories": 110,
+      "protein": 1,
+      "carbs": 20,
+      "fat": 0,
+      "sodium": 60,
+      "sugar": 16,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "No added sugar",
+        "Contains honey",
+        "Low calorie"
+      ],
+      "healthWarnings": [
+        "Moderate sugar from honey"
+      ]
+    },
+    "honey lime green tea": {
+      "calories": 115,
+      "protein": 1,
+      "carbs": 21,
+      "fat": 0,
+      "sodium": 65,
+      "sugar": 17,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "No added sugar",
+        "Contains vitamin C from lime",
+        "Low calorie"
+      ],
+      "healthWarnings": [
+        "Moderate sugar from honey"
+      ]
+    },
+    "honey lime juice": {
+      "calories": 120,
+      "protein": 1,
+      "carbs": 22,
+      "fat": 0,
+      "sodium": 70,
+      "sugar": 18,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "No added sugar",
+        "High in vitamin C",
+        "Low calorie"
+      ],
+      "healthWarnings": [
+        "Moderate sugar from honey"
+      ]
+    }
+  }
+}

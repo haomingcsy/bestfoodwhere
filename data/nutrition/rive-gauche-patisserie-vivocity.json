@@ -1,0 +1,97 @@
+{
+  "brand": "rive-gauche-patisserie-vivocity",
+  "generatedAt": "2026-02-21T11:24:30.719Z",
+  "items": {
+    "guanaja cake": {
+      "calories": 420,
+      "protein": 6,
+      "carbs": 38,
+      "fat": 28,
+      "sodium": 85,
+      "sugar": 32,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Source of antioxidants from cocoa"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in saturated fat",
+        "High in sugar"
+      ]
+    },
+    "chestnut chestnut cream with rum": {
+      "calories": 380,
+      "protein": 5,
+      "carbs": 42,
+      "fat": 21,
+      "sodium": 95,
+      "sugar": 35,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Contains chestnut nutrients"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sugar",
+        "Contains alcohol"
+      ]
+    },
+    "wild cherry in kirsch": {
+      "calories": 360,
+      "protein": 5,
+      "carbs": 40,
+      "fat": 19,
+      "sodium": 80,
+      "sugar": 33,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Source of antioxidants from cherries"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sugar",
+        "Contains alcohol"
+      ]
+    },
+    "chocolate truffle yuzu loci cake": {
+      "calories": 410,
+      "protein": 6,
+      "carbs": 36,
+      "fat": 27,
+      "sodium": 90,
+      "sugar": 31,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Source of antioxidants from cocoa and yuzu"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in saturated fat",
+        "High in sugar"
+      ]
+    }
+  }
+}

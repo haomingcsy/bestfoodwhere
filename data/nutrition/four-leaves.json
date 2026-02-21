@@ -1,0 +1,997 @@
+{
+  "brand": "four-leaves",
+  "generatedAt": "2026-02-21T10:34:44.744Z",
+  "items": {
+    "lychee delight - light and refreshing lychee-flavored cake": {
+      "calories": 280,
+      "protein": 3,
+      "carbs": 42,
+      "fat": 11,
+      "sodium": 180,
+      "sugar": 32,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains vitamin C from lychee"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "soccer mania cartoon - sports-themed cartoon cake": {
+      "calories": 320,
+      "protein": 4,
+      "carbs": 48,
+      "fat": 13,
+      "sodium": 220,
+      "sugar": 38,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "little tuna bun": {
+      "calories": 160,
+      "protein": 8,
+      "carbs": 22,
+      "fat": 4,
+      "sodium": 280,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3 from tuna"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "healthy tuna bun": {
+      "calories": 200,
+      "protein": 12,
+      "carbs": 28,
+      "fat": 5,
+      "sodium": 320,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3 from tuna"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "horoscope – aries design - zodiac-themed celebration cake": {
+      "calories": 350,
+      "protein": 5,
+      "carbs": 52,
+      "fat": 15,
+      "sodium": 240,
+      "sugar": 42,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "almond cookies": {
+      "calories": 140,
+      "protein": 4,
+      "carbs": 14,
+      "fat": 8,
+      "sodium": 120,
+      "sugar": 8,
+      "fiber": 1,
+      "allergens": [
+        "Tree Nut",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of vitamin E",
+        "Contains healthy fats"
+      ],
+      "healthWarnings": [
+        "High in fat"
+      ]
+    },
+    "sandwich": {
+      "calories": 320,
+      "protein": 15,
+      "carbs": 38,
+      "fat": 12,
+      "sodium": 520,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "strawberry shortcakes": {
+      "calories": 310,
+      "protein": 4,
+      "carbs": 44,
+      "fat": 14,
+      "sodium": 200,
+      "sugar": 34,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains vitamin C from strawberry"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "siopan": {
+      "calories": 180,
+      "protein": 7,
+      "carbs": 26,
+      "fat": 5,
+      "sodium": 380,
+      "sugar": 4,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Pork"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "little coffee coffee cream": {
+      "calories": 170,
+      "protein": 3,
+      "carbs": 20,
+      "fat": 8,
+      "sodium": 140,
+      "sugar": 14,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from coffee"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "almond fruittop - almond cake topped with fresh fruits": {
+      "calories": 290,
+      "protein": 5,
+      "carbs": 40,
+      "fat": 13,
+      "sodium": 190,
+      "sugar": 28,
+      "fiber": 3,
+      "allergens": [
+        "Tree Nut",
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains vitamin C",
+        "Contains healthy fats"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "sailor bear cartoon - nautical-themed cartoon cake": {
+      "calories": 330,
+      "protein": 4,
+      "carbs": 50,
+      "fat": 14,
+      "sodium": 230,
+      "sugar": 40,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "zodiac – dog design - chinese zodiac themed cake": {
+      "calories": 350,
+      "protein": 5,
+      "carbs": 52,
+      "fat": 15,
+      "sodium": 240,
+      "sugar": 42,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "almond cookies - traditional almond-flavored cookies": {
+      "calories": 140,
+      "protein": 4,
+      "carbs": 14,
+      "fat": 8,
+      "sodium": 120,
+      "sugar": 8,
+      "fiber": 1,
+      "allergens": [
+        "Tree Nut",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of vitamin E",
+        "Contains healthy fats"
+      ],
+      "healthWarnings": [
+        "High in fat"
+      ]
+    },
+    "little almond cream cheese": {
+      "calories": 180,
+      "protein": 4,
+      "carbs": 18,
+      "fat": 10,
+      "sodium": 160,
+      "sugar": 12,
+      "fiber": 1,
+      "allergens": [
+        "Tree Nut",
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of calcium"
+      ],
+      "healthWarnings": [
+        "High in saturated fat"
+      ]
+    },
+    "longevity (寿) - traditional chinese longevity celebration cake": {
+      "calories": 340,
+      "protein": 5,
+      "carbs": 50,
+      "fat": 15,
+      "sodium": 250,
+      "sugar": 40,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "croissant": {
+      "calories": 240,
+      "protein": 5,
+      "carbs": 28,
+      "fat": 12,
+      "sodium": 280,
+      "sugar": 4,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "dorayaki - japanese pancake with sweet red bean filling": {
+      "calories": 200,
+      "protein": 5,
+      "carbs": 36,
+      "fat": 4,
+      "sodium": 140,
+      "sugar": 20,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains antioxidants from red beans"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "blackforest classic - traditional german chocolate cake with cherries": {
+      "calories": 380,
+      "protein": 5,
+      "carbs": 48,
+      "fat": 20,
+      "sodium": 210,
+      "sugar": 38,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from cherries"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "animals train cartoon - animal-themed cartoon cake": {
+      "calories": 320,
+      "protein": 4,
+      "carbs": 48,
+      "fat": 13,
+      "sodium": 220,
+      "sugar": 38,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "assorted scones - selection of classic english-style scones": {
+      "calories": 320,
+      "protein": 6,
+      "carbs": 42,
+      "fat": 14,
+      "sodium": 380,
+      "sugar": 8,
+      "fiber": 1.5,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sugar"
+      ]
+    },
+    "little egg roll": {
+      "calories": 180,
+      "protein": 5,
+      "carbs": 24,
+      "fat": 7,
+      "sodium": 220,
+      "sugar": 4,
+      "fiber": 0.5,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "single figure - number-shaped celebration cake": {
+      "calories": 280,
+      "protein": 4,
+      "carbs": 36,
+      "fat": 13,
+      "sodium": 200,
+      "sugar": 24,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "mango tropicana - tropical mango cake with fresh mango pieces": {
+      "calories": 320,
+      "protein": 5,
+      "carbs": 44,
+      "fat": 14,
+      "sodium": 180,
+      "sugar": 32,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains vitamin C",
+        "Contains fresh fruit"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "snowie & friends cartoon - winter-themed cartoon cake": {
+      "calories": 350,
+      "protein": 5,
+      "carbs": 46,
+      "fat": 16,
+      "sodium": 210,
+      "sugar": 36,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "bak kwa blossom": {
+      "calories": 290,
+      "protein": 9,
+      "carbs": 38,
+      "fat": 11,
+      "sodium": 520,
+      "sugar": 6,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "sweetest 21st - 21st birthday celebration cake": {
+      "calories": 370,
+      "protein": 5,
+      "carbs": 48,
+      "fat": 17,
+      "sodium": 220,
+      "sugar": 38,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "little double cheese sausage": {
+      "calories": 240,
+      "protein": 10,
+      "carbs": 22,
+      "fat": 12,
+      "sodium": 580,
+      "sugar": 2,
+      "fiber": 0.5,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "soft bite": {
+      "calories": 240,
+      "protein": 7,
+      "carbs": 32,
+      "fat": 9,
+      "sodium": 350,
+      "sugar": 5,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "coco exotic - coconut cake with exotic fruits": {
+      "calories": 340,
+      "protein": 5,
+      "carbs": 42,
+      "fat": 17,
+      "sodium": 190,
+      "sugar": 30,
+      "fiber": 1.5,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Contains fresh fruit"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "winnie babe cartoon - winnie-themed celebration cake": {
+      "calories": 360,
+      "protein": 5,
+      "carbs": 47,
+      "fat": 16,
+      "sodium": 220,
+      "sugar": 37,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "double bliss - wedding celebration cake": {
+      "calories": 380,
+      "protein": 6,
+      "carbs": 50,
+      "fat": 18,
+      "sodium": 240,
+      "sugar": 40,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "wholewheat bread - healthy whole grain bread loaf": {
+      "calories": 220,
+      "protein": 8,
+      "carbs": 38,
+      "fat": 4,
+      "sodium": 410,
+      "sugar": 2,
+      "fiber": 5,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "chocolate classico - classic chocolate cake with rich ganache": {
+      "calories": 380,
+      "protein": 6,
+      "carbs": 44,
+      "fat": 20,
+      "sodium": 200,
+      "sugar": 34,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "smark aleck cartoon - character-themed cartoon cake": {
+      "calories": 355,
+      "protein": 5,
+      "carbs": 46,
+      "fat": 16,
+      "sodium": 215,
+      "sugar": 36,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "little brownie": {
+      "calories": 220,
+      "protein": 4,
+      "carbs": 26,
+      "fat": 11,
+      "sodium": 150,
+      "sugar": 18,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "jane cartoon - custom character cartoon cake": {
+      "calories": 350,
+      "protein": 5,
+      "carbs": 46,
+      "fat": 16,
+      "sodium": 210,
+      "sugar": 35,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "happy birthday mum - special occasion cake for mothers": {
+      "calories": 340,
+      "protein": 5,
+      "carbs": 45,
+      "fat": 15,
+      "sodium": 210,
+      "sugar": 33,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "little pao de queijo (cheese)": {
+      "calories": 200,
+      "protein": 7,
+      "carbs": 18,
+      "fat": 10,
+      "sodium": 420,
+      "sugar": 1,
+      "fiber": 0.5,
+      "allergens": [
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Good source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "danish loaf - premium danish-style bread loaf": {
+      "calories": 310,
+      "protein": 7,
+      "carbs": 40,
+      "fat": 13,
+      "sodium": 380,
+      "sugar": 8,
+      "fiber": 1.5,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "doubleheart - romantic celebration cake": {
+      "calories": 320,
+      "protein": 4,
+      "carbs": 42,
+      "fat": 15,
+      "sodium": 180,
+      "sugar": 28,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "duckie cartoon - duck-themed cartoon cake": {
+      "calories": 310,
+      "protein": 4,
+      "carbs": 40,
+      "fat": 14,
+      "sodium": 170,
+      "sugar": 26,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "mini chocolate steam cake": {
+      "calories": 180,
+      "protein": 3,
+      "carbs": 24,
+      "fat": 8,
+      "sodium": 140,
+      "sugar": 14,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Portion-controlled"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Moderate in saturated fat"
+      ]
+    },
+    "sweet chocolate - special chocolate celebration cake": {
+      "calories": 330,
+      "protein": 4,
+      "carbs": 43,
+      "fat": 16,
+      "sodium": 190,
+      "sugar": 30,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "mini blueberry steam cake": {
+      "calories": 175,
+      "protein": 3,
+      "carbs": 23,
+      "fat": 8,
+      "sodium": 135,
+      "sugar": 12,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains antioxidants from blueberries",
+        "Portion-controlled"
+      ],
+      "healthWarnings": [
+        "Moderate in sugar",
+        "Moderate in saturated fat"
+      ]
+    },
+    "little double twist": {
+      "calories": 210,
+      "protein": 5,
+      "carbs": 28,
+      "fat": 9,
+      "sodium": 320,
+      "sugar": 6,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Portion-controlled"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in saturated fat"
+      ]
+    },
+    "little caterpillar": {
+      "calories": 195,
+      "protein": 4,
+      "carbs": 26,
+      "fat": 8,
+      "sodium": 300,
+      "sugar": 5,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Portion-controlled"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in saturated fat"
+      ]
+    },
+    "little purple rice": {
+      "calories": 185,
+      "protein": 3,
+      "carbs": 26,
+      "fat": 8,
+      "sodium": 280,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains antioxidants from purple rice",
+        "Portion-controlled"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in saturated fat"
+      ]
+    },
+    "little chicken mushroom bun": {
+      "calories": 220,
+      "protein": 8,
+      "carbs": 25,
+      "fat": 10,
+      "sodium": 380,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Portion-controlled"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in saturated fat"
+      ]
+    }
+  }
+}

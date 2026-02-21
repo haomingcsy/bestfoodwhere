@@ -1,0 +1,797 @@
+{
+  "brand": "subway",
+  "generatedAt": "2026-02-21T11:54:10.445Z",
+  "items": {
+    "chicken nuggets": {
+      "calories": 320,
+      "protein": 18,
+      "carbs": 28,
+      "fat": 14,
+      "sodium": 680,
+      "sugar": 0,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "e.bowl rotisserie chicken": {
+      "calories": 520,
+      "protein": 38,
+      "carbs": 32,
+      "fat": 28,
+      "sodium": 1020,
+      "sugar": 8,
+      "fiber": 8,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of fiber",
+        "Contains cauliflower rice"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "fiery rotisserie chicken": {
+      "calories": 480,
+      "protein": 42,
+      "carbs": 38,
+      "fat": 18,
+      "sodium": 980,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of lean meat"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "22oz fountain drinks": {
+      "calories": 240,
+      "protein": 0,
+      "carbs": 65,
+      "fat": 0,
+      "sodium": 45,
+      "sugar": 65,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "roasted chicken thigh": {
+      "calories": 520,
+      "protein": 40,
+      "carbs": 36,
+      "fat": 22,
+      "sodium": 920,
+      "sugar": 5,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "zesty lime duck": {
+      "calories": 490,
+      "protein": 38,
+      "carbs": 38,
+      "fat": 20,
+      "sodium": 950,
+      "sugar": 7,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains lime citrus"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "roasted chicken breast": {
+      "calories": 440,
+      "protein": 44,
+      "carbs": 34,
+      "fat": 12,
+      "sodium": 880,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Lean meat",
+        "Lower in fat"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "bottled carbonated drinks": {
+      "calories": 210,
+      "protein": 0,
+      "carbs": 55,
+      "fat": 0,
+      "sodium": 40,
+      "sugar": 55,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "cheesy nacho bowls": {
+      "calories": 420,
+      "protein": 14,
+      "carbs": 42,
+      "fat": 22,
+      "sodium": 1180,
+      "sugar": 4,
+      "fiber": 4,
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat",
+        "High in saturated fat"
+      ]
+    },
+    "zesty lime rotisserie chicken": {
+      "calories": 480,
+      "protein": 40,
+      "carbs": 38,
+      "fat": 18,
+      "sodium": 960,
+      "sugar": 7,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains lime citrus"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "avo caesar chicken": {
+      "calories": 540,
+      "protein": 38,
+      "carbs": 40,
+      "fat": 26,
+      "sodium": 1040,
+      "sugar": 5,
+      "fiber": 5,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of healthy fats from avocado",
+        "Contains fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "e.bowl beef brisket": {
+      "calories": 560,
+      "protein": 42,
+      "carbs": 34,
+      "fat": 28,
+      "sodium": 1100,
+      "sugar": 10,
+      "fiber": 7,
+      "allergens": [
+        "Soy",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron",
+        "Contains cauliflower rice"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat",
+        "High in saturated fat"
+      ]
+    },
+    "chicken & mushroom melt": {
+      "calories": 530,
+      "protein": 40,
+      "carbs": 42,
+      "fat": 22,
+      "sodium": 1080,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains mushrooms"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "2pc toasties": {
+      "calories": 280,
+      "protein": 12,
+      "carbs": 32,
+      "fat": 12,
+      "sodium": 620,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "e.bowl avo caesar chicken": {
+      "calories": 550,
+      "protein": 40,
+      "carbs": 32,
+      "fat": 28,
+      "sodium": 1060,
+      "sugar": 6,
+      "fiber": 8,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of healthy fats",
+        "Good source of fiber",
+        "Contains cauliflower rice"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "bottled non carbonated drinks": {
+      "calories": 180,
+      "protein": 0,
+      "carbs": 44,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 42,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "chicken teriyaki": {
+      "calories": 450,
+      "protein": 40,
+      "carbs": 42,
+      "fat": 14,
+      "sodium": 1020,
+      "sugar": 8,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Asian cuisine"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in sugar"
+      ]
+    },
+    "e.bowl falafel": {
+      "calories": 510,
+      "protein": 16,
+      "carbs": 48,
+      "fat": 26,
+      "sodium": 920,
+      "sugar": 7,
+      "fiber": 10,
+      "allergens": [
+        "Soy",
+        "Sesame",
+        "Peanut"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "Good source of plant-based protein",
+        "Contains cauliflower rice"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "Contains allergens"
+      ]
+    },
+    "beef & mushroom melt": {
+      "calories": 580,
+      "protein": 42,
+      "carbs": 44,
+      "fat": 26,
+      "sodium": 1120,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat",
+        "High in saturated fat"
+      ]
+    },
+    "hot drinks": {
+      "calories": 120,
+      "protein": 4,
+      "carbs": 18,
+      "fat": 2,
+      "sodium": 80,
+      "sugar": 14,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains caffeine"
+      ],
+      "healthWarnings": []
+    },
+    "cookies (3pcs)": {
+      "calories": 420,
+      "protein": 4,
+      "carbs": 54,
+      "fat": 20,
+      "sodium": 380,
+      "sugar": 32,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "chicken bacon ranch": {
+      "calories": 520,
+      "protein": 32,
+      "carbs": 48,
+      "fat": 22,
+      "sodium": 1480,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "e.bowl spicy beef taco": {
+      "calories": 580,
+      "protein": 28,
+      "carbs": 62,
+      "fat": 22,
+      "sodium": 1520,
+      "sugar": 12,
+      "fiber": 8,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Spicy"
+      ]
+    },
+    "beef brisket": {
+      "calories": 540,
+      "protein": 35,
+      "carbs": 48,
+      "fat": 20,
+      "sodium": 1560,
+      "sugar": 9,
+      "fiber": 2,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "smoky bbq beef": {
+      "calories": 560,
+      "protein": 33,
+      "carbs": 52,
+      "fat": 21,
+      "sodium": 1620,
+      "sugar": 14,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "soup of the day": {
+      "calories": 180,
+      "protein": 8,
+      "carbs": 24,
+      "fat": 4,
+      "sodium": 940,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of vegetables",
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "chips": {
+      "calories": 240,
+      "protein": 3,
+      "carbs": 28,
+      "fat": 13,
+      "sodium": 480,
+      "sugar": 0,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "spicy beef taco": {
+      "calories": 450,
+      "protein": 24,
+      "carbs": 46,
+      "fat": 18,
+      "sodium": 1380,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Spicy"
+      ]
+    },
+    "tuna": {
+      "calories": 420,
+      "protein": 22,
+      "carbs": 46,
+      "fat": 16,
+      "sodium": 1240,
+      "sugar": 7,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "High in omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "mac & cheese": {
+      "calories": 420,
+      "protein": 14,
+      "carbs": 48,
+      "fat": 18,
+      "sodium": 840,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in saturated fat"
+      ]
+    },
+    "egg mayo": {
+      "calories": 380,
+      "protein": 16,
+      "carbs": 44,
+      "fat": 17,
+      "sodium": 1080,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Egg",
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Good source of choline"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "subway melt": {
+      "calories": 530,
+      "protein": 32,
+      "carbs": 48,
+      "fat": 22,
+      "sodium": 1620,
+      "sugar": 9,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "chicken ham": {
+      "calories": 360,
+      "protein": 24,
+      "carbs": 45,
+      "fat": 10,
+      "sodium": 1320,
+      "sugar": 7,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "cold cut trio": {
+      "calories": 420,
+      "protein": 26,
+      "carbs": 46,
+      "fat": 15,
+      "sodium": 1480,
+      "sugar": 7,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "italian b.m.t.": {
+      "calories": 480,
+      "protein": 28,
+      "carbs": 47,
+      "fat": 20,
+      "sodium": 1520,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "chicken chorizo": {
+      "calories": 420,
+      "protein": 22,
+      "carbs": 45,
+      "fat": 17,
+      "sodium": 1400,
+      "sugar": 7,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "falafel": {
+      "calories": 480,
+      "protein": 16,
+      "carbs": 54,
+      "fat": 21,
+      "sodium": 1240,
+      "sugar": 8,
+      "fiber": 8,
+      "allergens": [
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Good source of plant-based protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "mushroom delite": {
+      "calories": 410,
+      "protein": 18,
+      "carbs": 47,
+      "fat": 14,
+      "sodium": 1160,
+      "sugar": 7,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Good source of vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "veggie delite": {
+      "calories": 330,
+      "protein": 12,
+      "carbs": 47,
+      "fat": 9,
+      "sodium": 1040,
+      "sugar": 6,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Low in fat",
+        "Good source of vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    }
+  }
+}

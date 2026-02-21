@@ -1,0 +1,1057 @@
+{
+  "brand": "d-lifrance",
+  "generatedAt": "2026-02-16T14:29:19.014Z",
+  "items": {
+    "chocolate banana smoothie": {
+      "calories": 320,
+      "protein": 8,
+      "carbs": 52,
+      "fat": 8,
+      "sodium": 140,
+      "sugar": 42,
+      "fiber": 3,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of potassium",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "brewed tea": {
+      "calories": 5,
+      "protein": 0,
+      "carbs": 1,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "lasagna": {
+      "calories": 580,
+      "protein": 32,
+      "carbs": 48,
+      "fat": 28,
+      "sodium": 920,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "long black": {
+      "calories": 5,
+      "protein": 0.5,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Very low calorie",
+        "Contains caffeine for alertness"
+      ],
+      "healthWarnings": []
+    },
+    "breakfast platter": {
+      "calories": 520,
+      "protein": 24,
+      "carbs": 42,
+      "fat": 28,
+      "sodium": 1080,
+      "sugar": 6,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "mocha frappe": {
+      "calories": 380,
+      "protein": 10,
+      "carbs": 54,
+      "fat": 14,
+      "sodium": 160,
+      "sugar": 48,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains caffeine"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories",
+        "High in saturated fat"
+      ]
+    },
+    "soup of the day": {
+      "calories": 240,
+      "protein": 8,
+      "carbs": 28,
+      "fat": 10,
+      "sodium": 850,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains vegetables",
+        "Hydrating"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "egg d'vine": {
+      "calories": 380,
+      "protein": 16,
+      "carbs": 38,
+      "fat": 18,
+      "sodium": 680,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "aglio olio": {
+      "calories": 420,
+      "protein": 14,
+      "carbs": 52,
+      "fat": 18,
+      "sodium": 480,
+      "sugar": 2,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains garlic"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in fat"
+      ]
+    },
+    "manuka honey lemon": {
+      "calories": 180,
+      "protein": 0,
+      "carbs": 46,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 44,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains honey",
+        "Soothing"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "chicken ham & cheese": {
+      "calories": 420,
+      "protein": 22,
+      "carbs": 36,
+      "fat": 20,
+      "sodium": 920,
+      "sugar": 5,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "cream sauce": {
+      "calories": 480,
+      "protein": 12,
+      "carbs": 52,
+      "fat": 24,
+      "sodium": 520,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in calories",
+        "High in saturated fat"
+      ]
+    },
+    "triple cheese mushroom": {
+      "calories": 460,
+      "protein": 20,
+      "carbs": 36,
+      "fat": 26,
+      "sodium": 840,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains mushrooms",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "curry chicken baked rice": {
+      "calories": 540,
+      "protein": 28,
+      "carbs": 58,
+      "fat": 18,
+      "sodium": 980,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "vanilla frappe": {
+      "calories": 360,
+      "protein": 8,
+      "carbs": 54,
+      "fat": 12,
+      "sodium": 150,
+      "sugar": 50,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "baked croissant french toast with mixed berries": {
+      "calories": 420,
+      "protein": 12,
+      "carbs": 52,
+      "fat": 18,
+      "sodium": 420,
+      "sugar": 28,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains berries",
+        "Source of antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "lemon tea": {
+      "calories": 25,
+      "protein": 0,
+      "carbs": 6,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 5,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "romaine salad": {
+      "calories": 280,
+      "protein": 12,
+      "carbs": 18,
+      "fat": 18,
+      "sodium": 520,
+      "sugar": 6,
+      "fiber": 4,
+      "allergens": [],
+      "healthBenefits": [
+        "High in fiber",
+        "Low calorie",
+        "Good source of vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "simply chocolate": {
+      "calories": 280,
+      "protein": 8,
+      "carbs": 48,
+      "fat": 6,
+      "sodium": 120,
+      "sugar": 42,
+      "fiber": 2,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "espresso (double)": {
+      "calories": 10,
+      "protein": 1,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Very low calorie",
+        "High in caffeine"
+      ],
+      "healthWarnings": []
+    },
+    "caramel frappe": {
+      "calories": 420,
+      "protein": 4,
+      "carbs": 58,
+      "fat": 18,
+      "sodium": 180,
+      "sugar": 52,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "chicken d'light": {
+      "calories": 520,
+      "protein": 28,
+      "carbs": 48,
+      "fat": 22,
+      "sodium": 890,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "pomodoro": {
+      "calories": 480,
+      "protein": 16,
+      "carbs": 72,
+      "fat": 12,
+      "sodium": 720,
+      "sugar": 8,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of carbs",
+        "Contains lycopene"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "fluffy pancakes": {
+      "calories": 620,
+      "protein": 12,
+      "carbs": 82,
+      "fat": 26,
+      "sodium": 480,
+      "sugar": 42,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "oreo chocolate frappe": {
+      "calories": 480,
+      "protein": 5,
+      "carbs": 64,
+      "fat": 20,
+      "sodium": 220,
+      "sugar": 58,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "truffle cheese sticks": {
+      "calories": 420,
+      "protein": 12,
+      "carbs": 36,
+      "fat": 26,
+      "sodium": 640,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "tuna d'licious": {
+      "calories": 480,
+      "protein": 26,
+      "carbs": 46,
+      "fat": 20,
+      "sodium": 920,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "High in omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "triple cheese with pesto": {
+      "calories": 580,
+      "protein": 22,
+      "carbs": 52,
+      "fat": 30,
+      "sodium": 1050,
+      "sugar": 8,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "chicken ham & sausage baked rice": {
+      "calories": 680,
+      "protein": 32,
+      "carbs": 72,
+      "fat": 28,
+      "sodium": 1280,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "cappuccino": {
+      "calories": 140,
+      "protein": 8,
+      "carbs": 10,
+      "fat": 6,
+      "sodium": 120,
+      "sugar": 8,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": []
+    },
+    "iced lemon tea": {
+      "calories": 80,
+      "protein": 0,
+      "carbs": 20,
+      "fat": 0,
+      "sodium": 30,
+      "sugar": 18,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "watermelon guava fizz": {
+      "calories": 120,
+      "protein": 1,
+      "carbs": 28,
+      "fat": 0,
+      "sodium": 40,
+      "sugar": 26,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "seafood d'sire": {
+      "calories": 520,
+      "protein": 28,
+      "carbs": 48,
+      "fat": 24,
+      "sodium": 1020,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Shellfish",
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "High in omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "basil pesto": {
+      "calories": 620,
+      "protein": 18,
+      "carbs": 68,
+      "fat": 28,
+      "sodium": 840,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Good source of carbs"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "café latte": {
+      "calories": 150,
+      "protein": 8,
+      "carbs": 12,
+      "fat": 7,
+      "sodium": 130,
+      "sugar": 10,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": []
+    },
+    "garlic baguette": {
+      "calories": 280,
+      "protein": 8,
+      "carbs": 42,
+      "fat": 8,
+      "sodium": 520,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of carbs"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "strawberry frappe": {
+      "calories": 400,
+      "protein": 4,
+      "carbs": 56,
+      "fat": 16,
+      "sodium": 160,
+      "sugar": 50,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "kyoho grape & apple fizz": {
+      "calories": 110,
+      "protein": 0,
+      "carbs": 26,
+      "fat": 0,
+      "sodium": 35,
+      "sugar": 24,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "passionfruit green tea crusher": {
+      "calories": 140,
+      "protein": 1,
+      "carbs": 32,
+      "fat": 0,
+      "sodium": 50,
+      "sugar": 28,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "toast with scrambled eggs": {
+      "calories": 420,
+      "protein": 18,
+      "carbs": 38,
+      "fat": 20,
+      "sodium": 680,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains choline"
+      ],
+      "healthWarnings": [
+        "High in saturated fat"
+      ]
+    },
+    "mac & cheese": {
+      "calories": 580,
+      "protein": 22,
+      "carbs": 58,
+      "fat": 28,
+      "sodium": 720,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains calcium"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "mentaiko prawn": {
+      "calories": 520,
+      "protein": 24,
+      "carbs": 42,
+      "fat": 26,
+      "sodium": 680,
+      "sugar": 3,
+      "fiber": 3,
+      "allergens": [
+        "Shellfish",
+        "Fish",
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "High in omega-3",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "apple with golden kiwi fizz": {
+      "calories": 140,
+      "protein": 1,
+      "carbs": 35,
+      "fat": 0,
+      "sodium": 25,
+      "sugar": 32,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "High in vitamin C",
+        "Contains natural fruit sugars"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "vanilla latte": {
+      "calories": 220,
+      "protein": 8,
+      "carbs": 22,
+      "fat": 10,
+      "sodium": 140,
+      "sugar": 18,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of calcium",
+        "Contains protein"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains caffeine"
+      ]
+    },
+    "smoked salmon": {
+      "calories": 480,
+      "protein": 28,
+      "carbs": 40,
+      "fat": 22,
+      "sodium": 840,
+      "sugar": 3,
+      "fiber": 3,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "deli potato": {
+      "calories": 280,
+      "protein": 8,
+      "carbs": 32,
+      "fat": 14,
+      "sodium": 480,
+      "sugar": 2,
+      "fiber": 3,
+      "allergens": [
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of carbohydrates",
+        "Contains potassium"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in sodium"
+      ]
+    },
+    "croque monsieur": {
+      "calories": 450,
+      "protein": 22,
+      "carbs": 38,
+      "fat": 24,
+      "sodium": 920,
+      "sugar": 2,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "osmanthus green tea": {
+      "calories": 45,
+      "protein": 0,
+      "carbs": 10,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 8,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in calories",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "Contains caffeine"
+      ]
+    },
+    "matcha latte": {
+      "calories": 180,
+      "protein": 6,
+      "carbs": 18,
+      "fat": 8,
+      "sodium": 110,
+      "sugar": 14,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of antioxidants",
+        "Contains L-theanine"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains caffeine"
+      ]
+    },
+    "potato gratin": {
+      "calories": 420,
+      "protein": 18,
+      "carbs": 36,
+      "fat": 22,
+      "sodium": 680,
+      "sugar": 2,
+      "fiber": 3,
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains potassium"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "cheesy chicken sausage bites": {
+      "calories": 340,
+      "protein": 20,
+      "carbs": 24,
+      "fat": 20,
+      "sodium": 720,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "café mocha": {
+      "calories": 260,
+      "protein": 8,
+      "carbs": 28,
+      "fat": 12,
+      "sodium": 130,
+      "sugar": 22,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Good source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains caffeine",
+        "High in saturated fat"
+      ]
+    },
+    "caramel macchiato": {
+      "calories": 240,
+      "protein": 8,
+      "carbs": 26,
+      "fat": 11,
+      "sodium": 135,
+      "sugar": 20,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of calcium",
+        "Contains protein"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains caffeine"
+      ]
+    },
+    "manuka honey macchiato": {
+      "calories": 260,
+      "protein": 8,
+      "carbs": 30,
+      "fat": 11,
+      "sodium": 140,
+      "sugar": 24,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of calcium",
+        "Contains antioxidants from honey"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains caffeine"
+      ]
+    }
+  }
+}

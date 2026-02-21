@@ -1,0 +1,996 @@
+{
+  "brand": "no-17-tea-woodleigh",
+  "generatedAt": "2026-02-21T11:03:21.207Z",
+  "items": {
+    "hazelnut black tea latte (l)": {
+      "calories": 240,
+      "protein": 6,
+      "carbs": 32,
+      "fat": 8,
+      "sodium": 95,
+      "sugar": 28,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Source of antioxidants from black tea",
+        "Contains calcium from milk"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "pink guava green tea (l)": {
+      "calories": 180,
+      "protein": 0,
+      "carbs": 45,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 42,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Rich in vitamin C",
+        "Good source of antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Low in protein"
+      ]
+    },
+    "cheezo snow peach oolong (m)": {
+      "calories": 220,
+      "protein": 5,
+      "carbs": 38,
+      "fat": 6,
+      "sodium": 110,
+      "sugar": 33,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from oolong tea"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains cheese foam with high fat"
+      ]
+    },
+    "uji matcha milk tea (m)": {
+      "calories": 210,
+      "protein": 6,
+      "carbs": 28,
+      "fat": 7,
+      "sodium": 100,
+      "sugar": 24,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Rich in antioxidants from matcha",
+        "Contains L-theanine",
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains caffeine"
+      ]
+    },
+    "cheezo strawberry fresh milk (m)": {
+      "calories": 230,
+      "protein": 5,
+      "carbs": 36,
+      "fat": 7,
+      "sodium": 105,
+      "sugar": 32,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains vitamin C from strawberry",
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "white peach green tea (l)": {
+      "calories": 190,
+      "protein": 0,
+      "carbs": 47,
+      "fat": 0,
+      "sodium": 12,
+      "sugar": 44,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Rich in antioxidants from green tea",
+        "Contains vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Low in protein"
+      ]
+    },
+    "strawberry fresh milk (l)": {
+      "calories": 250,
+      "protein": 7,
+      "carbs": 38,
+      "fat": 8,
+      "sodium": 110,
+      "sugar": 34,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of calcium",
+        "Contains vitamin C from strawberry"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "honey oolong milk tea (m)": {
+      "calories": 200,
+      "protein": 6,
+      "carbs": 32,
+      "fat": 6,
+      "sodium": 95,
+      "sugar": 28,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Oolong tea promotes metabolism",
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains honey and milk"
+      ]
+    },
+    "cheezo white peach green tea (m)": {
+      "calories": 210,
+      "protein": 4,
+      "carbs": 40,
+      "fat": 5,
+      "sodium": 100,
+      "sugar": 36,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Antioxidants from green tea",
+        "Vitamin C from peach"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains cheese foam"
+      ]
+    },
+    "passionfruit black tea (l)": {
+      "calories": 185,
+      "protein": 0,
+      "carbs": 46,
+      "fat": 0,
+      "sodium": 14,
+      "sugar": 43,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Rich in antioxidants",
+        "Vitamin C from passionfruit"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Low in protein"
+      ]
+    },
+    "snow peach oolong latte (l)": {
+      "calories": 245,
+      "protein": 6,
+      "carbs": 35,
+      "fat": 8,
+      "sodium": 100,
+      "sugar": 30,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Antioxidants from oolong tea",
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "roasted hojicha milk tea (m)": {
+      "calories": 215,
+      "protein": 6,
+      "carbs": 30,
+      "fat": 7,
+      "sodium": 100,
+      "sugar": 26,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Roasted hojicha aids digestion",
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains caffeine"
+      ]
+    },
+    "jade green milk tea (m)": {
+      "calories": 180,
+      "protein": 6,
+      "carbs": 25,
+      "fat": 6,
+      "sodium": 90,
+      "sugar": 22,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Antioxidants from green tea",
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "pink guava lemon green tea (l)": {
+      "calories": 195,
+      "protein": 0,
+      "carbs": 48,
+      "fat": 0,
+      "sodium": 16,
+      "sugar": 45,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "High in vitamin C",
+        "Antioxidants from green tea"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Low in protein"
+      ]
+    },
+    "cheezo classic milk tea (m)": {
+      "calories": 205,
+      "protein": 5,
+      "carbs": 32,
+      "fat": 6,
+      "sodium": 105,
+      "sugar": 28,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of calcium",
+        "Contains antioxidants from tea"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in sodium"
+      ]
+    },
+    "golden oolong latte (l)": {
+      "calories": 240,
+      "protein": 6,
+      "carbs": 33,
+      "fat": 8,
+      "sodium": 98,
+      "sugar": 29,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Oolong supports metabolism",
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "strawberry uji matcha latte (l)": {
+      "calories": 255,
+      "protein": 6,
+      "carbs": 36,
+      "fat": 8,
+      "sodium": 105,
+      "sugar": 32,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Antioxidants from matcha",
+        "Vitamin C from strawberry"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "citron yuzu green tea (l)": {
+      "calories": 200,
+      "protein": 0,
+      "carbs": 49,
+      "fat": 0,
+      "sodium": 18,
+      "sugar": 46,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "High in vitamin C",
+        "Antioxidants from green tea"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Low in protein"
+      ]
+    },
+    "snow peach oolong milk tea (m)": {
+      "calories": 200,
+      "protein": 6,
+      "carbs": 32,
+      "fat": 6,
+      "sodium": 95,
+      "sugar": 28,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Oolong tea antioxidants",
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "cheezo golden oolong (m)": {
+      "calories": 210,
+      "protein": 4,
+      "carbs": 34,
+      "fat": 6,
+      "sodium": 108,
+      "sugar": 30,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Oolong promotes metabolism",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains cheese foam"
+      ]
+    },
+    "cheezo jade green tea (m)": {
+      "calories": 180,
+      "protein": 3,
+      "carbs": 28,
+      "fat": 6,
+      "sodium": 95,
+      "sugar": 24,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from green tea",
+        "Low in calories"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains saturated fat from cheese foam"
+      ]
+    },
+    "honey jade green milk tea (m)": {
+      "calories": 200,
+      "protein": 2,
+      "carbs": 35,
+      "fat": 5,
+      "sodium": 85,
+      "sugar": 32,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from green tea",
+        "Natural sweetness from honey"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains saturated fat"
+      ]
+    },
+    "roasted uji hojicha latte (l)": {
+      "calories": 240,
+      "protein": 4,
+      "carbs": 32,
+      "fat": 9,
+      "sodium": 110,
+      "sugar": 28,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Rich in antioxidants",
+        "Low caffeine compared to other teas"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "pink guava plum green tea (l)": {
+      "calories": 220,
+      "protein": 1,
+      "carbs": 42,
+      "fat": 3,
+      "sodium": 80,
+      "sugar": 38,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants from green tea",
+        "Source of vitamin C from fruits"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Very high added sugars"
+      ]
+    },
+    "cheezo premium black tea (m)": {
+      "calories": 190,
+      "protein": 3,
+      "carbs": 26,
+      "fat": 7,
+      "sodium": 100,
+      "sugar": 22,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains polyphenols from black tea",
+        "Low in calories"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains saturated fat from cheese foam"
+      ]
+    },
+    "premium uji matcha latte (l)": {
+      "calories": 260,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 10,
+      "sodium": 115,
+      "sugar": 26,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in antioxidants (EGCG)",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "lycheelicious earl grey (l)": {
+      "calories": 210,
+      "protein": 1,
+      "carbs": 40,
+      "fat": 2,
+      "sodium": 75,
+      "sugar": 36,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants from Earl Grey",
+        "Source of vitamin C from lychee"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Very high added sugars"
+      ]
+    },
+    "wintermelon milk tea (m)": {
+      "calories": 210,
+      "protein": 2,
+      "carbs": 36,
+      "fat": 5,
+      "sodium": 90,
+      "sugar": 30,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from black tea",
+        "Natural sweetness from wintermelon"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains saturated fat"
+      ]
+    },
+    "lycheelicious oolong (l)": {
+      "calories": 210,
+      "protein": 1,
+      "carbs": 40,
+      "fat": 2,
+      "sodium": 75,
+      "sugar": 36,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains polyphenols from oolong tea",
+        "Source of vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Very high added sugars"
+      ]
+    },
+    "cheezo uji matcha latte (m)": {
+      "calories": 220,
+      "protein": 4,
+      "carbs": 28,
+      "fat": 8,
+      "sodium": 105,
+      "sugar": 24,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in antioxidants (EGCG)",
+        "Low in calories"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains saturated fat from cheese foam"
+      ]
+    },
+    "french vanilla milk tea (m)": {
+      "calories": 220,
+      "protein": 2,
+      "carbs": 34,
+      "fat": 6,
+      "sodium": 95,
+      "sugar": 30,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from black tea"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "premium taro latte (l)": {
+      "calories": 280,
+      "protein": 4,
+      "carbs": 38,
+      "fat": 10,
+      "sodium": 120,
+      "sugar": 32,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of potassium from taro",
+        "Contains fiber"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "cheezo mangolicious green tea (m)": {
+      "calories": 210,
+      "protein": 3,
+      "carbs": 32,
+      "fat": 6,
+      "sodium": 100,
+      "sugar": 28,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from green tea",
+        "Source of vitamin C from mango"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains saturated fat from cheese foam"
+      ]
+    },
+    "white peach earl grey (l)": {
+      "calories": 210,
+      "protein": 1,
+      "carbs": 40,
+      "fat": 2,
+      "sodium": 75,
+      "sugar": 36,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants from Earl Grey",
+        "Source of vitamin C from peach"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Very high added sugars"
+      ]
+    },
+    "no.17 bubble milk tea (m)": {
+      "calories": 260,
+      "protein": 2,
+      "carbs": 40,
+      "fat": 7,
+      "sodium": 100,
+      "sugar": 34,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from black tea",
+        "Contains carbohydrates for energy"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High calories"
+      ]
+    },
+    "roasted signature milk tea (m)": {
+      "calories": 230,
+      "protein": 2,
+      "carbs": 38,
+      "fat": 6,
+      "sodium": 110,
+      "sugar": 32,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from roasted tea",
+        "Unique flavor profile"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in sodium from brown sugar",
+        "Contains saturated fat"
+      ]
+    },
+    "white peach oolong (l)": {
+      "calories": 210,
+      "protein": 1,
+      "carbs": 40,
+      "fat": 2,
+      "sodium": 75,
+      "sugar": 36,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains polyphenols from oolong tea",
+        "Source of vitamin C from peach"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Very high added sugars"
+      ]
+    },
+    "cheezo royal earl grey (m)": {
+      "calories": 180,
+      "protein": 3,
+      "carbs": 26,
+      "fat": 6,
+      "sodium": 100,
+      "sugar": 22,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from Earl Grey",
+        "Low in calories"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains saturated fat from cheese foam"
+      ]
+    },
+    "passionfruit green tea (l)": {
+      "calories": 200,
+      "protein": 1,
+      "carbs": 38,
+      "fat": 2,
+      "sodium": 75,
+      "sugar": 34,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants from green tea",
+        "Source of vitamin C from passionfruit"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Very high added sugars"
+      ]
+    },
+    "classic milk tea (m)": {
+      "calories": 200,
+      "protein": 2,
+      "carbs": 30,
+      "fat": 6,
+      "sodium": 90,
+      "sugar": 26,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from black tea",
+        "Relatively low in calories"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains saturated fat"
+      ]
+    },
+    "mangolicious passionfruit green tea (l)": {
+      "calories": 180,
+      "protein": 0,
+      "carbs": 45,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 42,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants from green tea",
+        "Low in calories"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "golden oolong milk tea (m)": {
+      "calories": 210,
+      "protein": 3,
+      "carbs": 28,
+      "fat": 8,
+      "sodium": 120,
+      "sugar": 24,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from oolong tea"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Moderate saturated fat"
+      ]
+    },
+    "mangolicious green tea (l)": {
+      "calories": 170,
+      "protein": 0,
+      "carbs": 42,
+      "fat": 0,
+      "sodium": 12,
+      "sugar": 40,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants from green tea",
+        "Low in calories"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "royal earl grey milk tea (m)": {
+      "calories": 200,
+      "protein": 3,
+      "carbs": 25,
+      "fat": 8,
+      "sodium": 110,
+      "sugar": 22,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from black tea and bergamot"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Moderate saturated fat"
+      ]
+    },
+    "tropical hawaiian fruit tea (l)": {
+      "calories": 190,
+      "protein": 0,
+      "carbs": 48,
+      "fat": 0,
+      "sodium": 18,
+      "sugar": 45,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains some vitamins from tropical fruits"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "hazelnut milk tea (m)": {
+      "calories": 240,
+      "protein": 3,
+      "carbs": 32,
+      "fat": 10,
+      "sodium": 125,
+      "sugar": 28,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from tea"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Moderate saturated fat",
+        "Contains tree nuts"
+      ]
+    },
+    "honey milk tea (m)": {
+      "calories": 220,
+      "protein": 3,
+      "carbs": 30,
+      "fat": 8,
+      "sodium": 115,
+      "sugar": 26,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from black tea",
+        "Natural honey sweetness"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Moderate saturated fat"
+      ]
+    },
+    "snow peach blossoms fruit tea (l)": {
+      "calories": 175,
+      "protein": 0,
+      "carbs": 44,
+      "fat": 0,
+      "sodium": 14,
+      "sugar": 41,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Low in calories"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "hersheys chocolate milk tea (m)": {
+      "calories": 280,
+      "protein": 4,
+      "carbs": 38,
+      "fat": 11,
+      "sodium": 140,
+      "sugar": 34,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Contains milk for calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories",
+        "Moderate saturated fat"
+      ]
+    },
+    "tiramisu milk tea (m)": {
+      "calories": 270,
+      "protein": 3,
+      "carbs": 36,
+      "fat": 11,
+      "sodium": 135,
+      "sugar": 32,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Contains milk for calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories",
+        "Moderate saturated fat"
+      ]
+    },
+    "speculoos crush milk tea (m)": {
+      "calories": 260,
+      "protein": 3,
+      "carbs": 34,
+      "fat": 10,
+      "sodium": 130,
+      "sugar": 30,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Gluten",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Contains milk for calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories",
+        "Moderate saturated fat"
+      ]
+    }
+  }
+}

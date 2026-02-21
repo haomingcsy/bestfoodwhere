@@ -1,0 +1,91 @@
+{
+  "brand": "primad-li",
+  "generatedAt": "2026-02-21T11:20:44.493Z",
+  "items": {
+    "blackforest classic cake": {
+      "calories": 380,
+      "protein": 4.5,
+      "carbs": 48,
+      "fat": 19,
+      "sodium": 280,
+      "sugar": 38,
+      "fiber": 1.5,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten",
+        "Tree Nut"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "regular price from regular price sale price from unit price / per": {
+      "calories": 380,
+      "protein": 4.5,
+      "carbs": 48,
+      "fat": 19,
+      "sodium": 280,
+      "sugar": 38,
+      "fiber": 1.5,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten",
+        "Tree Nut"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "rainbow fantasy cake": {
+      "calories": 420,
+      "protein": 5,
+      "carbs": 52,
+      "fat": 21,
+      "sodium": 320,
+      "sugar": 42,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten",
+        "Tree Nut",
+        "Soy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "durian king cake": {
+      "calories": 440,
+      "protein": 6,
+      "carbs": 50,
+      "fat": 23,
+      "sodium": 300,
+      "sugar": 40,
+      "fiber": 1.2,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten",
+        "Tree Nut"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    }
+  }
+}

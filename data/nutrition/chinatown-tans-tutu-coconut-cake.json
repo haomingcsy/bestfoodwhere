@@ -1,0 +1,45 @@
+{
+  "brand": "chinatown-tans-tutu-coconut-cake",
+  "generatedAt": "2026-02-16T14:16:19.948Z",
+  "items": {
+    "tutu kuehs (10pcs)": {
+      "calories": 520,
+      "protein": 6,
+      "carbs": 68,
+      "fat": 24,
+      "sodium": 280,
+      "sugar": 32,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "tutu kueh (5pcs)": {
+      "calories": 260,
+      "protein": 3,
+      "carbs": 34,
+      "fat": 12,
+      "sodium": 140,
+      "sugar": 16,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    }
+  }
+}

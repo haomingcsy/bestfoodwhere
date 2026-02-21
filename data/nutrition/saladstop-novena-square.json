@@ -1,0 +1,157 @@
+{
+  "brand": "saladstop-novena-square",
+  "generatedAt": "2026-02-21T11:25:56.659Z",
+  "items": {
+    "chicken tenders solo a la carte": {
+      "calories": 280,
+      "protein": 24,
+      "carbs": 12,
+      "fat": 14,
+      "sodium": 580,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Low in sugar"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "Moderate sodium"
+      ]
+    },
+    "chicken tenders solo meal combo": {
+      "calories": 520,
+      "protein": 28,
+      "carbs": 48,
+      "fat": 16,
+      "sodium": 820,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in carbs",
+        "Moderate saturated fat"
+      ]
+    },
+    "tuna san": {
+      "calories": 380,
+      "protein": 28,
+      "carbs": 32,
+      "fat": 16,
+      "sodium": 620,
+      "sugar": 12,
+      "fiber": 6,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "Good source of protein",
+        "High in fiber",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "Moderate sodium"
+      ]
+    },
+    "solo": {
+      "calories": 280,
+      "protein": 24,
+      "carbs": 12,
+      "fat": 14,
+      "sodium": 580,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Low in sugar"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "Moderate sodium"
+      ]
+    },
+    "chicken tenders squad meal combo": {
+      "calories": 840,
+      "protein": 64,
+      "carbs": 72,
+      "fat": 32,
+      "sodium": 1240,
+      "sugar": 12,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "squad": {
+      "calories": 740,
+      "protein": 64,
+      "carbs": 24,
+      "fat": 36,
+      "sodium": 1240,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "chicken tenders squad a la carte": {
+      "calories": 740,
+      "protein": 64,
+      "carbs": 24,
+      "fat": 36,
+      "sodium": 1240,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    }
+  }
+}

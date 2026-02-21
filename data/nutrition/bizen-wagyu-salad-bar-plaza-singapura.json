@@ -1,0 +1,1363 @@
+{
+  "brand": "bizen-wagyu-salad-bar-plaza-singapura",
+  "generatedAt": "2026-02-16T13:48:45.792Z",
+  "items": {
+    "mushroom soup": {
+      "calories": 180,
+      "protein": 4,
+      "carbs": 12,
+      "fat": 13,
+      "sodium": 720,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of B vitamins",
+        "Low calorie starter"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "grilled fish": {
+      "calories": 320,
+      "protein": 42,
+      "carbs": 18,
+      "fat": 9,
+      "sodium": 850,
+      "sugar": 1,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "High in omega-3",
+        "Lean protein source"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "grilled chestnut pork": {
+      "calories": 420,
+      "protein": 48,
+      "carbs": 12,
+      "fat": 20,
+      "sodium": 920,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron",
+        "Rich in B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "asahi dry (btl)": {
+      "calories": 140,
+      "protein": 1,
+      "carbs": 3,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Alcoholic beverage",
+        "Low nutritional value"
+      ]
+    },
+    "french fries": {
+      "calories": 310,
+      "protein": 4,
+      "carbs": 38,
+      "fat": 16,
+      "sodium": 480,
+      "sugar": 0,
+      "fiber": 3,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "the original hamburg don": {
+      "calories": 620,
+      "protein": 28,
+      "carbs": 62,
+      "fat": 28,
+      "sodium": 1200,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Balanced meal"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "High in saturated fat"
+      ]
+    },
+    "hamburg patty (1pc)": {
+      "calories": 240,
+      "protein": 20,
+      "carbs": 2,
+      "fat": 18,
+      "sodium": 520,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "hakushika chokarakuchi junmai": {
+      "calories": 110,
+      "protein": 0,
+      "carbs": 4,
+      "fat": 0,
+      "sodium": 2,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Alcoholic beverage",
+        "High sugar content for sake"
+      ]
+    },
+    "de bortoli chardonnay, yarra valley, australia": {
+      "calories": 120,
+      "protein": 0,
+      "carbs": 3,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "Alcoholic beverage"
+      ]
+    },
+    "ribeye (150gm)": {
+      "calories": 520,
+      "protein": 52,
+      "carbs": 0,
+      "fat": 34,
+      "sodium": 140,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein",
+        "Excellent source of iron",
+        "Rich in B vitamins",
+        "Good source of zinc"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "teriyaki chicken": {
+      "calories": 380,
+      "protein": 44,
+      "carbs": 16,
+      "fat": 14,
+      "sodium": 950,
+      "sugar": 8,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Lean protein source"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate sugar content"
+      ]
+    },
+    "coca cola original (less sugar)": {
+      "calories": 42,
+      "protein": 0,
+      "carbs": 11,
+      "fat": 0,
+      "sodium": 35,
+      "sugar": 2.5,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Contains caffeine",
+        "Contains artificial sweeteners"
+      ]
+    },
+    "crispy bacon": {
+      "calories": 160,
+      "protein": 12,
+      "carbs": 1,
+      "fat": 13,
+      "sodium": 560,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "coca cola zero sugar": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 40,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Contains caffeine",
+        "Contains artificial sweeteners"
+      ]
+    },
+    "onion rings": {
+      "calories": 340,
+      "protein": 4,
+      "carbs": 40,
+      "fat": 18,
+      "sodium": 520,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains some fiber"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "chawanmushi": {
+      "calories": 120,
+      "protein": 10,
+      "carbs": 6,
+      "fat": 6,
+      "sodium": 680,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Egg",
+        "Shellfish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Rich in selenium"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "tiger (btl)": {
+      "calories": 140,
+      "protein": 1,
+      "carbs": 3,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Alcoholic beverage",
+        "Low nutritional value"
+      ]
+    },
+    "the original hamburg don set meal": {
+      "calories": 750,
+      "protein": 32,
+      "carbs": 78,
+      "fat": 32,
+      "sodium": 1400,
+      "sugar": 12,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Balanced meal with vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "High in saturated fat"
+      ]
+    },
+    "yuzu kosho chicken": {
+      "calories": 390,
+      "protein": 46,
+      "carbs": 4,
+      "fat": 20,
+      "sodium": 820,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Lean protein source",
+        "Rich in citrus flavor"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate saturated fat"
+      ]
+    },
+    "sirloin (150gm)": {
+      "calories": 520,
+      "protein": 48,
+      "carbs": 0,
+      "fat": 38,
+      "sodium": 95,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "Good source of B vitamins",
+        "Contains creatine"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in cholesterol"
+      ]
+    },
+    "de bortoli chardonnay, yarra valley, australia bottle": {
+      "calories": 600,
+      "protein": 0,
+      "carbs": 4,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Sulfites"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in alcohol",
+        "Contains sulfites"
+      ]
+    },
+    "melted cheese": {
+      "calories": 180,
+      "protein": 12,
+      "carbs": 2,
+      "fat": 14,
+      "sodium": 420,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of calcium",
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "pete's pure shiraz, new south wales, australia": {
+      "calories": 125,
+      "protein": 0,
+      "carbs": 4,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Sulfites"
+      ],
+      "healthBenefits": [
+        "Contains resveratrol",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in alcohol",
+        "Contains sulfites"
+      ]
+    },
+    "premium rump (150gm)": {
+      "calories": 480,
+      "protein": 50,
+      "carbs": 0,
+      "fat": 30,
+      "sodium": 85,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in cholesterol"
+      ]
+    },
+    "heineken (btl)": {
+      "calories": 150,
+      "protein": 1,
+      "carbs": 11,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in alcohol",
+        "Contains gluten"
+      ]
+    },
+    "potato wedges": {
+      "calories": 280,
+      "protein": 4,
+      "carbs": 35,
+      "fat": 14,
+      "sodium": 380,
+      "sugar": 1,
+      "fiber": 3,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of carbohydrates",
+        "Contains potassium"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "japanese daikon hamburg don": {
+      "calories": 520,
+      "protein": 22,
+      "carbs": 52,
+      "fat": 24,
+      "sodium": 720,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "sprite": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 36,
+      "fat": 0,
+      "sodium": 65,
+      "sugar": 35,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in sodium"
+      ]
+    },
+    "hakushika chokarakuchi junmai 180ml tokkuri": {
+      "calories": 200,
+      "protein": 0.5,
+      "carbs": 3,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Sulfites"
+      ],
+      "healthBenefits": [
+        "Contains amino acids"
+      ],
+      "healthWarnings": [
+        "High in alcohol",
+        "Contains sulfites"
+      ]
+    },
+    "garlic bread": {
+      "calories": 240,
+      "protein": 5,
+      "carbs": 28,
+      "fat": 12,
+      "sodium": 420,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "tamari glaze chicken": {
+      "calories": 380,
+      "protein": 42,
+      "carbs": 8,
+      "fat": 18,
+      "sodium": 680,
+      "sugar": 4,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of selenium"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "japanese daikon hamburg don set meal": {
+      "calories": 620,
+      "protein": 24,
+      "carbs": 68,
+      "fat": 26,
+      "sodium": 800,
+      "sugar": 5,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "knuckle (150gm)": {
+      "calories": 420,
+      "protein": 52,
+      "carbs": 0,
+      "fat": 22,
+      "sodium": 80,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "Good source of collagen"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in cholesterol"
+      ]
+    },
+    "creamy avocado": {
+      "calories": 140,
+      "protein": 2,
+      "carbs": 8,
+      "fat": 12,
+      "sodium": 8,
+      "sugar": 1,
+      "fiber": 3,
+      "allergens": [],
+      "healthBenefits": [
+        "High in healthy fats",
+        "Good source of fiber",
+        "Contains potassium"
+      ],
+      "healthWarnings": []
+    },
+    "homemade iced lemon tea": {
+      "calories": 120,
+      "protein": 0,
+      "carbs": 30,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 28,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "mashed potato": {
+      "calories": 200,
+      "protein": 3,
+      "carbs": 24,
+      "fat": 10,
+      "sodium": 340,
+      "sugar": 1,
+      "fiber": 2,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of carbohydrates",
+        "Contains potassium"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "pete's pure shiraz, new south wales, australia bottle": {
+      "calories": 600,
+      "protein": 0,
+      "carbs": 20,
+      "fat": 0,
+      "sodium": 25,
+      "sugar": 5,
+      "fiber": 0,
+      "allergens": [
+        "Sulfites"
+      ],
+      "healthBenefits": [
+        "Contains resveratrol",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in alcohol",
+        "Contains sulfites"
+      ]
+    },
+    "hakushika chokarakuchi junmai 300ml btl": {
+      "calories": 330,
+      "protein": 1,
+      "carbs": 5,
+      "fat": 0,
+      "sodium": 8,
+      "sugar": 3,
+      "fiber": 0,
+      "allergens": [
+        "Sulfites"
+      ],
+      "healthBenefits": [
+        "Contains amino acids"
+      ],
+      "healthWarnings": [
+        "High in alcohol",
+        "Contains sulfites"
+      ]
+    },
+    "de bortoli merlot, yarra valley, australia": {
+      "calories": 125,
+      "protein": 0,
+      "carbs": 4,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Sulfites"
+      ],
+      "healthBenefits": [
+        "Contains resveratrol",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in alcohol",
+        "Contains sulfites"
+      ]
+    },
+    "hakushika chokarakuchi junmai 1800ml btl": {
+      "calories": 1890,
+      "protein": 0,
+      "carbs": 9,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in alcohol content"
+      ]
+    },
+    "mac & cheese": {
+      "calories": 420,
+      "protein": 14,
+      "carbs": 48,
+      "fat": 18,
+      "sodium": 620,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Source of protein",
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "wasabi hamburg don": {
+      "calories": 680,
+      "protein": 28,
+      "carbs": 62,
+      "fat": 28,
+      "sodium": 850,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Source of iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "iced green tea": {
+      "calories": 5,
+      "protein": 0,
+      "carbs": 1,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "silken onsen egg": {
+      "calories": 95,
+      "protein": 7,
+      "carbs": 1,
+      "fat": 7,
+      "sodium": 140,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains choline"
+      ],
+      "healthWarnings": [
+        "Contains cholesterol"
+      ]
+    },
+    "grated daikon radish": {
+      "calories": 15,
+      "protein": 1,
+      "carbs": 3,
+      "fat": 0,
+      "sodium": 45,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Good source of vitamin C"
+      ],
+      "healthWarnings": []
+    },
+    "garden salad": {
+      "calories": 85,
+      "protein": 3,
+      "carbs": 8,
+      "fat": 5,
+      "sodium": 120,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Good source of fiber",
+        "Rich in vitamins"
+      ],
+      "healthWarnings": []
+    },
+    "hot green tea": {
+      "calories": 5,
+      "protein": 0,
+      "carbs": 1,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "wasabi hamburg don set meal": {
+      "calories": 920,
+      "protein": 32,
+      "carbs": 95,
+      "fat": 32,
+      "sodium": 1180,
+      "sugar": 12,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Source of iron",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "de bortoli merlot, yarra valley, australia bottle": {
+      "calories": 645,
+      "protein": 0,
+      "carbs": 4,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Sulfites"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in alcohol content"
+      ]
+    },
+    "kimchi hamburg don": {
+      "calories": 720,
+      "protein": 28,
+      "carbs": 64,
+      "fat": 30,
+      "sodium": 1050,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Source of probiotics",
+        "Source of iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Spicy"
+      ]
+    },
+    "steamed broccoli": {
+      "calories": 55,
+      "protein": 5,
+      "carbs": 10,
+      "fat": 0,
+      "sodium": 85,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "High in fiber",
+        "Rich in vitamin C",
+        "Rich in antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "mineral water": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Hydrating",
+        "Zero calories"
+      ],
+      "healthWarnings": []
+    },
+    "wasabi mayo": {
+      "calories": 95,
+      "protein": 0,
+      "carbs": 1,
+      "fat": 10,
+      "sodium": 180,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in fat",
+        "High in sodium"
+      ]
+    },
+    "kimchi hamburg don set meal": {
+      "calories": 960,
+      "protein": 32,
+      "carbs": 98,
+      "fat": 34,
+      "sodium": 1380,
+      "sugar": 10,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Source of probiotics",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories",
+        "Spicy"
+      ]
+    },
+    "potato salad": {
+      "calories": 180,
+      "protein": 3,
+      "carbs": 22,
+      "fat": 9,
+      "sodium": 320,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of potassium",
+        "Contains carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in sodium"
+      ]
+    },
+    "japanese rice": {
+      "calories": 280,
+      "protein": 5,
+      "carbs": 62,
+      "fat": 0,
+      "sodium": 200,
+      "sugar": 0,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of carbohydrates",
+        "Gluten-free"
+      ],
+      "healthWarnings": []
+    },
+    "creamy avocado hamburg don": {
+      "calories": 780,
+      "protein": 28,
+      "carbs": 63,
+      "fat": 38,
+      "sodium": 820,
+      "sugar": 5,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Source of healthy fats",
+        "Rich in potassium",
+        "Source of fiber"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "cold green tea": {
+      "calories": 5,
+      "protein": 0,
+      "carbs": 1,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "creamy avocado hamburg don set meal": {
+      "calories": 720,
+      "protein": 28,
+      "carbs": 62,
+      "fat": 38,
+      "sodium": 980,
+      "sugar": 8,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains healthy fats from avocado",
+        "Source of potassium"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in fat",
+        "Moderate sodium content"
+      ]
+    },
+    "kimchi": {
+      "calories": 45,
+      "protein": 2,
+      "carbs": 8,
+      "fat": 1,
+      "sodium": 650,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good source of probiotics",
+        "Low calorie",
+        "Contains vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Spicy - may cause digestive discomfort"
+      ]
+    },
+    "truffle wild mushroom hamburg don": {
+      "calories": 680,
+      "protein": 26,
+      "carbs": 60,
+      "fat": 36,
+      "sodium": 920,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains B vitamins from mushrooms"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in fat",
+        "High in sodium"
+      ]
+    },
+    "truffle wild mushroom hamburg don set meal": {
+      "calories": 780,
+      "protein": 28,
+      "carbs": 68,
+      "fat": 38,
+      "sodium": 1050,
+      "sugar": 8,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains B vitamins",
+        "Includes vegetables"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in fat",
+        "High in sodium"
+      ]
+    },
+    "premium japanese hamburg don with silken onsen egg": {
+      "calories": 720,
+      "protein": 32,
+      "carbs": 58,
+      "fat": 38,
+      "sodium": 950,
+      "sugar": 5,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains choline from egg",
+        "Good amino acid profile"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in fat",
+        "High in dietary cholesterol"
+      ]
+    },
+    "premium japanese hamburg don with silken onsen egg set meal": {
+      "calories": 820,
+      "protein": 34,
+      "carbs": 66,
+      "fat": 40,
+      "sodium": 1080,
+      "sugar": 7,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains choline",
+        "Includes vegetables"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in fat",
+        "High in dietary cholesterol",
+        "High in sodium"
+      ]
+    },
+    "crispy bacon hamburg don": {
+      "calories": 710,
+      "protein": 30,
+      "carbs": 58,
+      "fat": 38,
+      "sodium": 1100,
+      "sugar": 6,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains B vitamins"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in fat",
+        "Very high in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "crispy bacon hamburg don set meal": {
+      "calories": 810,
+      "protein": 32,
+      "carbs": 66,
+      "fat": 40,
+      "sodium": 1230,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains B vitamins",
+        "Includes vegetables"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in fat",
+        "Very high in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "cheese hamburg don": {
+      "calories": 740,
+      "protein": 29,
+      "carbs": 59,
+      "fat": 40,
+      "sodium": 1010,
+      "sugar": 6,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Good source of calcium"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in fat",
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "cheese hamburg don set meal": {
+      "calories": 840,
+      "protein": 31,
+      "carbs": 67,
+      "fat": 42,
+      "sodium": 1140,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Good source of calcium",
+        "Includes vegetables"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in fat",
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    }
+  }
+}

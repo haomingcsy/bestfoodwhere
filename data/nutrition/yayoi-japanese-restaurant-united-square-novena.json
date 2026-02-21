@@ -1,0 +1,163 @@
+{
+  "brand": "yayoi-japanese-restaurant-united-square-novena",
+  "generatedAt": "2026-02-21T12:23:41.832Z",
+  "items": {
+    "anime collaboration set teriyaki hamburg teishoku": {
+      "calories": 680,
+      "protein": 28,
+      "carbs": 72,
+      "fat": 28,
+      "sodium": 1200,
+      "sugar": 12,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in saturated fat"
+      ]
+    },
+    "anime collaboration set curry hamburg teishoku": {
+      "calories": 720,
+      "protein": 26,
+      "carbs": 78,
+      "fat": 30,
+      "sodium": 1280,
+      "sugar": 14,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains turmeric"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in saturated fat"
+      ]
+    },
+    "tonkotsu nabe teishoku": {
+      "calories": 650,
+      "protein": 32,
+      "carbs": 58,
+      "fat": 28,
+      "sodium": 1400,
+      "sugar": 8,
+      "fiber": 4,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of collagen",
+        "Rich in vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "mala tonkotsu nabe teishoku": {
+      "calories": 680,
+      "protein": 32,
+      "carbs": 60,
+      "fat": 30,
+      "sodium": 1450,
+      "sugar": 9,
+      "fiber": 4,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of collagen",
+        "Rich in vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Very spicy"
+      ]
+    },
+    "meat-free yasai itame teishoku": {
+      "calories": 480,
+      "protein": 14,
+      "carbs": 62,
+      "fat": 18,
+      "sodium": 980,
+      "sugar": 8,
+      "fiber": 6,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "Good source of vegetables",
+        "Lower in calories"
+      ],
+      "healthWarnings": [
+        "Moderate sodium content"
+      ]
+    },
+    "meat-free nasu miso teishoku": {
+      "calories": 520,
+      "protein": 12,
+      "carbs": 68,
+      "fat": 16,
+      "sodium": 1050,
+      "sugar": 10,
+      "fiber": 5,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "Good source of vegetables",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "Moderate sodium content"
+      ]
+    },
+    "meat-free sukiyaki teishoku": {
+      "calories": 580,
+      "protein": 18,
+      "carbs": 66,
+      "fat": 22,
+      "sodium": 1100,
+      "sugar": 16,
+      "fiber": 5,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "High in vegetables",
+        "Contains tofu"
+      ],
+      "healthWarnings": [
+        "Moderate sodium content",
+        "Moderate sugar content"
+      ]
+    }
+  }
+}

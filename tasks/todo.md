@@ -1,120 +1,87 @@
 # BestFoodWhere.sg - Task Tracker
 
-> Last Updated: December 2025
+> Last Updated: 2026-02-21
 
-## Current Phase: Homepage (Phase 3)
+## Current Phase: Final Data Population & Image Caching
 
-Goal: Replicate `https://bestfoodwhere.sg/` homepage top-to-bottom using Next.js + Tailwind with mock data (no Supabase/Maps integration yet).
-
----
-
-## Checklist (Build in exact homepage order)
-
-- [x] (M) Wire global layout: render `components/layout/Header` + `components/layout/Footer` in `app/layout.tsx`
-- [x] (M) Build sticky **Header/Navigation** (desktop + mobile): logo, Discover dropdown, Shopping Malls dropdown, Cuisines dropdown, Blog dropdown, search trigger, “List Your Restaurant” CTA, login/account buttons
-- [x] (M) Build **Hero**: “Discover Best Food Places Near You in Singapore.” headline with highlight + simple animation, subtitle, dual CTA buttons (“View malls” / “View cuisine”)
-- [x] (S) Build **Feature List**: 4–5 bullets with check icons (copy + spacing to match live)
-- [x] (L) Build **Postal Code Finder (UI only)**: 6-digit input, submit button, results panel + travel time chips, “View directory” link/button (mock mall + mock travel times)
-- [x] (M) Build **Popular Shopping Malls**: 3-col responsive grid (or horizontal carousel on mobile if matching), 6 cards with image, badge, stats, tags, hover lift, “View All Malls” link
-- [x] (M) Build **Explore by Cuisine**: 3-col responsive image cards with bottom overlay text + hover lift, “View all cuisines” link
-- [x] (S) Build **Dining Options**: 4-col responsive icon cards (Family-Friendly, Romantic, Late-Night, Quick Bites) with hover states
-- [x] (M) Build **Latest Food Deals**: 3-col responsive deal cards with discount badges (e.g., “30% OFF”, “1-FOR-1”), CTA button
-- [x] (M) Build **Recipe Categories**: 4-col responsive grid, 12 category cards with consistent sizing + hover
-- [x] (S) Build **Newsletter Signup**: email capture form with loading/success/error UI (mock submit)
-- [x] (S) Build **Footer**: 4-col layout with links + copyright
-- [x] (S) Verify responsive behavior (sm/md/lg/xl) across all sections + basic a11y (labels, focus, reduced motion)
-- [x] (S) Run `npm run type-check` + `npm run lint` and fix issues from homepage changes only
+Goal: All 775+ restaurant menu pages fully populated with factual data, served from Supabase.
 
 ---
 
-## Implementation Notes / Constraints
-- Mock data only (hardcoded arrays) colocated with each section or in `lib/mock/homepage.ts`.
-- Defer Google Maps API + real travel-time calculations; use deterministic mock values for now.
-- Match live site interactions: sticky header, dropdown behaviors, hover lift/shadows, section spacing, and typography (Montserrat headings).
-- Prefer Server Components by default; use Client Components only where needed (dropdowns, mobile drawer, postal code input state).
+## Completed
+
+- [x] Switch data source from Google Sheets to Supabase (`MENU_DATA_SOURCE=supabase`)
+- [x] Fix Vercel env var (had trailing `\n` causing fallback to Google Sheets)
+- [x] Deploy to production (bestfoodwhere.sg) with Supabase mode
+- [x] Fix UX: "More bakeries" -> "More restaurants" in MenuPageTemplate
+- [x] Fix UX: Remove sheet references from DescriptionSection and AmenitiesGrid
+- [x] Fix supabase-menu.ts: Add `ai_amenities` to SELECT query and fallback logic
+- [x] AI enrichment: 100% of 775 brands have ai_description, ai_amenities, ai_recommendations
+- [x] Reviews synced from Google Places for all brands (3,952 reviews)
+- [x] Bootstrap brands from mall_restaurants (775 brands, 1,056 locations)
+- [x] V2 AI descriptions: 770/775 brands regenerated with unique openers, banned phrase filter
+- [x] Website scraper initial run: 602 completed, 31,529 menu items scraped
+- [x] Sync 5 brands from Google Sheets to Supabase menu_items (01-sync-sheets-menu.ts)
+- [x] Hero images cached: 837/837 restaurant hero images in Supabase Storage
+- [x] Real amenities synced: 840/840 restaurants from Google Places API
+- [x] Website scraper re-run: 37 brands processed (23 skipped, 13 failed HTTP 0)
+- [x] Menu item image caching: 22,543/22,848 (98.7%) — 383.6 MB in Supabase Storage
+- [x] Nutrition generation: 514/514 brands (100%) — 0 failures, ~$4.24 Haiku cost
+
+## In Progress
+
+- [ ] Verify site displays properly after all data populated
+- [ ] Commit all current changes to git
+
+## Up Next
+
+- [ ] Verify site displays properly after all data populated
+- [ ] Commit all current changes to git
+- [ ] Move bestfoodwhere.sg domain from old `bfw` Vercel project to `bestfoodwhere` project
+
+## Blocked
+
+- None currently
 
 ---
 
-## Progress Notes
+## Key Decisions Made
 
-#### 2025-12-14 - Homepage kickoff
-**Status:** In Progress
-**Notes:**
-- Header, Hero, Feature List, and Postal Code Finder sections implemented with mock data.
+- **Data source**: Supabase (not Google Sheets) - controlled by `MENU_DATA_SOURCE` env var
+- **AI content**: Used for description, amenities, recommendations when manual data missing
+- **Rollback plan**: Delete `MENU_DATA_SOURCE` env var in Vercel -> instant rollback to Sheets
+- **Nutrition data**: Stored as JSON files in `data/nutrition/${slug}.json` — loaded at build time
+- **Image pipeline**: original_image_url → download → Supabase Storage → cdn_image_url
 
-#### 2025-12-17 - Run dev server (local)
-**Status:** Completed
-**Checklist:**
-- [x] Ensure dependencies installed (`npm ci`)
-- [x] Start dev server (`npm run dev`, port `4007`)
-- [x] Confirm homepage loads at `http://localhost:4007`
+## Data Quality Metrics (2026-02-21)
 
----
+| Metric | Count |
+|--------|-------|
+| Total brands | 775 |
+| Brands with menu items | 617 (80%) |
+| Brands with 0 items | 158 (20%) |
+| Total menu items | 31,529 |
+| Items with images | 22,987 (72.9%) |
+| Items with prices | 29,002 (92%) |
+| Items with CDN images | 22,543 (98.7%) — DONE |
+| Nutrition JSON files | 514 of 514 (100%) — DONE |
+| Total reviews | 3,952 |
+| AI enrichment coverage | 100% |
 
-## Phase 2: Site Architecture Setup (Complete)
+## Recently Modified Files
 
-- [x] Scaffold public routes (malls, menu, cuisine, dining, postal finder, deals, about, contact, faq, blog, recipes, careers, partnership, listing)
-- [x] Scaffold auth routes (`/login`, `/signup`, `/forgot-password`)
-- [x] Scaffold user dashboard route group (`/(user)/*`) (structure only; no auth yet)
-- [x] Scaffold admin panel routes (`/admin/*`) (structure only; no auth yet)
-- [x] Add template placeholders under `components/templates/`
-- [x] Add WordPress REST API client (`lib/wordpress.ts`) + types (`types/wordpress.ts`)
-- [x] Add `docs/ARCHITECTURE.md` documenting routes/templates/WP integration
+- `scripts/cache-menu-images.mjs` — NEW: Menu item image CDN caching script
+- `scripts/pipeline/01-sync-sheets-menu.ts` — NEW: Google Sheets → Supabase menu sync
+- `scripts/_check-state.mjs` — NEW: Menu data state diagnostics
+- `scripts/_check-images.mjs` — NEW: Image coverage diagnostics
 
----
+## Key Files
 
-## Phase 3: Menu Pages - Google Sheets CMS (In Progress)
-
-- [ ] Add Google Sheets service (`lib/google-sheets.ts`) with 5-min ISR caching
-- [ ] Add brand/menu types (`types/brand.ts`)
-- [ ] Wire `/menu/[slug]` to Google Sheets + `MenuPageTemplate`
-- [ ] Build menu sections under `components/sections/menu/` (layout + placeholders)
-- [ ] Update `.env.example` with required Google Sheets env vars
-- [ ] Add docs note for Sheets integration (update `docs/ARCHITECTURE.md`)
-- [ ] Run `npm run lint` + `npm run type-check` (menu changes only)
-
----
-
-## Four Leaves WP Parity (codex-claude)
-
-Goal: Match `https://bestfoodwhere.sg/menu/four-leaves/` in the `codex-claude` menu template.
-
-### Plan (Pending Approval)
-- [x] 1. Restyle `HeroHeader` to WP black bar layout (tags, price, open badge) and add hero image support.
-- [x] 2. Update `StoreInfoCard` to WP sidebar layout (location selector, profile strip, location details card, order button, socials).
-- [x] 3. Rebuild `GoogleReviews` to WP layout (logo header, rating summary, bars, CTA, list styling).
-- [x] 4. Restyle “More bakeries” (`RelatedBrands`) cards to WP typography, badges, tags, hours line.
-- [x] 5. Ensure mobile layout moves Store Info above main sections while keeping sidebar on desktop.
-- [x] 6. Run `npm run lint` + `npm run type-check` after changes.
-
-### Plan (Pending Approval) - Four Leaves Data Sync & Visual Parity
-- [ ] 1. Confirm hero/logo image source uses local `image/fourleaves.png` everywhere the Four Leaves art appears.
-- [ ] 2. Normalize opening-hours parsing to always render 7 day rows from sheet data (Weekly Schedule / Opening Hours).
-- [ ] 3. Align open/closed badge text and time to Singapore time with “opens at” fallback.
-- [ ] 4. Verify description + amenities content is generated per location when sheet is blank.
-- [ ] 5. Re-check Four Leaves page layout against the reference screenshots and note any deltas.
-
-### Plan (Pending Approval) - Nutrition Modal Icon Parity + Sheet Verification
-- [ ] 1. Replace Health Benefits + Allergen icons with local SVGs matching the original Font Awesome shapes (bread-slice, fish, egg, child, brain, dumbbell, heartbeat, exclamation-triangle).
-- [ ] 2. Wire the modal to use those SVGs consistently across all menu items (no external dependency).
-- [ ] 3. Verify the menu data is loading from Google Sheets; if the API key is invalid, surface the error and request a valid key.
-
-### Plan (Pending Approval) - Sheets Mapping + Per-Location Content
-- [ ] 1. Read the “All Menus” tab and confirm Name → slug mapping for all provided names.
-- [ ] 2. Map “General Information” + “Location associated” to location selector, tags, map, store info, and opening hours per location.
-- [ ] 3. Parse detailed Google Reviews text into the reviews section per location.
-- [ ] 4. Fix “More bakeries” parsing so the cards render for each location.
-- [ ] 5. Wire “BestFoodWhere’s Recommendation” into the sidebar.
-- [ ] 6. Add data-driven “Exclusive Coupons” column and connect it to the sidebar.
-- [ ] 7. Implement unique per-location Description + Amenities via sheet content (no templated generator).
-
-### Plan (Pending Approval) - HubSpot Webhook Endpoint
-- [x] 1. Add `app/api/hubspot/webhook/route.ts` with `POST` handler returning 200 and logging payload.
-- [x] 2. Add optional `GET` handler returning 200 for quick verification.
-- [ ] 3. Document the webhook URL for Vercel production deployment.
-
-### Plan (Approved) - Newsletter Popup + n8n → HubSpot
-- [ ] 1. Replace `NewsletterSignup` with modal popup UI (left benefits + right form) matching the reference layout.
-- [ ] 2. Add `/api/newsletter` route to forward submissions to `N8N_NEWSLETTER_WEBHOOK_URL`.
-- [ ] 3. Render popup globally in `app/layout.tsx` and remove inline usage from `app/page.tsx`.
-- [ ] 4. Add success/error states and ensure no consent checkbox is shown.
+- `app/menu/[slug]/page.tsx` - Menu page route (line 25: USE_SUPABASE flag)
+- `lib/supabase-menu.ts` - Supabase data fetcher
+- `lib/google-sheets.ts` - Google Sheets data fetcher (fallback)
+- `lib/restaurant-images.ts` - Image URL resolution (batchGetMenuImageUrls)
+- `scripts/pipeline/` - Data population pipeline (00-bootstrap through 07-quality-audit)
+- `scripts/cache-menu-images.mjs` - Menu item image CDN caching
+- `scripts/generate-nutrition-batch.ts` - Nutrition data generation
+- `components/templates/MenuPageTemplate.tsx` - Main menu page template

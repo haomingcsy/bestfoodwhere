@@ -1,0 +1,1016 @@
+{
+  "brand": "boost-juice-bars",
+  "generatedAt": "2026-02-16T13:53:21.049Z",
+  "items": {
+    "rdp immunity juice": {
+      "calories": 180,
+      "protein": 2,
+      "carbs": 42,
+      "fat": 0.5,
+      "sodium": 85,
+      "sugar": 38,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "High in vitamin C",
+        "Hydrating",
+        "Antioxidant-rich"
+      ],
+      "healthWarnings": [
+        "High in natural sugars"
+      ]
+    },
+    "apple juice": {
+      "calories": 130,
+      "protein": 0.5,
+      "carbs": 32,
+      "fat": 0.3,
+      "sodium": 40,
+      "sugar": 28,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Source of vitamin C",
+        "Natural hydration"
+      ],
+      "healthWarnings": [
+        "High in natural sugars",
+        "Low fiber compared to whole apple"
+      ]
+    },
+    "muesli bar": {
+      "calories": 240,
+      "protein": 8,
+      "carbs": 28,
+      "fat": 12,
+      "sodium": 120,
+      "sugar": 14,
+      "fiber": 3,
+      "allergens": [
+        "Peanut",
+        "Tree Nut",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Provides sustained energy",
+        "Contains seeds"
+      ],
+      "healthWarnings": [
+        "Contains allergens",
+        "Moderate saturated fat"
+      ]
+    },
+    "red royale": {
+      "calories": 220,
+      "protein": 3,
+      "carbs": 48,
+      "fat": 1,
+      "sodium": 95,
+      "sugar": 38,
+      "fiber": 4,
+      "allergens": [],
+      "healthBenefits": [
+        "Rich in antioxidants",
+        "High in vitamin C",
+        "Contains polyphenols from berries and beetroot"
+      ],
+      "healthWarnings": [
+        "High in natural sugars"
+      ]
+    },
+    "all berry bang": {
+      "calories": 200,
+      "protein": 5,
+      "carbs": 38,
+      "fat": 2,
+      "sodium": 110,
+      "sugar": 32,
+      "fiber": 3,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Rich in antioxidants",
+        "Good source of probiotics",
+        "High in vitamin C"
+      ],
+      "healthWarnings": [
+        "High in natural sugars"
+      ]
+    },
+    "avocado matcha": {
+      "calories": 280,
+      "protein": 6,
+      "carbs": 32,
+      "fat": 14,
+      "sodium": 140,
+      "sugar": 18,
+      "fiber": 3,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of healthy fats",
+        "Contains matcha antioxidants",
+        "Probiotic-rich"
+      ],
+      "healthWarnings": [
+        "Moderate calorie content",
+        "Moderate saturated fat"
+      ]
+    },
+    "cookies & cream": {
+      "calories": 260,
+      "protein": 7,
+      "carbs": 42,
+      "fat": 6,
+      "sodium": 180,
+      "sugar": 32,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of probiotics",
+        "Protein-enriched"
+      ],
+      "healthWarnings": [
+        "High in added sugars",
+        "High in sodium"
+      ]
+    },
+    "ribena blueberry smoothie": {
+      "calories": 210,
+      "protein": 5,
+      "carbs": 44,
+      "fat": 1.5,
+      "sodium": 120,
+      "sugar": 38,
+      "fiber": 2,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Rich in vitamin C from Ribena",
+        "Probiotic-rich",
+        "Antioxidant berries"
+      ],
+      "healthWarnings": [
+        "High in added sugars"
+      ]
+    },
+    "it's peachy: 2 for $12.90": {
+      "calories": 320,
+      "protein": 3,
+      "carbs": 76,
+      "fat": 0.5,
+      "sodium": 80,
+      "sugar": 68,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "High in vitamin C",
+        "Natural fruit-based"
+      ],
+      "healthWarnings": [
+        "Very high in natural sugars",
+        "High sugar for 2 drinks"
+      ]
+    },
+    "protein supreme": {
+      "calories": 340,
+      "protein": 22,
+      "carbs": 40,
+      "fat": 8,
+      "sodium": 160,
+      "sugar": 20,
+      "fiber": 4,
+      "allergens": [
+        "Dairy",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "High protein",
+        "Good source of fiber",
+        "Contains omega-3 from chia seeds",
+        "Sustained energy"
+      ],
+      "healthWarnings": [
+        "Moderate calorie content"
+      ]
+    },
+    "blind box stackable cup": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Merchandise item - not consumable"
+      ]
+    },
+    "5 a day juice": {
+      "calories": 160,
+      "protein": 1.5,
+      "carbs": 38,
+      "fat": 0.5,
+      "sodium": 95,
+      "sugar": 28,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "High in vitamin A from carrots",
+        "High in vitamin C",
+        "Mineral-rich from vegetables"
+      ],
+      "healthWarnings": [
+        "High in natural sugars",
+        "Low fiber despite vegetable content"
+      ]
+    },
+    "pomegranate raspberry": {
+      "calories": 210,
+      "protein": 4,
+      "carbs": 42,
+      "fat": 1,
+      "sodium": 100,
+      "sugar": 36,
+      "fiber": 2,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Rich in antioxidants from pomegranate",
+        "High in vitamin C",
+        "Probiotic-rich"
+      ],
+      "healthWarnings": [
+        "High in natural sugars"
+      ]
+    },
+    "mango magic": {
+      "calories": 220,
+      "protein": 4,
+      "carbs": 46,
+      "fat": 1.5,
+      "sodium": 110,
+      "sugar": 40,
+      "fiber": 2,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in vitamin C",
+        "Good source of vitamin A",
+        "Probiotic-rich"
+      ],
+      "healthWarnings": [
+        "High in natural sugars"
+      ]
+    },
+    "lean & green juice": {
+      "calories": 120,
+      "protein": 1,
+      "carbs": 28,
+      "fat": 0.3,
+      "sodium": 110,
+      "sugar": 18,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "High in detoxifying vegetables",
+        "Good source of minerals",
+        "Wheatgrass nutrient-dense"
+      ],
+      "healthWarnings": [
+        "Low protein"
+      ]
+    },
+    "pomegranate blueberry": {
+      "calories": 220,
+      "protein": 5,
+      "carbs": 44,
+      "fat": 1,
+      "sodium": 115,
+      "sugar": 38,
+      "fiber": 2,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Rich in antioxidants",
+        "High in vitamin C",
+        "Probiotic-rich",
+        "Double berry antioxidants"
+      ],
+      "healthWarnings": [
+        "High in natural sugars"
+      ]
+    },
+    "king william chocolate": {
+      "calories": 240,
+      "protein": 8,
+      "carbs": 38,
+      "fat": 6,
+      "sodium": 150,
+      "sugar": 28,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains potassium from banana",
+        "Probiotic-rich"
+      ],
+      "healthWarnings": [
+        "Moderate added sugars",
+        "Moderate sodium"
+      ]
+    },
+    "skinny dip collagen": {
+      "calories": 260,
+      "protein": 18,
+      "carbs": 32,
+      "fat": 2,
+      "sodium": 120,
+      "sugar": 24,
+      "fiber": 3,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High protein",
+        "Contains collagen for skin health",
+        "Rich in antioxidants",
+        "Probiotic-rich"
+      ],
+      "healthWarnings": [
+        "Moderate added sugars"
+      ]
+    },
+    "ribena strawberry smoothie": {
+      "calories": 200,
+      "protein": 4,
+      "carbs": 42,
+      "fat": 1,
+      "sodium": 115,
+      "sugar": 36,
+      "fiber": 2,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in vitamin C",
+        "Probiotic-rich",
+        "Strawberry antioxidants"
+      ],
+      "healthWarnings": [
+        "High in added sugars"
+      ]
+    },
+    "carrot chocolate chip muffin": {
+      "calories": 320,
+      "protein": 5,
+      "carbs": 42,
+      "fat": 15,
+      "sodium": 280,
+      "sugar": 24,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of beta-carotene",
+        "Contains fiber"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "strawberry squeeze": {
+      "calories": 280,
+      "protein": 8,
+      "carbs": 52,
+      "fat": 2,
+      "sodium": 85,
+      "sugar": 38,
+      "fiber": 3,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Rich in vitamin C",
+        "Probiotic content"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "orange juice": {
+      "calories": 110,
+      "protein": 2,
+      "carbs": 26,
+      "fat": 0.5,
+      "sodium": 5,
+      "sugar": 22,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Rich in vitamin C",
+        "Natural sugars"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Low in fiber"
+      ]
+    },
+    "rdp vita c detox juice": {
+      "calories": 140,
+      "protein": 2,
+      "carbs": 32,
+      "fat": 0.5,
+      "sodium": 80,
+      "sugar": 24,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "High in vitamin C",
+        "Contains ginger",
+        "Antioxidant-rich"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "banana buzz": {
+      "calories": 310,
+      "protein": 10,
+      "carbs": 48,
+      "fat": 4,
+      "sodium": 120,
+      "sugar": 32,
+      "fiber": 3,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Rich in potassium",
+        "Probiotic content"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "gym junkie": {
+      "calories": 340,
+      "protein": 25,
+      "carbs": 42,
+      "fat": 4,
+      "sodium": 140,
+      "sugar": 28,
+      "fiber": 3,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good for muscle recovery",
+        "Probiotic content"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "meet your matcha: 2 for $2.9": {
+      "calories": 520,
+      "protein": 8,
+      "carbs": 72,
+      "fat": 18,
+      "sodium": 280,
+      "sugar": 48,
+      "fiber": 2,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from matcha",
+        "Variety of flavors"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "avocado gold": {
+      "calories": 380,
+      "protein": 10,
+      "carbs": 42,
+      "fat": 18,
+      "sodium": 150,
+      "sugar": 18,
+      "fiber": 5,
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of healthy fats",
+        "Rich in fiber",
+        "Nutrient-dense"
+      ],
+      "healthWarnings": [
+        "High in calories"
+      ]
+    },
+    "ribena lychee smoothie": {
+      "calories": 320,
+      "protein": 7,
+      "carbs": 58,
+      "fat": 3,
+      "sodium": 110,
+      "sugar": 42,
+      "fiber": 2,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Probiotic content",
+        "Contains fruit juice"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "rdp veggie juice": {
+      "calories": 150,
+      "protein": 3,
+      "carbs": 28,
+      "fat": 1,
+      "sodium": 120,
+      "sugar": 18,
+      "fiber": 4,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in calories",
+        "High in fiber",
+        "Rich in vitamins",
+        "Contains chia seeds"
+      ],
+      "healthWarnings": [
+        "Moderate sodium content"
+      ]
+    },
+    "strawbrekkie protein": {
+      "calories": 360,
+      "protein": 28,
+      "carbs": 48,
+      "fat": 4,
+      "sodium": 160,
+      "sugar": 26,
+      "fiber": 4,
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of fiber",
+        "Immune support from Wellmune"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "veggie juice": {
+      "calories": 140,
+      "protein": 3,
+      "carbs": 26,
+      "fat": 1,
+      "sodium": 110,
+      "sugar": 16,
+      "fiber": 4,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in calories",
+        "High in fiber",
+        "Rich in vitamins",
+        "Contains chia seeds"
+      ],
+      "healthWarnings": [
+        "Moderate sodium content"
+      ]
+    },
+    "pomegranate mango": {
+      "calories": 310,
+      "protein": 2,
+      "carbs": 72,
+      "fat": 1,
+      "sodium": 40,
+      "sugar": 58,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "Rich in antioxidants",
+        "Vitamin C source"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "Low in protein"
+      ]
+    },
+    "passion mango": {
+      "calories": 320,
+      "protein": 7,
+      "carbs": 62,
+      "fat": 3,
+      "sodium": 95,
+      "sugar": 48,
+      "fiber": 2,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Tropical fruits"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "pineapple juice": {
+      "calories": 120,
+      "protein": 1,
+      "carbs": 28,
+      "fat": 0.5,
+      "sodium": 8,
+      "sugar": 24,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Rich in bromelain",
+        "Vitamin C source"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Low in fiber"
+      ]
+    },
+    "berry blast": {
+      "calories": 280,
+      "protein": 9,
+      "carbs": 44,
+      "fat": 4,
+      "sodium": 130,
+      "sugar": 32,
+      "fiber": 4,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in antioxidants",
+        "Good source of protein",
+        "Rich in fiber",
+        "Probiotic content"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "banana bread": {
+      "calories": 280,
+      "protein": 4,
+      "carbs": 40,
+      "fat": 12,
+      "sodium": 240,
+      "sugar": 20,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains potassium",
+        "No artificial additives"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "protein ball - peanut butter": {
+      "calories": 160,
+      "protein": 6,
+      "carbs": 14,
+      "fat": 9,
+      "sodium": 45,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Peanut",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains fiber",
+        "Natural ingredients"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "Contains peanuts"
+      ]
+    },
+    "avocado choc": {
+      "calories": 360,
+      "protein": 9,
+      "carbs": 38,
+      "fat": 18,
+      "sodium": 140,
+      "sugar": 20,
+      "fiber": 4,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of healthy fats",
+        "Rich in fiber"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "Moderate sugar content"
+      ]
+    },
+    "watermelon juice": {
+      "calories": 90,
+      "protein": 1,
+      "carbs": 22,
+      "fat": 0.5,
+      "sodium": 8,
+      "sugar": 18,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in calories",
+        "Hydrating",
+        "Contains lycopene"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Low in fiber"
+      ]
+    },
+    "rdp lean & green juice": {
+      "calories": 85,
+      "protein": 2,
+      "carbs": 18,
+      "fat": 0.5,
+      "sodium": 95,
+      "sugar": 12,
+      "fiber": 3,
+      "allergens": [],
+      "healthBenefits": [
+        "High in vitamin C",
+        "Low calorie",
+        "Good source of fiber",
+        "Detoxifying properties"
+      ],
+      "healthWarnings": []
+    },
+    "watermelon lychee crush": {
+      "calories": 145,
+      "protein": 1,
+      "carbs": 36,
+      "fat": 0.3,
+      "sodium": 45,
+      "sugar": 32,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "High in vitamin C",
+        "Hydrating",
+        "Refreshing"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "berry superfruit": {
+      "calories": 220,
+      "protein": 8,
+      "carbs": 35,
+      "fat": 2.5,
+      "sodium": 120,
+      "sugar": 25,
+      "fiber": 4,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in antioxidants",
+        "Good source of protein",
+        "Contains probiotics",
+        "High in vitamin C"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "wonder melon": {
+      "calories": 235,
+      "protein": 15,
+      "carbs": 28,
+      "fat": 3,
+      "sodium": 135,
+      "sugar": 20,
+      "fiber": 2,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains probiotics",
+        "Good source of vitamin C",
+        "Lower sugar for protein drinks"
+      ],
+      "healthWarnings": []
+    },
+    "vita c detox juice": {
+      "calories": 110,
+      "protein": 1.5,
+      "carbs": 25,
+      "fat": 0.3,
+      "sodium": 85,
+      "sugar": 18,
+      "fiber": 2.5,
+      "allergens": [],
+      "healthBenefits": [
+        "High in vitamin C",
+        "Contains ginger",
+        "Detoxifying",
+        "Good for immunity"
+      ],
+      "healthWarnings": []
+    },
+    "strawberry melon crush": {
+      "calories": 155,
+      "protein": 1.5,
+      "carbs": 38,
+      "fat": 0.3,
+      "sodium": 50,
+      "sugar": 34,
+      "fiber": 1.5,
+      "allergens": [],
+      "healthBenefits": [
+        "High in vitamin C",
+        "Refreshing",
+        "Low fat"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "immunity juice": {
+      "calories": 125,
+      "protein": 2,
+      "carbs": 28,
+      "fat": 0.5,
+      "sodium": 75,
+      "sugar": 22,
+      "fiber": 1.5,
+      "allergens": [],
+      "healthBenefits": [
+        "High in vitamin C",
+        "Immune boosting",
+        "Hydrating"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "rdp 5 a day juice": {
+      "calories": 135,
+      "protein": 2,
+      "carbs": 30,
+      "fat": 0.4,
+      "sodium": 110,
+      "sugar": 20,
+      "fiber": 3.5,
+      "allergens": [],
+      "healthBenefits": [
+        "High in fiber",
+        "Rich in vitamins A & C",
+        "Contains beetroot",
+        "Detoxifying"
+      ],
+      "healthWarnings": []
+    },
+    "mango lychee crush": {
+      "calories": 160,
+      "protein": 1,
+      "carbs": 40,
+      "fat": 0.2,
+      "sodium": 50,
+      "sugar": 36,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "High in vitamin C",
+        "Tropical flavor",
+        "Refreshing"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "protein ball - white chocolate": {
+      "calories": 155,
+      "protein": 6,
+      "carbs": 14,
+      "fat": 8.5,
+      "sodium": 65,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Peanut",
+        "Tree Nut",
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains fiber",
+        "Natural ingredients"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "Contains allergens"
+      ]
+    },
+    "soraya's favourite": {
+      "calories": 210,
+      "protein": 4.5,
+      "carbs": 44,
+      "fat": 2,
+      "sodium": 115,
+      "sugar": 38,
+      "fiber": 1.5,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in vitamin C",
+        "Contains probiotics",
+        "Immunity boosting",
+        "Contains green tea"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "create your own juice": {
+      "calories": 150,
+      "protein": 2,
+      "carbs": 32,
+      "fat": 0.5,
+      "sodium": 80,
+      "sugar": 24,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "Customizable",
+        "Fresh juice"
+      ],
+      "healthWarnings": []
+    },
+    "berry crush": {
+      "calories": 165,
+      "protein": 1.5,
+      "carbs": 40,
+      "fat": 0.3,
+      "sodium": 55,
+      "sugar": 35,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "High in antioxidants",
+        "Rich in vitamin C",
+        "Contains multiple berries"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    }
+  }
+}

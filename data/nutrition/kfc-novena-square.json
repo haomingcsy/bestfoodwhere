@@ -1,0 +1,1623 @@
+{
+  "brand": "kfc-novena-square",
+  "generatedAt": "2026-02-21T10:40:31.061Z",
+  "items": {
+    "coca-cola® zero sugar regular": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 55,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Zero calories",
+        "Zero sugar"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "original recipe chicken": {
+      "calories": 320,
+      "protein": 30,
+      "carbs": 11,
+      "fat": 17,
+      "sodium": 750,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "2 pcs chicken combo": {
+      "calories": 720,
+      "protein": 65,
+      "carbs": 48,
+      "fat": 28,
+      "sodium": 1650,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "original recipe burger family feast (+2 dip)": {
+      "calories": 2180,
+      "protein": 145,
+      "carbs": 165,
+      "fat": 98,
+      "sodium": 4200,
+      "sugar": 12,
+      "fiber": 6,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg",
+        "Dairy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "famous potato bowl": {
+      "calories": 580,
+      "protein": 28,
+      "carbs": 52,
+      "fat": 28,
+      "sodium": 1420,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "coke special: cny huat feast": {
+      "calories": 2450,
+      "protein": 155,
+      "carbs": 185,
+      "fat": 105,
+      "sodium": 4600,
+      "sugar": 0,
+      "fiber": 8,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "original recipe burger": {
+      "calories": 520,
+      "protein": 32,
+      "carbs": 42,
+      "fat": 24,
+      "sodium": 1180,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg",
+        "Dairy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "original recipe stacker": {
+      "calories": 680,
+      "protein": 48,
+      "carbs": 45,
+      "fat": 35,
+      "sodium": 1520,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg",
+        "Dairy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "mac n cheese bowl": {
+      "calories": 620,
+      "protein": 32,
+      "carbs": 58,
+      "fat": 28,
+      "sodium": 1550,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "hot & crispy chicken": {
+      "calories": 340,
+      "protein": 32,
+      "carbs": 10,
+      "fat": 18,
+      "sodium": 820,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "coca-cola® zero sugar medium": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 75,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Zero calories",
+        "Zero sugar"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "3 pcs chicken combo": {
+      "calories": 910,
+      "protein": 78,
+      "carbs": 52,
+      "fat": 38,
+      "sodium": 1950,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "15 pcs mega feast +4dip": {
+      "calories": 3280,
+      "protein": 210,
+      "carbs": 225,
+      "fat": 145,
+      "sodium": 6800,
+      "sugar": 15,
+      "fiber": 10,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Very high in calories"
+      ]
+    },
+    "la zi ji crunch box": {
+      "calories": 780,
+      "protein": 52,
+      "carbs": 68,
+      "fat": 32,
+      "sodium": 1620,
+      "sugar": 18,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg",
+        "Dairy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "original recipe burger box": {
+      "calories": 900,
+      "protein": 48,
+      "carbs": 88,
+      "fat": 38,
+      "sodium": 1850,
+      "sugar": 8,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg",
+        "Dairy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "the ultimate smokey zinger": {
+      "calories": 620,
+      "protein": 38,
+      "carbs": 48,
+      "fat": 28,
+      "sodium": 1280,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "coca-cola® original taste less sugar regular": {
+      "calories": 45,
+      "protein": 0,
+      "carbs": 12,
+      "fat": 0,
+      "sodium": 45,
+      "sugar": 11,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Reduced sugar"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "la zi ji bites box": {
+      "calories": 720,
+      "protein": 48,
+      "carbs": 64,
+      "fat": 28,
+      "sodium": 1580,
+      "sugar": 16,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg",
+        "Dairy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "5pcs chicken (alc)": {
+      "calories": 1650,
+      "protein": 155,
+      "carbs": 55,
+      "fat": 85,
+      "sodium": 3750,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "5 pcs chicken buddy meal": {
+      "calories": 1850,
+      "protein": 165,
+      "carbs": 125,
+      "fat": 75,
+      "sodium": 3950,
+      "sugar": 8,
+      "fiber": 6,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg",
+        "Dairy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "la zi ji crunch buddy meal": {
+      "calories": 1850,
+      "protein": 78,
+      "carbs": 156,
+      "fat": 92,
+      "sodium": 3240,
+      "sugar": 48,
+      "fiber": 8,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "chicken & zinger buddy meal": {
+      "calories": 1920,
+      "protein": 82,
+      "carbs": 168,
+      "fat": 96,
+      "sodium": 3380,
+      "sugar": 42,
+      "fiber": 7,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "original recipe stacker box": {
+      "calories": 950,
+      "protein": 42,
+      "carbs": 86,
+      "fat": 48,
+      "sodium": 1680,
+      "sugar": 18,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "8pcs chicken (alc)": {
+      "calories": 1840,
+      "protein": 140,
+      "carbs": 28,
+      "fat": 128,
+      "sodium": 3120,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "coca-cola® original taste less sugar medium": {
+      "calories": 95,
+      "protein": 0,
+      "carbs": 24,
+      "fat": 0,
+      "sodium": 65,
+      "sugar": 22,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "zinger burger": {
+      "calories": 520,
+      "protein": 28,
+      "carbs": 42,
+      "fat": 28,
+      "sodium": 1020,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "chicken & pockett buddy meal": {
+      "calories": 1680,
+      "protein": 68,
+      "carbs": 142,
+      "fat": 78,
+      "sodium": 2960,
+      "sugar": 36,
+      "fiber": 6,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "zinger box": {
+      "calories": 820,
+      "protein": 38,
+      "carbs": 72,
+      "fat": 42,
+      "sodium": 1480,
+      "sugar": 16,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "sprite regular": {
+      "calories": 125,
+      "protein": 0,
+      "carbs": 32,
+      "fat": 0,
+      "sodium": 75,
+      "sugar": 32,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "la zi ji crunch feast": {
+      "calories": 2280,
+      "protein": 96,
+      "carbs": 186,
+      "fat": 116,
+      "sodium": 3840,
+      "sugar": 56,
+      "fiber": 10,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "zinger stacker": {
+      "calories": 580,
+      "protein": 32,
+      "carbs": 38,
+      "fat": 34,
+      "sodium": 1140,
+      "sugar": 4,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "chicken & zinger stacker buddy meal": {
+      "calories": 1980,
+      "protein": 86,
+      "carbs": 172,
+      "fat": 100,
+      "sodium": 3420,
+      "sugar": 44,
+      "fiber": 8,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "bbq pockett": {
+      "calories": 480,
+      "protein": 26,
+      "carbs": 38,
+      "fat": 24,
+      "sodium": 920,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "zinger stacker box": {
+      "calories": 940,
+      "protein": 44,
+      "carbs": 82,
+      "fat": 50,
+      "sodium": 1640,
+      "sugar": 14,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "huat feast": {
+      "calories": 2140,
+      "protein": 110,
+      "carbs": 168,
+      "fat": 106,
+      "sodium": 3680,
+      "sugar": 48,
+      "fiber": 9,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "sprite medium": {
+      "calories": 165,
+      "protein": 0,
+      "carbs": 42,
+      "fat": 0,
+      "sodium": 95,
+      "sugar": 42,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "fanta grape regular": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 36,
+      "fat": 0,
+      "sodium": 45,
+      "sugar": 36,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "bbq pockett box": {
+      "calories": 780,
+      "protein": 36,
+      "carbs": 68,
+      "fat": 38,
+      "sodium": 1380,
+      "sugar": 12,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "la zi ji crunch bucket alc (5pc)": {
+      "calories": 1240,
+      "protein": 58,
+      "carbs": 42,
+      "fat": 84,
+      "sodium": 2480,
+      "sugar": 12,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "original recipe burger buddy meal": {
+      "calories": 1840,
+      "protein": 76,
+      "carbs": 154,
+      "fat": 88,
+      "sodium": 3240,
+      "sugar": 38,
+      "fiber": 7,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "la zi ji crunch alc": {
+      "calories": 320,
+      "protein": 18,
+      "carbs": 12,
+      "fat": 22,
+      "sodium": 680,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "the ultimate smokey zinger box": {
+      "calories": 850,
+      "protein": 32,
+      "carbs": 82,
+      "fat": 42,
+      "sodium": 1520,
+      "sugar": 1,
+      "fiber": 6,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "fanta grape medium": {
+      "calories": 160,
+      "protein": 0,
+      "carbs": 40,
+      "fat": 0,
+      "sodium": 35,
+      "sugar": 38,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "original recipe burger combo": {
+      "calories": 820,
+      "protein": 28,
+      "carbs": 78,
+      "fat": 40,
+      "sodium": 1480,
+      "sugar": 1,
+      "fiber": 5,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "fuze tea iced lemon tea regular": {
+      "calories": 95,
+      "protein": 0,
+      "carbs": 24,
+      "fat": 0,
+      "sodium": 45,
+      "sugar": 22,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Lower sugar than regular soft drinks"
+      ],
+      "healthWarnings": [
+        "Contains added sugar"
+      ]
+    },
+    "la zi ji bites alc": {
+      "calories": 380,
+      "protein": 16,
+      "carbs": 18,
+      "fat": 28,
+      "sodium": 720,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "original recipe stacker combo": {
+      "calories": 920,
+      "protein": 35,
+      "carbs": 82,
+      "fat": 46,
+      "sodium": 1680,
+      "sugar": 1,
+      "fiber": 5,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "fuze tea iced lemon tea medium": {
+      "calories": 110,
+      "protein": 0,
+      "carbs": 27,
+      "fat": 0,
+      "sodium": 50,
+      "sugar": 25,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Lower sugar than regular soft drinks"
+      ],
+      "healthWarnings": [
+        "Contains added sugar"
+      ]
+    },
+    "mala lotus root chips 30g alc": {
+      "calories": 140,
+      "protein": 1,
+      "carbs": 16,
+      "fat": 7,
+      "sodium": 320,
+      "sugar": 0,
+      "fiber": 2,
+      "allergens": [
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "sjora mango peach regular": {
+      "calories": 175,
+      "protein": 2,
+      "carbs": 32,
+      "fat": 4,
+      "sodium": 55,
+      "sugar": 28,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains fruit juice",
+        "Good source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "zinger combo": {
+      "calories": 820,
+      "protein": 28,
+      "carbs": 78,
+      "fat": 40,
+      "sodium": 1480,
+      "sugar": 1,
+      "fiber": 5,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "2pcs mango pomelo sago pie alc": {
+      "calories": 115,
+      "protein": 1,
+      "carbs": 18,
+      "fat": 4,
+      "sodium": 85,
+      "sugar": 12,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "6pcs mango pomelo sago pie alc": {
+      "calories": 345,
+      "protein": 3,
+      "carbs": 54,
+      "fat": 12,
+      "sodium": 255,
+      "sugar": 36,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "zinger stacker combo": {
+      "calories": 920,
+      "protein": 35,
+      "carbs": 82,
+      "fat": 46,
+      "sodium": 1680,
+      "sugar": 1,
+      "fiber": 5,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "doubledip platter meal": {
+      "calories": 650,
+      "protein": 28,
+      "carbs": 62,
+      "fat": 32,
+      "sodium": 1280,
+      "sugar": 1,
+      "fiber": 5,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "bbq pockett combo": {
+      "calories": 830,
+      "protein": 28,
+      "carbs": 78,
+      "fat": 42,
+      "sodium": 1520,
+      "sugar": 2,
+      "fiber": 5,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "minute maid orange regular": {
+      "calories": 130,
+      "protein": 1,
+      "carbs": 32,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 29,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains vitamin C",
+        "Good source of natural fruit juice"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "minute maid orange medium": {
+      "calories": 155,
+      "protein": 1,
+      "carbs": 38,
+      "fat": 0,
+      "sodium": 25,
+      "sugar": 35,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains vitamin C",
+        "Good source of natural fruit juice"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "hot & crispy chicken bites combo": {
+      "calories": 750,
+      "protein": 26,
+      "carbs": 68,
+      "fat": 38,
+      "sodium": 1380,
+      "sugar": 1,
+      "fiber": 5,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "doubledip party box +4dip": {
+      "calories": 1450,
+      "protein": 52,
+      "carbs": 128,
+      "fat": 72,
+      "sodium": 2840,
+      "sugar": 8,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat",
+        "High in cholesterol"
+      ]
+    },
+    "iced milo regular": {
+      "calories": 220,
+      "protein": 5,
+      "carbs": 38,
+      "fat": 5,
+      "sodium": 140,
+      "sugar": 32,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in added sugar"
+      ]
+    },
+    "o.r. tenders combo +2dip": {
+      "calories": 1020,
+      "protein": 48,
+      "carbs": 82,
+      "fat": 52,
+      "sodium": 2180,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "snacker box 4 pcs h&c chicken bites with reg fries +1dip": {
+      "calories": 380,
+      "protein": 14,
+      "carbs": 38,
+      "fat": 19,
+      "sodium": 680,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "iced milo medium": {
+      "calories": 280,
+      "protein": 6,
+      "carbs": 48,
+      "fat": 6,
+      "sodium": 170,
+      "sugar": 40,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in added sugar"
+      ]
+    },
+    "red bull energy drink": {
+      "calories": 160,
+      "protein": 1,
+      "carbs": 37,
+      "fat": 0,
+      "sodium": 200,
+      "sugar": 37,
+      "fiber": 0,
+      "allergens": [
+        "Taurine"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in caffeine"
+      ]
+    },
+    "snacker box 2pcs tenders with reg fries +1dip": {
+      "calories": 340,
+      "protein": 16,
+      "carbs": 32,
+      "fat": 16,
+      "sodium": 720,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "snacker box popcorn chicken with reg fries +1dip": {
+      "calories": 360,
+      "protein": 12,
+      "carbs": 40,
+      "fat": 17,
+      "sodium": 620,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "red bull less sugar": {
+      "calories": 80,
+      "protein": 1,
+      "carbs": 18,
+      "fat": 0,
+      "sodium": 200,
+      "sugar": 17,
+      "fiber": 0,
+      "allergens": [
+        "Taurine"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in caffeine",
+        "Contains artificial sweeteners"
+      ]
+    },
+    "mac n cheese bowl box": {
+      "calories": 880,
+      "protein": 32,
+      "carbs": 92,
+      "fat": 38,
+      "sodium": 1680,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Dairy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "mineral water": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Hydrating"
+      ],
+      "healthWarnings": []
+    },
+    "black coffee": {
+      "calories": 5,
+      "protein": 1,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Source of antioxidants"
+      ],
+      "healthWarnings": [
+        "Contains caffeine"
+      ]
+    },
+    "white coffee": {
+      "calories": 60,
+      "protein": 2,
+      "carbs": 6,
+      "fat": 2,
+      "sodium": 80,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of antioxidants"
+      ],
+      "healthWarnings": [
+        "Contains caffeine"
+      ]
+    },
+    "hot tea": {
+      "calories": 2,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Source of antioxidants"
+      ],
+      "healthWarnings": [
+        "Contains caffeine"
+      ]
+    },
+    "hot tea w/milk": {
+      "calories": 35,
+      "protein": 1,
+      "carbs": 3,
+      "fat": 1.5,
+      "sodium": 25,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of antioxidants",
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "Contains caffeine"
+      ]
+    },
+    "cappuccino": {
+      "calories": 110,
+      "protein": 4,
+      "carbs": 8,
+      "fat": 4,
+      "sodium": 100,
+      "sugar": 3,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of antioxidants"
+      ],
+      "healthWarnings": [
+        "Contains caffeine"
+      ]
+    },
+    "latte": {
+      "calories": 130,
+      "protein": 5,
+      "carbs": 10,
+      "fat": 4.5,
+      "sodium": 110,
+      "sugar": 4,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of antioxidants",
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "Contains caffeine"
+      ]
+    },
+    "mocha": {
+      "calories": 160,
+      "protein": 5,
+      "carbs": 18,
+      "fat": 5,
+      "sodium": 120,
+      "sugar": 12,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of antioxidants"
+      ],
+      "healthWarnings": [
+        "Contains caffeine",
+        "High in sugar"
+      ]
+    },
+    "hot milo": {
+      "calories": 190,
+      "protein": 4,
+      "carbs": 32,
+      "fat": 4,
+      "sodium": 120,
+      "sugar": 26,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "fresh milk": {
+      "calories": 130,
+      "protein": 8,
+      "carbs": 12,
+      "fat": 5,
+      "sodium": 110,
+      "sugar": 10,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Source of calcium"
+      ],
+      "healthWarnings": []
+    },
+    "apple juice": {
+      "calories": 110,
+      "protein": 0,
+      "carbs": 27,
+      "fat": 0,
+      "sodium": 25,
+      "sugar": 24,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of vitamin C",
+        "Naturally sweet"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "No fiber content"
+      ]
+    }
+  }
+}

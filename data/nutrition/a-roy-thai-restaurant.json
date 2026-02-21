@@ -1,0 +1,3209 @@
+{
+  "brand": "a-roy-thai-restaurant",
+  "generatedAt": "2026-02-16T13:18:25.841Z",
+  "items": {
+    "coke / coke light / sprite": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 39,
+      "fat": 0,
+      "sodium": 45,
+      "sugar": 39,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "stir fried vermicelli with egg and vegetables": {
+      "calories": 420,
+      "protein": 14,
+      "carbs": 52,
+      "fat": 16,
+      "sodium": 820,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Egg",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in fat"
+      ]
+    },
+    "thai red curry": {
+      "calories": 520,
+      "protein": 32,
+      "carbs": 24,
+      "fat": 32,
+      "sodium": 1360,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Fish",
+        "Soy",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains capsaicin"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Spicy"
+      ]
+    },
+    "stir fried vermicelli with egg and vegetables with tofu and vegetables": {
+      "calories": 380,
+      "protein": 16,
+      "carbs": 52,
+      "fat": 12,
+      "sodium": 880,
+      "sugar": 3,
+      "fiber": 4,
+      "allergens": [
+        "Egg",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "High in fiber",
+        "Plant-based"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "tom yum soup": {
+      "calories": 180,
+      "protein": 8,
+      "carbs": 18,
+      "fat": 8,
+      "sodium": 1200,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Shellfish",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Low in calories",
+        "Contains vegetables",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "deep fried grouper / seabass in tamarind soup": {
+      "calories": 580,
+      "protein": 42,
+      "carbs": 28,
+      "fat": 32,
+      "sodium": 1400,
+      "sugar": 8,
+      "fiber": 3,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "High in omega-3",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "larb": {
+      "calories": 320,
+      "protein": 18,
+      "carbs": 16,
+      "fat": 20,
+      "sodium": 950,
+      "sugar": 3,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of vegetables",
+        "Plant-based"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in fat"
+      ]
+    },
+    "deep fried spring rolls": {
+      "calories": 280,
+      "protein": 6,
+      "carbs": 32,
+      "fat": 14,
+      "sodium": 580,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in calories",
+        "High in fat",
+        "Deep fried"
+      ]
+    },
+    "deep fried spring rolls vegetarian": {
+      "calories": 260,
+      "protein": 5,
+      "carbs": 34,
+      "fat": 12,
+      "sodium": 550,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in fat",
+        "Deep fried"
+      ]
+    },
+    "stir fried prawns with chilli and basil leaves": {
+      "calories": 420,
+      "protein": 32,
+      "carbs": 12,
+      "fat": 28,
+      "sodium": 1100,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Fish",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "High in omega-3",
+        "Low in carbs"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "thai fresh coconut": {
+      "calories": 110,
+      "protein": 1,
+      "carbs": 26,
+      "fat": 1,
+      "sodium": 180,
+      "sugar": 20,
+      "fiber": 2,
+      "allergens": [
+        "Coconut"
+      ],
+      "healthBenefits": [
+        "Natural electrolytes",
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "Moderate in sugar"
+      ]
+    },
+    "pineapple fried rice with cashew nuts and raisins": {
+      "calories": 480,
+      "protein": 12,
+      "carbs": 62,
+      "fat": 18,
+      "sodium": 780,
+      "sugar": 12,
+      "fiber": 3,
+      "allergens": [
+        "Egg",
+        "Soy",
+        "Gluten",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains fruit and vegetables"
+      ],
+      "healthWarnings": [
+        "Moderate in sodium",
+        "Moderate in fat",
+        "Moderate in sugar"
+      ]
+    },
+    "lemongrass drink (iced / hot)": {
+      "calories": 45,
+      "protein": 0,
+      "carbs": 12,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 10,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in calories",
+        "Natural ingredients"
+      ],
+      "healthWarnings": [
+        "Moderate in sugar"
+      ]
+    },
+    "pineapple fried rice with deep fried chicken": {
+      "calories": 520,
+      "protein": 28,
+      "carbs": 60,
+      "fat": 20,
+      "sodium": 850,
+      "sugar": 11,
+      "fiber": 3,
+      "allergens": [
+        "Egg",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains fruit and vegetables"
+      ],
+      "healthWarnings": [
+        "Moderate in sodium",
+        "Moderate in fat"
+      ]
+    },
+    "mango sticky rice with coconut milk": {
+      "calories": 380,
+      "protein": 4,
+      "carbs": 58,
+      "fat": 14,
+      "sodium": 120,
+      "sugar": 42,
+      "fiber": 2,
+      "allergens": [
+        "Coconut",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains fruit",
+        "Traditional Thai dessert"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories",
+        "High in saturated fat"
+      ]
+    },
+    "thai red curry with tofu and vegetables": {
+      "calories": 420,
+      "protein": 18,
+      "carbs": 28,
+      "fat": 28,
+      "sodium": 1000,
+      "sugar": 6,
+      "fiber": 4,
+      "allergens": [
+        "Coconut",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "Good source of protein",
+        "Plant-based",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "stir fried broccoli with mushroom": {
+      "calories": 145,
+      "protein": 12,
+      "carbs": 14,
+      "fat": 5,
+      "sodium": 480,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "High in vitamins",
+        "Low in calories",
+        "Good source of antioxidants"
+      ],
+      "healthWarnings": [
+        "Moderate sodium"
+      ]
+    },
+    "singha / tiger": {
+      "calories": 150,
+      "protein": 1,
+      "carbs": 12,
+      "fat": 0,
+      "sodium": 25,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Alcohol content",
+        "High in calories"
+      ]
+    },
+    "tom yum seafood": {
+      "calories": 220,
+      "protein": 18,
+      "carbs": 14,
+      "fat": 10,
+      "sodium": 1300,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Shellfish",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Low in calories",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "larb moo / gai": {
+      "calories": 340,
+      "protein": 32,
+      "carbs": 14,
+      "fat": 18,
+      "sodium": 1000,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in fat"
+      ]
+    },
+    "grilled pork": {
+      "calories": 520,
+      "protein": 48,
+      "carbs": 8,
+      "fat": 32,
+      "sodium": 1240,
+      "sugar": 4,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "pineapple fried rice": {
+      "calories": 580,
+      "protein": 22,
+      "carbs": 68,
+      "fat": 22,
+      "sodium": 1180,
+      "sugar": 18,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains vitamin C from pineapple",
+        "Good source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in sugar",
+        "High in fat"
+      ]
+    },
+    "stir fried baby kai lan": {
+      "calories": 160,
+      "protein": 7,
+      "carbs": 10,
+      "fat": 10,
+      "sodium": 620,
+      "sugar": 3,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Low in calories",
+        "Good source of fiber",
+        "Rich in minerals"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "vermicelli salad": {
+      "calories": 420,
+      "protein": 28,
+      "carbs": 42,
+      "fat": 14,
+      "sodium": 1100,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains fresh vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Spicy"
+      ]
+    },
+    "durian sticky rice with coconut milk": {
+      "calories": 420,
+      "protein": 6,
+      "carbs": 52,
+      "fat": 20,
+      "sodium": 120,
+      "sugar": 32,
+      "fiber": 2,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains potassium from durian",
+        "Source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in fat",
+        "High in calories"
+      ]
+    },
+    "fried rice": {
+      "calories": 425,
+      "protein": 20,
+      "carbs": 48,
+      "fat": 16,
+      "sodium": 780,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Energy-dense"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "tom yum mushrooms": {
+      "calories": 220,
+      "protein": 8,
+      "carbs": 18,
+      "fat": 12,
+      "sodium": 1280,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Fish",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Low calorie",
+        "Good source of antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Spicy"
+      ]
+    },
+    "thai milk tea (iced / hot)": {
+      "calories": 280,
+      "protein": 4,
+      "carbs": 38,
+      "fat": 12,
+      "sodium": 140,
+      "sugar": 32,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from tea"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "signature pad thai": {
+      "calories": 510,
+      "protein": 24,
+      "carbs": 58,
+      "fat": 18,
+      "sodium": 1150,
+      "sugar": 8,
+      "fiber": 3,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Gluten",
+        "Peanut",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat",
+        "Contains peanuts"
+      ]
+    },
+    "stir fried tofu with cashew nuts and onion": {
+      "calories": 420,
+      "protein": 18,
+      "carbs": 24,
+      "fat": 28,
+      "sodium": 840,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Tree Nut",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of healthy fats"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in fat"
+      ]
+    },
+    "vermicelli salad with tofu": {
+      "calories": 380,
+      "protein": 16,
+      "carbs": 44,
+      "fat": 14,
+      "sodium": 1100,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains fresh vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Spicy"
+      ]
+    },
+    "tom yum mixed mushrooms": {
+      "calories": 200,
+      "protein": 6,
+      "carbs": 16,
+      "fat": 10,
+      "sodium": 1240,
+      "sugar": 3,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Low calorie",
+        "Good source of antioxidants",
+        "High in fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Spicy"
+      ]
+    },
+    "signature coconut shake": {
+      "calories": 320,
+      "protein": 2,
+      "carbs": 42,
+      "fat": 14,
+      "sodium": 180,
+      "sugar": 38,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains electrolytes"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in fat"
+      ]
+    },
+    "soda (325ml)": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 36,
+      "fat": 0,
+      "sodium": 45,
+      "sugar": 36,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Very high in sugar",
+        "No nutritional value"
+      ]
+    },
+    "corkage charges": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": []
+    },
+    "thai green curry": {
+      "calories": 420,
+      "protein": 32,
+      "carbs": 16,
+      "fat": 28,
+      "sodium": 890,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Fish",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains vegetables",
+        "Good source of omega-3 in fish/prawn versions"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "steamed seabass with soya sauce and ginger": {
+      "calories": 420,
+      "protein": 52,
+      "carbs": 8,
+      "fat": 20,
+      "sodium": 1420,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Fish",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Very high in protein",
+        "High in omega-3 fatty acids",
+        "Low in carbs"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "signature pad thai with chicken / pork": {
+      "calories": 520,
+      "protein": 28,
+      "carbs": 54,
+      "fat": 22,
+      "sodium": 1340,
+      "sugar": 12,
+      "fiber": 2,
+      "allergens": [
+        "Peanut",
+        "Soy",
+        "Gluten",
+        "Egg",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in sugar",
+        "High in fat",
+        "Contains peanuts"
+      ]
+    },
+    "claypot vermicelli with prawns": {
+      "calories": 580,
+      "protein": 26,
+      "carbs": 52,
+      "fat": 26,
+      "sodium": 1480,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "stir fried noodles in chilli and basil leaves": {
+      "calories": 440,
+      "protein": 20,
+      "carbs": 48,
+      "fat": 18,
+      "sodium": 720,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Shellfish",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Contains protein",
+        "Good source of carbs"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "Moderate in fat"
+      ]
+    },
+    "steamed squid with spicy and sour soup": {
+      "calories": 280,
+      "protein": 38,
+      "carbs": 8,
+      "fat": 8,
+      "sodium": 1120,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Shellfish",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Low in carbs",
+        "Good source of selenium"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "thai iced green tea (iced / hot)": {
+      "calories": 180,
+      "protein": 0,
+      "carbs": 45,
+      "fat": 0,
+      "sodium": 45,
+      "sugar": 42,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from green tea"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in added sugar content"
+      ]
+    },
+    "fresh lime juice": {
+      "calories": 65,
+      "protein": 1,
+      "carbs": 14,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 11,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "High in vitamin C",
+        "Low calorie",
+        "Natural antioxidants"
+      ],
+      "healthWarnings": [
+        "Acidic, may erode tooth enamel"
+      ]
+    },
+    "thai style belacan rice": {
+      "calories": 580,
+      "protein": 18,
+      "carbs": 68,
+      "fat": 20,
+      "sodium": 1240,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Egg",
+        "Shellfish",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good source of protein from shrimp and egg",
+        "Contains vitamin A from mango"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat",
+        "High in calories"
+      ]
+    },
+    "garlic fried rice": {
+      "calories": 480,
+      "protein": 10,
+      "carbs": 62,
+      "fat": 18,
+      "sodium": 980,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains vegetables",
+        "Garlic provides antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat",
+        "High in calories"
+      ]
+    },
+    "lemongrass salad": {
+      "calories": 420,
+      "protein": 14,
+      "carbs": 28,
+      "fat": 28,
+      "sodium": 620,
+      "sugar": 6,
+      "fiber": 4,
+      "allergens": [
+        "Shellfish",
+        "Tree Nut",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains lemongrass with digestive benefits",
+        "High in antioxidants"
+      ],
+      "healthWarnings": [
+        "High in fat"
+      ]
+    },
+    "tapioca with coconut milk": {
+      "calories": 320,
+      "protein": 2,
+      "carbs": 48,
+      "fat": 14,
+      "sodium": 180,
+      "sugar": 28,
+      "fiber": 1,
+      "allergens": [
+        "Coconut"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "Low in protein"
+      ]
+    },
+    "thai thick red curry": {
+      "calories": 445,
+      "protein": 28,
+      "carbs": 22,
+      "fat": 28,
+      "sodium": 920,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Coconut",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains spices"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "stir fried tofu and vegetables with chilli and basil leaves": {
+      "calories": 380,
+      "protein": 16,
+      "carbs": 28,
+      "fat": 24,
+      "sodium": 920,
+      "sugar": 4,
+      "fiber": 4,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of plant-based protein",
+        "High in fiber",
+        "Contains antioxidants from vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "stir fried baby kai lan with salted fish": {
+      "calories": 240,
+      "protein": 20,
+      "carbs": 8,
+      "fat": 14,
+      "sodium": 1280,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of calcium from leafy greens",
+        "Contains iron"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "tom kha soup": {
+      "calories": 380,
+      "protein": 12,
+      "carbs": 24,
+      "fat": 28,
+      "sodium": 840,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Coconut",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Contains vegetables",
+        "Galangal provides anti-inflammatory properties"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "steamed seabass with spicy and sour soup": {
+      "calories": 380,
+      "protein": 52,
+      "carbs": 10,
+      "fat": 14,
+      "sodium": 1200,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Excellent source of omega-3 fatty acids",
+        "Good source of selenium"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "kaeng som with prawns and cha-om omelette": {
+      "calories": 420,
+      "protein": 34,
+      "carbs": 16,
+      "fat": 22,
+      "sodium": 1340,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Egg",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains omega-3 from prawns"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "thai crispy pork belly with garlic": {
+      "calories": 520,
+      "protein": 34,
+      "carbs": 8,
+      "fat": 40,
+      "sodium": 1100,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "Very high in saturated fat",
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "sparkling water": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 80,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Zero calorie",
+        "Hydrating"
+      ],
+      "healthWarnings": []
+    },
+    "thai mussaman curry": {
+      "calories": 480,
+      "protein": 32,
+      "carbs": 28,
+      "fat": 28,
+      "sodium": 940,
+      "sugar": 5,
+      "fiber": 3,
+      "allergens": [
+        "Peanut",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron",
+        "Contains healthy fats"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in fat",
+        "High in sodium"
+      ]
+    },
+    "watermelon smoothie": {
+      "calories": 185,
+      "protein": 2,
+      "carbs": 45,
+      "fat": 1,
+      "sodium": 85,
+      "sugar": 38,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "High in vitamin C",
+        "Hydrating",
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "seafood salad": {
+      "calories": 245,
+      "protein": 28,
+      "carbs": 12,
+      "fat": 11,
+      "sodium": 720,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Fish",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of omega-3",
+        "High in vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "kaeng som with prawns and mixed vegetables": {
+      "calories": 280,
+      "protein": 24,
+      "carbs": 18,
+      "fat": 14,
+      "sodium": 840,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Shellfish",
+        "Fish",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of omega-3",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in fat"
+      ]
+    },
+    "deep fried beancurd": {
+      "calories": 480,
+      "protein": 18,
+      "carbs": 28,
+      "fat": 32,
+      "sodium": 850,
+      "sugar": 3,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains plant-based iron"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in sodium",
+        "Deep fried"
+      ]
+    },
+    "clear vermicelli soup": {
+      "calories": 180,
+      "protein": 14,
+      "carbs": 22,
+      "fat": 3,
+      "sodium": 820,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Low in fat",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "deep fried grouper / seabass in sweet and sour sauce": {
+      "calories": 580,
+      "protein": 45,
+      "carbs": 38,
+      "fat": 28,
+      "sodium": 950,
+      "sugar": 18,
+      "fiber": 1,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of omega-3"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in fat",
+        "High in sodium",
+        "High in sugar"
+      ]
+    },
+    "bbq squid": {
+      "calories": 320,
+      "protein": 38,
+      "carbs": 12,
+      "fat": 14,
+      "sodium": 780,
+      "sugar": 4,
+      "fiber": 1,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of omega-3",
+        "Low in carbs"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "larb tord": {
+      "calories": 380,
+      "protein": 28,
+      "carbs": 18,
+      "fat": 22,
+      "sodium": 620,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains herbs and spices"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in calories",
+        "Deep fried"
+      ]
+    },
+    "stir fried beansprouts": {
+      "calories": 180,
+      "protein": 14,
+      "carbs": 8,
+      "fat": 10,
+      "sodium": 520,
+      "sugar": 2,
+      "fiber": 3,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "High in fiber",
+        "Good source of vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "stir fried tofu and vegetables with eggplant, chilli and basil leaves": {
+      "calories": 260,
+      "protein": 16,
+      "carbs": 20,
+      "fat": 14,
+      "sodium": 580,
+      "sugar": 5,
+      "fiber": 4,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "Moderate sodium"
+      ]
+    },
+    "stir fried noodles in thick gravy": {
+      "calories": 480,
+      "protein": 22,
+      "carbs": 56,
+      "fat": 18,
+      "sodium": 1100,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Shellfish",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in carbs"
+      ]
+    },
+    "olive fried rice": {
+      "calories": 510,
+      "protein": 18,
+      "carbs": 60,
+      "fat": 20,
+      "sodium": 1050,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Provides carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "thai chendol": {
+      "calories": 280,
+      "protein": 4,
+      "carbs": 48,
+      "fat": 8,
+      "sodium": 120,
+      "sugar": 38,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Coconut"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "thai green jelly with lemon": {
+      "calories": 120,
+      "protein": 0,
+      "carbs": 30,
+      "fat": 0,
+      "sodium": 45,
+      "sugar": 26,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "stir fried noodles in chilli and basil leaves beef / seafood": {
+      "calories": 460,
+      "protein": 26,
+      "carbs": 48,
+      "fat": 20,
+      "sodium": 760,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Shellfish",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of carbs"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "High in fat"
+      ]
+    },
+    "grilled seabass": {
+      "calories": 520,
+      "protein": 52,
+      "carbs": 12,
+      "fat": 28,
+      "sodium": 680,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of omega-3",
+        "Contains herbs"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "Moderate in fat"
+      ]
+    },
+    "red ruby": {
+      "calories": 280,
+      "protein": 2,
+      "carbs": 68,
+      "fat": 1,
+      "sodium": 45,
+      "sugar": 62,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in fat",
+        "Refreshing dessert"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "crispy rice cracker": {
+      "calories": 385,
+      "protein": 18,
+      "carbs": 42,
+      "fat": 16,
+      "sodium": 620,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Fish",
+        "Coconut"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains seafood"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "grilled pork salad": {
+      "calories": 320,
+      "protein": 32,
+      "carbs": 18,
+      "fat": 14,
+      "sodium": 780,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Low in carbs",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "stir fried beansprouts with tofu": {
+      "calories": 160,
+      "protein": 14,
+      "carbs": 12,
+      "fat": 7,
+      "sodium": 620,
+      "sugar": 2,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Low in calories",
+        "Good source of protein",
+        "High in fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "stir fried noodles in sweet dark soy sauce": {
+      "calories": 420,
+      "protein": 18,
+      "carbs": 52,
+      "fat": 15,
+      "sodium": 1050,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of carbohydrates",
+        "Contains B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "High in sugar"
+      ]
+    },
+    "tom yum prawns": {
+      "calories": 185,
+      "protein": 22,
+      "carbs": 8,
+      "fat": 8,
+      "sodium": 1040,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Shellfish",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Low in calories",
+        "Contains omega-3"
+      ],
+      "healthWarnings": [
+        "Very high in sodium"
+      ]
+    },
+    "stir fried squid with salted egg yolk": {
+      "calories": 365,
+      "protein": 28,
+      "carbs": 16,
+      "fat": 22,
+      "sodium": 920,
+      "sugar": 5,
+      "fiber": 1,
+      "allergens": [
+        "Shellfish",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains minerals"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "butterfly pea lime soda": {
+      "calories": 120,
+      "protein": 0,
+      "carbs": 28,
+      "fat": 0,
+      "sodium": 35,
+      "sugar": 26,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in sodium",
+        "Refreshing"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "mango smoothie": {
+      "calories": 185,
+      "protein": 1,
+      "carbs": 44,
+      "fat": 1,
+      "sodium": 25,
+      "sugar": 38,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of vitamin C",
+        "Contains fruit"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "claypot vermicelli with tofu and mushrooms": {
+      "calories": 310,
+      "protein": 16,
+      "carbs": 38,
+      "fat": 9,
+      "sodium": 640,
+      "sugar": 5,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "mango papaya salad": {
+      "calories": 185,
+      "protein": 7,
+      "carbs": 32,
+      "fat": 5,
+      "sodium": 520,
+      "sugar": 18,
+      "fiber": 4,
+      "allergens": [
+        "Peanut",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in vitamin C",
+        "Good source of fiber",
+        "Contains fruit"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "thai fish cake": {
+      "calories": 125,
+      "protein": 10,
+      "carbs": 8,
+      "fat": 5,
+      "sodium": 380,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Fish",
+        "Peanut"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "Moderate sodium"
+      ]
+    },
+    "tom yum noodle soup": {
+      "calories": 280,
+      "protein": 12,
+      "carbs": 42,
+      "fat": 6,
+      "sodium": 880,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good source of vegetables",
+        "Contains noodles"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "deep fried seabass with thai herbs": {
+      "calories": 565,
+      "protein": 48,
+      "carbs": 12,
+      "fat": 32,
+      "sodium": 1120,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of omega-3",
+        "Contains minerals"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "coconut ice cream with topping": {
+      "calories": 310,
+      "protein": 3,
+      "carbs": 38,
+      "fat": 16,
+      "sodium": 65,
+      "sugar": 34,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Coconut"
+      ],
+      "healthBenefits": [
+        "Contains coconut"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "lychee smoothie": {
+      "calories": 180,
+      "protein": 1,
+      "carbs": 42,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 38,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of vitamin C",
+        "Contains fruit"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "tom yum fried rice (chicken / pork)": {
+      "calories": 520,
+      "protein": 18,
+      "carbs": 62,
+      "fat": 20,
+      "sodium": 1240,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "thai style pork trotter": {
+      "calories": 480,
+      "protein": 35,
+      "carbs": 12,
+      "fat": 34,
+      "sodium": 1180,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in collagen"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium",
+        "High in cholesterol"
+      ]
+    },
+    "tom kha chicken": {
+      "calories": 380,
+      "protein": 22,
+      "carbs": 18,
+      "fat": 26,
+      "sodium": 920,
+      "sugar": 12,
+      "fiber": 2,
+      "allergens": [
+        "Coconut",
+        "Fish",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains anti-inflammatory spices"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "stir fried prawns / soft shell crab in thai yellow curry": {
+      "calories": 420,
+      "protein": 28,
+      "carbs": 16,
+      "fat": 28,
+      "sodium": 1050,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Coconut",
+        "Gluten",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "stir fried morning glory": {
+      "calories": 180,
+      "protein": 8,
+      "carbs": 12,
+      "fat": 12,
+      "sodium": 680,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "Low in calories",
+        "Good source of fiber",
+        "High in vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "honey lemon (iced / hot)": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 35,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 33,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "stir fried prawns / soft shell crab with garlic and pepper": {
+      "calories": 280,
+      "protein": 32,
+      "carbs": 8,
+      "fat": 14,
+      "sodium": 980,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of omega-3",
+        "Low in carbs"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "lime soda": {
+      "calories": 120,
+      "protein": 0,
+      "carbs": 30,
+      "fat": 0,
+      "sodium": 40,
+      "sugar": 28,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "stir fried mixed vegetables": {
+      "calories": 160,
+      "protein": 8,
+      "carbs": 16,
+      "fat": 8,
+      "sodium": 640,
+      "sugar": 3,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Low in calories",
+        "High in fiber",
+        "High in vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "deep fried seabass with special fish sauce": {
+      "calories": 580,
+      "protein": 42,
+      "carbs": 24,
+      "fat": 32,
+      "sodium": 1420,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "tom yum fried rice (beef / seafood)": {
+      "calories": 540,
+      "protein": 20,
+      "carbs": 62,
+      "fat": 22,
+      "sodium": 1280,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "tom kha prawns": {
+      "calories": 380,
+      "protein": 26,
+      "carbs": 18,
+      "fat": 24,
+      "sodium": 1020,
+      "sugar": 12,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Coconut",
+        "Fish",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of omega-3",
+        "Contains anti-inflammatory spices"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "thai prawn cake": {
+      "calories": 140,
+      "protein": 8,
+      "carbs": 12,
+      "fat": 6,
+      "sodium": 380,
+      "sugar": 8,
+      "fiber": 1,
+      "allergens": [
+        "Shellfish",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": []
+    },
+    "agar agar": {
+      "calories": 100,
+      "protein": 2,
+      "carbs": 24,
+      "fat": 0,
+      "sodium": 80,
+      "sugar": 20,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in fat",
+        "Contains gelatin"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "deep fried chicken mid wings with thai herbs": {
+      "calories": 420,
+      "protein": 28,
+      "carbs": 10,
+      "fat": 30,
+      "sodium": 840,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "thai iced lemon tea": {
+      "calories": 160,
+      "protein": 0,
+      "carbs": 38,
+      "fat": 1,
+      "sodium": 60,
+      "sugar": 34,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from tea"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "crab meat fried rice": {
+      "calories": 560,
+      "protein": 22,
+      "carbs": 64,
+      "fat": 22,
+      "sodium": 1320,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains minerals"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "deep fried tiger prawns in special tamarind sauce": {
+      "calories": 420,
+      "protein": 28,
+      "carbs": 32,
+      "fat": 22,
+      "sodium": 950,
+      "sugar": 8,
+      "fiber": 1,
+      "allergens": [
+        "Shellfish",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "High in omega-3",
+        "Good source of selenium"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "stir fried cabbage": {
+      "calories": 160,
+      "protein": 6,
+      "carbs": 12,
+      "fat": 10,
+      "sodium": 680,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Low calorie",
+        "Good source of vitamin C",
+        "High in fiber"
+      ],
+      "healthWarnings": [
+        "Moderate sodium content"
+      ]
+    },
+    "mango": {
+      "calories": 120,
+      "protein": 1,
+      "carbs": 28,
+      "fat": 1,
+      "sodium": 2,
+      "sugar": 24,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "High in vitamin C",
+        "Low in calories",
+        "Good source of antioxidants"
+      ],
+      "healthWarnings": [
+        "High in natural sugar"
+      ]
+    },
+    "stir fried petai with chili belacan paste": {
+      "calories": 340,
+      "protein": 24,
+      "carbs": 16,
+      "fat": 22,
+      "sodium": 880,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "mango / papaya salad": {
+      "calories": 180,
+      "protein": 8,
+      "carbs": 22,
+      "fat": 8,
+      "sodium": 520,
+      "sugar": 10,
+      "fiber": 3,
+      "allergens": [
+        "Peanut",
+        "Shellfish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in vitamin C",
+        "Good source of fiber",
+        "Contains probiotics"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate sugar content"
+      ]
+    },
+    "stir fried baby kai lan with roasted pork": {
+      "calories": 280,
+      "protein": 22,
+      "carbs": 12,
+      "fat": 16,
+      "sodium": 740,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of calcium",
+        "Low in carbs"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate fat content"
+      ]
+    },
+    "coffee (iced / hot)": {
+      "calories": 20,
+      "protein": 1,
+      "carbs": 2,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in calories",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "basil fried rice": {
+      "calories": 420,
+      "protein": 16,
+      "carbs": 54,
+      "fat": 16,
+      "sodium": 920,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of carbohydrates",
+        "Contains B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "fish maw soup with chicken": {
+      "calories": 220,
+      "protein": 20,
+      "carbs": 16,
+      "fat": 8,
+      "sodium": 950,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains collagen",
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "stir fried chicken with cashew nuts and onion": {
+      "calories": 420,
+      "protein": 28,
+      "carbs": 18,
+      "fat": 28,
+      "sodium": 780,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Tree Nut",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of healthy fats",
+        "Contains magnesium"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in fat"
+      ]
+    },
+    "stir fried morning glory with chilli": {
+      "calories": 140,
+      "protein": 8,
+      "carbs": 14,
+      "fat": 6,
+      "sodium": 620,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Low in calories",
+        "High in fiber",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "seafood otah in coconut": {
+      "calories": 360,
+      "protein": 24,
+      "carbs": 12,
+      "fat": 26,
+      "sodium": 880,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Fish",
+        "Shellfish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "High in omega-3",
+        "Good source of selenium"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "stir fried noodles in sweet dark soy sauce (beef / seafood)": {
+      "calories": 440,
+      "protein": 20,
+      "carbs": 52,
+      "fat": 18,
+      "sodium": 1080,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Shellfish",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of carbohydrates",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "High in sugar"
+      ]
+    },
+    "basil fried rice (beef / seafood)": {
+      "calories": 440,
+      "protein": 18,
+      "carbs": 54,
+      "fat": 18,
+      "sodium": 980,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Shellfish",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of carbohydrates",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "tom yum noodle soup (chicken / pork)": {
+      "calories": 420,
+      "protein": 18,
+      "carbs": 52,
+      "fat": 12,
+      "sodium": 1240,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Shellfish",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains antioxidants from turmeric and lemongrass"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate fat content"
+      ]
+    },
+    "stir fried meat with chilli and basil leaves (chicken / pork)": {
+      "calories": 380,
+      "protein": 32,
+      "carbs": 8,
+      "fat": 26,
+      "sodium": 980,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Fish",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of vitamins and minerals"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "fish maw soup with crab meat": {
+      "calories": 320,
+      "protein": 28,
+      "carbs": 12,
+      "fat": 18,
+      "sodium": 1420,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Fish",
+        "Shellfish",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains collagen",
+        "Good source of minerals"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in cholesterol"
+      ]
+    },
+    "stir fried sweet potato leaves (with chilli and garlic in oyster sauce)": {
+      "calories": 180,
+      "protein": 8,
+      "carbs": 18,
+      "fat": 9,
+      "sodium": 820,
+      "sugar": 3,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Oyster"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "Rich in vitamins A and C",
+        "Low calorie"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "milo (iced / hot)": {
+      "calories": 220,
+      "protein": 6,
+      "carbs": 38,
+      "fat": 5,
+      "sodium": 180,
+      "sugar": 32,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of calcium",
+        "Contains vitamins and minerals"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in added sugars"
+      ]
+    },
+    "stir fried chicken with eggplant, chilli and basil leaves": {
+      "calories": 350,
+      "protein": 28,
+      "carbs": 16,
+      "fat": 22,
+      "sodium": 1020,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Fish",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of antioxidants from eggplant"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "tom yum noodle soup (seafood)": {
+      "calories": 450,
+      "protein": 20,
+      "carbs": 54,
+      "fat": 14,
+      "sodium": 1340,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3 from seafood",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "May contain shell fragments"
+      ]
+    },
+    "hot green tea": {
+      "calories": 5,
+      "protein": 0,
+      "carbs": 1,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Rich in antioxidants",
+        "Low calorie",
+        "May improve metabolism"
+      ],
+      "healthWarnings": []
+    },
+    "stir fried mixed mushrooms (with garlic in oyster sauce)": {
+      "calories": 220,
+      "protein": 10,
+      "carbs": 14,
+      "fat": 14,
+      "sodium": 760,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Oyster",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains vitamin D",
+        "Low in calories"
+      ],
+      "healthWarnings": [
+        "Moderate sodium content"
+      ]
+    },
+    "garlic fried rice (with carrot and spring onion)": {
+      "calories": 380,
+      "protein": 9,
+      "carbs": 52,
+      "fat": 14,
+      "sodium": 920,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of carbohydrates",
+        "Contains vitamin A from carrots"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate fat content"
+      ]
+    },
+    "yellow crab curry with thai rice vermicelli": {
+      "calories": 480,
+      "protein": 20,
+      "carbs": 48,
+      "fat": 22,
+      "sodium": 1180,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Fish",
+        "Gluten",
+        "Coconut"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains antioxidants from turmeric"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat",
+        "High in saturated fat"
+      ]
+    },
+    "egg fried rice": {
+      "calories": 360,
+      "protein": 10,
+      "carbs": 48,
+      "fat": 13,
+      "sodium": 880,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Egg",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains choline"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate fat content"
+      ]
+    },
+    "stir fried meat with garlic and pepper (chicken / pork)": {
+      "calories": 360,
+      "protein": 30,
+      "carbs": 6,
+      "fat": 25,
+      "sodium": 920,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Fish",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "stir fried sweet potato leaves (vegetarian)": {
+      "calories": 180,
+      "protein": 8,
+      "carbs": 18,
+      "fat": 9,
+      "sodium": 820,
+      "sugar": 3,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Oyster"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "Rich in vitamins A and C",
+        "Low calorie"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "deep fried beancurd (with chilli, basil leaves and mushrooms)": {
+      "calories": 380,
+      "protein": 16,
+      "carbs": 18,
+      "fat": 28,
+      "sodium": 1040,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat",
+        "High in saturated fat"
+      ]
+    },
+    "hot chinese tea": {
+      "calories": 8,
+      "protein": 0,
+      "carbs": 2,
+      "fat": 0,
+      "sodium": 8,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Rich in antioxidants",
+        "Low calorie",
+        "May aid digestion"
+      ],
+      "healthWarnings": []
+    },
+    "stewed beef noodle soup": {
+      "calories": 520,
+      "protein": 26,
+      "carbs": 56,
+      "fat": 20,
+      "sodium": 1340,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron",
+        "Contains collagen"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat",
+        "High in cholesterol"
+      ]
+    },
+    "stir fried meat with garlic and pepper (beef / squid)": {
+      "calories": 380,
+      "protein": 32,
+      "carbs": 8,
+      "fat": 25,
+      "sodium": 1020,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Fish",
+        "Gluten",
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron and zinc"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in cholesterol"
+      ]
+    },
+    "stir fried mixed mushrooms (vegetarian)": {
+      "calories": 220,
+      "protein": 10,
+      "carbs": 14,
+      "fat": 14,
+      "sodium": 760,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Oyster",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains vitamin D",
+        "Low in calories"
+      ],
+      "healthWarnings": [
+        "Moderate sodium content"
+      ]
+    },
+    "mineral water": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Hydrating",
+        "Zero calories"
+      ],
+      "healthWarnings": []
+    },
+    "salted fish fried rice": {
+      "calories": 520,
+      "protein": 14,
+      "carbs": 62,
+      "fat": 22,
+      "sodium": 1200,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Fish",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of carbohydrates",
+        "Provides energy"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat",
+        "High in calories"
+      ]
+    },
+    "hot water with lime": {
+      "calories": 5,
+      "protein": 0,
+      "carbs": 1,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains vitamin C"
+      ],
+      "healthWarnings": []
+    },
+    "stewed pork noodle soup": {
+      "calories": 480,
+      "protein": 28,
+      "carbs": 48,
+      "fat": 16,
+      "sodium": 1100,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains collagen from broth"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "pandan chicken": {
+      "calories": 380,
+      "protein": 38,
+      "carbs": 12,
+      "fat": 18,
+      "sodium": 680,
+      "sugar": 4,
+      "fiber": 1,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in aromatic flavors"
+      ],
+      "healthWarnings": [
+        "Moderate in fat"
+      ]
+    },
+    "thai omelette": {
+      "calories": 420,
+      "protein": 16,
+      "carbs": 28,
+      "fat": 26,
+      "sodium": 920,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Egg",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains choline"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in sodium",
+        "High in cholesterol"
+      ]
+    },
+    "egg bag": {
+      "calories": 420,
+      "protein": 22,
+      "carbs": 32,
+      "fat": 22,
+      "sodium": 880,
+      "sugar": 5,
+      "fiber": 1,
+      "allergens": [
+        "Egg",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains lycopene from tomato"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in sodium"
+      ]
+    },
+    "thai jasmine rice": {
+      "calories": 180,
+      "protein": 3,
+      "carbs": 40,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 1,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of carbohydrates",
+        "Aromatic"
+      ],
+      "healthWarnings": []
+    },
+    "sticky rice": {
+      "calories": 170,
+      "protein": 2,
+      "carbs": 38,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of carbohydrates"
+      ],
+      "healthWarnings": []
+    },
+    "deep fried stuffed chicken wings": {
+      "calories": 240,
+      "protein": 16,
+      "carbs": 12,
+      "fat": 14,
+      "sodium": 480,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "Deep fried"
+      ]
+    },
+    "sunny side up egg": {
+      "calories": 220,
+      "protein": 8,
+      "carbs": 36,
+      "fat": 6,
+      "sodium": 480,
+      "sugar": 0,
+      "fiber": 1,
+      "allergens": [
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains choline"
+      ],
+      "healthWarnings": []
+    },
+    "thai omelette with minced pork / minced chicken / crab / onion / plain": {
+      "calories": 440,
+      "protein": 22,
+      "carbs": 20,
+      "fat": 28,
+      "sodium": 960,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Egg",
+        "Soy",
+        "Gluten",
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in sodium",
+        "High in cholesterol"
+      ]
+    },
+    "thai omelette with cha-om": {
+      "calories": 450,
+      "protein": 20,
+      "carbs": 18,
+      "fat": 30,
+      "sodium": 1000,
+      "sugar": 1,
+      "fiber": 2,
+      "allergens": [
+        "Egg",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains antioxidants from cha-om"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in sodium",
+        "High in cholesterol"
+      ]
+    },
+    "thai omelette with prawns / crab": {
+      "calories": 480,
+      "protein": 28,
+      "carbs": 16,
+      "fat": 32,
+      "sodium": 1080,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Egg",
+        "Shellfish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of omega-3"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in sodium",
+        "High in cholesterol"
+      ]
+    },
+    "grilled chicken": {
+      "calories": 420,
+      "protein": 52,
+      "carbs": 8,
+      "fat": 18,
+      "sodium": 720,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Lean meat",
+        "Good for muscle building"
+      ],
+      "healthWarnings": []
+    }
+  }
+}

@@ -1,0 +1,465 @@
+{
+  "brand": "gong-yuan-ma-la-tang-ang-mo-kio-hub",
+  "generatedAt": "2026-02-16T15:18:15.112Z",
+  "items": {
+    "kimchi": {
+      "calories": 45,
+      "protein": 2,
+      "carbs": 8,
+      "fat": 0.5,
+      "sodium": 850,
+      "sugar": 3,
+      "fiber": 1.5,
+      "allergens": [
+        "Gluten",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Probiotics",
+        "High in vitamin C",
+        "Low calorie"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Spicy"
+      ]
+    },
+    "ma la pork bone collagen soup 麻辣猪骨胶原汤": {
+      "calories": 280,
+      "protein": 22,
+      "carbs": 8,
+      "fat": 18,
+      "sodium": 1200,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in collagen",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Spicy"
+      ]
+    },
+    "chicken set 鸡肉配套": {
+      "calories": 650,
+      "protein": 45,
+      "carbs": 65,
+      "fat": 20,
+      "sodium": 1800,
+      "sugar": 4,
+      "fiber": 4,
+      "allergens": [
+        "Soy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables",
+        "Balanced meal"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in saturated fat"
+      ]
+    },
+    "lipton ice lemon tea (canned)": {
+      "calories": 70,
+      "protein": 0,
+      "carbs": 17,
+      "fat": 0,
+      "sodium": 25,
+      "sugar": 16,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in calories",
+        "Contains antioxidants from tea"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "pork set 猪肉配套": {
+      "calories": 720,
+      "protein": 42,
+      "carbs": 65,
+      "fat": 28,
+      "sodium": 1900,
+      "sugar": 4,
+      "fiber": 4,
+      "allergens": [
+        "Soy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables",
+        "Balanced meal"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "chinese sesame peanut sauce 芝麻花生酱": {
+      "calories": 190,
+      "protein": 6,
+      "carbs": 8,
+      "fat": 16,
+      "sodium": 180,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Peanut",
+        "Sesame",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of healthy fats",
+        "Contains protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in fat"
+      ]
+    },
+    "tomato soup 番茄汤": {
+      "calories": 120,
+      "protein": 3,
+      "carbs": 22,
+      "fat": 2,
+      "sodium": 850,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "High in lycopene",
+        "Low in fat",
+        "Contains vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "7up (canned)": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 38,
+      "fat": 0,
+      "sodium": 75,
+      "sugar": 38,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High calories"
+      ]
+    },
+    "fish set 鱼肉配套": {
+      "calories": 680,
+      "protein": 48,
+      "carbs": 65,
+      "fat": 18,
+      "sodium": 1800,
+      "sugar": 4,
+      "fiber": 4,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Excellent source of protein",
+        "Contains omega-3 fatty acids",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "pork bone collagen soup 猪骨胶原汤": {
+      "calories": 250,
+      "protein": 20,
+      "carbs": 5,
+      "fat": 16,
+      "sodium": 1100,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in collagen",
+        "Good source of protein",
+        "Nourishing"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "pepsi (canned)": {
+      "calories": 150,
+      "protein": 0,
+      "carbs": 41,
+      "fat": 0,
+      "sodium": 55,
+      "sugar": 41,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High calories"
+      ]
+    },
+    "garlic chili": {
+      "calories": 15,
+      "protein": 0.5,
+      "carbs": 3,
+      "fat": 0.5,
+      "sodium": 300,
+      "sugar": 0.5,
+      "fiber": 0.5,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Spicy"
+      ]
+    },
+    "chili oil": {
+      "calories": 120,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 14,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants from chili"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in calories",
+        "Spicy"
+      ]
+    },
+    "pepsi black": {
+      "calories": 5,
+      "protein": 0,
+      "carbs": 1,
+      "fat": 0,
+      "sodium": 50,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Very low calorie",
+        "No sugar"
+      ],
+      "healthWarnings": [
+        "Contains artificial sweeteners"
+      ]
+    },
+    "(dry) chinese sesame ma la dressing 中华麻辣拌 (sauce contains peanuts)": {
+      "calories": 320,
+      "protein": 8,
+      "carbs": 12,
+      "fat": 26,
+      "sodium": 900,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Peanut",
+        "Sesame",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains healthy fats",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in sodium",
+        "Spicy"
+      ]
+    },
+    "vegetarian set 素食配套": {
+      "calories": 480,
+      "protein": 22,
+      "carbs": 72,
+      "fat": 12,
+      "sodium": 1600,
+      "sugar": 5,
+      "fiber": 6,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "Good source of plant-based protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "bottled water": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Hydrating",
+        "Zero calories",
+        "Essential for health"
+      ],
+      "healthWarnings": []
+    },
+    "(dry) ma la dressing 麻辣拌": {
+      "calories": 280,
+      "protein": 2,
+      "carbs": 8,
+      "fat": 26,
+      "sodium": 1100,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "Very high in fat",
+        "High in sodium",
+        "High in calories",
+        "Spicy"
+      ]
+    },
+    "lala soup 暖心啦啦汤": {
+      "calories": 380,
+      "protein": 32,
+      "carbs": 18,
+      "fat": 18,
+      "sodium": 1400,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Excellent source of protein",
+        "High in minerals",
+        "Low in carbs"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in cholesterol"
+      ]
+    },
+    "sesame oil": {
+      "calories": 120,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 14,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Anti-inflammatory"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in calories"
+      ]
+    },
+    "pickled vegetable soup 酸菜汤": {
+      "calories": 45,
+      "protein": 2,
+      "carbs": 8,
+      "fat": 0.5,
+      "sodium": 850,
+      "sugar": 1,
+      "fiber": 1.5,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Low in calories",
+        "Good source of probiotics from fermented vegetables",
+        "Contains vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in acidity"
+      ]
+    },
+    "hot & sour pork bone collagen soup 酸辣猪骨胶": {
+      "calories": 120,
+      "protein": 12,
+      "carbs": 4,
+      "fat": 5,
+      "sodium": 1100,
+      "sugar": 0.5,
+      "fiber": 0,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in collagen and gelatin",
+        "Good source of protein",
+        "Contains amino acids for joint health"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in acidity from vinegar"
+      ]
+    },
+    "garden vegetable soup 素素滋补汤": {
+      "calories": 55,
+      "protein": 1.5,
+      "carbs": 10,
+      "fat": 0.5,
+      "sodium": 650,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in calories",
+        "High in fiber",
+        "Good source of vitamins and minerals",
+        "Vegetarian friendly"
+      ],
+      "healthWarnings": []
+    }
+  }
+}

@@ -7,9 +7,10 @@ import { useMemo } from "react";
 interface Props {
   locations: LocationInfo[];
   value?: string;
+  onLocationChange?: (slug: string) => void;
 }
 
-export function LocationSelect({ locations, value }: Props) {
+export function LocationSelect({ locations, value, onLocationChange }: Props) {
   const router = useRouter();
   const pathname = usePathname();
   const searchParams = useSearchParams();
@@ -27,9 +28,13 @@ export function LocationSelect({ locations, value }: Props) {
       <select
         value={selected}
         onChange={(event) => {
+          const slug = event.target.value;
           const next = new URLSearchParams(searchParams.toString());
-          next.set("location", event.target.value);
+          next.set("location", slug);
           router.replace(`${pathname}?${next.toString()}`, { scroll: false });
+          if (onLocationChange) {
+            onLocationChange(slug);
+          }
         }}
         className="h-11 w-full rounded-xl border border-gray-200 bg-white px-4 text-sm text-gray-800 shadow-sm focus:border-bfw-red focus:outline-none focus:ring-2 focus:ring-bfw-red/20"
         aria-label="Select location"

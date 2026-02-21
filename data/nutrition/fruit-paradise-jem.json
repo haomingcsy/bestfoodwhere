@@ -1,0 +1,432 @@
+{
+  "brand": "fruit-paradise-jem",
+  "generatedAt": "2026-02-16T14:57:19.147Z",
+  "items": {
+    "signature tarts (2pcs)": {
+      "calories": 320,
+      "protein": 4,
+      "carbs": 42,
+      "fat": 15,
+      "sodium": 180,
+      "sugar": 28,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "houjicha latte": {
+      "calories": 180,
+      "protein": 6,
+      "carbs": 18,
+      "fat": 8,
+      "sodium": 120,
+      "sugar": 14,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "beef yamatoni kimuchi": {
+      "calories": 520,
+      "protein": 38,
+      "carbs": 28,
+      "fat": 30,
+      "sodium": 1200,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "matcha latte (hot)": {
+      "calories": 175,
+      "protein": 6,
+      "carbs": 17,
+      "fat": 8,
+      "sodium": 110,
+      "sugar": 12,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of antioxidants",
+        "Contains L-theanine"
+      ],
+      "healthWarnings": []
+    },
+    "aburi chicken kimchi": {
+      "calories": 480,
+      "protein": 42,
+      "carbs": 26,
+      "fat": 24,
+      "sodium": 1150,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains probiotics from kimchi"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "aburi chicken tom yam": {
+      "calories": 460,
+      "protein": 40,
+      "carbs": 24,
+      "fat": 22,
+      "sodium": 1100,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains turmeric"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "cafe latte (hot)": {
+      "calories": 200,
+      "protein": 7,
+      "carbs": 16,
+      "fat": 10,
+      "sodium": 130,
+      "sugar": 12,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of caffeine"
+      ],
+      "healthWarnings": []
+    },
+    "aburi salmon tom yam": {
+      "calories": 490,
+      "protein": 38,
+      "carbs": 24,
+      "fat": 28,
+      "sodium": 1050,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "High in omega-3",
+        "Contains turmeric"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "black coffee (hot)": {
+      "calories": 5,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Source of antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "salmon miso": {
+      "calories": 500,
+      "protein": 40,
+      "carbs": 26,
+      "fat": 28,
+      "sodium": 1180,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "High in omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "mineral water": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Zero calorie",
+        "Hydrating"
+      ],
+      "healthWarnings": []
+    },
+    "smoke duck miso": {
+      "calories": 480,
+      "protein": 36,
+      "carbs": 26,
+      "fat": 26,
+      "sodium": 1200,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "ice black coffee": {
+      "calories": 5,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Source of antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "beef yamatoni shio": {
+      "calories": 510,
+      "protein": 38,
+      "carbs": 28,
+      "fat": 28,
+      "sodium": 1220,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "ice cafe latte": {
+      "calories": 190,
+      "protein": 7,
+      "carbs": 16,
+      "fat": 9,
+      "sodium": 125,
+      "sugar": 12,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of caffeine"
+      ],
+      "healthWarnings": []
+    },
+    "ice houjicha latte": {
+      "calories": 170,
+      "protein": 6,
+      "carbs": 16,
+      "fat": 8,
+      "sodium": 115,
+      "sugar": 12,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "smoke duck shio": {
+      "calories": 470,
+      "protein": 36,
+      "carbs": 26,
+      "fat": 24,
+      "sodium": 1210,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "aburi chicken soya milk": {
+      "calories": 420,
+      "protein": 42,
+      "carbs": 22,
+      "fat": 18,
+      "sodium": 1100,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Lower fat alternative"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "ice matcha latte": {
+      "calories": 165,
+      "protein": 6,
+      "carbs": 16,
+      "fat": 7,
+      "sodium": 105,
+      "sugar": 12,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of antioxidants",
+        "Contains L-theanine"
+      ],
+      "healthWarnings": []
+    },
+    "smoke duck soya milk": {
+      "calories": 420,
+      "protein": 36,
+      "carbs": 22,
+      "fat": 18,
+      "sodium": 1180,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Lower fat alternative"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "orange lemon tea": {
+      "calories": 180,
+      "protein": 0,
+      "carbs": 45,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 42,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Source of vitamin C",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High caloric content"
+      ]
+    },
+    "orange tea": {
+      "calories": 170,
+      "protein": 0,
+      "carbs": 43,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 40,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Source of vitamin C",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High caloric content"
+      ]
+    },
+    "lychee lemon tea": {
+      "calories": 185,
+      "protein": 0,
+      "carbs": 46,
+      "fat": 0,
+      "sodium": 12,
+      "sugar": 44,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Source of vitamin C",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High caloric content"
+      ]
+    }
+  }
+}

@@ -62,7 +62,7 @@ export const MALLS_DATA: MallData[] = [
     area: "central",
     diningCount: 90,
     imageUrl:
-      "https://lh3.googleusercontent.com/place-photos/AEkURDwIGhH6IkHMhE80uXWE2rMdu7k-owg3Q5khwR4fuqv706AxMtLFYiME_7__eWlUcBtci0xd8nMNIAsh38h5noOMLltY-Sb99NWlOBcbc59Dns-tjldZp_U3QxpyE8ZEyjKqs6IFAOFSFmuj5TkU5-t3qQ=s4800-w4800",
+      "https://hgdedyrjkywaboalisaw.supabase.co/storage/v1/object/public/hero-images/malls/marina-bay-sands.jpg",
     imageAlt: "Marina Bay Sands Shopping Mall",
   },
   {
@@ -72,7 +72,7 @@ export const MALLS_DATA: MallData[] = [
     area: "central",
     diningCount: 45,
     imageUrl:
-      "https://lh3.googleusercontent.com/place-photos/AEkURDxZDdmYIEbp-ZUIS-nlm36sRbqOFHc3Krp2D529m5zv5VTPeI1FRQLHUHLqOBHV-FK5hDBi6w3PrfIXkbSmp19mZeS0s238QJrwuQfFTf5fWzrxLkh4yMFr3-ZxGQkTXOLhxvd9Ie85LEfG=s4800-w1280",
+      "https://hgdedyrjkywaboalisaw.supabase.co/storage/v1/object/public/hero-images/malls/velocity-novena-square.jpg",
     imageAlt: "Velocity Novena Square",
   },
   {
@@ -82,7 +82,7 @@ export const MALLS_DATA: MallData[] = [
     area: "central",
     diningCount: 35,
     imageUrl:
-      "https://lh3.googleusercontent.com/place-photos/AEkURDx5TOvbzWymD2MZfikCOLxf--JA0JkTVb8G2ZmwoeAUVLeEb7UaVWhYIUdQQNn8zAV-iMEXKpkF01qZZNLJMYP8ldlIpbzZGlqmMV9Mwi73j8s0EBbdAdfE1LgdZX5rgQ-InehHmWCjST1u=s4800-w3024",
+      "https://hgdedyrjkywaboalisaw.supabase.co/storage/v1/object/public/hero-images/malls/united-square.jpg",
     imageAlt: "United Square Shopping Mall",
   },
   {
@@ -92,7 +92,7 @@ export const MALLS_DATA: MallData[] = [
     area: "central",
     diningCount: 30,
     imageUrl:
-      "https://lh3.googleusercontent.com/place-photos/AEkURDzwgtRYwOnyaw4I0LxEdW4FqczjFJTwBwIFHtcr0KO4aPJFHLXmhGfF06hDQbIV2m38QWhWcQ0im_PHZBSyyjgkIukuJ3tk42AxyR0OkFnEN2qACMsPzqHhOdiEC_eijtt5YO6Jz8kHmbHsD7Q=s4800-w4032",
+      "https://hgdedyrjkywaboalisaw.supabase.co/storage/v1/object/public/hero-images/malls/woodleigh-mall.jpg",
     imageAlt:
       "The Woodleigh Mall is a vibrant, three-storey shopping complex nestled amidst the Bidadari Estate in Singapore.",
   },
@@ -103,7 +103,7 @@ export const MALLS_DATA: MallData[] = [
     area: "central",
     diningCount: 50,
     imageUrl:
-      "https://lh3.googleusercontent.com/place-photos/AEkURDw9PxfidJuPvcQnQRazx5bVPEAXogqW62Q_XKgwkqnBsG7mWOVxEvmHVXZ2fI9Ua3CqxA09Ag6UF4OD2to-Wd23xkq9mWXWyeECBE1YsHGp2DYuJem4cN0zf6B26UZlyFPidQIEylgWDpBNmVc=s4800-w1097",
+      "https://hgdedyrjkywaboalisaw.supabase.co/storage/v1/object/public/hero-images/malls/junction-8.jpg",
     imageAlt: "Junction 8 Shopping Centre",
   },
   {
@@ -113,7 +113,7 @@ export const MALLS_DATA: MallData[] = [
     area: "central",
     diningCount: 55,
     imageUrl:
-      "https://lh3.googleusercontent.com/place-photos/AEkURDx4z4G5FZhkEUcVXt5BdNR1rEBy3hD3b783XZwALNTFaI1ebnTgsXfB03-W2psNVVX5LYxmGoV17Dqmu8wE9kEiykwzj3gMtuxtRhg_bI5SIlje6bcU-AyYpDrrymsKpp4ZApf7BvxCMeDNE8CajUjG=s4800-w4800",
+      "https://hgdedyrjkywaboalisaw.supabase.co/storage/v1/object/public/hero-images/malls/city-square-mall.jpg",
     imageAlt: "City Square Mall",
   },
   {
@@ -123,7 +123,7 @@ export const MALLS_DATA: MallData[] = [
     area: "north",
     diningCount: 60,
     imageUrl:
-      "https://lh3.googleusercontent.com/place-photos/AEkURDxy3nPjl006rDqAdUREEkzS5ebZIvOPatENOMrjshhrlnBnAnVmt7QHk4X6lzdvanDqw2WTvepi6ceuHkX-kqjxiDRDPizTlClZc2l3Nmwj4LstF889rLWiLUHBfQzKPXZzwkAeAdihXMjsiA=s4800-w1280",
+      "https://hgdedyrjkywaboalisaw.supabase.co/storage/v1/object/public/hero-images/malls/amk-hub.jpg",
     imageAlt: "AMK Hub Shopping Mall",
   },
   {
@@ -133,7 +133,7 @@ export const MALLS_DATA: MallData[] = [
     area: "north",
     diningCount: 70,
     imageUrl:
-      "https://lh3.googleusercontent.com/place-photos/AEkURDx9QzmUGavUZkkrxXjBdVYPPYTvAK0d4OInYttF0OPABKcQVnGDm9rNzOiFR2acfFA2CrVEgzPvhi9hOtNPnqMKky35ljPRMsuAciCPnH6qxNWBicam9WtQJ98eanvxy6nFn7xr6wN9h_c-Yg=s4800-w4608",
+      "https://hgdedyrjkywaboalisaw.supabase.co/storage/v1/object/public/hero-images/malls/causeway-point.jpg",
     imageAlt: "Causeway Point Shopping Centre",
   },
   {
@@ -153,7 +153,7 @@ export const MALLS_DATA: MallData[] = [
     area: "east",
     diningCount: 55,
     imageUrl:
-      "https://lh3.googleusercontent.com/place-photos/AEkURDwP08x206JPEGZyzh5WjHDbcOv2ayJZxQ7hIq7vExhncHAAH7-noycBaRmglqcNcA1AM0jMZcxOcxK0_fepfdNwgteF3LL66lmdkOBK5GVlPA0zwJJo1BLuc7nyFLfIum43tMWixdkXJtkVOA=s4800-w4032",
+      "https://hgdedyrjkywaboalisaw.supabase.co/storage/v1/object/public/hero-images/malls/bedok-mall.jpg",
     imageAlt: "Bedok Mall",
   },
   {
@@ -163,7 +163,7 @@ export const MALLS_DATA: MallData[] = [
     area: "northeast",
     diningCount: 40,
     imageUrl:
-      "https://lh3.googleusercontent.com/place-photos/AEkURDxYRyxN5MS8U0JxZwd60VOOFzu3zPzeC3RpjJc_Ml3TyRX3FsFD_UknRzoVXnys4XcRR1RgAxjniYJYDVjx6GI5i-JskkKxNfk_7NOp35VSZ4SUgYkGxkcDiWzRJ0Hy2B6hieEy2srLjS-Owag=s4800-w4160",
+      "https://hgdedyrjkywaboalisaw.supabase.co/storage/v1/object/public/hero-images/malls/hougang-mall.jpg",
     imageAlt: "Hougang Mall",
   },
   {
@@ -173,7 +173,7 @@ export const MALLS_DATA: MallData[] = [
     area: "east",
     diningCount: 75,
     imageUrl:
-      "https://lh3.googleusercontent.com/place-photos/AEkURDyhaKVec7GN1wYX8OWrl9LgzZnj6Bze9y_Dxbq1Idvs78I17qNYFtucwF6ujiT2AO2vOWL6kaD-48H5RxYCeO4XHg9dwA8eZMcwIUUGIEVerokr_kC9ogvDAlMsoUVpqdTDHh9aiPqJlxQDRA=s4800-w4000",
+      "https://hgdedyrjkywaboalisaw.supabase.co/storage/v1/object/public/hero-images/malls/tampines-mall.jpg",
     imageAlt: "Tampines Mall",
   },
   {
@@ -183,7 +183,7 @@ export const MALLS_DATA: MallData[] = [
     area: "east",
     diningCount: 110,
     imageUrl:
-      "https://hgdedyrjkywaboalisaw.supabase.co/storage/v1/object/public/hero-images/malls/jewel-changi.jpg",
+      "https://hgdedyrjkywaboalisaw.supabase.co/storage/v1/object/public/hero-images/malls/jewel.jpg",
     imageAlt: "Jewel Changi Airport",
   },
   {
@@ -203,7 +203,7 @@ export const MALLS_DATA: MallData[] = [
     area: "west",
     diningCount: 95,
     imageUrl:
-      "https://lh3.googleusercontent.com/place-photos/AEkURDyfFx7lIVjJh1fVUjREw3OyHzYvz5fl_JEAuxtIcW1zY8GEHGqz7T8tasTLUiAGZ506vy7R7VjmXH8nTJe3uJufPJHqQBEysiVGuj3s1nROsCfgFh7LKdTU5lbVnGSBPcGwAwVjmoTt9N3yGxQ=s4800-w4032",
+      "https://hgdedyrjkywaboalisaw.supabase.co/storage/v1/object/public/hero-images/malls/jem.jpg",
     imageAlt: "JEM Shopping Mall",
   },
   {
@@ -213,7 +213,7 @@ export const MALLS_DATA: MallData[] = [
     area: "central",
     diningCount: 25,
     imageUrl:
-      "https://lh3.googleusercontent.com/place-photos/AEkURDywGBThaDeLsXGBJupfP9j0hr1F05wp0SoMGxj39rD4NH4CU-AN1yYAbVFUOU1cmsz8PumAoK-DdvldsdFc6kq0uaWcP9Ei9sY16nSsQA5PcLF9ypWtiHCOZcHTbXlFNvZ0SiW3Sfvv4TuHj2w=s4800-w4032",
+      "https://hgdedyrjkywaboalisaw.supabase.co/storage/v1/object/public/hero-images/malls/aperia-mall.jpg",
     imageAlt: "Aperia Mall",
   },
 ];

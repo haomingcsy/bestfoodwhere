@@ -53,7 +53,7 @@ export function fixBulletFormatting(
     }
   }
 
-  if (!needsFix) return text;
+  if (!needsFix) return textStr;
 
   // Fix alternating bold/description pattern
   const result: string[] = [];

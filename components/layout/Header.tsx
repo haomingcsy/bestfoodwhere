@@ -5,6 +5,7 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useMemo, useState } from "react";
 import { MobileNav } from "./MobileNav";
+import { SearchModal } from "./SearchModal";
 import {
   IconChevronDown,
   IconFacebook,
@@ -84,6 +85,7 @@ function NavDropdown({ label, href, items }: NavDropdownProps) {
 
 export function Header() {
   const [mobileOpen, setMobileOpen] = useState(false);
+  const [searchOpen, setSearchOpen] = useState(false);
   const pathname = usePathname();
 
   const ctaHref = "/advertise";
@@ -279,6 +281,7 @@ export function Header() {
                 type="button"
                 className="rounded-full p-2 hover:bg-gray-100"
                 aria-label="Search"
+                onClick={() => setSearchOpen(true)}
               >
                 <IconSearch className="h-5 w-5" />
               </button>
@@ -320,6 +323,7 @@ export function Header() {
                 type="button"
                 className="rounded-full p-2 hover:bg-gray-100"
                 aria-label="Search"
+                onClick={() => setSearchOpen(true)}
               >
                 <IconSearch className="h-5 w-5" />
               </button>
@@ -387,6 +391,8 @@ export function Header() {
         sections={mobileSections}
         ctaHref={ctaHref}
       />
+
+      <SearchModal isOpen={searchOpen} onClose={() => setSearchOpen(false)} />
     </header>
   );
 }

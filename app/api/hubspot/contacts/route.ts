@@ -41,8 +41,8 @@ export async function POST(
       );
     }
 
-    // For recipe_newsletter, name is optional - use "Recipe Subscriber" as default
-    if (!body.name && body.source !== "recipe_newsletter") {
+    // For recipe_newsletter/report_issue, name is optional
+    if (!body.name && body.source !== "recipe_newsletter" && body.source !== "report_issue") {
       return NextResponse.json(
         { success: false, error: "Name is required" },
         { status: 400 },
@@ -72,7 +72,8 @@ export async function POST(
     const email = body.email.trim().toLowerCase();
     const name =
       body.name ||
-      (body.source === "recipe_newsletter" ? "Recipe Subscriber" : "");
+      (body.source === "recipe_newsletter" ? "Recipe Subscriber" :
+       body.source === "report_issue" ? "Issue Reporter" : "");
     const { firstName, lastName } = splitName(name);
     const phone = body.phone ? formatPhone(body.phone) : undefined;
     const trafficChannel = getTrafficChannel({
@@ -169,6 +170,8 @@ function getWebhookUrl(source: FormSource): string | null {
       return process.env.N8N_WEBHOOK_CONTACT || null;
     case "career_application":
       return process.env.N8N_WEBHOOK_CAREER || null;
+    case "report_issue":
+      return process.env.N8N_WEBHOOK_REPORT || null;
     default:
       return null;
   }

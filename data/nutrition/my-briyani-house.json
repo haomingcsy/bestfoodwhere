@@ -1,0 +1,924 @@
+{
+  "brand": "my-briyani-house",
+  "generatedAt": "2026-02-21T11:01:54.470Z",
+  "items": {
+    "teh tarik": {
+      "calories": 220,
+      "protein": 3,
+      "carbs": 28,
+      "fat": 10,
+      "sodium": 95,
+      "sugar": 24,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of energy"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "curry fish head": {
+      "calories": 420,
+      "protein": 38,
+      "carbs": 12,
+      "fat": 22,
+      "sodium": 1240,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in omega-3",
+        "Source of minerals"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "curry fish": {
+      "calories": 280,
+      "protein": 26,
+      "carbs": 8,
+      "fat": 15,
+      "sodium": 820,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "teh halia": {
+      "calories": 180,
+      "protein": 2,
+      "carbs": 24,
+      "fat": 8,
+      "sodium": 85,
+      "sugar": 20,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains ginger",
+        "Source of energy"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "fried fish": {
+      "calories": 320,
+      "protein": 28,
+      "carbs": 14,
+      "fat": 18,
+      "sodium": 640,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Fish",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "teh cino": {
+      "calories": 240,
+      "protein": 3,
+      "carbs": 32,
+      "fat": 11,
+      "sodium": 110,
+      "sugar": 26,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of energy"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "chicken 65": {
+      "calories": 380,
+      "protein": 32,
+      "carbs": 16,
+      "fat": 20,
+      "sodium": 780,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "teh o": {
+      "calories": 140,
+      "protein": 1,
+      "carbs": 18,
+      "fat": 6,
+      "sodium": 70,
+      "sugar": 14,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Source of antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "sambal prawn": {
+      "calories": 310,
+      "protein": 28,
+      "carbs": 6,
+      "fat": 18,
+      "sodium": 890,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in minerals"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "teh o halia": {
+      "calories": 160,
+      "protein": 1,
+      "carbs": 22,
+      "fat": 7,
+      "sodium": 80,
+      "sugar": 16,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains ginger"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "tandoori chicken (whole)": {
+      "calories": 620,
+      "protein": 72,
+      "carbs": 4,
+      "fat": 32,
+      "sodium": 1080,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Very high in protein",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "teh o limau": {
+      "calories": 150,
+      "protein": 1,
+      "carbs": 20,
+      "fat": 6,
+      "sodium": 75,
+      "sugar": 15,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Source of vitamin C",
+        "Low calorie"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "teh c": {
+      "calories": 200,
+      "protein": 2,
+      "carbs": 26,
+      "fat": 9,
+      "sodium": 90,
+      "sugar": 22,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of energy"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "tandoori chicken (quarter)": {
+      "calories": 310,
+      "protein": 36,
+      "carbs": 2,
+      "fat": 16,
+      "sodium": 540,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "chicken tikka": {
+      "calories": 340,
+      "protein": 38,
+      "carbs": 5,
+      "fat": 17,
+      "sodium": 620,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "teh c halia": {
+      "calories": 220,
+      "protein": 2,
+      "carbs": 30,
+      "fat": 10,
+      "sodium": 100,
+      "sugar": 24,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains ginger"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "kopi tarik": {
+      "calories": 210,
+      "protein": 3,
+      "carbs": 26,
+      "fat": 10,
+      "sodium": 90,
+      "sugar": 22,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of energy",
+        "Contains caffeine"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "masala chicken": {
+      "calories": 320,
+      "protein": 34,
+      "carbs": 6,
+      "fat": 16,
+      "sodium": 710,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "kopi halia": {
+      "calories": 190,
+      "protein": 2,
+      "carbs": 24,
+      "fat": 9,
+      "sodium": 85,
+      "sugar": 18,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains ginger and caffeine"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "butter chicken": {
+      "calories": 360,
+      "protein": 32,
+      "carbs": 8,
+      "fat": 22,
+      "sodium": 680,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "kopi cino": {
+      "calories": 180,
+      "protein": 4,
+      "carbs": 12,
+      "fat": 12,
+      "sodium": 85,
+      "sugar": 10,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of antioxidants",
+        "Provides energy"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "Moderate caffeine content"
+      ]
+    },
+    "masala mutton": {
+      "calories": 320,
+      "protein": 28,
+      "carbs": 8,
+      "fat": 22,
+      "sodium": 580,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron",
+        "Rich in B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in cholesterol"
+      ]
+    },
+    "kopi o": {
+      "calories": 35,
+      "protein": 0,
+      "carbs": 2,
+      "fat": 2,
+      "sodium": 60,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Source of antioxidants",
+        "Provides energy"
+      ],
+      "healthWarnings": [
+        "Moderate caffeine content"
+      ]
+    },
+    "masala squid": {
+      "calories": 280,
+      "protein": 24,
+      "carbs": 10,
+      "fat": 18,
+      "sodium": 620,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Source of selenium",
+        "Low in saturated fat"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Shellfish allergen"
+      ]
+    },
+    "kopi o halia": {
+      "calories": 45,
+      "protein": 0,
+      "carbs": 4,
+      "fat": 2,
+      "sodium": 65,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Source of antioxidants",
+        "Ginger aids digestion"
+      ],
+      "healthWarnings": [
+        "Moderate caffeine content"
+      ]
+    },
+    "kopi c": {
+      "calories": 125,
+      "protein": 2,
+      "carbs": 10,
+      "fat": 8,
+      "sodium": 75,
+      "sugar": 8,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of antioxidants",
+        "Provides energy"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content",
+        "Moderate caffeine content"
+      ]
+    },
+    "kopi c halia": {
+      "calories": 135,
+      "protein": 2,
+      "carbs": 12,
+      "fat": 8,
+      "sodium": 80,
+      "sugar": 9,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of antioxidants",
+        "Ginger aids digestion"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content",
+        "Moderate caffeine content"
+      ]
+    },
+    "halia o": {
+      "calories": 40,
+      "protein": 0,
+      "carbs": 4,
+      "fat": 2,
+      "sodium": 60,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Ginger aids digestion",
+        "Anti-inflammatory properties"
+      ],
+      "healthWarnings": []
+    },
+    "susu": {
+      "calories": 160,
+      "protein": 6,
+      "carbs": 14,
+      "fat": 9,
+      "sodium": 120,
+      "sugar": 12,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of calcium",
+        "Source of protein",
+        "Rich in vitamins"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content",
+        "High in saturated fat"
+      ]
+    },
+    "susu halia": {
+      "calories": 170,
+      "protein": 6,
+      "carbs": 16,
+      "fat": 9,
+      "sodium": 125,
+      "sugar": 13,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of calcium",
+        "Ginger aids digestion",
+        "Source of protein"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content",
+        "High in saturated fat"
+      ]
+    },
+    "honey o": {
+      "calories": 95,
+      "protein": 0,
+      "carbs": 24,
+      "fat": 1,
+      "sodium": 70,
+      "sugar": 23,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Source of antioxidants",
+        "Natural sweetener",
+        "Soothing properties"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "honey teh": {
+      "calories": 110,
+      "protein": 0,
+      "carbs": 28,
+      "fat": 1,
+      "sodium": 75,
+      "sugar": 26,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Source of antioxidants",
+        "Natural sweetener",
+        "Soothing properties"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "honey teh o": {
+      "calories": 105,
+      "protein": 0,
+      "carbs": 26,
+      "fat": 1,
+      "sodium": 70,
+      "sugar": 25,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Source of antioxidants",
+        "Natural sweetener",
+        "Soothing properties"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "honey lime teh o": {
+      "calories": 110,
+      "protein": 0,
+      "carbs": 28,
+      "fat": 1,
+      "sodium": 75,
+      "sugar": 26,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Source of antioxidants",
+        "Vitamin C from lime",
+        "Soothing properties"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "honey lime": {
+      "calories": 100,
+      "protein": 0,
+      "carbs": 26,
+      "fat": 1,
+      "sodium": 70,
+      "sugar": 24,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Source of antioxidants",
+        "Vitamin C from lime",
+        "Natural sweetener"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "honey lime halia": {
+      "calories": 105,
+      "protein": 0,
+      "carbs": 28,
+      "fat": 1,
+      "sodium": 75,
+      "sugar": 25,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Source of antioxidants",
+        "Vitamin C from lime",
+        "Ginger aids digestion"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "honey halia teh o": {
+      "calories": 115,
+      "protein": 0,
+      "carbs": 29,
+      "fat": 1,
+      "sodium": 80,
+      "sugar": 27,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Source of antioxidants",
+        "Ginger aids digestion",
+        "Natural sweetener"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "almond susu": {
+      "calories": 175,
+      "protein": 5,
+      "carbs": 16,
+      "fat": 10,
+      "sodium": 130,
+      "sugar": 13,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Good source of calcium",
+        "Tree nut protein",
+        "Vitamin E content"
+      ],
+      "healthWarnings": [
+        "Tree nut allergen",
+        "Moderate sugar content",
+        "High in saturated fat"
+      ]
+    },
+    "almond teh": {
+      "calories": 150,
+      "protein": 3,
+      "carbs": 22,
+      "fat": 6,
+      "sodium": 85,
+      "sugar": 18,
+      "fiber": 1,
+      "allergens": [
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Source of antioxidants",
+        "Tree nut protein",
+        "Vitamin E content"
+      ],
+      "healthWarnings": [
+        "Tree nut allergen",
+        "Moderate sugar content"
+      ]
+    },
+    "almond halia": {
+      "calories": 155,
+      "protein": 3,
+      "carbs": 24,
+      "fat": 6,
+      "sodium": 90,
+      "sugar": 19,
+      "fiber": 1,
+      "allergens": [
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Source of antioxidants",
+        "Ginger aids digestion",
+        "Tree nut protein"
+      ],
+      "healthWarnings": [
+        "Tree nut allergen",
+        "Moderate sugar content"
+      ]
+    },
+    "almond teh halia": {
+      "calories": 180,
+      "protein": 4,
+      "carbs": 22,
+      "fat": 8,
+      "sodium": 95,
+      "sugar": 18,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Contains almonds",
+        "Warming spices"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains dairy"
+      ]
+    },
+    "nescafe tarik": {
+      "calories": 210,
+      "protein": 3,
+      "carbs": 28,
+      "fat": 9,
+      "sodium": 120,
+      "sugar": 24,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains caffeine"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "nescafe cino": {
+      "calories": 240,
+      "protein": 4,
+      "carbs": 30,
+      "fat": 11,
+      "sodium": 140,
+      "sugar": 26,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains caffeine"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "neslo": {
+      "calories": 200,
+      "protein": 3,
+      "carbs": 26,
+      "fat": 8,
+      "sodium": 110,
+      "sugar": 22,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains caffeine"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains dairy"
+      ]
+    },
+    "milo tarik": {
+      "calories": 220,
+      "protein": 3,
+      "carbs": 32,
+      "fat": 8,
+      "sodium": 130,
+      "sugar": 28,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains malted barley"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "horlicks tarik": {
+      "calories": 210,
+      "protein": 4,
+      "carbs": 28,
+      "fat": 8,
+      "sodium": 125,
+      "sugar": 24,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains vitamins and minerals"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains dairy"
+      ]
+    },
+    "limau o": {
+      "calories": 85,
+      "protein": 0,
+      "carbs": 20,
+      "fat": 0,
+      "sodium": 40,
+      "sugar": 18,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains vitamin C",
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "warm water": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Calorie-free",
+        "Hydrating"
+      ],
+      "healthWarnings": []
+    }
+  }
+}

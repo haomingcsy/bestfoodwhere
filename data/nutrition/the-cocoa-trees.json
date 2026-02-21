@@ -1,0 +1,434 @@
+{
+  "brand": "the-cocoa-trees",
+  "generatedAt": "2026-02-21T12:03:57.613Z",
+  "items": {
+    "shop all chocolates": {
+      "calories": 520,
+      "protein": 6,
+      "carbs": 52,
+      "fat": 32,
+      "sodium": 45,
+      "sugar": 48,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Tree Nut",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Source of antioxidants",
+        "Contains cocoa flavonoids"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "shop all sweets": {
+      "calories": 380,
+      "protein": 2,
+      "carbs": 92,
+      "fat": 1,
+      "sodium": 85,
+      "sugar": 78,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories",
+        "High in sodium"
+      ]
+    },
+    "shop all snacks": {
+      "calories": 450,
+      "protein": 5,
+      "carbs": 48,
+      "fat": 26,
+      "sodium": 380,
+      "sugar": 12,
+      "fiber": 2,
+      "allergens": [
+        "Peanut",
+        "Tree Nut",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat",
+        "High in calories"
+      ]
+    },
+    "shop all biscuits": {
+      "calories": 420,
+      "protein": 6,
+      "carbs": 54,
+      "fat": 20,
+      "sodium": 250,
+      "sugar": 18,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "bestsellers": {
+      "calories": 480,
+      "protein": 5,
+      "carbs": 58,
+      "fat": 25,
+      "sodium": 95,
+      "sugar": 45,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Tree Nut",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains cocoa flavonoids"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in fat",
+        "High in calories"
+      ]
+    },
+    "wafers": {
+      "calories": 350,
+      "protein": 3,
+      "carbs": 44,
+      "fat": 18,
+      "sodium": 120,
+      "sugar": 24,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in fat"
+      ]
+    },
+    "jelly beans": {
+      "calories": 350,
+      "protein": 0,
+      "carbs": 88,
+      "fat": 0,
+      "sodium": 30,
+      "sugar": 74,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in calories"
+      ]
+    },
+    "milk chocolates": {
+      "calories": 540,
+      "protein": 8,
+      "carbs": 50,
+      "fat": 34,
+      "sodium": 40,
+      "sugar": 46,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Tree Nut",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Source of calcium",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "nougats": {
+      "calories": 420,
+      "protein": 6,
+      "carbs": 72,
+      "fat": 12,
+      "sodium": 150,
+      "sugar": 55,
+      "fiber": 0,
+      "allergens": [
+        "Egg",
+        "Dairy",
+        "Peanut",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Source of protein"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "shiok sales": {
+      "calories": 460,
+      "protein": 5,
+      "carbs": 55,
+      "fat": 24,
+      "sodium": 110,
+      "sugar": 42,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Tree Nut",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Contains cocoa"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in fat",
+        "High in calories"
+      ]
+    },
+    "dark chocolates": {
+      "calories": 500,
+      "protein": 7,
+      "carbs": 48,
+      "fat": 32,
+      "sodium": 35,
+      "sugar": 38,
+      "fiber": 4,
+      "allergens": [
+        "Dairy",
+        "Tree Nut",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in antioxidants",
+        "Rich in cocoa flavonoids",
+        "Good source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in fat",
+        "High in calories"
+      ]
+    },
+    "gummies": {
+      "calories": 320,
+      "protein": 5,
+      "carbs": 74,
+      "fat": 1,
+      "sodium": 50,
+      "sugar": 54,
+      "fiber": 0,
+      "allergens": [
+        "Gelatin"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in calories"
+      ]
+    },
+    "local delights": {
+      "calories": 440,
+      "protein": 4,
+      "carbs": 60,
+      "fat": 20,
+      "sodium": 280,
+      "sugar": 35,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten",
+        "Peanut",
+        "Sesame"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium",
+        "High in sugar",
+        "High in fat"
+      ]
+    },
+    "potato chips": {
+      "calories": 480,
+      "protein": 6,
+      "carbs": 44,
+      "fat": 30,
+      "sodium": 580,
+      "sugar": 2,
+      "fiber": 3,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Source of fiber",
+        "Source of potassium"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in fat",
+        "High in calories"
+      ]
+    },
+    "for gifting": {
+      "calories": 500,
+      "protein": 6,
+      "carbs": 56,
+      "fat": 27,
+      "sodium": 80,
+      "sugar": 48,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Tree Nut",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in fat",
+        "High in calories"
+      ]
+    },
+    "jellies": {
+      "calories": 280,
+      "protein": 5,
+      "carbs": 68,
+      "fat": 0,
+      "sodium": 40,
+      "sugar": 52,
+      "fiber": 0,
+      "allergens": [
+        "Gelatin"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in calories"
+      ]
+    },
+    "nuts": {
+      "calories": 580,
+      "protein": 18,
+      "carbs": 20,
+      "fat": 52,
+      "sodium": 120,
+      "sugar": 8,
+      "fiber": 4,
+      "allergens": [
+        "Tree Nut",
+        "Peanut"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of healthy fats",
+        "High in fiber",
+        "Rich in minerals"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in fat"
+      ]
+    },
+    "white chocolates": {
+      "calories": 550,
+      "protein": 7,
+      "carbs": 52,
+      "fat": 36,
+      "sodium": 50,
+      "sugar": 50,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Tree Nut",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "alcoholic chocolates": {
+      "calories": 520,
+      "protein": 6,
+      "carbs": 48,
+      "fat": 34,
+      "sodium": 45,
+      "sugar": 42,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Tree Nut",
+        "Soy",
+        "Alcohol"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in fat",
+        "High in calories",
+        "Contains alcohol"
+      ]
+    },
+    "sugar free": {
+      "calories": 420,
+      "protein": 6,
+      "carbs": 38,
+      "fat": 28,
+      "sodium": 50,
+      "sugar": 2,
+      "fiber": 3,
+      "allergens": [
+        "Dairy",
+        "Tree Nut",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Low in sugar",
+        "Lower calorie alternative"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "May contain sugar alcohols",
+        "High in calories"
+      ]
+    }
+  }
+}

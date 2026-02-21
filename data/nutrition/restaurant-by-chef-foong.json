@@ -1,0 +1,300 @@
+{
+  "brand": "restaurant-by-chef-foong",
+  "generatedAt": "2026-02-21T11:24:14.535Z",
+  "items": {
+    "all items": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": []
+    },
+    "cny 2026 套餐 set menu": {
+      "calories": 1200,
+      "protein": 45,
+      "carbs": 120,
+      "fat": 48,
+      "sodium": 2400,
+      "sugar": 12,
+      "fiber": 4,
+      "allergens": [
+        "Soy",
+        "Shellfish",
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Complete meal",
+        "Balanced nutrition"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "value set": {
+      "calories": 850,
+      "protein": 32,
+      "carbs": 95,
+      "fat": 32,
+      "sodium": 1800,
+      "sugar": 8,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "Affordable",
+        "Balanced portions"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate fat content"
+      ]
+    },
+    "chef recommendations": {
+      "calories": 950,
+      "protein": 38,
+      "carbs": 85,
+      "fat": 42,
+      "sodium": 2100,
+      "sugar": 10,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Shellfish",
+        "Gluten",
+        "Sesame",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Premium ingredients"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "shark's fin and delicacies": {
+      "calories": 280,
+      "protein": 22,
+      "carbs": 18,
+      "fat": 14,
+      "sodium": 1200,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in collagen",
+        "Premium ingredient"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Expensive"
+      ]
+    },
+    "roasted meat": {
+      "calories": 380,
+      "protein": 42,
+      "carbs": 2,
+      "fat": 22,
+      "sodium": 820,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "Moderate sodium"
+      ]
+    },
+    "seafood": {
+      "calories": 320,
+      "protein": 38,
+      "carbs": 6,
+      "fat": 14,
+      "sodium": 1100,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Shellfish",
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "High in protein",
+        "Low in calories"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Shellfish allergen"
+      ]
+    },
+    "meat and poultry": {
+      "calories": 340,
+      "protein": 40,
+      "carbs": 4,
+      "fat": 18,
+      "sodium": 750,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "Moderate saturated fat",
+        "Moderate sodium"
+      ]
+    },
+    "beancurd": {
+      "calories": 180,
+      "protein": 16,
+      "carbs": 8,
+      "fat": 9,
+      "sodium": 680,
+      "sugar": 1,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Low calorie"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Contains soy"
+      ]
+    },
+    "egg": {
+      "calories": 240,
+      "protein": 18,
+      "carbs": 8,
+      "fat": 16,
+      "sodium": 620,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in choline",
+        "Complete protein"
+      ],
+      "healthWarnings": [
+        "High in cholesterol",
+        "Egg allergen"
+      ]
+    },
+    "vegetables": {
+      "calories": 120,
+      "protein": 4,
+      "carbs": 18,
+      "fat": 4,
+      "sodium": 480,
+      "sugar": 4,
+      "fiber": 4,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "Rich in vitamins",
+        "Low calorie"
+      ],
+      "healthWarnings": [
+        "Moderate sodium"
+      ]
+    },
+    "noodle and rice": {
+      "calories": 520,
+      "protein": 14,
+      "carbs": 78,
+      "fat": 14,
+      "sodium": 1400,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of carbs",
+        "Energy dense"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in carbs"
+      ]
+    },
+    "beverages": {
+      "calories": 180,
+      "protein": 0,
+      "carbs": 42,
+      "fat": 0,
+      "sodium": 50,
+      "sugar": 38,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Hydrating"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "others": {
+      "calories": 200,
+      "protein": 6,
+      "carbs": 28,
+      "fat": 8,
+      "sodium": 400,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": []
+    },
+    "mics": {
+      "calories": 150,
+      "protein": 4,
+      "carbs": 22,
+      "fat": 5,
+      "sodium": 350,
+      "sugar": 6,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": []
+    }
+  }
+}

@@ -8,9 +8,13 @@ import {
   IconLinkedin,
   IconPin,
 } from "@/components/layout/icons";
-import fourLeavesHero from "@/image/fourleaves.png";
 import { getOptimizedMenuUrl, IMAGE_PRESETS } from "@/lib/restaurant-images";
-import { useMemo } from "react";
+import { useMemo, useState } from "react";
+import {
+  parseOpeningHoursText,
+  getTodayHours,
+} from "@/lib/format-opening-hours";
+import { ReportIssueModal } from "./ReportIssueModal";
 
 interface Props {
   brand: BrandData;
@@ -18,6 +22,7 @@ interface Props {
   initialLocation?: string;
   className?: string;
   cdnUrls?: Record<string, string>;
+  onLocationChange?: (slug: string) => void;
 }
 
 export function StoreInfoCard({
@@ -26,6 +31,7 @@ export function StoreInfoCard({
   initialLocation,
   className,
   cdnUrls = {},
+  onLocationChange,
 }: Props) {
   // Convert record to Map for the helper function
   const cdnUrlMap = useMemo(() => new Map(Object.entries(cdnUrls)), [cdnUrls]);
@@ -49,12 +55,9 @@ export function StoreInfoCard({
       : "Open Now"
     : "Closed Now";
 
-  const reportSubject = encodeURIComponent(
-    `Issue Report - ${brand.name}${location?.name ? ` (${location.name})` : ""}`,
-  );
-  const reportHref = `mailto:hello@bestfoodwhere.sg?subject=${reportSubject}`;
-  const isFourLeaves = brand.name.toLowerCase().includes("four leaves");
-  const logoSrc = isFourLeaves ? fourLeavesHero : location?.imageUrl;
+  const [reportOpen, setReportOpen] = useState(false);
+  const [logoError, setLogoError] = useState(false);
+  const logoSrc = location?.imageUrl;
 
   return (
     <section
@@ -62,8 +65,8 @@ export function StoreInfoCard({
     >
       <div className="flex items-center justify-between gap-3">
         <h3 className="text-lg font-semibold text-gray-900">Store Info</h3>
-        <Link
-          href={reportHref}
+        <button
+          onClick={() => setReportOpen(true)}
           className="inline-flex h-10 w-10 items-center justify-center rounded-full bg-white shadow-sm ring-1 ring-black/10 transition hover:-translate-y-0.5"
           aria-label="Report an issue"
           title="Report an issue"
@@ -79,35 +82,33 @@ export function StoreInfoCard({
             <path d="M12 7v6" />
             <path d="M12 17h.01" />
           </svg>
-        </Link>
+        </button>
       </div>
 
       {brand.locations.length > 0 ? (
         <div className="mt-4">
-          <LocationSelect locations={brand.locations} value={initialLocation} />
+          <LocationSelect
+            locations={brand.locations}
+            value={initialLocation}
+            onLocationChange={onLocationChange}
+          />
         </div>
       ) : null}
 
       <div className="mt-6 flex items-center gap-4">
         <div className="relative h-16 w-16 overflow-hidden rounded-2xl bg-gray-100 shadow-sm ring-1 ring-black/5">
-          {logoSrc ? (
+          {logoSrc && !logoError ? (
             <Image
-              src={
-                isFourLeaves
-                  ? logoSrc
-                  : getImageUrl(location?.imageUrl, "logo") || logoSrc
-              }
+              src={getImageUrl(location?.imageUrl, "logo") || logoSrc}
               alt={brand.name}
               fill
               className="object-cover"
-              unoptimized={
-                typeof logoSrc === "string" &&
-                logoSrc.includes("googleusercontent.com")
-              }
+              unoptimized={logoSrc.includes("googleusercontent.com")}
+              onError={() => setLogoError(true)}
             />
           ) : (
-            <div className="flex h-full w-full items-center justify-center text-xs text-gray-400">
-              Logo
+            <div className="flex h-full w-full items-center justify-center bg-gray-100 text-lg font-bold text-gray-400">
+              {brand.name.charAt(0)}
             </div>
           )}
         </div>
@@ -124,7 +125,21 @@ export function StoreInfoCard({
           Today&apos;s Hours:
         </span>
         <span className="text-sm font-semibold text-[#4EA88A]">
-          {location?.openingHours || "--"}
+          {(() => {
+            if (!location?.openingHours) return "--";
+            const schedule = parseOpeningHoursText(location.openingHours);
+            if (schedule) {
+              const today = getTodayHours(schedule);
+              if (today) return today;
+            }
+            // Fallback: try to extract just the time range
+            const timeMatch = location.openingHours.match(
+              /\d{1,2}:\d{2}\s*(?:AM|PM)\s*[-–]\s*\d{1,2}:\d{2}\s*(?:AM|PM)/i,
+            );
+            return timeMatch
+              ? timeMatch[0]
+              : location.openingHours.slice(0, 50);
+          })()}
         </span>
       </div>
 
@@ -302,6 +317,13 @@ export function StoreInfoCard({
           ) : null}
         </div>
       </div>
+
+      <ReportIssueModal
+        open={reportOpen}
+        onClose={() => setReportOpen(false)}
+        brandName={brand.name}
+        locationName={location?.name}
+      />
     </section>
   );
 }

@@ -1,0 +1,43 @@
+{
+  "brand": "bengawan-solo-jewel",
+  "generatedAt": "2026-02-16T13:45:39.684Z",
+  "items": {
+    "lapis sagu": {
+      "calories": 280,
+      "protein": 2,
+      "carbs": 48,
+      "fat": 9,
+      "sodium": 180,
+      "sugar": 32,
+      "fiber": 1,
+      "allergens": [
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "ondeh-ondeh": {
+      "calories": 220,
+      "protein": 2,
+      "carbs": 40,
+      "fat": 6,
+      "sodium": 160,
+      "sugar": 18,
+      "fiber": 2,
+      "allergens": [
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    }
+  }
+}

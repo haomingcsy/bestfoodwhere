@@ -1,0 +1,440 @@
+{
+  "brand": "sen-ryo-suntec-city",
+  "generatedAt": "2026-02-21T12:28:04.139Z",
+  "items": {
+    "sen-ryo yusheng": {
+      "calories": 480,
+      "protein": 28,
+      "carbs": 45,
+      "fat": 18,
+      "sodium": 1200,
+      "sugar": 8,
+      "fiber": 4,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Sesame",
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "Good source of protein",
+        "Rich in vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in sugar from sauce"
+      ]
+    },
+    "salmon belly": {
+      "calories": 120,
+      "protein": 14,
+      "carbs": 8,
+      "fat": 5,
+      "sodium": 180,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "Good source of protein",
+        "High in vitamin D"
+      ],
+      "healthWarnings": [
+        "Moderate in saturated fat"
+      ]
+    },
+    "supreme assorted sashimi platter": {
+      "calories": 520,
+      "protein": 62,
+      "carbs": 12,
+      "fat": 22,
+      "sodium": 850,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Fish",
+        "Shellfish",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "Excellent source of protein",
+        "Low in carbs"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in cholesterol"
+      ]
+    },
+    "ikura with seaweed": {
+      "calories": 280,
+      "protein": 22,
+      "carbs": 18,
+      "fat": 12,
+      "sodium": 720,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "Good source of protein",
+        "Rich in iodine"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in cholesterol"
+      ]
+    },
+    "aburi engawa": {
+      "calories": 200,
+      "protein": 20,
+      "carbs": 12,
+      "fat": 8,
+      "sodium": 420,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Fish",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "High in omega-3",
+        "Low in carbs"
+      ],
+      "healthWarnings": [
+        "Moderate sodium"
+      ]
+    },
+    "classic platter (12 pieces)": {
+      "calories": 380,
+      "protein": 32,
+      "carbs": 38,
+      "fat": 12,
+      "sodium": 680,
+      "sugar": 4,
+      "fiber": 1,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Shellfish",
+        "Egg",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "High in omega-3",
+        "Contains probiotics from fermented ingredients"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate carbs"
+      ]
+    },
+    "sashimi platter (14 pieces)": {
+      "calories": 420,
+      "protein": 50,
+      "carbs": 8,
+      "fat": 18,
+      "sodium": 720,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Fish",
+        "Shellfish",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Excellent source of protein",
+        "High in omega-3",
+        "Low in carbs"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in cholesterol"
+      ]
+    },
+    "sen-ryo platter (12 pieces)": {
+      "calories": 410,
+      "protein": 36,
+      "carbs": 32,
+      "fat": 14,
+      "sodium": 640,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "Excellent source of protein",
+        "Good variety of nutrients"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "supreme platter (12 pieces)": {
+      "calories": 480,
+      "protein": 44,
+      "carbs": 28,
+      "fat": 18,
+      "sodium": 760,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Fish",
+        "Shellfish",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Excellent source of protein",
+        "High in omega-3",
+        "Rich in minerals"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in cholesterol"
+      ]
+    },
+    "deluxe platter (22 pieces)": {
+      "calories": 620,
+      "protein": 48,
+      "carbs": 52,
+      "fat": 18,
+      "sodium": 1100,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Shellfish",
+        "Egg",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "Excellent source of protein",
+        "Good carbohydrate balance"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "premium platter (22 pieces)": {
+      "calories": 680,
+      "protein": 54,
+      "carbs": 48,
+      "fat": 20,
+      "sodium": 1200,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Shellfish",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Excellent source of protein",
+        "High in omega-3",
+        "Rich in vitamins and minerals"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "signature maguro platter (24 pieces)": {
+      "calories": 560,
+      "protein": 52,
+      "carbs": 36,
+      "fat": 16,
+      "sodium": 980,
+      "sugar": 4,
+      "fiber": 1,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Excellent source of protein",
+        "High in omega-3",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "grandeur party set (42 pieces)": {
+      "calories": 980,
+      "protein": 76,
+      "carbs": 84,
+      "fat": 28,
+      "sodium": 1800,
+      "sugar": 8,
+      "fiber": 3,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Shellfish",
+        "Egg",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Excellent source of protein",
+        "High in omega-3",
+        "Variety of nutrients"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in calories"
+      ]
+    },
+    "sen-ryo party set (42 pieces)": {
+      "calories": 1080,
+      "protein": 82,
+      "carbs": 78,
+      "fat": 32,
+      "sodium": 1900,
+      "sugar": 8,
+      "fiber": 3,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Shellfish",
+        "Egg",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Excellent source of protein",
+        "High in omega-3",
+        "Rich in variety"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in calories"
+      ]
+    },
+    "maguro trio set (6 pieces)": {
+      "calories": 240,
+      "protein": 22,
+      "carbs": 10,
+      "fat": 10,
+      "sodium": 380,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Fish",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Excellent source of protein",
+        "High in omega-3",
+        "Low in carbs"
+      ],
+      "healthWarnings": [
+        "Moderate sodium"
+      ]
+    },
+    "salmon trio set (6 pieces)": {
+      "calories": 160,
+      "protein": 18,
+      "carbs": 8,
+      "fat": 6,
+      "sodium": 280,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Fish",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "Good source of protein",
+        "High in vitamin D"
+      ],
+      "healthWarnings": [
+        "Low sodium"
+      ]
+    },
+    "trio sushi set (6 pieces)": {
+      "calories": 200,
+      "protein": 20,
+      "carbs": 18,
+      "fat": 6,
+      "sodium": 340,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "High in omega-3",
+        "Balanced meal"
+      ],
+      "healthWarnings": [
+        "Moderate sodium"
+      ]
+    },
+    "trio aburi set (6 pieces)": {
+      "calories": 180,
+      "protein": 18,
+      "carbs": 12,
+      "fat": 6,
+      "sodium": 320,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Fish",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "High in omega-3",
+        "Low in carbs"
+      ],
+      "healthWarnings": [
+        "Moderate sodium"
+      ]
+    },
+    "makimono set (10 pieces)": {
+      "calories": 280,
+      "protein": 12,
+      "carbs": 38,
+      "fat": 8,
+      "sodium": 520,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Shellfish",
+        "Sesame",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of carbs",
+        "Contains vegetables",
+        "Source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate carbs"
+      ]
+    }
+  }
+}

@@ -1,0 +1,2062 @@
+{
+  "brand": "pastamania-italian-casual-dining-city-square-mall",
+  "generatedAt": "2026-02-21T11:12:42.313Z",
+  "items": {
+    "chicken ham & chicken sausages baked rice": {
+      "calories": 680,
+      "protein": 32,
+      "carbs": 72,
+      "fat": 24,
+      "sodium": 1280,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains mushrooms with antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "basil chicken aglio": {
+      "calories": 520,
+      "protein": 38,
+      "carbs": 58,
+      "fat": 16,
+      "sodium": 920,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Garlic"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains basil with antioxidants",
+        "Lower in saturated fat"
+      ],
+      "healthWarnings": [
+        "Spicy may irritate sensitive stomachs"
+      ]
+    },
+    "soup set (u.p. $9.60)": {
+      "calories": 380,
+      "protein": 12,
+      "carbs": 52,
+      "fat": 12,
+      "sodium": 1100,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Includes beverage",
+        "Lighter meal option"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Portion dependent on soup choice"
+      ]
+    },
+    "aglio olio": {
+      "calories": 420,
+      "protein": 14,
+      "carbs": 56,
+      "fat": 16,
+      "sodium": 680,
+      "sugar": 3,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Garlic"
+      ],
+      "healthBenefits": [
+        "Vegetarian",
+        "Good source of fiber",
+        "Contains olive oil with healthy fats",
+        "Lower in sodium than meat dishes"
+      ],
+      "healthWarnings": [
+        "Spicy may irritate sensitive stomachs"
+      ]
+    },
+    "calamansi cooler": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 35,
+      "fat": 0,
+      "sodium": 45,
+      "sugar": 28,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Refreshing tropical beverage",
+        "Contains vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "creamy chicken": {
+      "calories": 620,
+      "protein": 42,
+      "carbs": 62,
+      "fat": 20,
+      "sodium": 1050,
+      "sugar": 6,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Excellent source of protein"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "margherita": {
+      "calories": 580,
+      "protein": 24,
+      "carbs": 68,
+      "fat": 18,
+      "sodium": 1120,
+      "sugar": 8,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Vegetarian",
+        "Good source of calcium",
+        "Contains lycopene from tomatoes"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "spicy chicken": {
+      "calories": 540,
+      "protein": 40,
+      "carbs": 62,
+      "fat": 14,
+      "sodium": 980,
+      "sugar": 5,
+      "fiber": 3,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains broccoli with cruciferous vegetables",
+        "Lower in fat than cream-based dishes"
+      ],
+      "healthWarnings": [
+        "Spicy may irritate sensitive stomachs",
+        "High in sodium"
+      ]
+    },
+    "black piper": {
+      "calories": 380,
+      "protein": 32,
+      "carbs": 8,
+      "fat": 24,
+      "sodium": 820,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of B vitamins",
+        "Contains black pepper with piperine"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "Spicy may irritate sensitive stomachs"
+      ]
+    },
+    "rock honey salsa chicken wings": {
+      "calories": 420,
+      "protein": 28,
+      "carbs": 32,
+      "fat": 18,
+      "sodium": 760,
+      "sugar": 18,
+      "fiber": 0,
+      "allergens": [
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "d-chicken bak kwa pasta": {
+      "calories": 680,
+      "protein": 36,
+      "carbs": 74,
+      "fat": 18,
+      "sodium": 1340,
+      "sugar": 14,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains pineapple with vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "choco banana brownie": {
+      "calories": 420,
+      "protein": 6,
+      "carbs": 54,
+      "fat": 20,
+      "sodium": 280,
+      "sugar": 38,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Contains banana with potassium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "cheese": {
+      "calories": 9,
+      "protein": 1,
+      "carbs": 0,
+      "fat": 1,
+      "sodium": 180,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sodium for portion size"
+      ]
+    },
+    "daebak wings (w)": {
+      "calories": 420,
+      "protein": 30,
+      "carbs": 24,
+      "fat": 22,
+      "sodium": 1180,
+      "sugar": 8,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Sesame",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Spicy may irritate sensitive stomachs"
+      ]
+    },
+    "mushroom baked rice": {
+      "calories": 550,
+      "protein": 18,
+      "carbs": 68,
+      "fat": 18,
+      "sodium": 1040,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Vegetarian",
+        "Good source of fiber",
+        "Contains mushrooms with antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "d-sambal udang pasta": {
+      "calories": 620,
+      "protein": 32,
+      "carbs": 68,
+      "fat": 18,
+      "sodium": 1420,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Shellfish",
+        "Peanut",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Excellent source of protein",
+        "Contains omega-3 from prawns",
+        "Good source of selenium"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "Spicy may irritate sensitive stomachs",
+        "Contains shellfish allergen"
+      ]
+    },
+    "chicken wings": {
+      "calories": 380,
+      "protein": 26,
+      "carbs": 12,
+      "fat": 24,
+      "sodium": 680,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "Spicy may irritate sensitive stomachs"
+      ]
+    },
+    "chicken bacon aglio": {
+      "calories": 580,
+      "protein": 40,
+      "carbs": 58,
+      "fat": 18,
+      "sodium": 1020,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Garlic"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Spicy may irritate sensitive stomachs"
+      ]
+    },
+    "nutty cioccolato brownie": {
+      "calories": 460,
+      "protein": 8,
+      "carbs": 52,
+      "fat": 24,
+      "sodium": 320,
+      "sugar": 36,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from chocolate"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories",
+        "Contains tree nuts"
+      ]
+    },
+    "pomodoro": {
+      "calories": 380,
+      "protein": 12,
+      "carbs": 54,
+      "fat": 14,
+      "sodium": 620,
+      "sugar": 5,
+      "fiber": 3,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Vegetarian",
+        "Good source of fiber",
+        "Contains lycopene from tomatoes",
+        "Lower in sodium and fat"
+      ],
+      "healthWarnings": [
+        "None significant"
+      ]
+    },
+    "seafood tom yum": {
+      "calories": 520,
+      "protein": 28,
+      "carbs": 48,
+      "fat": 22,
+      "sodium": 1280,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Gluten",
+        "Dairy",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "10\" margherita": {
+      "calories": 620,
+      "protein": 24,
+      "carbs": 72,
+      "fat": 24,
+      "sodium": 1080,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of calcium",
+        "Contains lycopene"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "chilli flakes": {
+      "calories": 5,
+      "protein": 0.2,
+      "carbs": 1,
+      "fat": 0.1,
+      "sodium": 2,
+      "sugar": 0,
+      "fiber": 0.2,
+      "allergens": [],
+      "healthBenefits": [
+        "Rich in antioxidants",
+        "May boost metabolism"
+      ],
+      "healthWarnings": []
+    },
+    "passion tea quencher": {
+      "calories": 85,
+      "protein": 0.5,
+      "carbs": 21,
+      "fat": 0.1,
+      "sodium": 35,
+      "sugar": 18,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Refreshing and hydrating"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "cheesy crumble": {
+      "calories": 480,
+      "protein": 16,
+      "carbs": 54,
+      "fat": 22,
+      "sodium": 920,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of calcium",
+        "Contains protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "snack set (u.p. $11.10)": {
+      "calories": 320,
+      "protein": 12,
+      "carbs": 38,
+      "fat": 12,
+      "sodium": 680,
+      "sugar": 8,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Balanced meal",
+        "Contains beverages"
+      ],
+      "healthWarnings": [
+        "Moderate sodium content"
+      ]
+    },
+    "mentaiko furikake (w)": {
+      "calories": 420,
+      "protein": 32,
+      "carbs": 18,
+      "fat": 26,
+      "sodium": 780,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Fish",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "arrabiata": {
+      "calories": 420,
+      "protein": 14,
+      "carbs": 58,
+      "fat": 12,
+      "sodium": 780,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of lycopene",
+        "Contains fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Spicy"
+      ]
+    },
+    "d-crispy fish pops": {
+      "calories": 360,
+      "protein": 16,
+      "carbs": 28,
+      "fat": 20,
+      "sodium": 620,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in sodium"
+      ]
+    },
+    "value meal (u.p $23.10)": {
+      "calories": 680,
+      "protein": 22,
+      "carbs": 86,
+      "fat": 26,
+      "sodium": 1420,
+      "sugar": 8,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Balanced meal",
+        "Good value"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "salted egg chicken": {
+      "calories": 560,
+      "protein": 32,
+      "carbs": 50,
+      "fat": 24,
+      "sodium": 1180,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Spicy"
+      ]
+    },
+    "cheesy crumble chicken bacon": {
+      "calories": 520,
+      "protein": 24,
+      "carbs": 54,
+      "fat": 24,
+      "sodium": 1040,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains calcium"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "udders - dark chocolate gelato": {
+      "calories": 240,
+      "protein": 5,
+      "carbs": 28,
+      "fat": 12,
+      "sodium": 45,
+      "sugar": 24,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Good source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in fat"
+      ]
+    },
+    "passion fruit soda": {
+      "calories": 160,
+      "protein": 0.3,
+      "carbs": 38,
+      "fat": 0.1,
+      "sodium": 45,
+      "sugar": 34,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Refreshing",
+        "Contains fruit flavors"
+      ],
+      "healthWarnings": [
+        "Very high in sugar"
+      ]
+    },
+    "crispy chicken fillets": {
+      "calories": 380,
+      "protein": 28,
+      "carbs": 22,
+      "fat": 20,
+      "sodium": 640,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good appetizer"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in sodium"
+      ]
+    },
+    "prawn aglio": {
+      "calories": 420,
+      "protein": 26,
+      "carbs": 46,
+      "fat": 16,
+      "sodium": 960,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Spicy"
+      ]
+    },
+    "7\" chicken ham & mushroom": {
+      "calories": 520,
+      "protein": 22,
+      "carbs": 64,
+      "fat": 20,
+      "sodium": 1020,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "d-mango pomelo fizz": {
+      "calories": 180,
+      "protein": 0.5,
+      "carbs": 44,
+      "fat": 0.2,
+      "sodium": 50,
+      "sugar": 38,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains fruit extracts",
+        "Refreshing"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "treat for one (u.p $25.10)": {
+      "calories": 640,
+      "protein": 26,
+      "carbs": 72,
+      "fat": 24,
+      "sodium": 1260,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Balanced meal",
+        "Good value for one"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "cheesy crumble chicken ham": {
+      "calories": 510,
+      "protein": 22,
+      "carbs": 54,
+      "fat": 24,
+      "sodium": 1080,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains calcium"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "honey garlic chicken": {
+      "calories": 280,
+      "protein": 22,
+      "carbs": 18,
+      "fat": 14,
+      "sodium": 520,
+      "sugar": 12,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in sugar"
+      ]
+    },
+    "rock honey salsa (w)": {
+      "calories": 320,
+      "protein": 28,
+      "carbs": 16,
+      "fat": 16,
+      "sodium": 680,
+      "sugar": 10,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in sugar"
+      ]
+    },
+    "strawberry soda": {
+      "calories": 180,
+      "protein": 0,
+      "carbs": 45,
+      "fat": 0,
+      "sodium": 60,
+      "sugar": 42,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "beef bolognese": {
+      "calories": 520,
+      "protein": 28,
+      "carbs": 58,
+      "fat": 18,
+      "sodium": 840,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "otah aglio": {
+      "calories": 580,
+      "protein": 32,
+      "carbs": 52,
+      "fat": 26,
+      "sodium": 920,
+      "sugar": 2,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Shellfish",
+        "Fish",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Good source of omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Spicy"
+      ]
+    },
+    "10\" chicken ham & mushroom": {
+      "calories": 620,
+      "protein": 28,
+      "carbs": 68,
+      "fat": 24,
+      "sodium": 1240,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "udders - cookies & cream gelato": {
+      "calories": 240,
+      "protein": 4,
+      "carbs": 28,
+      "fat": 12,
+      "sodium": 80,
+      "sugar": 24,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "salty dan": {
+      "calories": 340,
+      "protein": 30,
+      "carbs": 12,
+      "fat": 18,
+      "sodium": 920,
+      "sugar": 6,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Spicy"
+      ]
+    },
+    "chicken sausages": {
+      "calories": 540,
+      "protein": 24,
+      "carbs": 56,
+      "fat": 22,
+      "sodium": 960,
+      "sugar": 8,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Spicy"
+      ]
+    },
+    "pasta party (u.p $50.20)": {
+      "calories": 1240,
+      "protein": 56,
+      "carbs": 136,
+      "fat": 44,
+      "sodium": 1680,
+      "sugar": 24,
+      "fiber": 6,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "seafood zuppa": {
+      "calories": 560,
+      "protein": 34,
+      "carbs": 54,
+      "fat": 20,
+      "sodium": 1040,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Shellfish",
+        "Fish",
+        "Dairy",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Good source of omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Spicy"
+      ]
+    },
+    "al funghi": {
+      "calories": 480,
+      "protein": 18,
+      "carbs": 48,
+      "fat": 22,
+      "sodium": 720,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Vegetarian",
+        "Contains fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "d-abundance for one": {
+      "calories": 680,
+      "protein": 26,
+      "carbs": 72,
+      "fat": 28,
+      "sodium": 880,
+      "sugar": 32,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Soy",
+        "Egg",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "7\" hawaiian": {
+      "calories": 480,
+      "protein": 22,
+      "carbs": 56,
+      "fat": 18,
+      "sodium": 1080,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "calamari": {
+      "calories": 260,
+      "protein": 18,
+      "carbs": 16,
+      "fat": 14,
+      "sodium": 480,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Shellfish",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "indigo lemonade soda": {
+      "calories": 160,
+      "protein": 0,
+      "carbs": 40,
+      "fat": 0,
+      "sodium": 50,
+      "sugar": 38,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "waffle potatoes": {
+      "calories": 320,
+      "protein": 4,
+      "carbs": 38,
+      "fat": 16,
+      "sodium": 560,
+      "sugar": 2,
+      "fiber": 3,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "seoul spiceh": {
+      "calories": 330,
+      "protein": 29,
+      "carbs": 14,
+      "fat": 17,
+      "sodium": 740,
+      "sugar": 4,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Spicy"
+      ]
+    },
+    "coke": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 35,
+      "fat": 0,
+      "sodium": 40,
+      "sugar": 35,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "feast for 3 (u.p $70.50)": {
+      "calories": 1680,
+      "protein": 74,
+      "carbs": 168,
+      "fat": 62,
+      "sodium": 2240,
+      "sugar": 32,
+      "fiber": 8,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "beef meatballs": {
+      "calories": 420,
+      "protein": 28,
+      "carbs": 35,
+      "fat": 18,
+      "sodium": 890,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "seafood mala": {
+      "calories": 520,
+      "protein": 32,
+      "carbs": 42,
+      "fat": 24,
+      "sodium": 1120,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Source of omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Spicy",
+        "High in saturated fat"
+      ]
+    },
+    "d-double blessings (2 pax)": {
+      "calories": 1680,
+      "protein": 64,
+      "carbs": 162,
+      "fat": 68,
+      "sodium": 2240,
+      "sugar": 48,
+      "fiber": 6,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Fish",
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "Designed for sharing",
+        "Includes fruit beverage"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in sugar"
+      ]
+    },
+    "10\" hawaiian": {
+      "calories": 580,
+      "protein": 32,
+      "carbs": 62,
+      "fat": 22,
+      "sodium": 1340,
+      "sugar": 12,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "Moderate sugar content"
+      ]
+    },
+    "alfredo": {
+      "calories": 580,
+      "protein": 38,
+      "carbs": 48,
+      "fat": 26,
+      "sodium": 1020,
+      "sugar": 3,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "coke zero": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 40,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Zero calories",
+        "Zero sugar"
+      ],
+      "healthWarnings": [
+        "Contains artificial sweeteners"
+      ]
+    },
+    "epic value feast ($103.60)": {
+      "calories": 2840,
+      "protein": 136,
+      "carbs": 298,
+      "fat": 108,
+      "sodium": 4480,
+      "sugar": 48,
+      "fiber": 12,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "Good value for large group"
+      ],
+      "healthWarnings": [
+        "Very high in calories",
+        "Very high in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "spice it up": {
+      "calories": 380,
+      "protein": 28,
+      "carbs": 12,
+      "fat": 26,
+      "sodium": 780,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein",
+        "Contains capsaicin"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat",
+        "Spicy"
+      ]
+    },
+    "7\" vegetarian": {
+      "calories": 380,
+      "protein": 18,
+      "carbs": 46,
+      "fat": 14,
+      "sodium": 820,
+      "sugar": 8,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Vegetarian",
+        "Contains vegetables",
+        "Good fiber source"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "carbonara": {
+      "calories": 620,
+      "protein": 36,
+      "carbs": 50,
+      "fat": 30,
+      "sodium": 1180,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "laksa vongole": {
+      "calories": 480,
+      "protein": 26,
+      "carbs": 48,
+      "fat": 20,
+      "sodium": 1240,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Source of omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Spicy",
+        "High in saturated fat"
+      ]
+    },
+    "crispy waffle potatoes with nacho cheese dip": {
+      "calories": 420,
+      "protein": 14,
+      "carbs": 42,
+      "fat": 22,
+      "sodium": 960,
+      "sugar": 3,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Contains potatoes"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat",
+        "High in calories"
+      ]
+    },
+    "chicken bolognese": {
+      "calories": 380,
+      "protein": 28,
+      "carbs": 38,
+      "fat": 12,
+      "sodium": 880,
+      "sugar": 7,
+      "fiber": 2,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Moderate calories"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "truffle trio": {
+      "calories": 540,
+      "protein": 22,
+      "carbs": 48,
+      "fat": 28,
+      "sodium": 1080,
+      "sugar": 3,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Vegetarian",
+        "Contains mushrooms"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "green tea": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 30,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Zero calories",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "stay crispy": {
+      "calories": 340,
+      "protein": 26,
+      "carbs": 10,
+      "fat": 24,
+      "sodium": 720,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in sodium"
+      ]
+    },
+    "cheesy garlic bread trio": {
+      "calories": 380,
+      "protein": 12,
+      "carbs": 38,
+      "fat": 20,
+      "sodium": 840,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat",
+        "High in calories"
+      ]
+    },
+    "10\" vegetarian": {
+      "calories": 520,
+      "protein": 24,
+      "carbs": 64,
+      "fat": 20,
+      "sodium": 1100,
+      "sugar": 10,
+      "fiber": 5,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Vegetarian",
+        "Good fiber source",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "chicken cheese salsiccia": {
+      "calories": 480,
+      "protein": 32,
+      "carbs": 42,
+      "fat": 20,
+      "sodium": 1160,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Spicy",
+        "High in saturated fat"
+      ]
+    },
+    "garlic bread": {
+      "calories": 240,
+      "protein": 6,
+      "carbs": 28,
+      "fat": 12,
+      "sodium": 480,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "marinara": {
+      "calories": 520,
+      "protein": 28,
+      "carbs": 62,
+      "fat": 16,
+      "sodium": 1240,
+      "sugar": 8,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Shellfish",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in saturated fat"
+      ]
+    },
+    "7\" beef pepperoni": {
+      "calories": 680,
+      "protein": 26,
+      "carbs": 72,
+      "fat": 32,
+      "sodium": 1580,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "tom yum sabai": {
+      "calories": 480,
+      "protein": 32,
+      "carbs": 28,
+      "fat": 28,
+      "sodium": 1050,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Fish",
+        "Shellfish",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "vida c blackcurrant": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 35,
+      "fat": 0,
+      "sodium": 45,
+      "sugar": 33,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "laksa rizz (w)": {
+      "calories": 520,
+      "protein": 34,
+      "carbs": 24,
+      "fat": 34,
+      "sodium": 1280,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Sesame",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "vida zero original citrus": {
+      "calories": 5,
+      "protein": 0,
+      "carbs": 1,
+      "fat": 0,
+      "sodium": 65,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Zero sugar",
+        "Low calorie"
+      ],
+      "healthWarnings": [
+        "Contains artificial sweeteners"
+      ]
+    },
+    "vongole": {
+      "calories": 480,
+      "protein": 26,
+      "carbs": 58,
+      "fat": 14,
+      "sodium": 1180,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Shellfish",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron and selenium"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "cream of mushroom": {
+      "calories": 240,
+      "protein": 8,
+      "carbs": 18,
+      "fat": 16,
+      "sodium": 680,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of vitamin D",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "Moderate sodium"
+      ]
+    },
+    "10\" beef pepperoni": {
+      "calories": 1020,
+      "protein": 40,
+      "carbs": 108,
+      "fat": 48,
+      "sodium": 2280,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "7\" meat lovers": {
+      "calories": 760,
+      "protein": 32,
+      "carbs": 74,
+      "fat": 38,
+      "sodium": 1680,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "chicken minestrone": {
+      "calories": 180,
+      "protein": 14,
+      "carbs": 22,
+      "fat": 4,
+      "sodium": 820,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Chicken"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of fiber",
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "Moderate sodium"
+      ]
+    },
+    "plant-based bolognese with eggplant": {
+      "calories": 420,
+      "protein": 16,
+      "carbs": 54,
+      "fat": 16,
+      "sodium": 980,
+      "sugar": 9,
+      "fiber": 5,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "Good source of plant-based protein",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "Moderate sodium"
+      ]
+    },
+    "drinking water": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Zero calories",
+        "Essential for hydration"
+      ],
+      "healthWarnings": []
+    },
+    "oatside barista blend": {
+      "calories": 120,
+      "protein": 3,
+      "carbs": 12,
+      "fat": 5,
+      "sodium": 95,
+      "sugar": 8,
+      "fiber": 1,
+      "allergens": [
+        "Oat"
+      ],
+      "healthBenefits": [
+        "Good source of plant-based protein",
+        "Lower sugar than dairy milk"
+      ],
+      "healthWarnings": []
+    },
+    "10\" meat lovers": {
+      "calories": 1140,
+      "protein": 48,
+      "carbs": 108,
+      "fat": 56,
+      "sodium": 2480,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Very high in calories"
+      ]
+    },
+    "7\" truffle mushrooms": {
+      "calories": 620,
+      "protein": 20,
+      "carbs": 76,
+      "fat": 28,
+      "sodium": 1240,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains antioxidants",
+        "Vegetarian"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "oatside chocolate malt": {
+      "calories": 180,
+      "protein": 4,
+      "carbs": 24,
+      "fat": 6,
+      "sodium": 120,
+      "sugar": 18,
+      "fiber": 1,
+      "allergens": [
+        "Oat"
+      ],
+      "healthBenefits": [
+        "Good source of plant-based protein"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "10\" truffle mushrooms": {
+      "calories": 920,
+      "protein": 30,
+      "carbs": 114,
+      "fat": 42,
+      "sodium": 1820,
+      "sugar": 6,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains antioxidants",
+        "Vegetarian"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    }
+  }
+}

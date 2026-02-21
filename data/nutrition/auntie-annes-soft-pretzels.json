@@ -1,0 +1,96 @@
+{
+  "brand": "auntie-annes-soft-pretzels",
+  "generatedAt": "2026-02-16T13:29:11.821Z",
+  "items": {
+    "stix & bites cheese nuggets (6pcs)": {
+      "calories": 320,
+      "protein": 8,
+      "carbs": 28,
+      "fat": 19,
+      "sodium": 680,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "cinnamon sugar pretzel": {
+      "calories": 380,
+      "protein": 9,
+      "carbs": 72,
+      "fat": 5,
+      "sodium": 920,
+      "sugar": 22,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in sugar"
+      ]
+    },
+    "classic chicken corndog": {
+      "calories": 420,
+      "protein": 14,
+      "carbs": 38,
+      "fat": 22,
+      "sodium": 1050,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "ultimate stix & dip platter (choose 3+3)": {
+      "calories": 680,
+      "protein": 18,
+      "carbs": 68,
+      "fat": 35,
+      "sodium": 1540,
+      "sugar": 12,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Sesame",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories",
+        "High in sugar"
+      ]
+    }
+  }
+}

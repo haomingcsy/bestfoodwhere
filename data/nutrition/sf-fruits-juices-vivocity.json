@@ -1,0 +1,2120 @@
+{
+  "brand": "sf-fruits-juices-vivocity",
+  "generatedAt": "2026-02-21T11:36:34.889Z",
+  "items": {
+    "ndp set": {
+      "calories": 320,
+      "protein": 2,
+      "carbs": 78,
+      "fat": 0.5,
+      "sodium": 45,
+      "sugar": 72,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Refreshing",
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in calories"
+      ]
+    },
+    "green apple juice 青苹果汁": {
+      "calories": 140,
+      "protein": 0.5,
+      "carbs": 34,
+      "fat": 0.3,
+      "sodium": 15,
+      "sugar": 30,
+      "fiber": 1.5,
+      "allergens": [],
+      "healthBenefits": [
+        "Rich in vitamin C",
+        "Aids digestion"
+      ],
+      "healthWarnings": [
+        "High in natural sugar"
+      ]
+    },
+    "bf-201 green passion 早餐果汁": {
+      "calories": 185,
+      "protein": 3.5,
+      "carbs": 38,
+      "fat": 2.5,
+      "sodium": 35,
+      "sugar": 28,
+      "fiber": 4,
+      "allergens": [],
+      "healthBenefits": [
+        "High in fiber",
+        "Good source of potassium",
+        "Rich in antioxidants"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "coconut shake 椰子手摇": {
+      "calories": 340,
+      "protein": 4,
+      "carbs": 42,
+      "fat": 16,
+      "sodium": 120,
+      "sugar": 35,
+      "fiber": 2,
+      "allergens": [
+        "Tree Nut",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of electrolytes",
+        "Creamy texture"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "yd-401 yogurt drink 酸奶饮品": {
+      "calories": 220,
+      "protein": 6,
+      "carbs": 42,
+      "fat": 2,
+      "sodium": 85,
+      "sugar": 35,
+      "fiber": 2,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of probiotics",
+        "Good source of protein",
+        "Rich in calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains dairy"
+      ]
+    },
+    "fruit combo set a": {
+      "calories": 240,
+      "protein": 3,
+      "carbs": 55,
+      "fat": 1,
+      "sodium": 40,
+      "sugar": 45,
+      "fiber": 3,
+      "allergens": [],
+      "healthBenefits": [
+        "High in vitamin C",
+        "Good fiber content"
+      ],
+      "healthWarnings": [
+        "High in natural sugar"
+      ]
+    },
+    "h-02 healthy juice 健康果汁": {
+      "calories": 165,
+      "protein": 1.5,
+      "carbs": 38,
+      "fat": 0.5,
+      "sodium": 95,
+      "sugar": 26,
+      "fiber": 2.5,
+      "allergens": [],
+      "healthBenefits": [
+        "Rich in beta-carotene",
+        "Good source of vitamin A",
+        "Aids immune system"
+      ],
+      "healthWarnings": [
+        "Moderate sodium",
+        "Contains natural sugars"
+      ]
+    },
+    "tt-102 high vit c drink 热带果汁": {
+      "calories": 120,
+      "protein": 1.5,
+      "carbs": 28,
+      "fat": 0.3,
+      "sodium": 30,
+      "sugar": 22,
+      "fiber": 1.5,
+      "allergens": [],
+      "healthBenefits": [
+        "Very high in vitamin C",
+        "Low in calories",
+        "Antioxidant rich"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "eb-302 abc 精力果汁": {
+      "calories": 175,
+      "protein": 1.5,
+      "carbs": 40,
+      "fat": 0.5,
+      "sodium": 85,
+      "sugar": 28,
+      "fiber": 3,
+      "allergens": [],
+      "healthBenefits": [
+        "High in antioxidants",
+        "Rich in beta-carotene",
+        "Energy boosting"
+      ],
+      "healthWarnings": [
+        "Moderate sodium",
+        "Moderate sugar content"
+      ]
+    },
+    "cut apple - red 切片红苹果": {
+      "calories": 52,
+      "protein": 0.3,
+      "carbs": 14,
+      "fat": 0.2,
+      "sodium": 2,
+      "sugar": 10,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "High in fiber",
+        "Good source of vitamin C",
+        "Low calorie"
+      ],
+      "healthWarnings": []
+    },
+    "bottled alkaline water-sf 瓶装水-sf": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Zero calories",
+        "Hydrating",
+        "pH balanced"
+      ],
+      "healthWarnings": []
+    },
+    "h-03 healthy juice 健康果汁": {
+      "calories": 155,
+      "protein": 1.5,
+      "carbs": 35,
+      "fat": 0.5,
+      "sodium": 110,
+      "sugar": 24,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "Digestive support",
+        "Immune boosting",
+        "Anti-inflammatory"
+      ],
+      "healthWarnings": [
+        "Higher sodium content",
+        "Contains ginger"
+      ]
+    },
+    "eb-303 sky high 精力果汁": {
+      "calories": 165,
+      "protein": 1,
+      "carbs": 40,
+      "fat": 0.3,
+      "sodium": 25,
+      "sugar": 32,
+      "fiber": 1.5,
+      "allergens": [],
+      "healthBenefits": [
+        "Tropical energy boost",
+        "Rich in bromelain",
+        "Vitamin C rich"
+      ],
+      "healthWarnings": [
+        "High in natural sugar"
+      ]
+    },
+    "mango shake 芒果手摇": {
+      "calories": 380,
+      "protein": 4.5,
+      "carbs": 48,
+      "fat": 18,
+      "sodium": 125,
+      "sugar": 40,
+      "fiber": 1.5,
+      "allergens": [
+        "Tree Nut",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Rich in vitamin A",
+        "Creamy texture"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "fruit combo set b": {
+      "calories": 280,
+      "protein": 3.5,
+      "carbs": 62,
+      "fat": 1.2,
+      "sodium": 45,
+      "sugar": 50,
+      "fiber": 3.5,
+      "allergens": [],
+      "healthBenefits": [
+        "High in vitamin C",
+        "Good fiber content",
+        "Variety of nutrients"
+      ],
+      "healthWarnings": [
+        "High in natural sugar"
+      ]
+    },
+    "yd-402 yogurt drink 酸奶饮品": {
+      "calories": 225,
+      "protein": 6.5,
+      "carbs": 43,
+      "fat": 1.8,
+      "sodium": 88,
+      "sugar": 36,
+      "fiber": 1.5,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of probiotics",
+        "Good source of protein",
+        "Rich in calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains dairy"
+      ]
+    },
+    "banana juice 香蕉汁": {
+      "calories": 160,
+      "protein": 1.8,
+      "carbs": 36,
+      "fat": 0.8,
+      "sodium": 10,
+      "sugar": 28,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of potassium",
+        "Energy boosting",
+        "Heart healthy"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "tt-104 hi tension 热带果汁": {
+      "calories": 145,
+      "protein": 2,
+      "carbs": 32,
+      "fat": 0.4,
+      "sodium": 120,
+      "sugar": 23,
+      "fiber": 2.5,
+      "allergens": [],
+      "healthBenefits": [
+        "Digestive support",
+        "Anti-inflammatory",
+        "Detoxifying"
+      ],
+      "healthWarnings": [
+        "Higher sodium content"
+      ]
+    },
+    "cut dragon fruit - red 切片龙珠果-红": {
+      "calories": 60,
+      "protein": 1.3,
+      "carbs": 13,
+      "fat": 0.4,
+      "sodium": 55,
+      "sugar": 8,
+      "fiber": 3,
+      "allergens": [],
+      "healthBenefits": [
+        "Very high in fiber",
+        "Rich in vitamin C",
+        "Low in calories"
+      ],
+      "healthWarnings": []
+    },
+    "bf-203 papaya flyer 早餐果汁": {
+      "calories": 170,
+      "protein": 2,
+      "carbs": 39,
+      "fat": 0.5,
+      "sodium": 40,
+      "sugar": 30,
+      "fiber": 2.5,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains papain enzyme",
+        "Aids digestion",
+        "Rich in vitamin C"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "yd-403 yogurt drink 酸奶饮品": {
+      "calories": 280,
+      "protein": 8,
+      "carbs": 48,
+      "fat": 5,
+      "sodium": 120,
+      "sugar": 42,
+      "fiber": 2,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains probiotics",
+        "Rich in calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "strawberry shake 草莓手摇": {
+      "calories": 360,
+      "protein": 6,
+      "carbs": 52,
+      "fat": 14,
+      "sodium": 140,
+      "sugar": 46,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Rich in vitamin C",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "h-05 healthy juice 健康果汁": {
+      "calories": 220,
+      "protein": 4,
+      "carbs": 42,
+      "fat": 4,
+      "sodium": 90,
+      "sugar": 35,
+      "fiber": 2,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of vitamin A",
+        "Contains vitamin C",
+        "Good source of potassium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Moderate in calories"
+      ]
+    },
+    "bf-204 strawberry sunrise 早餐果汁": {
+      "calories": 180,
+      "protein": 2,
+      "carbs": 38,
+      "fat": 1,
+      "sodium": 80,
+      "sugar": 32,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "Rich in vitamin C",
+        "Low in fat",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "carrot juice 红萝卜汁": {
+      "calories": 140,
+      "protein": 2,
+      "carbs": 32,
+      "fat": 0,
+      "sodium": 100,
+      "sugar": 22,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Excellent source of vitamin A",
+        "Good for eye health",
+        "Low in calories"
+      ],
+      "healthWarnings": [
+        "High in natural sugar"
+      ]
+    },
+    "cut dragon fruit - white 切片龙珠果-白": {
+      "calories": 60,
+      "protein": 1,
+      "carbs": 12,
+      "fat": 0,
+      "sodium": 40,
+      "sugar": 8,
+      "fiber": 3,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Rich in vitamin C",
+        "Low in calories"
+      ],
+      "healthWarnings": []
+    },
+    "fruit combo set c": {
+      "calories": 480,
+      "protein": 8,
+      "carbs": 72,
+      "fat": 14,
+      "sodium": 200,
+      "sugar": 60,
+      "fiber": 3,
+      "allergens": [
+        "Dairy",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Good source of vitamins",
+        "Contains fruit and shake"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "tt-105 acher shaker 热带果汁": {
+      "calories": 200,
+      "protein": 2,
+      "carbs": 44,
+      "fat": 1,
+      "sodium": 95,
+      "sugar": 36,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "Rich in vitamin C",
+        "Good source of potassium",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "eb-306 juicy lucy 精力果汁": {
+      "calories": 160,
+      "protein": 1,
+      "carbs": 38,
+      "fat": 0,
+      "sodium": 85,
+      "sugar": 30,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "Rich in vitamin C",
+        "Low in calories",
+        "Contains lycopene"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "fruit combo set d": {
+      "calories": 480,
+      "protein": 9,
+      "carbs": 68,
+      "fat": 16,
+      "sodium": 210,
+      "sugar": 55,
+      "fiber": 4,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of healthy fats",
+        "Rich in potassium",
+        "Contains fiber"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "Moderate sugar"
+      ]
+    },
+    "yd-404 yogurt drink 酸奶饮品": {
+      "calories": 290,
+      "protein": 8,
+      "carbs": 50,
+      "fat": 5,
+      "sodium": 125,
+      "sugar": 44,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains probiotics",
+        "Rich in calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "celery juice 西芹汁": {
+      "calories": 65,
+      "protein": 2,
+      "carbs": 12,
+      "fat": 0,
+      "sodium": 180,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in calories",
+        "Good source of potassium",
+        "May help digestion"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "tt-106 cool juice 热带果汁": {
+      "calories": 160,
+      "protein": 2,
+      "carbs": 36,
+      "fat": 0,
+      "sodium": 90,
+      "sugar": 28,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "Hydrating",
+        "Rich in vitamin C",
+        "Low in calories"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "h-06 healthy juice 健康果汁": {
+      "calories": 180,
+      "protein": 1,
+      "carbs": 40,
+      "fat": 0,
+      "sodium": 100,
+      "sugar": 28,
+      "fiber": 3,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains ginger for digestion",
+        "Rich in vitamin A"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "eb-301 liven up 精力果汁": {
+      "calories": 150,
+      "protein": 1,
+      "carbs": 36,
+      "fat": 0,
+      "sodium": 75,
+      "sugar": 28,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Refreshing and hydrating",
+        "Contains natural sugars for energy",
+        "Rich in vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "cut grape fruit 切片葡萄柚": {
+      "calories": 50,
+      "protein": 1,
+      "carbs": 11,
+      "fat": 0,
+      "sodium": 30,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in calories",
+        "Good source of vitamin C",
+        "Contains fiber"
+      ],
+      "healthWarnings": []
+    },
+    "oreo shake 奥利奥手摇": {
+      "calories": 380,
+      "protein": 7,
+      "carbs": 54,
+      "fat": 15,
+      "sodium": 320,
+      "sugar": 48,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Gluten",
+        "Tree Nut",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Provides energy"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "bf-205 morning after 早餐果汁": {
+      "calories": 170,
+      "protein": 2,
+      "carbs": 38,
+      "fat": 1,
+      "sodium": 95,
+      "sugar": 28,
+      "fiber": 3,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Rich in vitamin C",
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "h-07 healthy juice 健康果汁": {
+      "calories": 220,
+      "protein": 1,
+      "carbs": 52,
+      "fat": 0,
+      "sodium": 110,
+      "sugar": 38,
+      "fiber": 3,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Rich in vitamins",
+        "Contains multiple fruits"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "fruit combo set e": {
+      "calories": 520,
+      "protein": 10,
+      "carbs": 76,
+      "fat": 12,
+      "sodium": 240,
+      "sugar": 62,
+      "fiber": 3,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains probiotics",
+        "Rich in vitamins"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "blueberry shake 蓝莓手摇": {
+      "calories": 380,
+      "protein": 6,
+      "carbs": 52,
+      "fat": 16,
+      "sodium": 95,
+      "sugar": 42,
+      "fiber": 2,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Rich in antioxidants",
+        "Good source of vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "cut guava 切片番石榴": {
+      "calories": 37,
+      "protein": 1,
+      "carbs": 8,
+      "fat": 0,
+      "sodium": 3,
+      "sugar": 5,
+      "fiber": 3,
+      "allergens": [],
+      "healthBenefits": [
+        "High in vitamin C",
+        "Good source of fiber"
+      ],
+      "healthWarnings": []
+    },
+    "tt-107 wacky whizzard 热带果汁": {
+      "calories": 145,
+      "protein": 1,
+      "carbs": 36,
+      "fat": 0,
+      "sodium": 18,
+      "sugar": 28,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "High in vitamin C",
+        "Contains cucumber for hydration"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "bf-206 morning glory 早餐果汁": {
+      "calories": 120,
+      "protein": 1,
+      "carbs": 30,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 24,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "High in vitamin A",
+        "Good source of potassium"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "eb-304 sweet green 精力果汁": {
+      "calories": 140,
+      "protein": 2,
+      "carbs": 34,
+      "fat": 0,
+      "sodium": 12,
+      "sugar": 26,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "Rich in antioxidants",
+        "Good source of vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "yd-407 yogurt drink 酸奶饮品": {
+      "calories": 220,
+      "protein": 8,
+      "carbs": 38,
+      "fat": 3,
+      "sodium": 85,
+      "sugar": 32,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of probiotics",
+        "High in calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "cucumber juice 黄瓜汁": {
+      "calories": 45,
+      "protein": 1,
+      "carbs": 10,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Very low in calories",
+        "High in hydration"
+      ],
+      "healthWarnings": []
+    },
+    "h-08 healthy juice 健康果汁": {
+      "calories": 155,
+      "protein": 1,
+      "carbs": 38,
+      "fat": 0,
+      "sodium": 25,
+      "sugar": 30,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "High in vitamin C",
+        "Contains ginger for digestion"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "eb-305 battery charge 精力果汁": {
+      "calories": 135,
+      "protein": 1,
+      "carbs": 33,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 25,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "Rich in antioxidants",
+        "Good source of vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "bf-209 bumpy ride 早餐果汁": {
+      "calories": 80,
+      "protein": 1,
+      "carbs": 18,
+      "fat": 0,
+      "sodium": 45,
+      "sugar": 12,
+      "fiber": 3,
+      "allergens": [],
+      "healthBenefits": [
+        "High in fiber",
+        "Good source of betaine"
+      ],
+      "healthWarnings": [
+        "Moderate sodium content"
+      ]
+    },
+    "cut orange 切片橙": {
+      "calories": 20,
+      "protein": 0,
+      "carbs": 5,
+      "fat": 0,
+      "sodium": 1,
+      "sugar": 4,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "High in vitamin C",
+        "Low calorie"
+      ],
+      "healthWarnings": []
+    },
+    "yd-410 yogurt drink 酸奶饮品": {
+      "calories": 225,
+      "protein": 8,
+      "carbs": 39,
+      "fat": 3,
+      "sodium": 90,
+      "sugar": 33,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of probiotics",
+        "High in calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "white dragonfruit juice 龙珠-白汁": {
+      "calories": 65,
+      "protein": 1,
+      "carbs": 16,
+      "fat": 0,
+      "sodium": 12,
+      "sugar": 12,
+      "fiber": 3,
+      "allergens": [],
+      "healthBenefits": [
+        "Rich in vitamin C",
+        "Good source of fiber"
+      ],
+      "healthWarnings": []
+    },
+    "tt-101 bollywood blaster 热带果汁": {
+      "calories": 160,
+      "protein": 1,
+      "carbs": 40,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 32,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "High in vitamin C",
+        "Good source of potassium"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "red dragon fruit shake 红龙珠果手摇": {
+      "calories": 365,
+      "protein": 6,
+      "carbs": 48,
+      "fat": 16,
+      "sodium": 100,
+      "sugar": 38,
+      "fiber": 3,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Rich in antioxidants",
+        "Good source of vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "avocado shake 美容果手摇": {
+      "calories": 420,
+      "protein": 7,
+      "carbs": 38,
+      "fat": 26,
+      "sodium": 110,
+      "sugar": 28,
+      "fiber": 5,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in healthy fats",
+        "Good source of potassium"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in fat"
+      ]
+    },
+    "h-09 healthy juice 健康果汁": {
+      "calories": 90,
+      "protein": 1,
+      "carbs": 22,
+      "fat": 0,
+      "sodium": 35,
+      "sugar": 14,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "High in vitamin C",
+        "Good source of fiber"
+      ],
+      "healthWarnings": []
+    },
+    "tt-103 punchy ball 热带果汁": {
+      "calories": 175,
+      "protein": 2,
+      "carbs": 32,
+      "fat": 5,
+      "sodium": 15,
+      "sugar": 24,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "Rich in healthy fats from avocado",
+        "High in antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "honeydew juice 蜜瓜汁": {
+      "calories": 105,
+      "protein": 1,
+      "carbs": 26,
+      "fat": 0,
+      "sodium": 18,
+      "sugar": 22,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "High in vitamin C",
+        "Good source of potassium"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "cut papaya 切片木瓜": {
+      "calories": 32,
+      "protein": 1,
+      "carbs": 8,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 5,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "High in vitamin C",
+        "Contains papain enzyme"
+      ],
+      "healthWarnings": []
+    },
+    "yd-411 yogurt drink 酸奶饮品": {
+      "calories": 240,
+      "protein": 6,
+      "carbs": 48,
+      "fat": 2,
+      "sodium": 85,
+      "sugar": 42,
+      "fiber": 2,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains probiotics",
+        "Rich in vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Moderate calories"
+      ]
+    },
+    "bf-202 kiwi quencher 早餐果汁": {
+      "calories": 150,
+      "protein": 2,
+      "carbs": 36,
+      "fat": 1,
+      "sodium": 60,
+      "sugar": 28,
+      "fiber": 3,
+      "allergens": [],
+      "healthBenefits": [
+        "High in vitamin C",
+        "Good source of fiber",
+        "Rich in antioxidants"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "lemon juice 柠檬汁": {
+      "calories": 50,
+      "protein": 1,
+      "carbs": 16,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "High in vitamin C",
+        "Low calorie",
+        "Good for digestion"
+      ],
+      "healthWarnings": [
+        "Very acidic",
+        "May damage tooth enamel"
+      ]
+    },
+    "cut pear - korean 切片梨": {
+      "calories": 35,
+      "protein": 0,
+      "carbs": 9,
+      "fat": 0,
+      "sodium": 2,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Good source of fiber",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "banana shake 香蕉手摇": {
+      "calories": 320,
+      "protein": 8,
+      "carbs": 52,
+      "fat": 8,
+      "sodium": 95,
+      "sugar": 38,
+      "fiber": 2,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of potassium",
+        "Contains protein",
+        "Rich in B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories",
+        "Moderate fat content"
+      ]
+    },
+    "bf-207 super vitamin 早餐果汁": {
+      "calories": 140,
+      "protein": 2,
+      "carbs": 34,
+      "fat": 1,
+      "sodium": 50,
+      "sugar": 26,
+      "fiber": 3,
+      "allergens": [],
+      "healthBenefits": [
+        "High in vitamin C",
+        "Rich in antioxidants",
+        "Good source of fiber"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "h-10 healthy juice 健康果汁": {
+      "calories": 130,
+      "protein": 1,
+      "carbs": 32,
+      "fat": 0,
+      "sodium": 40,
+      "sugar": 24,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "Low fat",
+        "Good source of vitamin A",
+        "High in vitamin C"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "yd-412 yogurt drink 酸奶饮品": {
+      "calories": 250,
+      "protein": 6,
+      "carbs": 50,
+      "fat": 2,
+      "sodium": 90,
+      "sugar": 44,
+      "fiber": 2,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains probiotics",
+        "Rich in vitamin C and A"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Moderate calories"
+      ]
+    },
+    "yd-413 yogurt drink 酸奶饮品": {
+      "calories": 260,
+      "protein": 6,
+      "carbs": 52,
+      "fat": 2,
+      "sodium": 95,
+      "sugar": 46,
+      "fiber": 2,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains probiotics",
+        "Rich in antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Moderate calories"
+      ]
+    },
+    "h-12 healthy juice 健康果汁": {
+      "calories": 120,
+      "protein": 2,
+      "carbs": 28,
+      "fat": 0,
+      "sodium": 80,
+      "sugar": 18,
+      "fiber": 3,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of vitamin A",
+        "High in antioxidants",
+        "Contains ginger and garlic"
+      ],
+      "healthWarnings": [
+        "Contains garlic - strong flavor"
+      ]
+    },
+    "rockmelon shake 岩瓜手摇": {
+      "calories": 310,
+      "protein": 7,
+      "carbs": 50,
+      "fat": 8,
+      "sodium": 90,
+      "sugar": 36,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of vitamin A",
+        "Contains protein",
+        "Rich in potassium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories",
+        "Moderate fat content"
+      ]
+    },
+    "cut pineapple 切片黄梨": {
+      "calories": 50,
+      "protein": 0,
+      "carbs": 13,
+      "fat": 0,
+      "sodium": 2,
+      "sugar": 10,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains bromelain enzyme",
+        "Good source of vitamin C",
+        "Low calorie"
+      ],
+      "healthWarnings": []
+    },
+    "orange juice 橙汁": {
+      "calories": 110,
+      "protein": 2,
+      "carbs": 26,
+      "fat": 0,
+      "sodium": 25,
+      "sugar": 20,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "High in vitamin C",
+        "Good source of folate",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "bf-208 morning dew 早餐果汁": {
+      "calories": 120,
+      "protein": 1,
+      "carbs": 30,
+      "fat": 0,
+      "sodium": 50,
+      "sugar": 22,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of vitamin K",
+        "Low calorie",
+        "Contains minerals"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "cut rockmelon 切片哈密瓜": {
+      "calories": 60,
+      "protein": 1,
+      "carbs": 14,
+      "fat": 0,
+      "sodium": 35,
+      "sugar": 11,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "High in vitamin A",
+        "Good source of potassium",
+        "Low calorie"
+      ],
+      "healthWarnings": []
+    },
+    "papaya juice 木瓜汁": {
+      "calories": 100,
+      "protein": 1,
+      "carbs": 24,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 18,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains papain enzyme",
+        "High in vitamin C",
+        "Good source of vitamin A"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "yd-414 yogurt drink 酸奶饮品": {
+      "calories": 270,
+      "protein": 6,
+      "carbs": 54,
+      "fat": 2,
+      "sodium": 100,
+      "sugar": 48,
+      "fiber": 2,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains probiotics",
+        "Rich in antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Moderate calories"
+      ]
+    },
+    "h-13 healthy juice 健康果汁": {
+      "calories": 180,
+      "protein": 5,
+      "carbs": 36,
+      "fat": 2,
+      "sodium": 70,
+      "sugar": 26,
+      "fiber": 2,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of potassium",
+        "Contains protein",
+        "Rich in B vitamins"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "pear juice 梨汁": {
+      "calories": 130,
+      "protein": 1,
+      "carbs": 32,
+      "fat": 0,
+      "sodium": 30,
+      "sugar": 24,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains antioxidants",
+        "Low fat"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "h-14 healthy juice 健康果汁": {
+      "calories": 140,
+      "protein": 2,
+      "carbs": 34,
+      "fat": 0,
+      "sodium": 65,
+      "sugar": 24,
+      "fiber": 3,
+      "allergens": [],
+      "healthBenefits": [
+        "High in vitamin A",
+        "Good source of fiber",
+        "Contains betaine from beetroot"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "yd-415 yogurt drink 酸奶饮品": {
+      "calories": 280,
+      "protein": 8,
+      "carbs": 48,
+      "fat": 4,
+      "sodium": 95,
+      "sugar": 42,
+      "fiber": 3,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of probiotics",
+        "Contains antioxidants from blueberry",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "cut watermelon - red 切片西瓜-红": {
+      "calories": 30,
+      "protein": 0.6,
+      "carbs": 7.5,
+      "fat": 0.2,
+      "sodium": 2,
+      "sugar": 6.5,
+      "fiber": 0.4,
+      "allergens": [],
+      "healthBenefits": [
+        "High in water content",
+        "Good source of vitamin C",
+        "Contains lycopene"
+      ],
+      "healthWarnings": []
+    },
+    "pineapple juice 黄梨汁": {
+      "calories": 220,
+      "protein": 1,
+      "carbs": 54,
+      "fat": 0.3,
+      "sodium": 3,
+      "sugar": 40,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Rich in vitamin C",
+        "Contains bromelain enzyme",
+        "Good source of antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "cut apple - green 切片青苹果": {
+      "calories": 52,
+      "protein": 0.3,
+      "carbs": 14,
+      "fat": 0.2,
+      "sodium": 1,
+      "sugar": 10,
+      "fiber": 2.4,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains antioxidants",
+        "Low glycemic index"
+      ],
+      "healthWarnings": []
+    },
+    "h-15 healthy juice 健康果汁": {
+      "calories": 180,
+      "protein": 1.5,
+      "carbs": 44,
+      "fat": 0.5,
+      "sodium": 8,
+      "sugar": 36,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "High in antioxidants",
+        "Good source of vitamin C",
+        "Contains resveratrol from grapes"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "yd-405 yogurt drink 酸奶饮品": {
+      "calories": 310,
+      "protein": 8,
+      "carbs": 42,
+      "fat": 10,
+      "sodium": 100,
+      "sugar": 38,
+      "fiber": 3,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of probiotics",
+        "High in healthy fats",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories",
+        "High in fat"
+      ]
+    },
+    "banana 香蕉": {
+      "calories": 89,
+      "protein": 1.1,
+      "carbs": 23,
+      "fat": 0.3,
+      "sodium": 1,
+      "sugar": 12,
+      "fiber": 2.6,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of potassium",
+        "High in vitamin B6",
+        "Good source of fiber"
+      ],
+      "healthWarnings": []
+    },
+    "tomato juice 番茄汁": {
+      "calories": 40,
+      "protein": 1.8,
+      "carbs": 9,
+      "fat": 0.2,
+      "sodium": 410,
+      "sugar": 5,
+      "fiber": 1.5,
+      "allergens": [],
+      "healthBenefits": [
+        "Rich in lycopene",
+        "Good source of vitamin C",
+        "Low in calories"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "h-16 healthy juice 健康果汁": {
+      "calories": 140,
+      "protein": 1.2,
+      "carbs": 32,
+      "fat": 0.4,
+      "sodium": 350,
+      "sugar": 20,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "Rich in beta-carotene",
+        "High in vitamin C",
+        "Good source of antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "yd-406 yogurt drink 酸奶饮品": {
+      "calories": 320,
+      "protein": 8,
+      "carbs": 44,
+      "fat": 10,
+      "sodium": 100,
+      "sugar": 38,
+      "fiber": 3,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of probiotics",
+        "High in healthy fats",
+        "Rich in carotenoids"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories",
+        "High in fat"
+      ]
+    },
+    "cut honeydew 切片蜜瓜": {
+      "calories": 36,
+      "protein": 0.5,
+      "carbs": 9,
+      "fat": 0.1,
+      "sodium": 32,
+      "sugar": 8,
+      "fiber": 1.4,
+      "allergens": [],
+      "healthBenefits": [
+        "High in water content",
+        "Good source of vitamin C",
+        "Low in calories"
+      ],
+      "healthWarnings": []
+    },
+    "h-18 healthy juice 健康果汁": {
+      "calories": 200,
+      "protein": 1.8,
+      "carbs": 48,
+      "fat": 0.5,
+      "sodium": 12,
+      "sugar": 38,
+      "fiber": 2.5,
+      "allergens": [],
+      "healthBenefits": [
+        "High in antioxidants",
+        "Contains betalains from beetroot",
+        "Good source of vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "red watermelon juice 西瓜-红汁": {
+      "calories": 70,
+      "protein": 1,
+      "carbs": 16,
+      "fat": 0.3,
+      "sodium": 3,
+      "sugar": 13,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Rich in lycopene",
+        "High in vitamin C",
+        "Contains citrulline"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "yd-408 yogurt drink 酸奶饮品": {
+      "calories": 290,
+      "protein": 8,
+      "carbs": 46,
+      "fat": 4,
+      "sodium": 95,
+      "sugar": 40,
+      "fiber": 3,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of probiotics",
+        "Rich in vitamin A",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "red dragonfruit juice 龙珠-红汁": {
+      "calories": 160,
+      "protein": 1.5,
+      "carbs": 38,
+      "fat": 0.3,
+      "sodium": 5,
+      "sugar": 28,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "Rich in vitamin C",
+        "Contains antioxidants",
+        "High in fiber"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "h-19 healthy juice 健康果汁": {
+      "calories": 150,
+      "protein": 1,
+      "carbs": 36,
+      "fat": 0.4,
+      "sodium": 6,
+      "sugar": 26,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "Rich in beta-carotene",
+        "High in vitamin C",
+        "Good source of antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "cut kiwifruit 切片奇异果": {
+      "calories": 29,
+      "protein": 0.6,
+      "carbs": 6.8,
+      "fat": 0.3,
+      "sodium": 3,
+      "sugar": 4,
+      "fiber": 1.3,
+      "allergens": [],
+      "healthBenefits": [
+        "High in vitamin C",
+        "Contains bromelain enzyme",
+        "Good source of antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "grapefruit juice 葡萄柚汁": {
+      "calories": 130,
+      "protein": 1.5,
+      "carbs": 32,
+      "fat": 0.2,
+      "sodium": 2,
+      "sugar": 24,
+      "fiber": 1.5,
+      "allergens": [],
+      "healthBenefits": [
+        "Rich in vitamin C",
+        "Contains naringenin antioxidant",
+        "May support metabolism"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "May interact with medications"
+      ]
+    },
+    "h-20 healthy juice 健康果汁": {
+      "calories": 140,
+      "protein": 1,
+      "carbs": 33,
+      "fat": 0.4,
+      "sodium": 5,
+      "sugar": 24,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "Rich in beta-carotene",
+        "High in vitamin C",
+        "Good source of antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "grapes - red seedlesss 葡萄-红无籽": {
+      "calories": 67,
+      "protein": 0.7,
+      "carbs": 17,
+      "fat": 0.4,
+      "sodium": 2,
+      "sugar": 15,
+      "fiber": 0.9,
+      "allergens": [],
+      "healthBenefits": [
+        "Rich in resveratrol",
+        "Good source of antioxidants",
+        "Contains polyphenols"
+      ],
+      "healthWarnings": []
+    },
+    "h-21 healthy juice 健康果汁": {
+      "calories": 95,
+      "protein": 1.2,
+      "carbs": 22,
+      "fat": 0.3,
+      "sodium": 45,
+      "sugar": 16,
+      "fiber": 3.5,
+      "allergens": [],
+      "healthBenefits": [
+        "High in antioxidants",
+        "Good source of fiber",
+        "Rich in vitamin C",
+        "Supports heart health"
+      ],
+      "healthWarnings": [
+        "High in natural sugars"
+      ]
+    },
+    "mango juice 芒果汁": {
+      "calories": 130,
+      "protein": 1,
+      "carbs": 32,
+      "fat": 0.3,
+      "sodium": 25,
+      "sugar": 28,
+      "fiber": 1.5,
+      "allergens": [],
+      "healthBenefits": [
+        "High in vitamin A",
+        "Rich in vitamin C",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in natural sugars",
+        "Contains no fiber"
+      ]
+    },
+    "h-22 healthy juice 健康果汁": {
+      "calories": 88,
+      "protein": 1,
+      "carbs": 20,
+      "fat": 0.2,
+      "sodium": 40,
+      "sugar": 14,
+      "fiber": 3,
+      "allergens": [],
+      "healthBenefits": [
+        "High in vitamin C",
+        "Good source of fiber",
+        "Contains antioxidants",
+        "Aids digestion"
+      ],
+      "healthWarnings": [
+        "High in natural sugars"
+      ]
+    },
+    "rockmelon juice 哈蜜瓜汁": {
+      "calories": 78,
+      "protein": 1.5,
+      "carbs": 18,
+      "fat": 0.2,
+      "sodium": 55,
+      "sugar": 15,
+      "fiber": 1.2,
+      "allergens": [],
+      "healthBenefits": [
+        "High in vitamin A",
+        "Contains potassium",
+        "Good source of vitamin C"
+      ],
+      "healthWarnings": [
+        "High in natural sugars",
+        "High in sodium"
+      ]
+    },
+    "h-01 healthy juice 健康果汁": {
+      "calories": 92,
+      "protein": 1.1,
+      "carbs": 21,
+      "fat": 0.4,
+      "sodium": 50,
+      "sugar": 16,
+      "fiber": 3.2,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Rich in vitamin C",
+        "Contains antioxidants",
+        "Supports detoxification"
+      ],
+      "healthWarnings": [
+        "High in natural sugars"
+      ]
+    },
+    "strawberry juice 草莓汁": {
+      "calories": 85,
+      "protein": 0.9,
+      "carbs": 20,
+      "fat": 0.3,
+      "sodium": 30,
+      "sugar": 17,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "High in vitamin C",
+        "Rich in antioxidants",
+        "Contains ellagic acid"
+      ],
+      "healthWarnings": [
+        "High in natural sugars"
+      ]
+    },
+    "h-04 healthy juice 健康果汁": {
+      "calories": 110,
+      "protein": 2.8,
+      "carbs": 18,
+      "fat": 2.5,
+      "sodium": 85,
+      "sugar": 13,
+      "fiber": 2.8,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains calcium",
+        "Contains antioxidants",
+        "Supports bone health"
+      ],
+      "healthWarnings": [
+        "Contains dairy",
+        "Moderate sodium"
+      ]
+    },
+    "avocado juice 美容果汁": {
+      "calories": 165,
+      "protein": 2,
+      "carbs": 9,
+      "fat": 15,
+      "sodium": 40,
+      "sugar": 1,
+      "fiber": 4.5,
+      "allergens": [],
+      "healthBenefits": [
+        "High in healthy fats",
+        "Good source of potassium",
+        "Rich in fiber",
+        "Contains antioxidants",
+        "Supports skin health"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in fat"
+      ]
+    },
+    "h-11 healthy juice 健康果汁": {
+      "calories": 125,
+      "protein": 2.5,
+      "carbs": 24,
+      "fat": 2,
+      "sodium": 90,
+      "sugar": 18,
+      "fiber": 2.5,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains calcium",
+        "Rich in antioxidants",
+        "Contains potassium"
+      ],
+      "healthWarnings": [
+        "Contains dairy",
+        "High in natural sugars",
+        "Moderate sodium"
+      ]
+    },
+    "beetroot juice 红甜菜汁": {
+      "calories": 75,
+      "protein": 1.8,
+      "carbs": 17,
+      "fat": 0.2,
+      "sodium": 100,
+      "sugar": 12,
+      "fiber": 2.2,
+      "allergens": [],
+      "healthBenefits": [
+        "High in nitrates",
+        "Supports blood pressure",
+        "Rich in antioxidants",
+        "Contains folate"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in natural sugars"
+      ]
+    },
+    "h-17 healthy juice 健康果汁": {
+      "calories": 95,
+      "protein": 1.3,
+      "carbs": 22,
+      "fat": 0.3,
+      "sodium": 48,
+      "sugar": 17,
+      "fiber": 3,
+      "allergens": [],
+      "healthBenefits": [
+        "High in beta-carotene",
+        "Rich in vitamin C",
+        "Good source of fiber",
+        "Supports eye health"
+      ],
+      "healthWarnings": [
+        "High in natural sugars"
+      ]
+    },
+    "kiwi fruit juice 奇异果汁": {
+      "calories": 88,
+      "protein": 1.1,
+      "carbs": 21,
+      "fat": 0.4,
+      "sodium": 35,
+      "sugar": 18,
+      "fiber": 2.5,
+      "allergens": [],
+      "healthBenefits": [
+        "High in vitamin C",
+        "Contains actinidin enzyme",
+        "Good source of fiber",
+        "Rich in antioxidants"
+      ],
+      "healthWarnings": [
+        "High in natural sugars"
+      ]
+    },
+    "h-23 healthy juice 健康果汁": {
+      "calories": 155,
+      "protein": 2.2,
+      "carbs": 12,
+      "fat": 12,
+      "sodium": 45,
+      "sugar": 3,
+      "fiber": 4,
+      "allergens": [
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "High in healthy fats",
+        "Good source of fiber",
+        "Rich in antioxidants",
+        "Contains lauric acid",
+        "Supports skin health"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in fat",
+        "Contains tree nuts"
+      ]
+    },
+    "coconut water 椰子水": {
+      "calories": 45,
+      "protein": 2,
+      "carbs": 9,
+      "fat": 0.2,
+      "sodium": 250,
+      "sugar": 7,
+      "fiber": 0.5,
+      "allergens": [
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "High in electrolytes",
+        "Good source of potassium",
+        "Natural hydration",
+        "Contains cytokines"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Contains tree nuts"
+      ]
+    }
+  }
+}

@@ -14,7 +14,7 @@ export function AmenitiesGrid({ amenities, isMissing }: Props) {
       </div>
       {amenities.length === 0 && isMissing ? (
         <p className="text-[15px] leading-7 text-gray-500">
-          Amenities not provided yet. Add items in the `Amenities & Features` column in the sheet.
+          Amenities information coming soon.
         </p>
       ) : null}
       <div className="grid grid-cols-1 gap-4 sm:grid-cols-2">

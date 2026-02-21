@@ -1,0 +1,2618 @@
+{
+  "brand": "shaburi",
+  "generatedAt": "2026-02-21T11:38:50.422Z",
+  "items": {
+    "wagyu steak (tare, double pepper)": {
+      "calories": 520,
+      "protein": 42,
+      "carbs": 8,
+      "fat": 38,
+      "sodium": 1200,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "pork collar (negi shio, garlic, original, shogayaki)": {
+      "calories": 495,
+      "protein": 32,
+      "carbs": 5,
+      "fat": 38,
+      "sodium": 680,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Garlic"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "free flow beer, house wine & soft drink": {
+      "calories": 250,
+      "protein": 0,
+      "carbs": 18,
+      "fat": 0,
+      "sodium": 45,
+      "sugar": 15,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Sulfites"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains alcohol",
+        "Empty calories"
+      ]
+    },
+    "original konbu": {
+      "calories": 85,
+      "protein": 6,
+      "carbs": 12,
+      "fat": 2,
+      "sodium": 1450,
+      "sugar": 1,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of iodine",
+        "Low calorie",
+        "Contains minerals"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "pork steak with garlic butter soy": {
+      "calories": 480,
+      "protein": 42,
+      "carbs": 8,
+      "fat": 32,
+      "sodium": 680,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "Source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "Moderate-high sodium"
+      ]
+    },
+    "pork collar (negi shio)": {
+      "calories": 470,
+      "protein": 31,
+      "carbs": 3,
+      "fat": 37,
+      "sodium": 640,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "regular plate": {
+      "calories": 650,
+      "protein": 52,
+      "carbs": 24,
+      "fat": 38,
+      "sodium": 1800,
+      "sugar": 8,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "weekday lunch - adult (regular combo)": {
+      "calories": 1200,
+      "protein": 95,
+      "carbs": 45,
+      "fat": 65,
+      "sodium": 3200,
+      "sugar": 12,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Fish",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "wagyu karubi": {
+      "calories": 440,
+      "protein": 36,
+      "carbs": 1,
+      "fat": 34,
+      "sodium": 600,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in omega-9 fatty acids",
+        "Excellent source of iron"
+      ],
+      "healthWarnings": [
+        "Very high in saturated fat",
+        "Very high in calories"
+      ]
+    },
+    "pork samgyupsal": {
+      "calories": 400,
+      "protein": 38,
+      "carbs": 5,
+      "fat": 26,
+      "sodium": 900,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "pork collar (garlic)": {
+      "calories": 485,
+      "protein": 31,
+      "carbs": 2,
+      "fat": 38,
+      "sodium": 620,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Garlic"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron",
+        "Contains garlic"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "chicken collagen paitan": {
+      "calories": 120,
+      "protein": 18,
+      "carbs": 8,
+      "fat": 2,
+      "sodium": 1600,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Low fat",
+        "Contains collagen"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "weekday lunch - senior (regular combo)": {
+      "calories": 1080,
+      "protein": 90,
+      "carbs": 42,
+      "fat": 58,
+      "sodium": 2900,
+      "sugar": 11,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Fish",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "weekday lunch - adult (premium combo)": {
+      "calories": 1400,
+      "protein": 110,
+      "carbs": 50,
+      "fat": 78,
+      "sodium": 3400,
+      "sugar": 14,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Fish",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "wagyu steak": {
+      "calories": 540,
+      "protein": 38,
+      "carbs": 2,
+      "fat": 42,
+      "sodium": 380,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "Source of B vitamins"
+      ],
+      "healthWarnings": [
+        "Very high in saturated fat",
+        "Very high in calories"
+      ]
+    },
+    "kintan plate": {
+      "calories": 580,
+      "protein": 42,
+      "carbs": 8,
+      "fat": 44,
+      "sodium": 1280,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron",
+        "Rich in B vitamins"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "weekday lunch - senior": {
+      "calories": 1240,
+      "protein": 78,
+      "carbs": 42,
+      "fat": 92,
+      "sodium": 2680,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of multiple nutrients"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "pork sangyupsal": {
+      "calories": 480,
+      "protein": 38,
+      "carbs": 14,
+      "fat": 32,
+      "sodium": 620,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains vegetables",
+        "Source of B vitamins"
+      ],
+      "healthWarnings": [
+        "Moderate-high sodium",
+        "High in saturated fat"
+      ]
+    },
+    "pork belly (negi shio, garlic, original, shogayaki)": {
+      "calories": 565,
+      "protein": 30,
+      "carbs": 6,
+      "fat": 46,
+      "sodium": 720,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Garlic"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "wagyu karubi (tare, double pepper)": {
+      "calories": 820,
+      "protein": 52,
+      "carbs": 8,
+      "fat": 66,
+      "sodium": 1680,
+      "sugar": 3,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron",
+        "Contains amino acids"
+      ],
+      "healthWarnings": [
+        "Very high in saturated fat",
+        "High in sodium",
+        "Very high in cholesterol"
+      ]
+    },
+    "hot miso": {
+      "calories": 120,
+      "protein": 8,
+      "carbs": 14,
+      "fat": 3,
+      "sodium": 1840,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains probiotics",
+        "Low in calories"
+      ],
+      "healthWarnings": [
+        "Very high in sodium"
+      ]
+    },
+    "weekday lunch - child (110-140cm)": {
+      "calories": 680,
+      "protein": 42,
+      "carbs": 28,
+      "fat": 48,
+      "sodium": 1420,
+      "sugar": 6,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good for growing children"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "spicy pork bulgogi": {
+      "calories": 640,
+      "protein": 46,
+      "carbs": 16,
+      "fat": 48,
+      "sodium": 1520,
+      "sugar": 6,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains capsaicin"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium",
+        "Spicy"
+      ]
+    },
+    "premium wagyu plate": {
+      "calories": 760,
+      "protein": 50,
+      "carbs": 8,
+      "fat": 62,
+      "sodium": 1580,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in marbling and amino acids"
+      ],
+      "healthWarnings": [
+        "Very high in saturated fat",
+        "High in sodium",
+        "Very high in cholesterol"
+      ]
+    },
+    "artsai (thick) tongue (tare, negi shio, double pepper)": {
+      "calories": 480,
+      "protein": 52,
+      "carbs": 6,
+      "fat": 28,
+      "sodium": 1280,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron and B12"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "pork collar (original)": {
+      "calories": 465,
+      "protein": 30,
+      "carbs": 0,
+      "fat": 37,
+      "sodium": 75,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in saturated fat"
+      ]
+    },
+    "yakishabu (negi shio, tare, double pepper, garlic butter)": {
+      "calories": 640,
+      "protein": 50,
+      "carbs": 8,
+      "fat": 48,
+      "sodium": 1440,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "arisu (sirloin) tongue": {
+      "calories": 420,
+      "protein": 54,
+      "carbs": 4,
+      "fat": 22,
+      "sodium": 1180,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Excellent source of B12",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "Moderate saturated fat",
+        "Moderate sodium"
+      ]
+    },
+    "shimofuri steak": {
+      "calories": 560,
+      "protein": 48,
+      "carbs": 4,
+      "fat": 42,
+      "sodium": 1240,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron and zinc"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "Moderate to high sodium"
+      ]
+    },
+    "pork digi karubi": {
+      "calories": 420,
+      "protein": 38,
+      "carbs": 2,
+      "fat": 30,
+      "sodium": 580,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "shimofuri steak (tare, double pepper)": {
+      "calories": 580,
+      "protein": 42,
+      "carbs": 8,
+      "fat": 42,
+      "sodium": 720,
+      "sugar": 4,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Wheat"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "High in B12"
+      ],
+      "healthWarnings": [
+        "Very high in saturated fat",
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "dinner/weekend/ph - adult (premium combo - 90 min (72 items))": {
+      "calories": 2800,
+      "protein": 180,
+      "carbs": 120,
+      "fat": 180,
+      "sodium": 3200,
+      "sugar": 25,
+      "fiber": 8,
+      "allergens": [
+        "Soy",
+        "Wheat",
+        "Shellfish",
+        "Sesame",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Diverse nutrient profile",
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "Very high in calories",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "garlic butter karubi": {
+      "calories": 430,
+      "protein": 35,
+      "carbs": 3,
+      "fat": 32,
+      "sodium": 660,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "Very high in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "dinner/weekend/ph - adult (regular combo - 90 min (55 items))": {
+      "calories": 2200,
+      "protein": 150,
+      "carbs": 100,
+      "fat": 130,
+      "sodium": 2800,
+      "sugar": 20,
+      "fiber": 6,
+      "allergens": [
+        "Soy",
+        "Wheat",
+        "Shellfish",
+        "Sesame",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Diverse nutrient profile",
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "pork digi karubi (kintan buffet (90 min, 40 items)) — pork short ribs (new)": {
+      "calories": 420,
+      "protein": 38,
+      "carbs": 2,
+      "fat": 30,
+      "sodium": 580,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "pork diaji karubi": {
+      "calories": 450,
+      "protein": 40,
+      "carbs": 1,
+      "fat": 32,
+      "sodium": 600,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "High in zinc"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "tonkotsu": {
+      "calories": 380,
+      "protein": 28,
+      "carbs": 12,
+      "fat": 26,
+      "sodium": 1200,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Wheat"
+      ],
+      "healthBenefits": [
+        "Good source of collagen",
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "pork collar (shogayaki)": {
+      "calories": 320,
+      "protein": 28,
+      "carbs": 6,
+      "fat": 22,
+      "sodium": 680,
+      "sugar": 4,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron",
+        "Contains ginger"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "pork belly (negi shio)": {
+      "calories": 380,
+      "protein": 24,
+      "carbs": 5,
+      "fat": 30,
+      "sodium": 720,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains B vitamins"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "sukiyaki": {
+      "calories": 420,
+      "protein": 32,
+      "carbs": 18,
+      "fat": 26,
+      "sodium": 1100,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Wheat"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in sugar content",
+        "High in saturated fat"
+      ]
+    },
+    "premium truffle (tare, double pepper)": {
+      "calories": 620,
+      "protein": 44,
+      "carbs": 8,
+      "fat": 46,
+      "sodium": 780,
+      "sugar": 4,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Wheat"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "High in B12"
+      ],
+      "healthWarnings": [
+        "Very high in saturated fat",
+        "High in sodium",
+        "Very high in calories"
+      ]
+    },
+    "dinner/weekend/ph - senior (premium combo - 90 min (72 items))": {
+      "calories": 2240,
+      "protein": 144,
+      "carbs": 96,
+      "fat": 144,
+      "sodium": 2560,
+      "sugar": 20,
+      "fiber": 6,
+      "allergens": [
+        "Soy",
+        "Wheat",
+        "Shellfish",
+        "Sesame",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Diverse nutrient profile",
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "dinner/weekend/ph - senior (regular combo - 90 min (55 items))": {
+      "calories": 1760,
+      "protein": 120,
+      "carbs": 80,
+      "fat": 104,
+      "sodium": 2240,
+      "sugar": 16,
+      "fiber": 5,
+      "allergens": [
+        "Soy",
+        "Wheat",
+        "Shellfish",
+        "Sesame",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Diverse nutrient profile",
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "premium truffle (premium wagyu buffet (90 min, 52 items)) — wagyu with truffle, tare and double pepper": {
+      "calories": 620,
+      "protein": 44,
+      "carbs": 8,
+      "fat": 46,
+      "sodium": 780,
+      "sugar": 4,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Wheat"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "High in B12"
+      ],
+      "healthWarnings": [
+        "Very high in saturated fat",
+        "High in sodium",
+        "Very high in calories"
+      ]
+    },
+    "angus beef sukiyaki (kintan - bbq selection)": {
+      "calories": 380,
+      "protein": 34,
+      "carbs": 2,
+      "fat": 28,
+      "sodium": 520,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "Good source of zinc"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "angus beef sukiyaki (kintan buffet (90 min, 40 items)) — angus beef for sukiyaki preparation": {
+      "calories": 380,
+      "protein": 34,
+      "carbs": 2,
+      "fat": 28,
+      "sodium": 520,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "Good source of zinc"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "diamond karubi": {
+      "calories": 580,
+      "protein": 42,
+      "carbs": 1,
+      "fat": 46,
+      "sodium": 520,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "Source of B12"
+      ],
+      "healthWarnings": [
+        "Very high in saturated fat",
+        "High in calories",
+        "High cholesterol"
+      ]
+    },
+    "sakura chicken (teriyaki, garlic, double pepper)": {
+      "calories": 280,
+      "protein": 35,
+      "carbs": 8,
+      "fat": 12,
+      "sodium": 720,
+      "sugar": 6,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in sugar"
+      ]
+    },
+    "angus beef sukiyaki (kintan buffet - 90 min buffet course)": {
+      "calories": 380,
+      "protein": 34,
+      "carbs": 2,
+      "fat": 28,
+      "sodium": 520,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "Good source of zinc"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "basil chicken": {
+      "calories": 280,
+      "protein": 32,
+      "carbs": 4,
+      "fat": 15,
+      "sodium": 520,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein",
+        "Low in carbs"
+      ],
+      "healthWarnings": [
+        "Moderate sodium content"
+      ]
+    },
+    "dragon karubi (negi shio, garlic, spicy miso)": {
+      "calories": 480,
+      "protein": 42,
+      "carbs": 5,
+      "fat": 34,
+      "sodium": 620,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Excellent source of iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "iberico pork collar (teriyaki, original)": {
+      "calories": 520,
+      "protein": 44,
+      "carbs": 10,
+      "fat": 36,
+      "sodium": 750,
+      "sugar": 5,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "Source of selenium"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "iberico pork collar": {
+      "calories": 510,
+      "protein": 30,
+      "carbs": 0,
+      "fat": 42,
+      "sodium": 75,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron",
+        "Contains monounsaturated fats"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in saturated fat"
+      ]
+    },
+    "dinner/weekend/ph - child (110-140cm)": {
+      "calories": 320,
+      "protein": 20,
+      "carbs": 32,
+      "fat": 12,
+      "sodium": 480,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Sesame",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Age-appropriate portion",
+        "Balanced nutrients"
+      ],
+      "healthWarnings": []
+    },
+    "pork belly (garlic)": {
+      "calories": 375,
+      "protein": 25,
+      "carbs": 6,
+      "fat": 29,
+      "sodium": 700,
+      "sugar": 3,
+      "fiber": 0,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains selenium"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "pork belly (original)": {
+      "calories": 370,
+      "protein": 24,
+      "carbs": 2,
+      "fat": 30,
+      "sodium": 680,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains B vitamins"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "chicken cheese curry": {
+      "calories": 320,
+      "protein": 26,
+      "carbs": 12,
+      "fat": 20,
+      "sodium": 680,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains spices with antioxidants"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "Moderate sodium content"
+      ]
+    },
+    "gyu tan (negi shio, double pepper)": {
+      "calories": 380,
+      "protein": 35,
+      "carbs": 3,
+      "fat": 28,
+      "sodium": 650,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "Good source of collagen"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "special wagyu": {
+      "calories": 520,
+      "protein": 40,
+      "carbs": 4,
+      "fat": 40,
+      "sodium": 420,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron and zinc",
+        "Source of omega-3"
+      ],
+      "healthWarnings": [
+        "Very high in saturated fat"
+      ]
+    },
+    "pork cheese shabu": {
+      "calories": 360,
+      "protein": 32,
+      "carbs": 12,
+      "fat": 20,
+      "sodium": 540,
+      "sugar": 4,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of calcium",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "Moderate sodium",
+        "Contains dairy and saturated fat"
+      ]
+    },
+    "kintan karubi": {
+      "calories": 380,
+      "protein": 32,
+      "carbs": 2,
+      "fat": 29,
+      "sodium": 580,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "Source of zinc"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "Moderate sodium"
+      ]
+    },
+    "chicken cheese shabu": {
+      "calories": 340,
+      "protein": 36,
+      "carbs": 14,
+      "fat": 16,
+      "sodium": 580,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of calcium",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "Moderate sodium",
+        "Contains dairy"
+      ]
+    },
+    "pork belly (shogayaki)": {
+      "calories": 375,
+      "protein": 24,
+      "carbs": 7,
+      "fat": 29,
+      "sodium": 720,
+      "sugar": 4,
+      "fiber": 0,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains ginger for digestion"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "wagyu karubi (category: kintan - bbq selection) — premium truffle": {
+      "calories": 520,
+      "protein": 42,
+      "carbs": 2,
+      "fat": 40,
+      "sodium": 680,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "Source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in calories",
+        "High in sodium"
+      ]
+    },
+    "pork sangyupsal (category: premium wagyu buffet - 90 min buffet course) — new [price: $59.80]": {
+      "calories": 480,
+      "protein": 38,
+      "carbs": 3,
+      "fat": 37,
+      "sodium": 720,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of zinc"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in calories",
+        "High in sodium"
+      ]
+    },
+    "abalone (category: premium combo - 90 min (72 items))": {
+      "calories": 180,
+      "protein": 32,
+      "carbs": 5,
+      "fat": 3,
+      "sodium": 420,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Shellfish",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Low in fat",
+        "Rich in minerals",
+        "Source of iron"
+      ],
+      "healthWarnings": [
+        "Moderate sodium"
+      ]
+    },
+    "kintan karubi (double pepper, tare) (category: kintan buffet - 90 min buffet course) [price: $39.80]": {
+      "calories": 480,
+      "protein": 40,
+      "carbs": 3,
+      "fat": 36,
+      "sodium": 750,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Sesame",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in calories",
+        "High in sodium"
+      ]
+    },
+    "dragon karubi (category: kintan buffet (90 min, 40 items)) — dragon cut short ribs with negi shio, garlic and spicy miso": {
+      "calories": 520,
+      "protein": 42,
+      "carbs": 4,
+      "fat": 40,
+      "sodium": 850,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Sesame",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "Source of zinc"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in calories",
+        "Very high in sodium"
+      ]
+    },
+    "yakishabu (category: regular kintan buffet (90 min, 17 items)) — marbled beef with negi shio, tare, double pepper and garlic butter": {
+      "calories": 510,
+      "protein": 38,
+      "carbs": 3,
+      "fat": 40,
+      "sodium": 820,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Sesame",
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in calories",
+        "High in sodium"
+      ]
+    },
+    "yuba shabu (category: regular combo - 90 min (55 items))": {
+      "calories": 220,
+      "protein": 18,
+      "carbs": 8,
+      "fat": 14,
+      "sodium": 480,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Source of calcium",
+        "Low in calories"
+      ],
+      "healthWarnings": [
+        "Moderate sodium"
+      ]
+    },
+    "gyu tan (category: premium combo - 90 min (72 items))": {
+      "calories": 310,
+      "protein": 36,
+      "carbs": 2,
+      "fat": 17,
+      "sodium": 620,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "Good source of zinc"
+      ],
+      "healthWarnings": [
+        "Moderate sodium",
+        "Moderate fat"
+      ]
+    },
+    "diamond karubi (category: kintan buffet - 90 min buffet course) [price: $39.80]": {
+      "calories": 500,
+      "protein": 41,
+      "carbs": 3,
+      "fat": 38,
+      "sodium": 770,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in calories",
+        "High in sodium"
+      ]
+    },
+    "atsu (thick) tongue (category: kintan - bbq selection)": {
+      "calories": 340,
+      "protein": 38,
+      "carbs": 1,
+      "fat": 20,
+      "sodium": 580,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "Good source of zinc"
+      ],
+      "healthWarnings": [
+        "Moderate sodium",
+        "Moderate saturated fat"
+      ]
+    },
+    "gyu tan (category: kintan buffet (90 min, 40 items)) — beef tongue with negi shio and double pepper": {
+      "calories": 320,
+      "protein": 37,
+      "carbs": 2,
+      "fat": 18,
+      "sodium": 720,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Sesame",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "Good source of zinc"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "spicy pork bulgogi (category: premium wagyu buffet - 90 min buffet course) — new [price: $59.80]": {
+      "calories": 420,
+      "protein": 34,
+      "carbs": 6,
+      "fat": 30,
+      "sodium": 880,
+      "sugar": 3,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Sesame",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of zinc"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "spicy pork bulgogi (category: premium wagyu buffet (90 min, 52 items)) — spicy marinated pork (new)": {
+      "calories": 420,
+      "protein": 34,
+      "carbs": 6,
+      "fat": 30,
+      "sodium": 880,
+      "sugar": 3,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Sesame",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of zinc"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "white corn (category: regular combo - 90 min (55 items)) — super sweet": {
+      "calories": 140,
+      "protein": 4,
+      "carbs": 28,
+      "fat": 2,
+      "sodium": 120,
+      "sugar": 12,
+      "fiber": 3,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "pork digi karubi (category: premium wagyu buffet (90 min, 52 items)) — pork short ribs (new)": {
+      "calories": 490,
+      "protein": 39,
+      "carbs": 2,
+      "fat": 38,
+      "sodium": 740,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of zinc"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in calories",
+        "High in sodium"
+      ]
+    },
+    "harami steak (tare, garlic, spicy miso) (category: kintan buffet - 90 min buffet course) [price: $39.80]": {
+      "calories": 420,
+      "protein": 38,
+      "carbs": 4,
+      "fat": 28,
+      "sodium": 820,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Sesame",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "garlic butter yakishabu (category: regular kintan buffet (90 min, 17 items)) — garlic butter seasoned marbled beef": {
+      "calories": 520,
+      "protein": 38,
+      "carbs": 3,
+      "fat": 41,
+      "sodium": 840,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Sesame",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in calories",
+        "High in sodium"
+      ]
+    },
+    "harami steak (category: kintan buffet (90 min, 40 items)) — skirt steak with tare, garlic and spicy miso": {
+      "calories": 430,
+      "protein": 39,
+      "carbs": 4,
+      "fat": 29,
+      "sodium": 840,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Sesame",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "harami steak (category: kintan - bbq selection)": {
+      "calories": 400,
+      "protein": 38,
+      "carbs": 1,
+      "fat": 27,
+      "sodium": 580,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "Good source of zinc"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "pork digi karubi (category: premium wagyu buffet - 90 min buffet course) — new [price: $59.80]": {
+      "calories": 490,
+      "protein": 39,
+      "carbs": 2,
+      "fat": 38,
+      "sodium": 740,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of zinc"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in calories",
+        "High in sodium"
+      ]
+    },
+    "salmon": {
+      "calories": 320,
+      "protein": 35,
+      "carbs": 0,
+      "fat": 19,
+      "sodium": 75,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in omega-3 fatty acids",
+        "Excellent source of protein",
+        "Rich in vitamin D"
+      ],
+      "healthWarnings": []
+    },
+    "gyu tan": {
+      "calories": 370,
+      "protein": 34,
+      "carbs": 2,
+      "fat": 27,
+      "sodium": 620,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "Good source of collagen"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "dice tender (tare, spicy miso)": {
+      "calories": 340,
+      "protein": 39,
+      "carbs": 5,
+      "fat": 17,
+      "sodium": 750,
+      "sugar": 3,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron"
+      ],
+      "healthWarnings": [
+        "Moderate saturated fat",
+        "High in sodium"
+      ]
+    },
+    "angus beef sukiyaki": {
+      "calories": 420,
+      "protein": 38,
+      "carbs": 12,
+      "fat": 25,
+      "sodium": 780,
+      "sugar": 6,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "giant mussel": {
+      "calories": 180,
+      "protein": 28,
+      "carbs": 6,
+      "fat": 3,
+      "sodium": 650,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Low in fat",
+        "Rich in selenium"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "seafood platter": {
+      "calories": 280,
+      "protein": 42,
+      "carbs": 4,
+      "fat": 8,
+      "sodium": 720,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Fish",
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in omega-3",
+        "Good source of minerals"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "dice tender": {
+      "calories": 320,
+      "protein": 38,
+      "carbs": 1,
+      "fat": 17,
+      "sodium": 580,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "Source of zinc"
+      ],
+      "healthWarnings": [
+        "Moderate saturated fat",
+        "Moderate sodium"
+      ]
+    },
+    "dragon karubi": {
+      "calories": 550,
+      "protein": 41,
+      "carbs": 1,
+      "fat": 44,
+      "sodium": 530,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron"
+      ],
+      "healthWarnings": [
+        "Very high in saturated fat",
+        "High in calories"
+      ]
+    },
+    "rosa": {
+      "calories": 310,
+      "protein": 36,
+      "carbs": 1,
+      "fat": 17,
+      "sodium": 520,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "Source of zinc"
+      ],
+      "healthWarnings": [
+        "Moderate saturated fat",
+        "Moderate sodium"
+      ]
+    },
+    "rosa (tare, double pepper)": {
+      "calories": 320,
+      "protein": 36,
+      "carbs": 4,
+      "fat": 17,
+      "sodium": 740,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron"
+      ],
+      "healthWarnings": [
+        "Moderate saturated fat",
+        "High in sodium"
+      ]
+    },
+    "chicken thigh (teriyaki)": {
+      "calories": 290,
+      "protein": 28,
+      "carbs": 8,
+      "fat": 16,
+      "sodium": 640,
+      "sugar": 6,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Contains added sugar"
+      ]
+    },
+    "yakishabu": {
+      "calories": 610,
+      "protein": 42,
+      "carbs": 6,
+      "fat": 46,
+      "sodium": 680,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "High in iron",
+        "Good source of B12"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "cooked prawn": {
+      "calories": 120,
+      "protein": 24,
+      "carbs": 1,
+      "fat": 2,
+      "sodium": 580,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Low in fat",
+        "Rich in selenium"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "premium truffle oil wagyu karubi": {
+      "calories": 520,
+      "protein": 40,
+      "carbs": 2,
+      "fat": 40,
+      "sodium": 480,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron"
+      ],
+      "healthWarnings": [
+        "Very high in saturated fat",
+        "Very high in calories"
+      ]
+    },
+    "chicken thigh (garlic)": {
+      "calories": 285,
+      "protein": 29,
+      "carbs": 3,
+      "fat": 17,
+      "sodium": 580,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "Moderate to high sodium"
+      ]
+    },
+    "thick cut bacon": {
+      "calories": 380,
+      "protein": 16,
+      "carbs": 1,
+      "fat": 34,
+      "sodium": 840,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "Very high in saturated fat",
+        "Very high in sodium",
+        "Processed meat"
+      ]
+    },
+    "kintan karubi (double pepper, tare)": {
+      "calories": 540,
+      "protein": 40,
+      "carbs": 3,
+      "fat": 44,
+      "sodium": 680,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron"
+      ],
+      "healthWarnings": [
+        "Very high in saturated fat",
+        "High in calories",
+        "High in sodium"
+      ]
+    },
+    "thick cut bacon (french mustard, double pepper)": {
+      "calories": 520,
+      "protein": 26,
+      "carbs": 3,
+      "fat": 44,
+      "sodium": 1100,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Mustard"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "chicken thigh (double pepper)": {
+      "calories": 295,
+      "protein": 30,
+      "carbs": 2,
+      "fat": 18,
+      "sodium": 560,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "Moderate sodium content"
+      ]
+    },
+    "homemade beef ball": {
+      "calories": 220,
+      "protein": 18,
+      "carbs": 8,
+      "fat": 13,
+      "sodium": 540,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains iron"
+      ],
+      "healthWarnings": [
+        "Moderate sodium"
+      ]
+    },
+    "rosu": {
+      "calories": 460,
+      "protein": 38,
+      "carbs": 1,
+      "fat": 35,
+      "sodium": 480,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "Source of B vitamins"
+      ],
+      "healthWarnings": [
+        "Very high in saturated fat",
+        "High in calories"
+      ]
+    },
+    "tasty beef": {
+      "calories": 380,
+      "protein": 36,
+      "carbs": 3,
+      "fat": 26,
+      "sodium": 580,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "cheese sausage": {
+      "calories": 380,
+      "protein": 20,
+      "carbs": 4,
+      "fat": 31,
+      "sodium": 750,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "Very high in saturated fat",
+        "High in sodium",
+        "Processed meat"
+      ]
+    },
+    "pork dumpling": {
+      "calories": 180,
+      "protein": 12,
+      "carbs": 16,
+      "fat": 8,
+      "sodium": 480,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains fiber"
+      ],
+      "healthWarnings": [
+        "Moderate sodium"
+      ]
+    },
+    "shogayaki": {
+      "calories": 280,
+      "protein": 32,
+      "carbs": 8,
+      "fat": 12,
+      "sodium": 680,
+      "sugar": 6,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "Moderate sodium",
+        "Moderate fat content"
+      ]
+    },
+    "harami steak (tare, garlic, spicy miso)": {
+      "calories": 380,
+      "protein": 36,
+      "carbs": 6,
+      "fat": 24,
+      "sodium": 820,
+      "sugar": 4,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "Source of zinc"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "harami steak": {
+      "calories": 370,
+      "protein": 35,
+      "carbs": 2,
+      "fat": 25,
+      "sodium": 650,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "Source of zinc"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "Moderate sodium"
+      ]
+    },
+    "negi shio": {
+      "calories": 310,
+      "protein": 27,
+      "carbs": 2,
+      "fat": 23,
+      "sodium": 700,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "homemade chicken ball": {
+      "calories": 180,
+      "protein": 14,
+      "carbs": 8,
+      "fat": 10,
+      "sodium": 420,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Moderate calories"
+      ],
+      "healthWarnings": [
+        "Moderate fat content"
+      ]
+    },
+    "chicken thigh": {
+      "calories": 380,
+      "protein": 32,
+      "carbs": 0,
+      "fat": 28,
+      "sodium": 90,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron",
+        "Contains selenium"
+      ],
+      "healthWarnings": [
+        "High in saturated fat"
+      ]
+    },
+    "chicken cheese sausage": {
+      "calories": 310,
+      "protein": 20,
+      "carbs": 3,
+      "fat": 24,
+      "sodium": 720,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "pork collar": {
+      "calories": 460,
+      "protein": 30,
+      "carbs": 0,
+      "fat": 37,
+      "sodium": 70,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron",
+        "Contains B vitamins"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in saturated fat"
+      ]
+    },
+    "pork belly": {
+      "calories": 520,
+      "protein": 28,
+      "carbs": 0,
+      "fat": 44,
+      "sodium": 85,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron",
+        "Contains B vitamins"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "yakishabu (negi shio, double pepper, garlic butter)": {
+      "calories": 580,
+      "protein": 38,
+      "carbs": 8,
+      "fat": 42,
+      "sodium": 720,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Garlic"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "angus beef": {
+      "calories": 480,
+      "protein": 35,
+      "carbs": 0,
+      "fat": 38,
+      "sodium": 80,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein",
+        "Excellent source of iron",
+        "Good source of B12"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in saturated fat"
+      ]
+    },
+    "shinofuri steak": {
+      "calories": 420,
+      "protein": 38,
+      "carbs": 2,
+      "fat": 30,
+      "sodium": 620,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron",
+        "High in B12"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "thick tongue": {
+      "calories": 340,
+      "protein": 32,
+      "carbs": 1,
+      "fat": 24,
+      "sodium": 580,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein",
+        "Excellent source of iron",
+        "Rich in B vitamins"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in cholesterol"
+      ]
+    },
+    "garlic butter sausage": {
+      "calories": 320,
+      "protein": 18,
+      "carbs": 2,
+      "fat": 26,
+      "sodium": 680,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "roasted shabu": {
+      "calories": 340,
+      "protein": 22,
+      "carbs": 3,
+      "fat": 28,
+      "sodium": 700,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "pork shoulder loin": {
+      "calories": 310,
+      "protein": 28,
+      "carbs": 1,
+      "fat": 22,
+      "sodium": 620,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "Moderate sodium content"
+      ]
+    },
+    "chicken cheese sausage (premium wagyu buffet)": {
+      "calories": 310,
+      "protein": 20,
+      "carbs": 3,
+      "fat": 24,
+      "sodium": 720,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    }
+  }
+}

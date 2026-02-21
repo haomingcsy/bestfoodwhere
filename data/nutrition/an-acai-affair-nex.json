@@ -1,0 +1,624 @@
+{
+  "brand": "an-acai-affair-nex",
+  "generatedAt": "2026-02-16T13:22:04.368Z",
+  "items": {
+    "berry crunchy": {
+      "calories": 340,
+      "protein": 8,
+      "carbs": 42,
+      "fat": 15,
+      "sodium": 220,
+      "sugar": 18,
+      "fiber": 5,
+      "allergens": [
+        "Gluten",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "High in antioxidants",
+        "Good source of fiber",
+        "Contains vitamin C"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content",
+        "High in fat from nuts"
+      ]
+    },
+    "triple a": {
+      "calories": 385,
+      "protein": 10,
+      "carbs": 48,
+      "fat": 16,
+      "sodium": 85,
+      "sugar": 22,
+      "fiber": 7,
+      "allergens": [
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "High in antioxidants",
+        "Good source of fiber",
+        "Rich in superfoods"
+      ],
+      "healthWarnings": [
+        "Moderate to high sugar content"
+      ]
+    },
+    "make your own toast": {
+      "calories": 360,
+      "protein": 9,
+      "carbs": 44,
+      "fat": 16,
+      "sodium": 240,
+      "sugar": 16,
+      "fiber": 6,
+      "allergens": [
+        "Gluten",
+        "Tree Nut",
+        "Peanut"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains vitamins and minerals"
+      ],
+      "healthWarnings": [
+        "Moderate fat content"
+      ]
+    },
+    "make your own smoothie": {
+      "calories": 280,
+      "protein": 8,
+      "carbs": 38,
+      "fat": 8,
+      "sodium": 120,
+      "sugar": 24,
+      "fiber": 4,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "High in vitamins",
+        "Hydrating"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "aloha açaí": {
+      "calories": 320,
+      "protein": 6,
+      "carbs": 46,
+      "fat": 8,
+      "sodium": 95,
+      "sugar": 28,
+      "fiber": 5,
+      "allergens": [],
+      "healthBenefits": [
+        "High in antioxidants",
+        "Good source of potassium",
+        "Hydrating"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "açaí with banana": {
+      "calories": 240,
+      "protein": 4,
+      "carbs": 28,
+      "fat": 12,
+      "sodium": 40,
+      "sugar": 18,
+      "fiber": 3,
+      "allergens": [
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Good source of antioxidants",
+        "Potassium rich"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content",
+        "High in saturated fat from chocolate"
+      ]
+    },
+    "açaí with coffee": {
+      "calories": 220,
+      "protein": 3,
+      "carbs": 24,
+      "fat": 12,
+      "sodium": 35,
+      "sugar": 16,
+      "fiber": 3,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of antioxidants",
+        "Contains caffeine"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content",
+        "High in saturated fat"
+      ]
+    },
+    "here's my abs": {
+      "calories": 410,
+      "protein": 22,
+      "carbs": 38,
+      "fat": 18,
+      "sodium": 220,
+      "sugar": 20,
+      "fiber": 6,
+      "allergens": [
+        "Dairy",
+        "Peanut",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "High in antioxidants",
+        "Good for muscle recovery"
+      ],
+      "healthWarnings": [
+        "Moderate to high sugar content",
+        "High in fat"
+      ]
+    },
+    "nutty party": {
+      "calories": 395,
+      "protein": 11,
+      "carbs": 45,
+      "fat": 18,
+      "sodium": 90,
+      "sugar": 20,
+      "fiber": 7,
+      "allergens": [
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in healthy fats",
+        "High in fiber"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content",
+        "High in fat and calories"
+      ]
+    },
+    "you butter believe": {
+      "calories": 365,
+      "protein": 10,
+      "carbs": 41,
+      "fat": 17,
+      "sodium": 210,
+      "sugar": 17,
+      "fiber": 6,
+      "allergens": [
+        "Gluten",
+        "Peanut",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Rich in healthy fats",
+        "Good fiber content"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content",
+        "High in fat"
+      ]
+    },
+    "açaí with cookie butter": {
+      "calories": 250,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 12,
+      "sodium": 120,
+      "sugar": 20,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Good source of antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "greek physique": {
+      "calories": 375,
+      "protein": 12,
+      "carbs": 46,
+      "fat": 14,
+      "sodium": 95,
+      "sugar": 21,
+      "fiber": 7,
+      "allergens": [
+        "Dairy",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "High in antioxidants",
+        "Good source of probiotics"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "bravocado": {
+      "calories": 380,
+      "protein": 9,
+      "carbs": 35,
+      "fat": 22,
+      "sodium": 280,
+      "sugar": 12,
+      "fiber": 8,
+      "allergens": [
+        "Gluten",
+        "Tree Nut",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "Rich in healthy monounsaturated fats",
+        "Good source of potassium"
+      ],
+      "healthWarnings": [
+        "High in calories and fat"
+      ]
+    },
+    "yo-go girl": {
+      "calories": 310,
+      "protein": 9,
+      "carbs": 42,
+      "fat": 8,
+      "sodium": 110,
+      "sugar": 26,
+      "fiber": 4,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains probiotics",
+        "High in antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "nutty or nice": {
+      "calories": 405,
+      "protein": 9,
+      "carbs": 43,
+      "fat": 20,
+      "sodium": 250,
+      "sugar": 22,
+      "fiber": 5,
+      "allergens": [
+        "Gluten",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar and calories",
+        "High in saturated fat from Nutella and chocolate"
+      ]
+    },
+    "mango magic": {
+      "calories": 330,
+      "protein": 6,
+      "carbs": 50,
+      "fat": 8,
+      "sodium": 100,
+      "sugar": 32,
+      "fiber": 5,
+      "allergens": [],
+      "healthBenefits": [
+        "High in vitamin C",
+        "Good source of antioxidants",
+        "Hydrating"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "ch-ch-ch-chia": {
+      "calories": 420,
+      "protein": 12,
+      "carbs": 52,
+      "fat": 18,
+      "sodium": 95,
+      "sugar": 28,
+      "fiber": 8,
+      "allergens": [
+        "Tree Nut",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "Good source of fiber",
+        "Rich in antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "açaí with mango": {
+      "calories": 280,
+      "protein": 4,
+      "carbs": 38,
+      "fat": 12,
+      "sodium": 45,
+      "sugar": 28,
+      "fiber": 3,
+      "allergens": [
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Rich in antioxidants",
+        "Good source of vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "coco glow": {
+      "calories": 440,
+      "protein": 11,
+      "carbs": 54,
+      "fat": 19,
+      "sodium": 110,
+      "sugar": 30,
+      "fiber": 8,
+      "allergens": [
+        "Tree Nut",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "Rich in antioxidants",
+        "Contains medium-chain triglycerides"
+      ],
+      "healthWarnings": []
+    },
+    "coco splash": {
+      "calories": 85,
+      "protein": 2,
+      "carbs": 14,
+      "fat": 2,
+      "sodium": 280,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Low calorie",
+        "Good hydration source",
+        "Contains electrolytes"
+      ],
+      "healthWarnings": [
+        "Moderate sodium"
+      ]
+    },
+    "açaí with peanut butter": {
+      "calories": 320,
+      "protein": 8,
+      "carbs": 36,
+      "fat": 15,
+      "sodium": 95,
+      "sugar": 26,
+      "fiber": 3,
+      "allergens": [
+        "Peanut",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Rich in antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "thai coconut": {
+      "calories": 310,
+      "protein": 5,
+      "carbs": 35,
+      "fat": 14,
+      "sodium": 50,
+      "sugar": 28,
+      "fiber": 3,
+      "allergens": [
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Rich in antioxidants",
+        "Contains polyphenols"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "mango tango": {
+      "calories": 440,
+      "protein": 11,
+      "carbs": 56,
+      "fat": 18,
+      "sodium": 105,
+      "sugar": 32,
+      "fiber": 8,
+      "allergens": [
+        "Tree Nut",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Rich in vitamin C",
+        "High in fiber",
+        "Good source of antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "love me lychee": {
+      "calories": 435,
+      "protein": 11,
+      "carbs": 55,
+      "fat": 18,
+      "sodium": 108,
+      "sugar": 31,
+      "fiber": 8,
+      "allergens": [
+        "Tree Nut",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Rich in antioxidants",
+        "Good source of vitamin C",
+        "High in fiber"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "strawberry mango": {
+      "calories": 290,
+      "protein": 4,
+      "carbs": 39,
+      "fat": 12,
+      "sodium": 48,
+      "sugar": 29,
+      "fiber": 3,
+      "allergens": [
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Rich in antioxidants",
+        "Good source of vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "berried alive": {
+      "calories": 430,
+      "protein": 11,
+      "carbs": 53,
+      "fat": 18,
+      "sodium": 102,
+      "sugar": 29,
+      "fiber": 8,
+      "allergens": [
+        "Tree Nut",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in antioxidants",
+        "Good source of fiber",
+        "Rich in polyphenols"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "toffee apple twist": {
+      "calories": 460,
+      "protein": 10,
+      "carbs": 58,
+      "fat": 19,
+      "sodium": 115,
+      "sugar": 35,
+      "fiber": 7,
+      "allergens": [
+        "Tree Nut",
+        "Sesame",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Rich in antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "feeling grape": {
+      "calories": 445,
+      "protein": 11,
+      "carbs": 56,
+      "fat": 18,
+      "sodium": 110,
+      "sugar": 33,
+      "fiber": 8,
+      "allergens": [
+        "Tree Nut",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Rich in resveratrol",
+        "High in antioxidants",
+        "Good source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "drivin' me nuts": {
+      "calories": 520,
+      "protein": 14,
+      "carbs": 68,
+      "fat": 22,
+      "sodium": 180,
+      "sugar": 38,
+      "fiber": 8,
+      "allergens": [
+        "Peanut",
+        "Tree Nut",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in antioxidants",
+        "Good source of fiber",
+        "Contains healthy fats",
+        "Rich in vitamins and minerals"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories",
+        "High in fat"
+      ]
+    },
+    "berry me bliss": {
+      "calories": 480,
+      "protein": 12,
+      "carbs": 72,
+      "fat": 16,
+      "sodium": 160,
+      "sugar": 42,
+      "fiber": 8,
+      "allergens": [
+        "Tree Nut",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in antioxidants",
+        "Good source of fiber",
+        "Rich in vitamin C",
+        "Contains polyphenols"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    }
+  }
+}

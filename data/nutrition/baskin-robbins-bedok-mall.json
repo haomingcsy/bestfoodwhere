@@ -1,0 +1,944 @@
+{
+  "brand": "baskin-robbins-bedok-mall",
+  "generatedAt": "2026-02-16T13:37:39.623Z",
+  "items": {
+    "golden choco pint + handpacked pint": {
+      "calories": 1040,
+      "protein": 14,
+      "carbs": 126,
+      "fat": 52,
+      "sodium": 280,
+      "sugar": 98,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten",
+        "Tree Nut"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in calories",
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "scoops of love (6\") cake": {
+      "calories": 2240,
+      "protein": 32,
+      "carbs": 280,
+      "fat": 112,
+      "sodium": 560,
+      "sugar": 224,
+      "fiber": 4,
+      "allergens": [
+        "Dairy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in calories",
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "hbd foil balloon": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": []
+    },
+    "fluffy waffle": {
+      "calories": 420,
+      "protein": 8,
+      "carbs": 52,
+      "fat": 20,
+      "sodium": 320,
+      "sugar": 38,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in calories",
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "handpacked pint 1 flavor": {
+      "calories": 520,
+      "protein": 8,
+      "carbs": 64,
+      "fat": 26,
+      "sodium": 140,
+      "sugar": 52,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in calories",
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "3 pints": {
+      "calories": 1560,
+      "protein": 24,
+      "carbs": 192,
+      "fat": 78,
+      "sodium": 420,
+      "sugar": 156,
+      "fiber": 3,
+      "allergens": [
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in calories",
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "variety pack 12": {
+      "calories": 1440,
+      "protein": 18,
+      "carbs": 168,
+      "fat": 76,
+      "sodium": 300,
+      "sugar": 136,
+      "fiber": 4,
+      "allergens": [
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in calories",
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "golden choco cake (6\")": {
+      "calories": 1960,
+      "protein": 28,
+      "carbs": 240,
+      "fat": 98,
+      "sodium": 480,
+      "sugar": 192,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Gluten",
+        "Tree Nut",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in calories",
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "single regular scoop": {
+      "calories": 130,
+      "protein": 2,
+      "carbs": 16,
+      "fat": 6.5,
+      "sodium": 35,
+      "sugar": 13,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "milkshake junior- after dinner mint": {
+      "calories": 340,
+      "protein": 8,
+      "carbs": 44,
+      "fat": 14,
+      "sodium": 160,
+      "sugar": 40,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "golden choco pint": {
+      "calories": 680,
+      "protein": 10,
+      "carbs": 80,
+      "fat": 34,
+      "sodium": 180,
+      "sugar": 66,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Gluten",
+        "Tree Nut",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in calories",
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "hbd garland": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": []
+    },
+    "single king scoop": {
+      "calories": 170,
+      "protein": 3,
+      "carbs": 21,
+      "fat": 8.5,
+      "sodium": 44,
+      "sugar": 17,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "2 half gallon": {
+      "calories": 3640,
+      "protein": 48,
+      "carbs": 420,
+      "fat": 192,
+      "sodium": 760,
+      "sugar": 336,
+      "fiber": 8,
+      "allergens": [
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in calories",
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "cookie splendor (6\") cake": {
+      "calories": 2120,
+      "protein": 30,
+      "carbs": 260,
+      "fat": 106,
+      "sodium": 520,
+      "sugar": 208,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in calories",
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "handpacked half gallon": {
+      "calories": 1400,
+      "protein": 20,
+      "carbs": 172,
+      "fat": 70,
+      "sodium": 336,
+      "sugar": 140,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in calories",
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "milkshake junior- mango blues": {
+      "calories": 330,
+      "protein": 7,
+      "carbs": 48,
+      "fat": 12,
+      "sodium": 150,
+      "sugar": 42,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "variety pack 8": {
+      "calories": 1120,
+      "protein": 16,
+      "carbs": 128,
+      "fat": 56,
+      "sodium": 240,
+      "sugar": 96,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in calories",
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "milkshake junior- mix your own": {
+      "calories": 340,
+      "protein": 8,
+      "carbs": 44,
+      "fat": 14,
+      "sodium": 160,
+      "sugar": 40,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "golden choco sundae": {
+      "calories": 280,
+      "protein": 4,
+      "carbs": 38,
+      "fat": 12,
+      "sodium": 95,
+      "sugar": 32,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Gluten",
+        "Tree Nut",
+        "Soy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "twinpacked quart": {
+      "calories": 1820,
+      "protein": 24,
+      "carbs": 210,
+      "fat": 96,
+      "sodium": 380,
+      "sugar": 168,
+      "fiber": 4,
+      "allergens": [
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in calories",
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "variety pack 6": {
+      "calories": 840,
+      "protein": 12,
+      "carbs": 96,
+      "fat": 42,
+      "sodium": 180,
+      "sugar": 72,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in calories",
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "double junior scoops": {
+      "calories": 220,
+      "protein": 3,
+      "carbs": 26,
+      "fat": 11,
+      "sodium": 60,
+      "sugar": 21,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "hbd candle": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": []
+    },
+    "happy pinwheel (6\") cake": {
+      "calories": 1680,
+      "protein": 18,
+      "carbs": 210,
+      "fat": 78,
+      "sodium": 420,
+      "sugar": 156,
+      "fiber": 3,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in calories",
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "ohana (6\") cake": {
+      "calories": 2040,
+      "protein": 22,
+      "carbs": 260,
+      "fat": 96,
+      "sodium": 520,
+      "sugar": 198,
+      "fiber": 4,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten",
+        "Tree Nut"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in calories",
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "choco crunch shake jr.": {
+      "calories": 380,
+      "protein": 8,
+      "carbs": 52,
+      "fat": 16,
+      "sodium": 180,
+      "sugar": 44,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Gluten",
+        "Tree Nut"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "variety pack 4": {
+      "calories": 560,
+      "protein": 8,
+      "carbs": 64,
+      "fat": 28,
+      "sodium": 120,
+      "sugar": 48,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in calories",
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "twinpacked pint": {
+      "calories": 910,
+      "protein": 12,
+      "carbs": 105,
+      "fat": 48,
+      "sodium": 190,
+      "sugar": 84,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in calories",
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "double regular scoops": {
+      "calories": 360,
+      "protein": 5,
+      "carbs": 42,
+      "fat": 19,
+      "sodium": 120,
+      "sugar": 34,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "hbd headband": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": []
+    },
+    "party hat": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": []
+    },
+    "ooh chocolata! (6\") cake": {
+      "calories": 1890,
+      "protein": 20,
+      "carbs": 236,
+      "fat": 88,
+      "sodium": 480,
+      "sugar": 180,
+      "fiber": 3,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in calories",
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "noodle candle": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": []
+    },
+    "rainbow tuxedo (6\")": {
+      "calories": 2400,
+      "protein": 36,
+      "carbs": 320,
+      "fat": 108,
+      "sodium": 480,
+      "sugar": 240,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in calories",
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "scoop tuxedo (6\") cake": {
+      "calories": 2350,
+      "protein": 35,
+      "carbs": 315,
+      "fat": 105,
+      "sodium": 470,
+      "sugar": 235,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in calories",
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "scoopyland (6\") cake": {
+      "calories": 2280,
+      "protein": 34,
+      "carbs": 305,
+      "fat": 102,
+      "sodium": 450,
+      "sugar": 228,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten",
+        "Peanut"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in calories",
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "teddy's world (6\") cake": {
+      "calories": 2240,
+      "protein": 33,
+      "carbs": 300,
+      "fat": 100,
+      "sodium": 440,
+      "sugar": 220,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in calories",
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "safari (6\") cake": {
+      "calories": 1960,
+      "protein": 30,
+      "carbs": 260,
+      "fat": 88,
+      "sodium": 390,
+      "sugar": 195,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in calories",
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "your majesty (6\") cake": {
+      "calories": 2050,
+      "protein": 31,
+      "carbs": 275,
+      "fat": 92,
+      "sodium": 410,
+      "sugar": 207,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in calories",
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "l.o.v.e. (6\") cake": {
+      "calories": 1700,
+      "protein": 26,
+      "carbs": 225,
+      "fat": 76,
+      "sodium": 340,
+      "sugar": 170,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in calories",
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "unicorn dreamland 4\" cake": {
+      "calories": 940,
+      "protein": 14,
+      "carbs": 125,
+      "fat": 42,
+      "sodium": 188,
+      "sugar": 94,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten",
+        "Food coloring"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in calories",
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "cookie monsta 4\" cake": {
+      "calories": 960,
+      "protein": 14,
+      "carbs": 128,
+      "fat": 43,
+      "sodium": 192,
+      "sugar": 96,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in calories",
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "scoops of joy (6\") cake": {
+      "calories": 2010,
+      "protein": 30,
+      "carbs": 268,
+      "fat": 90,
+      "sodium": 402,
+      "sugar": 201,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in calories",
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "bear mine (4\")": {
+      "calories": 1000,
+      "protein": 15,
+      "carbs": 133,
+      "fat": 45,
+      "sodium": 200,
+      "sugar": 100,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in calories",
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "cookies n cream (6\") cake": {
+      "calories": 1820,
+      "protein": 28,
+      "carbs": 242,
+      "fat": 82,
+      "sodium": 364,
+      "sugar": 182,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in calories",
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "roti (6\") cake": {
+      "calories": 1440,
+      "protein": 22,
+      "carbs": 192,
+      "fat": 64,
+      "sodium": 288,
+      "sugar": 144,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in calories",
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "strawberry cheesecake (6\") cake": {
+      "calories": 1530,
+      "protein": 24,
+      "carbs": 204,
+      "fat": 68,
+      "sodium": 306,
+      "sugar": 153,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in calories",
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "cookie festival (9\") cake": {
+      "calories": 2890,
+      "protein": 43,
+      "carbs": 385,
+      "fat": 130,
+      "sodium": 578,
+      "sugar": 289,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in calories",
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "first snowfall (9\") cake": {
+      "calories": 3390,
+      "protein": 51,
+      "carbs": 452,
+      "fat": 152,
+      "sodium": 678,
+      "sugar": 339,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in calories",
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    }
+  }
+}

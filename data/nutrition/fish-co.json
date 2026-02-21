@@ -1,0 +1,859 @@
+{
+  "brand": "fish-co",
+  "generatedAt": "2026-02-16T14:42:26.777Z",
+  "items": {
+    "grilled peri-peri white fish": {
+      "calories": 380,
+      "protein": 42,
+      "carbs": 8,
+      "fat": 19,
+      "sodium": 720,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "Good source of protein",
+        "Low in carbs"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "coca cola (330ml can)": {
+      "calories": 139,
+      "protein": 0,
+      "carbs": 39,
+      "fat": 0,
+      "sodium": 40,
+      "sugar": 39,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "meals for 2 classic with calamari": {
+      "calories": 1800,
+      "protein": 100,
+      "carbs": 160,
+      "fat": 68,
+      "sodium": 1600,
+      "sugar": 6,
+      "fiber": 4,
+      "allergens": [
+        "Fish",
+        "Shellfish",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "High in omega-3",
+        "Good source of iodine"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Fried food"
+      ]
+    },
+    "best fish & chips": {
+      "calories": 620,
+      "protein": 48,
+      "carbs": 52,
+      "fat": 28,
+      "sodium": 1140,
+      "sugar": 3,
+      "fiber": 3,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "meal for 2 petite": {
+      "calories": 1020,
+      "protein": 68,
+      "carbs": 96,
+      "fat": 38,
+      "sodium": 1560,
+      "sugar": 16,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "seasonal vegetable (baked brocoli)": {
+      "calories": 140,
+      "protein": 8,
+      "carbs": 12,
+      "fat": 7,
+      "sodium": 380,
+      "sugar": 2,
+      "fiber": 3,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "Good source of vitamins"
+      ],
+      "healthWarnings": []
+    },
+    "punch bowl meals for 2": {
+      "calories": 1400,
+      "protein": 75,
+      "carbs": 130,
+      "fat": 52,
+      "sodium": 1300,
+      "sugar": 8,
+      "fiber": 4,
+      "allergens": [
+        "Fish",
+        "Shellfish",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "High in omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Fried food"
+      ]
+    },
+    "fish bowl": {
+      "calories": 480,
+      "protein": 38,
+      "carbs": 54,
+      "fat": 12,
+      "sodium": 640,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Moderate in calories"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "prawn fritters (6pcs)": {
+      "calories": 280,
+      "protein": 18,
+      "carbs": 22,
+      "fat": 14,
+      "sodium": 560,
+      "sugar": 8,
+      "fiber": 1,
+      "allergens": [
+        "Shellfish",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "seafood platter (1 pax)": {
+      "calories": 620,
+      "protein": 52,
+      "carbs": 38,
+      "fat": 28,
+      "sodium": 1080,
+      "sugar": 3,
+      "fiber": 3,
+      "allergens": [
+        "Fish",
+        "Shellfish",
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "shrimp & clam aglio olio": {
+      "calories": 520,
+      "protein": 32,
+      "carbs": 54,
+      "fat": 18,
+      "sodium": 880,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "best fish & chips (petite)": {
+      "calories": 380,
+      "protein": 32,
+      "carbs": 32,
+      "fat": 16,
+      "sodium": 720,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "seafood platter (2 pax)": {
+      "calories": 1180,
+      "protein": 104,
+      "carbs": 76,
+      "fat": 52,
+      "sodium": 2000,
+      "sugar": 6,
+      "fiber": 5,
+      "allergens": [
+        "Fish",
+        "Shellfish",
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "danish fish & chips": {
+      "calories": 640,
+      "protein": 46,
+      "carbs": 48,
+      "fat": 32,
+      "sodium": 1200,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "grilled peri-peri prawns": {
+      "calories": 320,
+      "protein": 38,
+      "carbs": 6,
+      "fat": 16,
+      "sodium": 680,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Low in carbs"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "crispy white baits": {
+      "calories": 240,
+      "protein": 16,
+      "carbs": 18,
+      "fat": 12,
+      "sodium": 480,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in saturated fat"
+      ]
+    },
+    "paella rice": {
+      "calories": 280,
+      "protein": 8,
+      "carbs": 42,
+      "fat": 8,
+      "sodium": 520,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Moderate in calories"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "coke zero sugar (330ml can)": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 60,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Contains artificial sweeteners"
+      ]
+    },
+    "meals for 2 petite": {
+      "calories": 1200,
+      "protein": 70,
+      "carbs": 110,
+      "fat": 45,
+      "sodium": 1100,
+      "sugar": 5,
+      "fiber": 3,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "High in omega-3",
+        "Portion controlled"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Fried food"
+      ]
+    },
+    "danish fish & chips (petite)": {
+      "calories": 520,
+      "protein": 28,
+      "carbs": 45,
+      "fat": 24,
+      "sodium": 980,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Dairy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "High in omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "chicken bowl": {
+      "calories": 680,
+      "protein": 42,
+      "carbs": 68,
+      "fat": 18,
+      "sodium": 1200,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Egg",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "chicken & mushroom cream pasta": {
+      "calories": 780,
+      "protein": 38,
+      "carbs": 72,
+      "fat": 35,
+      "sodium": 1400,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "tomato pesto seafood spaghetti": {
+      "calories": 720,
+      "protein": 42,
+      "carbs": 68,
+      "fat": 28,
+      "sodium": 1500,
+      "sugar": 8,
+      "fiber": 4,
+      "allergens": [
+        "Shellfish",
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "High in omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "punch bowl meal for 2": {
+      "calories": 1200,
+      "protein": 70,
+      "carbs": 100,
+      "fat": 38,
+      "sodium": 2000,
+      "sugar": 12,
+      "fiber": 6,
+      "allergens": [
+        "Fish",
+        "Egg",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "High in omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "fish and chip bundle for 4": {
+      "calories": 2280,
+      "protein": 110,
+      "carbs": 200,
+      "fat": 92,
+      "sodium": 3800,
+      "sugar": 8,
+      "fiber": 6,
+      "allergens": [
+        "Fish",
+        "Shellfish",
+        "Dairy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "High in omega-3"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "Very high in saturated fat"
+      ]
+    },
+    "mixed bowl": {
+      "calories": 720,
+      "protein": 50,
+      "carbs": 70,
+      "fat": 20,
+      "sodium": 1250,
+      "sugar": 5,
+      "fiber": 3,
+      "allergens": [
+        "Fish",
+        "Egg",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "High in omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "white fish with lemon butter & premium seafood side combo": {
+      "calories": 620,
+      "protein": 48,
+      "carbs": 42,
+      "fat": 28,
+      "sodium": 1350,
+      "sugar": 3,
+      "fiber": 4,
+      "allergens": [
+        "Fish",
+        "Shellfish",
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "High in omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "new york fish & chips": {
+      "calories": 640,
+      "protein": 32,
+      "carbs": 56,
+      "fat": 30,
+      "sodium": 1200,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Dairy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "High in omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "fried calamari": {
+      "calories": 380,
+      "protein": 24,
+      "carbs": 32,
+      "fat": 18,
+      "sodium": 820,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Shellfish",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "High in omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "new york fish & chips (petite)": {
+      "calories": 520,
+      "protein": 26,
+      "carbs": 45,
+      "fat": 24,
+      "sodium": 1050,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Dairy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "High in omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "rootbeer (330ml can)": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 36,
+      "fat": 0,
+      "sodium": 50,
+      "sugar": 36,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "garlic bread": {
+      "calories": 380,
+      "protein": 8,
+      "carbs": 42,
+      "fat": 20,
+      "sodium": 680,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "feasting bundle for 4": {
+      "calories": 3200,
+      "protein": 140,
+      "carbs": 280,
+      "fat": 120,
+      "sodium": 2800,
+      "sugar": 8,
+      "fiber": 8,
+      "allergens": [
+        "Fish",
+        "Shellfish",
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "High in omega-3",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "swiss fish & chips (petite)": {
+      "calories": 520,
+      "protein": 28,
+      "carbs": 45,
+      "fat": 24,
+      "sodium": 1100,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Dairy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "High in omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "swiss fish & chips": {
+      "calories": 640,
+      "protein": 32,
+      "carbs": 56,
+      "fat": 30,
+      "sodium": 1250,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Dairy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "High in omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "classic chips": {
+      "calories": 380,
+      "protein": 5,
+      "carbs": 48,
+      "fat": 18,
+      "sodium": 420,
+      "sugar": 0,
+      "fiber": 4,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of potassium",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Fried food"
+      ]
+    },
+    "grilled calamari": {
+      "calories": 280,
+      "protein": 28,
+      "carbs": 12,
+      "fat": 14,
+      "sodium": 580,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Shellfish",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of selenium",
+        "Low in carbs"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Contains saturated fat"
+      ]
+    },
+    "grilled peri peri chicken & premium side combo": {
+      "calories": 720,
+      "protein": 68,
+      "carbs": 42,
+      "fat": 28,
+      "sodium": 1200,
+      "sugar": 3,
+      "fiber": 6,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of B vitamins",
+        "Contains antioxidants from spices"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Spicy preparation"
+      ]
+    },
+    "fish & chips bundle for 4": {
+      "calories": 3400,
+      "protein": 160,
+      "carbs": 300,
+      "fat": 130,
+      "sodium": 3000,
+      "sugar": 4,
+      "fiber": 6,
+      "allergens": [
+        "Fish",
+        "Shellfish",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "High in omega-3",
+        "Good source of iodine"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories",
+        "Fried food"
+      ]
+    },
+    "mussels with garlic lemon butter sauce": {
+      "calories": 320,
+      "protein": 32,
+      "carbs": 8,
+      "fat": 18,
+      "sodium": 720,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Shellfish",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Excellent source of iron",
+        "Good source of B12",
+        "High in omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Contains saturated fat"
+      ]
+    }
+  }
+}

@@ -1,0 +1,3268 @@
+{
+  "brand": "mcdonalds-united-square",
+  "generatedAt": "2026-02-21T11:00:51.624Z",
+  "items": {
+    "mccafé iced latte (no sugar)": {
+      "calories": 120,
+      "protein": 8,
+      "carbs": 8,
+      "fat": 4,
+      "sodium": 95,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Low in sugar"
+      ],
+      "healthWarnings": []
+    },
+    "chicken mcnuggets® (4pc) happy meal®": {
+      "calories": 185,
+      "protein": 10,
+      "carbs": 12,
+      "fat": 10,
+      "sodium": 380,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "coke® zero sugar medium": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 40,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Zero calories",
+        "Zero sugar"
+      ],
+      "healthWarnings": [
+        "Contains artificial sweeteners"
+      ]
+    },
+    "buttermilk chicken mcwrap®": {
+      "calories": 420,
+      "protein": 28,
+      "carbs": 32,
+      "fat": 20,
+      "sodium": 820,
+      "sugar": 2,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains whole grain"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "fortune prosperity beef burger®": {
+      "calories": 490,
+      "protein": 28,
+      "carbs": 38,
+      "fat": 24,
+      "sodium": 950,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "fortune prosperity beef burger® special": {
+      "calories": 810,
+      "protein": 30,
+      "carbs": 85,
+      "fat": 35,
+      "sodium": 1420,
+      "sugar": 6,
+      "fiber": 5,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "Very high in saturated fat",
+        "High in calories"
+      ]
+    },
+    "prosperity twister fries™ (m)": {
+      "calories": 380,
+      "protein": 5,
+      "carbs": 48,
+      "fat": 18,
+      "sodium": 680,
+      "sugar": 2,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of fiber"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "double mcspicy® upsized meal": {
+      "calories": 890,
+      "protein": 37,
+      "carbs": 88,
+      "fat": 30,
+      "sodium": 1600,
+      "sugar": 11,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "chicken mccrispy® (1pc) signature meal *parts may vary": {
+      "calories": 650,
+      "protein": 32,
+      "carbs": 62,
+      "fat": 30,
+      "sodium": 1240,
+      "sugar": 6,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "Very high in saturated fat",
+        "High in calories"
+      ]
+    },
+    "lohei treasure box": {
+      "calories": 1680,
+      "protein": 64,
+      "carbs": 144,
+      "fat": 84,
+      "sodium": 2880,
+      "sugar": 18,
+      "fiber": 6,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Shareable option"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "Very high in saturated fat",
+        "Very high in calories"
+      ]
+    },
+    "spicy chicken tenders (5pc)": {
+      "calories": 480,
+      "protein": 32,
+      "carbs": 24,
+      "fat": 28,
+      "sodium": 920,
+      "sugar": 0,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "apple pie": {
+      "calories": 240,
+      "protein": 3,
+      "carbs": 32,
+      "fat": 11,
+      "sodium": 190,
+      "sugar": 14,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains fruit"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "curry sauce": {
+      "calories": 50,
+      "protein": 0.5,
+      "carbs": 4,
+      "fat": 3.5,
+      "sodium": 280,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "spicy chicken tenders (5pc) meal": {
+      "calories": 890,
+      "protein": 38,
+      "carbs": 98,
+      "fat": 38,
+      "sodium": 1680,
+      "sugar": 12,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "fortune prosperity beef burger® meal": {
+      "calories": 800,
+      "protein": 30,
+      "carbs": 84,
+      "fat": 36,
+      "sodium": 1410,
+      "sugar": 6,
+      "fiber": 5,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "Very high in saturated fat",
+        "High in calories"
+      ]
+    },
+    "fortune prosperity chicken burger® special": {
+      "calories": 720,
+      "protein": 32,
+      "carbs": 76,
+      "fat": 32,
+      "sodium": 1420,
+      "sugar": 8,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "chicken mccrispy® (1pc) signature upsized meal *parts may vary": {
+      "calories": 740,
+      "protein": 34,
+      "carbs": 74,
+      "fat": 33,
+      "sodium": 1380,
+      "sugar": 8,
+      "fiber": 5,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "Very high in saturated fat",
+        "High in calories"
+      ]
+    },
+    "mandarin orange hot fudge sundae": {
+      "calories": 310,
+      "protein": 5,
+      "carbs": 50,
+      "fat": 10,
+      "sodium": 150,
+      "sugar": 44,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "mccafé iced latte (with sugar syrup)": {
+      "calories": 180,
+      "protein": 8,
+      "carbs": 28,
+      "fat": 4,
+      "sodium": 95,
+      "sugar": 26,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "buttermilk chicken mcwrap® meal": {
+      "calories": 620,
+      "protein": 28,
+      "carbs": 68,
+      "fat": 24,
+      "sodium": 1240,
+      "sugar": 8,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "coke® zero sugar large": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 95,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Zero calories",
+        "Zero sugar"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Contains artificial sweeteners"
+      ]
+    },
+    "mcspicy® meal": {
+      "calories": 670,
+      "protein": 18,
+      "carbs": 88,
+      "fat": 22,
+      "sodium": 1040,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "barbeque sauce": {
+      "calories": 45,
+      "protein": 0,
+      "carbs": 11,
+      "fat": 0,
+      "sodium": 440,
+      "sugar": 10,
+      "fiber": 0,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium",
+        "High in sugar"
+      ]
+    },
+    "happy sharing box c spicy chicken tenders (5pc) + chicken mcnuggets® (6pc)": {
+      "calories": 750,
+      "protein": 36,
+      "carbs": 48,
+      "fat": 42,
+      "sodium": 1280,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "prosperity twister fries™ (l)": {
+      "calories": 450,
+      "protein": 6,
+      "carbs": 56,
+      "fat": 22,
+      "sodium": 780,
+      "sugar": 2,
+      "fiber": 5,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of fiber"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "cheeseburger happy meal®": {
+      "calories": 420,
+      "protein": 18,
+      "carbs": 42,
+      "fat": 18,
+      "sodium": 920,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Appropriate portion for children"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "honey mustard sauce": {
+      "calories": 60,
+      "protein": 0,
+      "carbs": 13,
+      "fat": 1,
+      "sodium": 340,
+      "sugar": 12,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Mustard"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium",
+        "High in sugar"
+      ]
+    },
+    "chicken mccrispy® (1pc) spicy meal *parts may vary": {
+      "calories": 550,
+      "protein": 26,
+      "carbs": 58,
+      "fat": 24,
+      "sodium": 1240,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Spicy"
+      ]
+    },
+    "prosperity beef burger® special": {
+      "calories": 820,
+      "protein": 32,
+      "carbs": 89,
+      "fat": 38,
+      "sodium": 1480,
+      "sugar": 12,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "spicy chicken tenders (5pc) upsized meal": {
+      "calories": 1020,
+      "protein": 38,
+      "carbs": 118,
+      "fat": 44,
+      "sodium": 1820,
+      "sugar": 14,
+      "fiber": 5,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "happy sharing box a chicken mcnuggets® (12pc) + mcwings® (8pc)": {
+      "calories": 1020,
+      "protein": 62,
+      "carbs": 68,
+      "fat": 48,
+      "sodium": 2040,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "Very high in saturated fat",
+        "Very high in calories"
+      ]
+    },
+    "mccafé® iced americano (no sugar)": {
+      "calories": 10,
+      "protein": 1,
+      "carbs": 1,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in calories",
+        "Low in sugar"
+      ],
+      "healthWarnings": []
+    },
+    "large french fries™": {
+      "calories": 380,
+      "protein": 5,
+      "carbs": 48,
+      "fat": 18,
+      "sodium": 620,
+      "sugar": 0,
+      "fiber": 4,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "buttermilk chicken mcwrap® upsized meal": {
+      "calories": 700,
+      "protein": 30,
+      "carbs": 82,
+      "fat": 28,
+      "sodium": 1340,
+      "sugar": 9,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables",
+        "Contains fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "double prosperity beef burger® upsized meal": {
+      "calories": 1240,
+      "protein": 37,
+      "carbs": 140,
+      "fat": 54,
+      "sodium": 1860,
+      "sugar": 26,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat",
+        "High in sugar"
+      ]
+    },
+    "fortune prosperity beef burger® upsized meal": {
+      "calories": 760,
+      "protein": 38,
+      "carbs": 80,
+      "fat": 32,
+      "sodium": 1480,
+      "sugar": 9,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "Very high in saturated fat",
+        "Very high in calories"
+      ]
+    },
+    "coke® original taste less sugar medium": {
+      "calories": 70,
+      "protein": 0,
+      "carbs": 18,
+      "fat": 0,
+      "sodium": 75,
+      "sugar": 16,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "mandarin orange strawberry sundae": {
+      "calories": 290,
+      "protein": 5,
+      "carbs": 48,
+      "fat": 9,
+      "sodium": 140,
+      "sugar": 42,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "spicy chicken tenders (3pc)": {
+      "calories": 340,
+      "protein": 23,
+      "carbs": 18,
+      "fat": 20,
+      "sodium": 920,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "prosperity chicken burger® special": {
+      "calories": 780,
+      "protein": 28,
+      "carbs": 88,
+      "fat": 36,
+      "sodium": 1420,
+      "sugar": 11,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Soy",
+        "Sesame",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "spicy chicken mcwrap®": {
+      "calories": 420,
+      "protein": 22,
+      "carbs": 38,
+      "fat": 20,
+      "sodium": 920,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "filet-o-fish® meal": {
+      "calories": 510,
+      "protein": 18,
+      "carbs": 71,
+      "fat": 20,
+      "sodium": 840,
+      "sugar": 14,
+      "fiber": 3,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Dairy",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3 fatty acids"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "happy sharing box b chicken mcnuggets® (6pc) + mcwings® (4pc)": {
+      "calories": 580,
+      "protein": 32,
+      "carbs": 28,
+      "fat": 36,
+      "sodium": 1240,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "fortune prosperity chicken burger®": {
+      "calories": 480,
+      "protein": 24,
+      "carbs": 42,
+      "fat": 22,
+      "sodium": 980,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Soy",
+        "Sesame",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "whipped butter": {
+      "calories": 100,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 11,
+      "sodium": 95,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in saturated fat"
+      ]
+    },
+    "coke® original taste less sugar large": {
+      "calories": 70,
+      "protein": 0,
+      "carbs": 18,
+      "fat": 0,
+      "sodium": 65,
+      "sugar": 16,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "mccafé® iced americano (with sugar syrup)": {
+      "calories": 70,
+      "protein": 1,
+      "carbs": 16,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 15,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "mandarin orange oreo® mcflurry®": {
+      "calories": 380,
+      "protein": 7,
+      "carbs": 54,
+      "fat": 15,
+      "sodium": 180,
+      "sugar": 46,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "chicken mccrispy® (1pc) spicy upsized meal *parts may vary": {
+      "calories": 760,
+      "protein": 28,
+      "carbs": 78,
+      "fat": 36,
+      "sodium": 1380,
+      "sugar": 9,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "double cheeseburger meal": {
+      "calories": 650,
+      "protein": 27,
+      "carbs": 62,
+      "fat": 24,
+      "sodium": 1300,
+      "sugar": 7,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "fortune prosperity chicken burger® meal": {
+      "calories": 800,
+      "protein": 28,
+      "carbs": 86,
+      "fat": 36,
+      "sodium": 1380,
+      "sugar": 11,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Soy",
+        "Sesame",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "corn": {
+      "calories": 110,
+      "protein": 3,
+      "carbs": 18,
+      "fat": 3,
+      "sodium": 380,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains antioxidants",
+        "Low in fat"
+      ],
+      "healthWarnings": []
+    },
+    "spicy chicken mcwrap® meal": {
+      "calories": 610,
+      "protein": 24,
+      "carbs": 66,
+      "fat": 28,
+      "sodium": 1180,
+      "sugar": 8,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "happy sharing snacks": {
+      "calories": 1420,
+      "protein": 56,
+      "carbs": 132,
+      "fat": 68,
+      "sodium": 2640,
+      "sugar": 48,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "Very high in saturated fat",
+        "High in sugar",
+        "Very high in calories"
+      ]
+    },
+    "sprite® medium": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 39,
+      "fat": 0,
+      "sodium": 65,
+      "sugar": 39,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in sodium"
+      ]
+    },
+    "spicy chicken tenders (3pc) meal": {
+      "calories": 620,
+      "protein": 25,
+      "carbs": 68,
+      "fat": 26,
+      "sodium": 1420,
+      "sugar": 10,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "mccafé latte": {
+      "calories": 160,
+      "protein": 9,
+      "carbs": 12,
+      "fat": 5,
+      "sodium": 110,
+      "sugar": 3,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": []
+    },
+    "hot fudge sundae": {
+      "calories": 330,
+      "protein": 6,
+      "carbs": 48,
+      "fat": 12,
+      "sodium": 180,
+      "sugar": 40,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Soy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "sprite® large": {
+      "calories": 220,
+      "protein": 0,
+      "carbs": 60,
+      "fat": 0,
+      "sodium": 100,
+      "sugar": 60,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in sodium"
+      ]
+    },
+    "happy sharing combo (3 to 4 pax)": {
+      "calories": 2420,
+      "protein": 112,
+      "carbs": 168,
+      "fat": 128,
+      "sodium": 3680,
+      "sugar": 6,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "Very high in saturated fat",
+        "Very high in calories"
+      ]
+    },
+    "fortune prosperity chicken burger® upsized meal": {
+      "calories": 890,
+      "protein": 36,
+      "carbs": 98,
+      "fat": 38,
+      "sodium": 1620,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "strawberry sundae": {
+      "calories": 320,
+      "protein": 6,
+      "carbs": 46,
+      "fat": 12,
+      "sodium": 170,
+      "sugar": 38,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "mccafé cappuccino": {
+      "calories": 140,
+      "protein": 9,
+      "carbs": 10,
+      "fat": 5,
+      "sodium": 110,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": []
+    },
+    "spicy chicken tenders (3pc) upsized meal": {
+      "calories": 1020,
+      "protein": 28,
+      "carbs": 118,
+      "fat": 45,
+      "sodium": 1680,
+      "sugar": 24,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat",
+        "High in sugar"
+      ]
+    },
+    "mcspicy® upsized meal": {
+      "calories": 800,
+      "protein": 18,
+      "carbs": 116,
+      "fat": 28,
+      "sodium": 1200,
+      "sugar": 10,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "spicy chicken mcwrap® upsized meal": {
+      "calories": 780,
+      "protein": 30,
+      "carbs": 84,
+      "fat": 34,
+      "sodium": 1420,
+      "sugar": 3,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "2x prosperity huat meal": {
+      "calories": 1680,
+      "protein": 56,
+      "carbs": 165,
+      "fat": 72,
+      "sodium": 2800,
+      "sugar": 32,
+      "fiber": 5,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "mccafé® americano": {
+      "calories": 5,
+      "protein": 1,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Very low in calories",
+        "Very low in sugar"
+      ],
+      "healthWarnings": []
+    },
+    "fuze tea iced lemon tea medium": {
+      "calories": 120,
+      "protein": 0,
+      "carbs": 30,
+      "fat": 0,
+      "sodium": 100,
+      "sugar": 28,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "oreo® mcflurry®": {
+      "calories": 380,
+      "protein": 7,
+      "carbs": 52,
+      "fat": 16,
+      "sodium": 220,
+      "sugar": 42,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "filet o fish® meal with corn and ice mountain": {
+      "calories": 450,
+      "protein": 18,
+      "carbs": 52,
+      "fat": 19,
+      "sodium": 980,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Omega-3 source"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "chicken mcnuggets® (20pc)": {
+      "calories": 880,
+      "protein": 48,
+      "carbs": 48,
+      "fat": 48,
+      "sodium": 1520,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "double prosperity beef burger®": {
+      "calories": 540,
+      "protein": 34,
+      "carbs": 42,
+      "fat": 28,
+      "sodium": 1240,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "fuze tea iced lemon tea large": {
+      "calories": 110,
+      "protein": 0,
+      "carbs": 28,
+      "fat": 0,
+      "sodium": 25,
+      "sugar": 26,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in fat",
+        "Contains antioxidants from tea"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "chicken mcnuggets® (9pc)": {
+      "calories": 420,
+      "protein": 20,
+      "carbs": 32,
+      "fat": 22,
+      "sodium": 840,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "mcchicken® meal with corn and ice mountain": {
+      "calories": 480,
+      "protein": 24,
+      "carbs": 52,
+      "fat": 18,
+      "sodium": 1040,
+      "sugar": 8,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Under 500 calories",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "double prosperity beef burger® meal": {
+      "calories": 1040,
+      "protein": 36,
+      "carbs": 110,
+      "fat": 46,
+      "sodium": 1680,
+      "sugar": 18,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "mocha frappé medium": {
+      "calories": 320,
+      "protein": 5,
+      "carbs": 48,
+      "fat": 11,
+      "sodium": 95,
+      "sugar": 42,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains caffeine"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "chicken mcnuggets® (9pc) meal": {
+      "calories": 640,
+      "protein": 22,
+      "carbs": 68,
+      "fat": 28,
+      "sodium": 1320,
+      "sugar": 10,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "fuze tea jasmine green tea medium": {
+      "calories": 75,
+      "protein": 0,
+      "carbs": 19,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 18,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in calories",
+        "Contains antioxidants from green tea"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "double chocolate frappé medium": {
+      "calories": 380,
+      "protein": 9,
+      "carbs": 54,
+      "fat": 14,
+      "sodium": 180,
+      "sugar": 48,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "prosperity beef burger®": {
+      "calories": 420,
+      "protein": 22,
+      "carbs": 36,
+      "fat": 20,
+      "sodium": 840,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Sesame",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "iced milo® medium": {
+      "calories": 210,
+      "protein": 3,
+      "carbs": 38,
+      "fat": 5,
+      "sodium": 85,
+      "sugar": 34,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "caramel frappé medium": {
+      "calories": 390,
+      "protein": 9,
+      "carbs": 56,
+      "fat": 14,
+      "sodium": 170,
+      "sugar": 50,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "prosperity beef burger® meal": {
+      "calories": 740,
+      "protein": 26,
+      "carbs": 80,
+      "fat": 32,
+      "sodium": 1520,
+      "sugar": 12,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Sesame",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "chicken mcnuggets® (6pc)": {
+      "calories": 280,
+      "protein": 17,
+      "carbs": 16,
+      "fat": 16,
+      "sodium": 520,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "prosperity beef burger® upsized meal": {
+      "calories": 1150,
+      "protein": 32,
+      "carbs": 125,
+      "fat": 52,
+      "sodium": 2100,
+      "sugar": 28,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat",
+        "High in sugar"
+      ]
+    },
+    "chicken mcnuggets® (6pc) meal": {
+      "calories": 780,
+      "protein": 18,
+      "carbs": 85,
+      "fat": 38,
+      "sodium": 1200,
+      "sugar": 14,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat",
+        "High in sugar"
+      ]
+    },
+    "double prosperity chicken burger®": {
+      "calories": 620,
+      "protein": 38,
+      "carbs": 42,
+      "fat": 32,
+      "sodium": 1240,
+      "sugar": 10,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "chicken mcnuggets® (6pc) upsized meal": {
+      "calories": 980,
+      "protein": 19,
+      "carbs": 115,
+      "fat": 48,
+      "sodium": 1480,
+      "sugar": 22,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat",
+        "High in sugar"
+      ]
+    },
+    "double prosperity chicken burger® meal": {
+      "calories": 950,
+      "protein": 40,
+      "carbs": 96,
+      "fat": 46,
+      "sodium": 1670,
+      "sugar": 34,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "mcwings® (4pc)": {
+      "calories": 240,
+      "protein": 18,
+      "carbs": 10,
+      "fat": 14,
+      "sodium": 480,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "mcwings® (4pc) meal": {
+      "calories": 740,
+      "protein": 19,
+      "carbs": 85,
+      "fat": 36,
+      "sodium": 1160,
+      "sugar": 12,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "double prosperity chicken burger® upsized meal": {
+      "calories": 1220,
+      "protein": 35,
+      "carbs": 140,
+      "fat": 52,
+      "sodium": 1800,
+      "sugar": 26,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat",
+        "High in sugar"
+      ]
+    },
+    "mcwings® (4pc) upsized meal": {
+      "calories": 1020,
+      "protein": 38,
+      "carbs": 98,
+      "fat": 48,
+      "sodium": 1580,
+      "sugar": 12,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "prosperity chicken burger®": {
+      "calories": 420,
+      "protein": 22,
+      "carbs": 38,
+      "fat": 19,
+      "sodium": 890,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "prosperity chicken burger® meal": {
+      "calories": 750,
+      "protein": 24,
+      "carbs": 88,
+      "fat": 32,
+      "sodium": 1420,
+      "sugar": 32,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "mcwings® (2pc)": {
+      "calories": 280,
+      "protein": 15,
+      "carbs": 18,
+      "fat": 15,
+      "sodium": 520,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "prosperity chicken burger® upsized meal": {
+      "calories": 890,
+      "protein": 26,
+      "carbs": 112,
+      "fat": 36,
+      "sodium": 1580,
+      "sugar": 42,
+      "fiber": 5,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "double mccrispy®": {
+      "calories": 580,
+      "protein": 32,
+      "carbs": 36,
+      "fat": 32,
+      "sodium": 1150,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "hot milo®": {
+      "calories": 200,
+      "protein": 6,
+      "carbs": 32,
+      "fat": 4,
+      "sodium": 140,
+      "sugar": 28,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "double mccrispy® meal": {
+      "calories": 910,
+      "protein": 34,
+      "carbs": 96,
+      "fat": 45,
+      "sodium": 1680,
+      "sugar": 30,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "double mccrispy® upsized meal": {
+      "calories": 1050,
+      "protein": 36,
+      "carbs": 120,
+      "fat": 50,
+      "sodium": 1860,
+      "sugar": 40,
+      "fiber": 5,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "mccafé premium roast coffee black": {
+      "calories": 5,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Very low in calories"
+      ],
+      "healthWarnings": []
+    },
+    "mccrispy®": {
+      "calories": 410,
+      "protein": 20,
+      "carbs": 32,
+      "fat": 22,
+      "sodium": 850,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "tea black": {
+      "calories": 5,
+      "protein": 0,
+      "carbs": 1,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "mccrispy® meal": {
+      "calories": 760,
+      "protein": 28,
+      "carbs": 82,
+      "fat": 32,
+      "sodium": 1120,
+      "sugar": 8,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "tea with milk": {
+      "calories": 35,
+      "protein": 1,
+      "carbs": 3,
+      "fat": 1,
+      "sodium": 25,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "mccrispy® upsized meal": {
+      "calories": 890,
+      "protein": 28,
+      "carbs": 110,
+      "fat": 38,
+      "sodium": 1280,
+      "sugar": 5,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "peach mcfizz®": {
+      "calories": 160,
+      "protein": 0,
+      "carbs": 40,
+      "fat": 0,
+      "sodium": 35,
+      "sugar": 38,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "mcspicy® with cheese": {
+      "calories": 520,
+      "protein": 26,
+      "carbs": 42,
+      "fat": 26,
+      "sodium": 1050,
+      "sugar": 7,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "low-fat, high-calcium milk": {
+      "calories": 110,
+      "protein": 8,
+      "carbs": 12,
+      "fat": 2,
+      "sodium": 130,
+      "sugar": 10,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "High in calcium",
+        "Good source of Vitamin D"
+      ],
+      "healthWarnings": []
+    },
+    "oatside chocolate flavoured oatmilk": {
+      "calories": 130,
+      "protein": 2,
+      "carbs": 21,
+      "fat": 4,
+      "sodium": 85,
+      "sugar": 9,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Dairy-free",
+        "Lower sugar"
+      ],
+      "healthWarnings": []
+    },
+    "mcspicy® with cheese meal": {
+      "calories": 800,
+      "protein": 26,
+      "carbs": 98,
+      "fat": 32,
+      "sodium": 1210,
+      "sugar": 9,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "oatside original flavoured oatmilk": {
+      "calories": 120,
+      "protein": 3,
+      "carbs": 18,
+      "fat": 4,
+      "sodium": 90,
+      "sugar": 0,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Dairy-free",
+        "No added sugar"
+      ],
+      "healthWarnings": []
+    },
+    "mcspicy® with cheese upsized meal": {
+      "calories": 930,
+      "protein": 26,
+      "carbs": 126,
+      "fat": 38,
+      "sodium": 1370,
+      "sugar": 10,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "kiyo grape juice": {
+      "calories": 100,
+      "protein": 0,
+      "carbs": 25,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 23,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in vitamins",
+        "No preservatives"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "mcspicy®": {
+      "calories": 390,
+      "protein": 18,
+      "carbs": 38,
+      "fat": 16,
+      "sodium": 880,
+      "sugar": 6,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "double mcspicy® with cheese": {
+      "calories": 650,
+      "protein": 44,
+      "carbs": 42,
+      "fat": 32,
+      "sodium": 1180,
+      "sugar": 7,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Excellent source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "double mcspicy® with cheese meal": {
+      "calories": 820,
+      "protein": 36,
+      "carbs": 78,
+      "fat": 38,
+      "sodium": 1680,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "double mcspicy® with cheese upsized meal": {
+      "calories": 950,
+      "protein": 37,
+      "carbs": 96,
+      "fat": 40,
+      "sodium": 1820,
+      "sugar": 12,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "double mcspicy®": {
+      "calories": 570,
+      "protein": 35,
+      "carbs": 42,
+      "fat": 26,
+      "sodium": 1240,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "double mcspicy® meal": {
+      "calories": 760,
+      "protein": 36,
+      "carbs": 70,
+      "fat": 28,
+      "sodium": 1460,
+      "sugar": 7,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "buttermilk crispy chicken": {
+      "calories": 580,
+      "protein": 32,
+      "carbs": 44,
+      "fat": 28,
+      "sodium": 1380,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "buttermilk crispy chicken meal": {
+      "calories": 770,
+      "protein": 33,
+      "carbs": 72,
+      "fat": 30,
+      "sodium": 1540,
+      "sugar": 10,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "buttermilk crispy chicken upsized meal": {
+      "calories": 900,
+      "protein": 34,
+      "carbs": 90,
+      "fat": 32,
+      "sodium": 1680,
+      "sugar": 14,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "triple cheeseburger": {
+      "calories": 620,
+      "protein": 38,
+      "carbs": 38,
+      "fat": 32,
+      "sodium": 1360,
+      "sugar": 4,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "triple cheeseburger meal": {
+      "calories": 810,
+      "protein": 39,
+      "carbs": 66,
+      "fat": 34,
+      "sodium": 1580,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "triple cheeseburger upsized meal": {
+      "calories": 940,
+      "protein": 40,
+      "carbs": 84,
+      "fat": 36,
+      "sodium": 1720,
+      "sugar": 12,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "double cheeseburger": {
+      "calories": 460,
+      "protein": 26,
+      "carbs": 34,
+      "fat": 22,
+      "sodium": 1080,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "double cheeseburger upsized meal": {
+      "calories": 780,
+      "protein": 28,
+      "carbs": 80,
+      "fat": 26,
+      "sodium": 1440,
+      "sugar": 11,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "big mac®": {
+      "calories": 510,
+      "protein": 27,
+      "carbs": 42,
+      "fat": 26,
+      "sodium": 1140,
+      "sugar": 7,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "big mac® meal": {
+      "calories": 700,
+      "protein": 28,
+      "carbs": 70,
+      "fat": 28,
+      "sodium": 1360,
+      "sugar": 11,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "big mac® upsized meal": {
+      "calories": 830,
+      "protein": 29,
+      "carbs": 88,
+      "fat": 30,
+      "sodium": 1500,
+      "sugar": 15,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "double quarter pounder® with cheese": {
+      "calories": 620,
+      "protein": 42,
+      "carbs": 38,
+      "fat": 32,
+      "sodium": 1420,
+      "sugar": 4,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "dbl quarter pounder® with cheese meal": {
+      "calories": 810,
+      "protein": 43,
+      "carbs": 66,
+      "fat": 34,
+      "sodium": 1640,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "dbl quarter pounder® with cheese upsized meal": {
+      "calories": 940,
+      "protein": 44,
+      "carbs": 84,
+      "fat": 36,
+      "sodium": 1780,
+      "sugar": 12,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "quarter pounder® with cheese": {
+      "calories": 520,
+      "protein": 30,
+      "carbs": 42,
+      "fat": 24,
+      "sodium": 1100,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "quarter pounder® with cheese meal": {
+      "calories": 740,
+      "protein": 32,
+      "carbs": 85,
+      "fat": 32,
+      "sodium": 1320,
+      "sugar": 18,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories",
+        "High in sugar"
+      ]
+    },
+    "quarter pounder® with cheese upsized meal": {
+      "calories": 890,
+      "protein": 33,
+      "carbs": 110,
+      "fat": 36,
+      "sodium": 1450,
+      "sugar": 24,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories",
+        "High in sugar"
+      ]
+    },
+    "smoky beef": {
+      "calories": 390,
+      "protein": 20,
+      "carbs": 38,
+      "fat": 17,
+      "sodium": 850,
+      "sugar": 6,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "smoky beef meal": {
+      "calories": 610,
+      "protein": 22,
+      "carbs": 81,
+      "fat": 25,
+      "sodium": 1070,
+      "sugar": 16,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "smoky beef upsized meal": {
+      "calories": 760,
+      "protein": 23,
+      "carbs": 106,
+      "fat": 29,
+      "sodium": 1200,
+      "sugar": 22,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories",
+        "High in sugar"
+      ]
+    },
+    "double filet-o-fish®": {
+      "calories": 440,
+      "protein": 24,
+      "carbs": 40,
+      "fat": 20,
+      "sodium": 920,
+      "sugar": 5,
+      "fiber": 1,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Dairy",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3 fatty acids"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "double filet-o-fish® meal": {
+      "calories": 660,
+      "protein": 26,
+      "carbs": 83,
+      "fat": 28,
+      "sodium": 1140,
+      "sugar": 15,
+      "fiber": 3,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Dairy",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3 fatty acids"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "double filet-o-fish® upsized meal": {
+      "calories": 810,
+      "protein": 27,
+      "carbs": 108,
+      "fat": 32,
+      "sodium": 1270,
+      "sugar": 21,
+      "fiber": 4,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Dairy",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3 fatty acids"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories",
+        "High in sugar"
+      ]
+    },
+    "filet-o-fish®": {
+      "calories": 290,
+      "protein": 16,
+      "carbs": 28,
+      "fat": 12,
+      "sodium": 620,
+      "sugar": 4,
+      "fiber": 1,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Dairy",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3 fatty acids"
+      ],
+      "healthWarnings": [
+        "Moderate sodium content"
+      ]
+    },
+    "filet-o-fish® upsized meal": {
+      "calories": 660,
+      "protein": 19,
+      "carbs": 96,
+      "fat": 24,
+      "sodium": 970,
+      "sugar": 20,
+      "fiber": 4,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Dairy",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3 fatty acids"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "mcchicken® with cheese": {
+      "calories": 400,
+      "protein": 18,
+      "carbs": 38,
+      "fat": 18,
+      "sodium": 780,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Soy",
+        "Sesame",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "mcchicken® with cheese meal": {
+      "calories": 620,
+      "protein": 20,
+      "carbs": 81,
+      "fat": 26,
+      "sodium": 1000,
+      "sugar": 15,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Soy",
+        "Sesame",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "mcchicken® with cheese upsized meal": {
+      "calories": 770,
+      "protein": 21,
+      "carbs": 106,
+      "fat": 30,
+      "sodium": 1130,
+      "sugar": 21,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Soy",
+        "Sesame",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories",
+        "High in sugar"
+      ]
+    },
+    "mcchicken®": {
+      "calories": 320,
+      "protein": 16,
+      "carbs": 32,
+      "fat": 14,
+      "sodium": 680,
+      "sugar": 4,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate saturated fat"
+      ]
+    },
+    "mcchicken® meal": {
+      "calories": 540,
+      "protein": 18,
+      "carbs": 75,
+      "fat": 22,
+      "sodium": 900,
+      "sugar": 14,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "mcchicken® upsized meal": {
+      "calories": 690,
+      "protein": 19,
+      "carbs": 100,
+      "fat": 26,
+      "sodium": 1030,
+      "sugar": 20,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "cheeseburger": {
+      "calories": 300,
+      "protein": 15,
+      "carbs": 28,
+      "fat": 13,
+      "sodium": 680,
+      "sugar": 6,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate saturated fat"
+      ]
+    },
+    "hamburger": {
+      "calories": 250,
+      "protein": 13,
+      "carbs": 27,
+      "fat": 10,
+      "sodium": 580,
+      "sugar": 5,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    }
+  }
+}

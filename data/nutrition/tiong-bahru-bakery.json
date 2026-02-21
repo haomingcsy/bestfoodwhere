@@ -1,0 +1,50 @@
+{
+  "brand": "tiong-bahru-bakery",
+  "generatedAt": "2026-02-21T12:07:42.525Z",
+  "items": {
+    "brie & roasted mushroom croissant": {
+      "calories": 380,
+      "protein": 10,
+      "carbs": 32,
+      "fat": 24,
+      "sodium": 520,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains mushrooms with antioxidants"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in calories",
+        "Contains dairy"
+      ]
+    },
+    "kouign amann": {
+      "calories": 420,
+      "protein": 6,
+      "carbs": 48,
+      "fat": 22,
+      "sodium": 280,
+      "sugar": 18,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    }
+  }
+}

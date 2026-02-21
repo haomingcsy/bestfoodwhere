@@ -1,0 +1,1279 @@
+{
+  "brand": "brauhaus-restaurant-pub",
+  "generatedAt": "2026-02-16T13:54:55.787Z",
+  "items": {
+    "signature beehoon": {
+      "calories": 520,
+      "protein": 14,
+      "carbs": 62,
+      "fat": 22,
+      "sodium": 1200,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "goulash soup": {
+      "calories": 380,
+      "protein": 24,
+      "carbs": 28,
+      "fat": 18,
+      "sodium": 1400,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Rich in iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "chicken chop": {
+      "calories": 650,
+      "protein": 42,
+      "carbs": 35,
+      "fat": 32,
+      "sodium": 1100,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in saturated fat"
+      ]
+    },
+    "chicken wing": {
+      "calories": 720,
+      "protein": 48,
+      "carbs": 22,
+      "fat": 44,
+      "sodium": 1300,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "brussel sprouts": {
+      "calories": 420,
+      "protein": 12,
+      "carbs": 32,
+      "fat": 26,
+      "sodium": 680,
+      "sugar": 6,
+      "fiber": 6,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "High in vitamin C",
+        "Good source of antioxidants"
+      ],
+      "healthWarnings": [
+        "High in fat"
+      ]
+    },
+    "fish & chips": {
+      "calories": 680,
+      "protein": 38,
+      "carbs": 52,
+      "fat": 32,
+      "sodium": 1250,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "High in omega-3"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "sausage platter": {
+      "calories": 850,
+      "protein": 56,
+      "carbs": 28,
+      "fat": 52,
+      "sodium": 1800,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "artevelde grand cru 7.3% - belgium": {
+      "calories": 220,
+      "protein": 0,
+      "carbs": 8,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Alcoholic beverage",
+        "Contains sugar"
+      ]
+    },
+    "garlic bread": {
+      "calories": 280,
+      "protein": 8,
+      "carbs": 32,
+      "fat": 14,
+      "sodium": 560,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in fat"
+      ]
+    },
+    "goulash": {
+      "calories": 480,
+      "protein": 36,
+      "carbs": 32,
+      "fat": 22,
+      "sodium": 1350,
+      "sugar": 8,
+      "fiber": 3,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "ikan bilis fried rice": {
+      "calories": 540,
+      "protein": 16,
+      "carbs": 58,
+      "fat": 24,
+      "sodium": 1400,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of carbohydrates",
+        "High in calcium"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "german potato salad": {
+      "calories": 220,
+      "protein": 6,
+      "carbs": 28,
+      "fat": 9,
+      "sodium": 450,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains vitamin C"
+      ],
+      "healthWarnings": []
+    },
+    "oxtail stew": {
+      "calories": 520,
+      "protein": 42,
+      "carbs": 26,
+      "fat": 24,
+      "sodium": 1200,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "Good source of collagen"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "roasted potato with bacon & cheese": {
+      "calories": 480,
+      "protein": 20,
+      "carbs": 38,
+      "fat": 26,
+      "sodium": 1100,
+      "sugar": 2,
+      "fiber": 3,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vitamin C"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "pretzel": {
+      "calories": 320,
+      "protein": 10,
+      "carbs": 48,
+      "fat": 8,
+      "sodium": 720,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "quilmes 4.9% -argentina": {
+      "calories": 180,
+      "protein": 0,
+      "carbs": 6,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Alcoholic beverage"
+      ]
+    },
+    "troprical green salad": {
+      "calories": 180,
+      "protein": 6,
+      "carbs": 18,
+      "fat": 8,
+      "sodium": 380,
+      "sugar": 8,
+      "fiber": 4,
+      "allergens": [],
+      "healthBenefits": [
+        "High in fiber",
+        "Good source of vitamins",
+        "Low in calories"
+      ],
+      "healthWarnings": []
+    },
+    "sauerkraut": {
+      "calories": 60,
+      "protein": 3,
+      "carbs": 8,
+      "fat": 2,
+      "sodium": 920,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "High in probiotics",
+        "Low in calories",
+        "Good source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "ham fried rice": {
+      "calories": 580,
+      "protein": 18,
+      "carbs": 62,
+      "fat": 26,
+      "sodium": 1450,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of carbohydrates",
+        "Contains protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "roasted poussin": {
+      "calories": 720,
+      "protein": 58,
+      "carbs": 2,
+      "fat": 52,
+      "sodium": 680,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of B vitamins",
+        "Rich in selenium"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in saturated fat"
+      ]
+    },
+    "prawn aglio olio": {
+      "calories": 520,
+      "protein": 28,
+      "carbs": 62,
+      "fat": 14,
+      "sodium": 1200,
+      "sugar": 2,
+      "fiber": 3,
+      "allergens": [
+        "Shellfish",
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of selenium"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in saturated fat"
+      ]
+    },
+    "vegetarian springroll": {
+      "calories": 280,
+      "protein": 8,
+      "carbs": 32,
+      "fat": 12,
+      "sodium": 680,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Contains vegetables",
+        "Source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Deep fried"
+      ]
+    },
+    "sausages & sauerkraut soup": {
+      "calories": 380,
+      "protein": 22,
+      "carbs": 28,
+      "fat": 20,
+      "sodium": 1400,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains probiotics from sauerkraut"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "muenchner weisswurst": {
+      "calories": 420,
+      "protein": 26,
+      "carbs": 4,
+      "fat": 32,
+      "sodium": 1100,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Source of B vitamins"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in saturated fat",
+        "Processed meat"
+      ]
+    },
+    "meatballs": {
+      "calories": 480,
+      "protein": 32,
+      "carbs": 22,
+      "fat": 28,
+      "sodium": 1300,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "roasted sausage with bacon & cheese": {
+      "calories": 520,
+      "protein": 32,
+      "carbs": 8,
+      "fat": 40,
+      "sodium": 1350,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "Very high in saturated fat",
+        "Processed meat"
+      ]
+    },
+    "roasted wiener with potato & mayo": {
+      "calories": 580,
+      "protein": 24,
+      "carbs": 48,
+      "fat": 32,
+      "sodium": 1200,
+      "sugar": 3,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of potassium",
+        "Source of vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "fresh mushroom soup": {
+      "calories": 240,
+      "protein": 10,
+      "carbs": 20,
+      "fat": 14,
+      "sodium": 900,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Good source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in saturated fat"
+      ]
+    },
+    "sotong ball": {
+      "calories": 320,
+      "protein": 18,
+      "carbs": 28,
+      "fat": 14,
+      "sodium": 720,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Shellfish",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Source of selenium"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Deep fried"
+      ]
+    },
+    "emmentaler cheese sausage": {
+      "calories": 480,
+      "protein": 28,
+      "carbs": 6,
+      "fat": 36,
+      "sodium": 1250,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of calcium"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "Very high in saturated fat",
+        "Processed meat"
+      ]
+    },
+    "chicken schnitzel": {
+      "calories": 620,
+      "protein": 48,
+      "carbs": 32,
+      "fat": 28,
+      "sodium": 1100,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Very high in protein",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Breaded and fried",
+        "Moderate in saturated fat"
+      ]
+    },
+    "floris apple 3.6% - belgium": {
+      "calories": 180,
+      "protein": 0,
+      "carbs": 8,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 5,
+      "fiber": 0,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Contains alcohol",
+        "High in sugar"
+      ]
+    },
+    "neapolitan spaghetti": {
+      "calories": 540,
+      "protein": 24,
+      "carbs": 68,
+      "fat": 16,
+      "sodium": 1180,
+      "sugar": 6,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of carbohydrates",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in saturated fat"
+      ]
+    },
+    "crocodile schnitzel": {
+      "calories": 680,
+      "protein": 54,
+      "carbs": 28,
+      "fat": 32,
+      "sodium": 1150,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Very high in protein",
+        "Lean protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Breaded and fried"
+      ]
+    },
+    "mala fried rice": {
+      "calories": 480,
+      "protein": 16,
+      "carbs": 56,
+      "fat": 18,
+      "sodium": 1400,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Sesame",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of carbohydrates",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in spice content"
+      ]
+    },
+    "pork schnitzel": {
+      "calories": 640,
+      "protein": 46,
+      "carbs": 32,
+      "fat": 32,
+      "sodium": 1120,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Very high in protein",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Breaded and fried",
+        "High in saturated fat"
+      ]
+    },
+    "st idesbald blond 6.5% - belgium": {
+      "calories": 240,
+      "protein": 2,
+      "carbs": 12,
+      "fat": 0,
+      "sodium": 30,
+      "sugar": 6,
+      "fiber": 0,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Contains alcohol",
+        "Higher alcohol content",
+        "High in sugar"
+      ]
+    },
+    "truffle fries": {
+      "calories": 420,
+      "protein": 6,
+      "carbs": 48,
+      "fat": 22,
+      "sodium": 580,
+      "sugar": 2,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of potassium",
+        "Contains fiber"
+      ],
+      "healthWarnings": [
+        "Deep fried",
+        "High in saturated fat"
+      ]
+    },
+    "pork garlic sausage": {
+      "calories": 460,
+      "protein": 26,
+      "carbs": 4,
+      "fat": 36,
+      "sodium": 1200,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Source of B vitamins"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "Very high in saturated fat",
+        "Processed meat"
+      ]
+    },
+    "roasted german pork knuckle - small": {
+      "calories": 720,
+      "protein": 52,
+      "carbs": 12,
+      "fat": 48,
+      "sodium": 1400,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Very high in protein",
+        "Good source of collagen"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "Very high in saturated fat",
+        "High in calories"
+      ]
+    },
+    "st idesbald tripel 9% - belgium": {
+      "calories": 280,
+      "protein": 2,
+      "carbs": 18,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 5,
+      "fiber": 0,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in alcohol",
+        "High in sugar"
+      ]
+    },
+    "german potato": {
+      "calories": 380,
+      "protein": 6,
+      "carbs": 45,
+      "fat": 18,
+      "sodium": 650,
+      "sugar": 2,
+      "fiber": 4,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of carbohydrates",
+        "Contains potassium"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "roasted german pork knuckle - half": {
+      "calories": 720,
+      "protein": 62,
+      "carbs": 0,
+      "fat": 52,
+      "sodium": 980,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein",
+        "High in iron"
+      ],
+      "healthWarnings": [
+        "Very high in saturated fat",
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "veal sausage": {
+      "calories": 420,
+      "protein": 28,
+      "carbs": 2,
+      "fat": 34,
+      "sodium": 850,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "grilled cuttlefish": {
+      "calories": 180,
+      "protein": 28,
+      "carbs": 4,
+      "fat": 5,
+      "sodium": 520,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Low in fat",
+        "Good source of selenium"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "meatloaf steak": {
+      "calories": 580,
+      "protein": 48,
+      "carbs": 8,
+      "fat": 40,
+      "sodium": 1100,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "High in iron"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "lapinkulta 5.2% - finland": {
+      "calories": 155,
+      "protein": 1,
+      "carbs": 10,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 3,
+      "fiber": 0,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in alcohol"
+      ]
+    },
+    "spam fries": {
+      "calories": 420,
+      "protein": 14,
+      "carbs": 32,
+      "fat": 28,
+      "sodium": 1200,
+      "sugar": 0,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "smoked spicy sausage": {
+      "calories": 410,
+      "protein": 26,
+      "carbs": 2,
+      "fat": 33,
+      "sodium": 920,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "akosombo 5.5% - ghana": {
+      "calories": 165,
+      "protein": 1,
+      "carbs": 11,
+      "fat": 0,
+      "sodium": 12,
+      "sugar": 4,
+      "fiber": 0,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in alcohol"
+      ]
+    },
+    "pork bockwurst": {
+      "calories": 440,
+      "protein": 30,
+      "carbs": 1,
+      "fat": 36,
+      "sodium": 880,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "tempura battered calamari": {
+      "calories": 380,
+      "protein": 20,
+      "carbs": 28,
+      "fat": 22,
+      "sodium": 680,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Shellfish",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "aventinus esibock 12% - germany": {
+      "calories": 340,
+      "protein": 2,
+      "carbs": 24,
+      "fat": 0,
+      "sodium": 18,
+      "sugar": 8,
+      "fiber": 0,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Very high in alcohol",
+        "High in sugar"
+      ]
+    },
+    "onion rings": {
+      "calories": 280,
+      "protein": 4,
+      "carbs": 32,
+      "fat": 14,
+      "sodium": 420,
+      "sugar": 1,
+      "fiber": 2,
+      "allergens": [
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains some fiber"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in saturated fat"
+      ]
+    },
+    "pork bratwurst": {
+      "calories": 450,
+      "protein": 31,
+      "carbs": 1,
+      "fat": 37,
+      "sodium": 900,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "mythos 4.7% - greece": {
+      "calories": 150,
+      "protein": 1,
+      "carbs": 9,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 3,
+      "fiber": 0,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in alcohol"
+      ]
+    },
+    "chicken chipolatas": {
+      "calories": 320,
+      "protein": 26,
+      "carbs": 2,
+      "fat": 24,
+      "sodium": 720,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Lower in fat than pork sausages"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "red stripe 4.7% - jamaica": {
+      "calories": 150,
+      "protein": 1,
+      "carbs": 9,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 3,
+      "fiber": 0,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in alcohol"
+      ]
+    },
+    "pork chipolatas": {
+      "calories": 310,
+      "protein": 22,
+      "carbs": 2,
+      "fat": 24,
+      "sodium": 680,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "windhoek lager 4% - nambia": {
+      "calories": 135,
+      "protein": 1,
+      "carbs": 8,
+      "fat": 0,
+      "sodium": 8,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in alcohol"
+      ]
+    },
+    "pal 5% - nigeria": {
+      "calories": 148,
+      "protein": 1.2,
+      "carbs": 10.5,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 3.2,
+      "fiber": 0,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in alcohol",
+        "High in empty calories"
+      ]
+    },
+    "estrella 4.8% - spain": {
+      "calories": 142,
+      "protein": 1.1,
+      "carbs": 10.2,
+      "fat": 0,
+      "sodium": 12,
+      "sugar": 2.8,
+      "fiber": 0,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in alcohol",
+        "High in empty calories"
+      ]
+    },
+    "polar 5.0% - venezuela": {
+      "calories": 150,
+      "protein": 1.2,
+      "carbs": 10.8,
+      "fat": 0,
+      "sodium": 14,
+      "sugar": 3,
+      "fiber": 0,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in alcohol",
+        "High in empty calories"
+      ]
+    },
+    "hobgoblin  england": {
+      "calories": 210,
+      "protein": 1.8,
+      "carbs": 15.5,
+      "fat": 0,
+      "sodium": 18,
+      "sugar": 4.2,
+      "fiber": 0,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in alcohol",
+        "High in empty calories",
+        "High in sugar"
+      ]
+    }
+  }
+}

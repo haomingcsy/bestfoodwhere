@@ -1,0 +1,28 @@
+{
+  "brand": "dough-culture-tampines-mall",
+  "generatedAt": "2026-02-16T14:30:24.577Z",
+  "items": {
+    "banana balls": {
+      "calories": 280,
+      "protein": 2,
+      "carbs": 35,
+      "fat": 14,
+      "sodium": 180,
+      "sugar": 20,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Source of potassium from banana"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories for portion size"
+      ]
+    }
+  }
+}

@@ -1,0 +1,2249 @@
+{
+  "brand": "burger-king-suntec-city",
+  "generatedAt": "2026-02-21T10:35:24.755Z",
+  "items": {
+    "french fries (m)": {
+      "calories": 320,
+      "protein": 4,
+      "carbs": 42,
+      "fat": 15,
+      "sodium": 246,
+      "sugar": 0,
+      "fiber": 4,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "double bbq turkey bacon meal": {
+      "calories": 920,
+      "protein": 48,
+      "carbs": 75,
+      "fat": 42,
+      "sodium": 1620,
+      "sugar": 12,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Sesame",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "double ultimate angus mushroom swiss": {
+      "calories": 1080,
+      "protein": 64,
+      "carbs": 78,
+      "fat": 58,
+      "sodium": 1880,
+      "sugar": 12,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "coca-cola® original taste (m)": {
+      "calories": 220,
+      "protein": 0,
+      "carbs": 60,
+      "fat": 0,
+      "sodium": 45,
+      "sugar": 59,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "snack o'clock (u.p. $36.35)": {
+      "calories": 1680,
+      "protein": 68,
+      "carbs": 138,
+      "fat": 84,
+      "sodium": 2920,
+      "sugar": 4,
+      "fiber": 6,
+      "allergens": [
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "mushroom swiss plant based whopper": {
+      "calories": 560,
+      "protein": 22,
+      "carbs": 68,
+      "fat": 26,
+      "sodium": 1240,
+      "sugar": 8,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Sesame",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Plant-based",
+        "Lower in saturated fat than beef"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "king jr. cheeseburger": {
+      "calories": 340,
+      "protein": 18,
+      "carbs": 32,
+      "fat": 16,
+      "sodium": 720,
+      "sugar": 6,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "black pepper double beef": {
+      "calories": 780,
+      "protein": 48,
+      "carbs": 56,
+      "fat": 42,
+      "sodium": 1640,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "double mushroom swiss meal": {
+      "calories": 820,
+      "protein": 48,
+      "carbs": 65,
+      "fat": 42,
+      "sodium": 1480,
+      "sugar": 8,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Sesame",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "double western whopper": {
+      "calories": 950,
+      "protein": 52,
+      "carbs": 68,
+      "fat": 54,
+      "sodium": 1840,
+      "sugar": 14,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Sesame",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "this chick on fire (u.p. $27.85)": {
+      "calories": 1480,
+      "protein": 48,
+      "carbs": 152,
+      "fat": 68,
+      "sodium": 2180,
+      "sugar": 62,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Sesame",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat",
+        "High in sugar"
+      ]
+    },
+    "double spicy chicken king with cheese": {
+      "calories": 620,
+      "protein": 38,
+      "carbs": 52,
+      "fat": 32,
+      "sodium": 1480,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Sesame",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "coca-cola® zero (m)": {
+      "calories": 4,
+      "protein": 0,
+      "carbs": 1,
+      "fat": 0,
+      "sodium": 45,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Zero sugar"
+      ],
+      "healthWarnings": [
+        "Artificial sweeteners"
+      ]
+    },
+    "double spicy chicken king with cheese meal": {
+      "calories": 1020,
+      "protein": 42,
+      "carbs": 102,
+      "fat": 48,
+      "sodium": 1840,
+      "sugar": 16,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Sesame",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "mushroom swiss plant based whopper meal": {
+      "calories": 960,
+      "protein": 26,
+      "carbs": 118,
+      "fat": 42,
+      "sodium": 1480,
+      "sugar": 18,
+      "fiber": 7,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Sesame",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Plant-based",
+        "Higher in fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "double western whopper meal": {
+      "calories": 1350,
+      "protein": 56,
+      "carbs": 118,
+      "fat": 70,
+      "sodium": 2200,
+      "sugar": 24,
+      "fiber": 5,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Sesame",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "french fries (l)": {
+      "calories": 420,
+      "protein": 5,
+      "carbs": 54,
+      "fat": 20,
+      "sodium": 320,
+      "sugar": 0,
+      "fiber": 5,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "king jr. nuggets (4 pcs)": {
+      "calories": 180,
+      "protein": 12,
+      "carbs": 14,
+      "fat": 9,
+      "sodium": 420,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Sesame",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "whopper for 2 (u.p. $58.60)": {
+      "calories": 2240,
+      "protein": 92,
+      "carbs": 224,
+      "fat": 112,
+      "sodium": 3920,
+      "sugar": 48,
+      "fiber": 8,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Sesame",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "chick-a-feast (u.p. $56.05)": {
+      "calories": 2180,
+      "protein": 88,
+      "carbs": 216,
+      "fat": 106,
+      "sodium": 3680,
+      "sugar": 52,
+      "fiber": 7,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Sesame",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "black pepper double beef upsize meal": {
+      "calories": 1050,
+      "protein": 52,
+      "carbs": 92,
+      "fat": 48,
+      "sodium": 1920,
+      "sugar": 18,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Sesame",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "double ultimate angus mushroom swiss meal": {
+      "calories": 1050,
+      "protein": 58,
+      "carbs": 82,
+      "fat": 52,
+      "sodium": 1680,
+      "sugar": 14,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Very high in calories"
+      ]
+    },
+    "spicy chicken king": {
+      "calories": 520,
+      "protein": 28,
+      "carbs": 42,
+      "fat": 24,
+      "sodium": 980,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Sesame",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "king jr. fish burger": {
+      "calories": 380,
+      "protein": 16,
+      "carbs": 38,
+      "fat": 16,
+      "sodium": 720,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Sesame",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "whopper meal": {
+      "calories": 980,
+      "protein": 32,
+      "carbs": 98,
+      "fat": 48,
+      "sodium": 1520,
+      "sugar": 12,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Sesame",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "feast for trio (u.p. $72.40)": {
+      "calories": 2180,
+      "protein": 92,
+      "carbs": 248,
+      "fat": 88,
+      "sodium": 3520,
+      "sugar": 62,
+      "fiber": 8,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Dairy",
+        "Sesame",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories",
+        "High in sugar"
+      ]
+    },
+    "black pepper spicy chicken king": {
+      "calories": 550,
+      "protein": 30,
+      "carbs": 44,
+      "fat": 26,
+      "sodium": 1120,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Sesame",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "ultimate angus mushroom swiss meal": {
+      "calories": 880,
+      "protein": 52,
+      "carbs": 58,
+      "fat": 44,
+      "sodium": 1420,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Sesame",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "all-in-five feast (u.p. $91.65)": {
+      "calories": 2520,
+      "protein": 108,
+      "carbs": 268,
+      "fat": 102,
+      "sodium": 4080,
+      "sugar": 68,
+      "fiber": 9,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Dairy",
+        "Sesame",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories",
+        "High in sugar"
+      ]
+    },
+    "onion rings (m)": {
+      "calories": 380,
+      "protein": 4,
+      "carbs": 42,
+      "fat": 20,
+      "sodium": 520,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "western whopper": {
+      "calories": 680,
+      "protein": 38,
+      "carbs": 42,
+      "fat": 38,
+      "sodium": 1480,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Sesame",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "double plant-based whopper w/ cheese": {
+      "calories": 720,
+      "protein": 32,
+      "carbs": 62,
+      "fat": 36,
+      "sodium": 1320,
+      "sugar": 5,
+      "fiber": 5,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Sesame",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "sprite® (m)": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 36,
+      "fat": 0,
+      "sodium": 65,
+      "sugar": 36,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "mushroom swiss tendergrill chicken meal": {
+      "calories": 750,
+      "protein": 44,
+      "carbs": 78,
+      "fat": 28,
+      "sodium": 1240,
+      "sugar": 14,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Grilled preparation"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in saturated fat"
+      ]
+    },
+    "royal family lunch feast": {
+      "calories": 1420,
+      "protein": 68,
+      "carbs": 148,
+      "fat": 54,
+      "sodium": 2480,
+      "sugar": 32,
+      "fiber": 6,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Dairy",
+        "Sesame",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "western whopper meal": {
+      "calories": 1020,
+      "protein": 44,
+      "carbs": 86,
+      "fat": 48,
+      "sodium": 1880,
+      "sugar": 16,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Sesame",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "spicy chicken king meal": {
+      "calories": 850,
+      "protein": 34,
+      "carbs": 82,
+      "fat": 40,
+      "sodium": 1420,
+      "sugar": 14,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Sesame",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories",
+        "Spicy"
+      ]
+    },
+    "fuze tea™ ice lemon tea (m)": {
+      "calories": 110,
+      "protein": 0,
+      "carbs": 28,
+      "fat": 0,
+      "sodium": 40,
+      "sugar": 26,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "onion rings (l)": {
+      "calories": 520,
+      "protein": 6,
+      "carbs": 58,
+      "fat": 28,
+      "sodium": 720,
+      "sugar": 3,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "ultimate angus classic bbq": {
+      "calories": 650,
+      "protein": 38,
+      "carbs": 48,
+      "fat": 35,
+      "sodium": 1280,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Sesame",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "double plant-based whopper w/ cheese meal": {
+      "calories": 950,
+      "protein": 32,
+      "carbs": 92,
+      "fat": 48,
+      "sodium": 1420,
+      "sugar": 18,
+      "fiber": 5,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Sesame",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Plant-based protein",
+        "Contains fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories",
+        "High in sugar"
+      ]
+    },
+    "black pepper spicy chicken king upsize meal": {
+      "calories": 920,
+      "protein": 36,
+      "carbs": 88,
+      "fat": 44,
+      "sodium": 1580,
+      "sugar": 16,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Sesame",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories",
+        "Spicy"
+      ]
+    },
+    "mushroom swiss tendergrill chicken": {
+      "calories": 480,
+      "protein": 42,
+      "carbs": 38,
+      "fat": 20,
+      "sodium": 1040,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Grilled preparation"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in saturated fat"
+      ]
+    },
+    "fuze tea™ jasmine green tea (m)": {
+      "calories": 45,
+      "protein": 0,
+      "carbs": 11,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 9,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains antioxidants",
+        "Low in sodium"
+      ],
+      "healthWarnings": [
+        "Contains sugar"
+      ]
+    },
+    "cheesy fries (reg)": {
+      "calories": 420,
+      "protein": 8,
+      "carbs": 42,
+      "fat": 24,
+      "sodium": 880,
+      "sugar": 0,
+      "fiber": 3,
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "ultimate angus classic bbq meal": {
+      "calories": 900,
+      "protein": 40,
+      "carbs": 88,
+      "fat": 40,
+      "sodium": 1480,
+      "sugar": 16,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Sesame",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories",
+        "High in sugar"
+      ]
+    },
+    "double whopper with cheese": {
+      "calories": 750,
+      "protein": 42,
+      "carbs": 48,
+      "fat": 42,
+      "sodium": 1320,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Sesame",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "plant-based whopper w/ cheese": {
+      "calories": 580,
+      "protein": 24,
+      "carbs": 48,
+      "fat": 32,
+      "sodium": 1160,
+      "sugar": 8,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Sesame",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Plant-based protein",
+        "Contains fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Moderate in calories"
+      ]
+    },
+    "sweet potato cream cheese pie": {
+      "calories": 280,
+      "protein": 4,
+      "carbs": 38,
+      "fat": 12,
+      "sodium": 240,
+      "sugar": 22,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains sweet potato",
+        "Moderate portion"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "mac & cheese bites (5pcs)": {
+      "calories": 320,
+      "protein": 10,
+      "carbs": 32,
+      "fat": 16,
+      "sodium": 620,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains protein"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "Moderate in sodium"
+      ]
+    },
+    "double whopper with cheese meal": {
+      "calories": 1050,
+      "protein": 44,
+      "carbs": 92,
+      "fat": 48,
+      "sodium": 1520,
+      "sugar": 18,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Sesame",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Very high in calories",
+        "High in sugar"
+      ]
+    },
+    "minute maid refresh® orange (m)": {
+      "calories": 85,
+      "protein": 1,
+      "carbs": 21,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 19,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains vitamin C",
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "ultimate angus mushroom swiss": {
+      "calories": 580,
+      "protein": 36,
+      "carbs": 46,
+      "fat": 30,
+      "sodium": 1180,
+      "sugar": 7,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Moderate in calories"
+      ]
+    },
+    "cheesy fries (l)": {
+      "calories": 560,
+      "protein": 10,
+      "carbs": 56,
+      "fat": 32,
+      "sodium": 1120,
+      "sugar": 0,
+      "fiber": 4,
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "plant-based whopper w/ cheese meal": {
+      "calories": 880,
+      "protein": 26,
+      "carbs": 92,
+      "fat": 40,
+      "sodium": 1360,
+      "sugar": 18,
+      "fiber": 5,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Sesame",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Plant-based protein",
+        "Contains fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories",
+        "High in sugar"
+      ]
+    },
+    "ultimate chicken king": {
+      "calories": 620,
+      "protein": 40,
+      "carbs": 46,
+      "fat": 32,
+      "sodium": 1340,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Sesame",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Moderate in calories"
+      ]
+    },
+    "chocolate peanut butter cake": {
+      "calories": 380,
+      "protein": 8,
+      "carbs": 42,
+      "fat": 20,
+      "sodium": 280,
+      "sugar": 32,
+      "fiber": 2,
+      "allergens": [
+        "Peanut",
+        "Tree Nut",
+        "Dairy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "whopper with cheese": {
+      "calories": 570,
+      "protein": 32,
+      "carbs": 45,
+      "fat": 30,
+      "sodium": 1080,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Sesame",
+        "Dairy",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "salad cup with turkey ham": {
+      "calories": 120,
+      "protein": 12,
+      "carbs": 8,
+      "fat": 4,
+      "sodium": 520,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Low in calories",
+        "Good source of protein",
+        "Good source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "double plant-based whopper": {
+      "calories": 620,
+      "protein": 28,
+      "carbs": 48,
+      "fat": 34,
+      "sodium": 1140,
+      "sugar": 9,
+      "fiber": 4,
+      "allergens": [
+        "Sesame",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Good source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "hershey's® sundae pie": {
+      "calories": 380,
+      "protein": 5,
+      "carbs": 42,
+      "fat": 20,
+      "sodium": 120,
+      "sugar": 32,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Tree Nut"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "iced milo® (s)": {
+      "calories": 180,
+      "protein": 4,
+      "carbs": 28,
+      "fat": 6,
+      "sodium": 110,
+      "sugar": 24,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "tendergrill chicken": {
+      "calories": 420,
+      "protein": 35,
+      "carbs": 38,
+      "fat": 14,
+      "sodium": 840,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Sesame",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "tendergrill chicken meal": {
+      "calories": 680,
+      "protein": 38,
+      "carbs": 72,
+      "fat": 18,
+      "sodium": 1040,
+      "sugar": 12,
+      "fiber": 3,
+      "allergens": [
+        "Sesame",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in carbs"
+      ]
+    },
+    "ultimate chicken king meal": {
+      "calories": 820,
+      "protein": 42,
+      "carbs": 68,
+      "fat": 38,
+      "sodium": 1480,
+      "sugar": 12,
+      "fiber": 3,
+      "allergens": [
+        "Dairy",
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "double fish burger meal": {
+      "calories": 920,
+      "protein": 36,
+      "carbs": 92,
+      "fat": 42,
+      "sodium": 1520,
+      "sugar": 10,
+      "fiber": 3,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Sesame",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "mexican drumlets (5pcs) w/ black pepper dip": {
+      "calories": 380,
+      "protein": 28,
+      "carbs": 22,
+      "fat": 20,
+      "sodium": 680,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "whopper with cheese meal": {
+      "calories": 830,
+      "protein": 35,
+      "carbs": 79,
+      "fat": 34,
+      "sodium": 1280,
+      "sugar": 14,
+      "fiber": 3,
+      "allergens": [
+        "Sesame",
+        "Dairy",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "double plant-based whopper meal": {
+      "calories": 880,
+      "protein": 31,
+      "carbs": 82,
+      "fat": 38,
+      "sodium": 1340,
+      "sugar": 15,
+      "fiber": 5,
+      "allergens": [
+        "Sesame",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Good source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "mexican drumlets 5pcs": {
+      "calories": 380,
+      "protein": 28,
+      "carbs": 22,
+      "fat": 20,
+      "sodium": 680,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "double fish": {
+      "calories": 480,
+      "protein": 28,
+      "carbs": 38,
+      "fat": 22,
+      "sodium": 920,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Sesame",
+        "Gluten",
+        "Soy",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Source of omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "plant-based whopper": {
+      "calories": 450,
+      "protein": 22,
+      "carbs": 44,
+      "fat": 22,
+      "sodium": 1000,
+      "sugar": 8,
+      "fiber": 3,
+      "allergens": [
+        "Sesame",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Good source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "sjora lychee berry (s)": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 35,
+      "fat": 0,
+      "sodium": 40,
+      "sugar": 32,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "bk nuggets (6pcs) w/ black pepper dip": {
+      "calories": 340,
+      "protein": 24,
+      "carbs": 18,
+      "fat": 18,
+      "sodium": 620,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in saturated fat"
+      ]
+    },
+    "double whopper": {
+      "calories": 640,
+      "protein": 38,
+      "carbs": 45,
+      "fat": 36,
+      "sodium": 1120,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Sesame",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "mexican drumlets 12pcs": {
+      "calories": 480,
+      "protein": 32,
+      "carbs": 18,
+      "fat": 32,
+      "sodium": 920,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "plant-based whopper meal": {
+      "calories": 820,
+      "protein": 24,
+      "carbs": 98,
+      "fat": 36,
+      "sodium": 1450,
+      "sugar": 12,
+      "fiber": 6,
+      "allergens": [
+        "Gluten",
+        "Sesame",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Plant-based protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "double whopper meal": {
+      "calories": 1050,
+      "protein": 42,
+      "carbs": 98,
+      "fat": 52,
+      "sodium": 1680,
+      "sugar": 14,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Sesame",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "4-in-1 snack box": {
+      "calories": 650,
+      "protein": 24,
+      "carbs": 72,
+      "fat": 28,
+      "sodium": 1200,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Sesame",
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "bk nuggets (22pcs)": {
+      "calories": 780,
+      "protein": 42,
+      "carbs": 56,
+      "fat": 38,
+      "sodium": 1680,
+      "sugar": 4,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Sesame",
+        "Dairy",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "sjora® lychee berry (m)": {
+      "calories": 120,
+      "protein": 0,
+      "carbs": 30,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 28,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "No artificial flavors"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "bk nuggets (9pcs)": {
+      "calories": 320,
+      "protein": 18,
+      "carbs": 24,
+      "fat": 16,
+      "sodium": 680,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Sesame",
+        "Dairy",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "taro turnover (1pcs)": {
+      "calories": 280,
+      "protein": 3,
+      "carbs": 36,
+      "fat": 14,
+      "sodium": 280,
+      "sugar": 12,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "sjora® mango peach (s)": {
+      "calories": 80,
+      "protein": 0,
+      "carbs": 20,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 18,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "No artificial flavors"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "whopper": {
+      "calories": 540,
+      "protein": 28,
+      "carbs": 42,
+      "fat": 28,
+      "sodium": 980,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Sesame",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "mulberry sundae": {
+      "calories": 220,
+      "protein": 3,
+      "carbs": 28,
+      "fat": 11,
+      "sodium": 50,
+      "sugar": 24,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "bk nuggets (9pcs) meal": {
+      "calories": 720,
+      "protein": 22,
+      "carbs": 82,
+      "fat": 32,
+      "sodium": 1200,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Sesame",
+        "Dairy",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "mulberry sprite drink": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 35,
+      "fat": 0,
+      "sodium": 40,
+      "sugar": 34,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "sjora® mango peach (m)": {
+      "calories": 120,
+      "protein": 0,
+      "carbs": 30,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 28,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "No artificial flavors"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "cheese sauce": {
+      "calories": 120,
+      "protein": 4,
+      "carbs": 6,
+      "fat": 9,
+      "sodium": 680,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "bk nuggets (6pcs)": {
+      "calories": 210,
+      "protein": 12,
+      "carbs": 16,
+      "fat": 11,
+      "sodium": 450,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Sesame",
+        "Dairy",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "double mushroom swiss": {
+      "calories": 580,
+      "protein": 36,
+      "carbs": 40,
+      "fat": 32,
+      "sodium": 1120,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Sesame",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "black pepper dip tub": {
+      "calories": 180,
+      "protein": 2,
+      "carbs": 8,
+      "fat": 16,
+      "sodium": 480,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "brewed coffee": {
+      "calories": 5,
+      "protein": 1,
+      "carbs": 1,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "bbq sauce": {
+      "calories": 60,
+      "protein": 0,
+      "carbs": 14,
+      "fat": 0,
+      "sodium": 520,
+      "sugar": 12,
+      "fiber": 0,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium",
+        "High in sugar"
+      ]
+    },
+    "black pepper combo for 1 (u.p. $25.60)": {
+      "calories": 1050,
+      "protein": 52,
+      "carbs": 95,
+      "fat": 48,
+      "sodium": 2100,
+      "sugar": 18,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Sesame",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "bk nuggets (6pcs) meal": {
+      "calories": 750,
+      "protein": 32,
+      "carbs": 75,
+      "fat": 34,
+      "sodium": 1650,
+      "sugar": 12,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Sesame",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "hot tea": {
+      "calories": 2,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "americano": {
+      "calories": 8,
+      "protein": 1,
+      "carbs": 1,
+      "fat": 0,
+      "sodium": 8,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "curry sauce": {
+      "calories": 70,
+      "protein": 0,
+      "carbs": 12,
+      "fat": 2,
+      "sodium": 380,
+      "sugar": 6,
+      "fiber": 0,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium",
+        "High in sugar"
+      ]
+    },
+    "black pepper combo for 2 (u.p. $42.10)": {
+      "calories": 1920,
+      "protein": 98,
+      "carbs": 168,
+      "fat": 88,
+      "sodium": 3900,
+      "sugar": 32,
+      "fiber": 8,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Sesame",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "double bbq turkey bacon": {
+      "calories": 650,
+      "protein": 44,
+      "carbs": 42,
+      "fat": 36,
+      "sodium": 1380,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Sesame",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "bbq long chicken blt": {
+      "calories": 580,
+      "protein": 32,
+      "carbs": 52,
+      "fat": 26,
+      "sodium": 1240,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Sesame",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "bbq long chicken blt meal": {
+      "calories": 850,
+      "protein": 36,
+      "carbs": 85,
+      "fat": 32,
+      "sodium": 1580,
+      "sugar": 14,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Sesame",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "dasani® bottled water (m)": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Zero calorie",
+        "Hydrating"
+      ],
+      "healthWarnings": []
+    },
+    "long chicken": {
+      "calories": 420,
+      "protein": 28,
+      "carbs": 42,
+      "fat": 16,
+      "sodium": 840,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Sesame",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "long chicken meal": {
+      "calories": 690,
+      "protein": 32,
+      "carbs": 75,
+      "fat": 22,
+      "sodium": 1180,
+      "sugar": 10,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Sesame",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories"
+      ]
+    }
+  }
+}

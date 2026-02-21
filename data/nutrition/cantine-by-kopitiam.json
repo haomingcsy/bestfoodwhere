@@ -1,0 +1,221 @@
+{
+  "brand": "cantine-by-kopitiam",
+  "generatedAt": "2026-02-16T14:02:13.506Z",
+  "items": {
+    "hot kopi-o / teh-c": {
+      "calories": 15,
+      "protein": 0,
+      "carbs": 2,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "kaya toast with soft-boiled eggs": {
+      "calories": 380,
+      "protein": 14,
+      "carbs": 35,
+      "fat": 19,
+      "sodium": 520,
+      "sugar": 12,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains choline"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium",
+        "High in sugar"
+      ]
+    },
+    "laksa": {
+      "calories": 520,
+      "protein": 18,
+      "carbs": 48,
+      "fat": 26,
+      "sodium": 1280,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Fish",
+        "Shellfish",
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains fiber",
+        "Rich in spices with anti-inflammatory properties"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "$10 gift voucher": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": []
+    },
+    "kaya toast": {
+      "calories": 280,
+      "protein": 6,
+      "carbs": 32,
+      "fat": 14,
+      "sodium": 380,
+      "sugar": 11,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Source of carbohydrates for energy"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium",
+        "High in sugar"
+      ]
+    },
+    "bun set": {
+      "calories": 340,
+      "protein": 8,
+      "carbs": 52,
+      "fat": 10,
+      "sodium": 480,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of carbohydrates",
+        "Contains some fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in sugar",
+        "Contains saturated fat"
+      ]
+    },
+    "satay": {
+      "calories": 220,
+      "protein": 16,
+      "carbs": 12,
+      "fat": 13,
+      "sodium": 650,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Peanut",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of healthy fats"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Contains common allergens"
+      ]
+    },
+    "hokkien mee": {
+      "calories": 580,
+      "protein": 20,
+      "carbs": 52,
+      "fat": 29,
+      "sodium": 1420,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Shellfish",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "char kway teow": {
+      "calories": 560,
+      "protein": 16,
+      "carbs": 58,
+      "fat": 26,
+      "sodium": 1380,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Shellfish",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "bak chor mee": {
+      "calories": 480,
+      "protein": 18,
+      "carbs": 52,
+      "fat": 20,
+      "sodium": 1250,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables and herbs"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in saturated fat"
+      ]
+    }
+  }
+}

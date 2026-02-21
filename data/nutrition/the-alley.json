@@ -1,0 +1,1844 @@
+{
+  "brand": "the-alley",
+  "generatedAt": "2026-02-21T12:01:49.936Z",
+  "items": {
+    "mango yogurt (m)": {
+      "calories": 280,
+      "protein": 12,
+      "carbs": 42,
+      "fat": 4,
+      "sodium": 85,
+      "sugar": 32,
+      "fiber": 2,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains probiotics",
+        "Rich in vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "popcorn chicken": {
+      "calories": 420,
+      "protein": 22,
+      "carbs": 35,
+      "fat": 21,
+      "sodium": 680,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "chrysanthemum tea (l)": {
+      "calories": 5,
+      "protein": 0,
+      "carbs": 1,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Very low calorie",
+        "Natural antioxidants",
+        "Calming properties"
+      ],
+      "healthWarnings": []
+    },
+    "black tea macchiato (m)": {
+      "calories": 120,
+      "protein": 4,
+      "carbs": 12,
+      "fat": 5,
+      "sodium": 95,
+      "sugar": 8,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "Moderate caffeine content"
+      ]
+    },
+    "chrysanthemum milk tea (hot, 10oz)": {
+      "calories": 180,
+      "protein": 5,
+      "carbs": 28,
+      "fat": 4,
+      "sodium": 120,
+      "sugar": 22,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Calming floral notes"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Moderate caffeine content"
+      ]
+    },
+    "original waffle + royal no.9 milk tea (m, cold)": {
+      "calories": 520,
+      "protein": 10,
+      "carbs": 72,
+      "fat": 19,
+      "sodium": 480,
+      "sugar": 48,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in calories",
+        "High in sodium"
+      ]
+    },
+    "honey green tea (hot, 10oz)": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 35,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 32,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Natural honey benefits"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Moderate caffeine content"
+      ]
+    },
+    "dreamy fresh milk": {
+      "calories": 150,
+      "protein": 8,
+      "carbs": 12,
+      "fat": 8,
+      "sodium": 120,
+      "sugar": 10,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Good source of calcium"
+      ],
+      "healthWarnings": []
+    },
+    "sweet strawberry deal": {
+      "calories": 240,
+      "protein": 1,
+      "carbs": 58,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 52,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains vitamin C",
+        "Low fat"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High calories from sugar"
+      ]
+    },
+    "tangy orange green tea": {
+      "calories": 180,
+      "protein": 0,
+      "carbs": 42,
+      "fat": 0,
+      "sodium": 25,
+      "sugar": 38,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Rich in vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Moderate caffeine content"
+      ]
+    },
+    "croffles (4pcs)": {
+      "calories": 680,
+      "protein": 8,
+      "carbs": 78,
+      "fat": 36,
+      "sodium": 420,
+      "sugar": 48,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Very high in sugar",
+        "Very high in calories",
+        "High in saturated fat"
+      ]
+    },
+    "the alley reindeer plushie deer papa": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": []
+    },
+    "black coffee cold": {
+      "calories": 5,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Very low calorie",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High caffeine content"
+      ]
+    },
+    "cappuccino": {
+      "calories": 140,
+      "protein": 5,
+      "carbs": 10,
+      "fat": 6,
+      "sodium": 100,
+      "sugar": 7,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "Moderate caffeine content"
+      ]
+    },
+    "passionfruit green tea (m)": {
+      "calories": 120,
+      "protein": 0,
+      "carbs": 28,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 0,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Zero-calorie sweetener",
+        "Contains antioxidants",
+        "Low sugar"
+      ],
+      "healthWarnings": [
+        "Contains artificial sweetener",
+        "Moderate caffeine content"
+      ]
+    },
+    "party box for 5": {
+      "calories": 850,
+      "protein": 15,
+      "carbs": 185,
+      "fat": 8,
+      "sodium": 280,
+      "sugar": 155,
+      "fiber": 5,
+      "allergens": [
+        "Dairy",
+        "Tapioca (if applicable)"
+      ],
+      "healthBenefits": [
+        "Serves 5 people"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High calorie content total"
+      ]
+    },
+    "brown sugar deerioca fresh milk": {
+      "calories": 320,
+      "protein": 6,
+      "carbs": 52,
+      "fat": 5,
+      "sodium": 100,
+      "sugar": 46,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "brown sugar deerioca crème brulee milk (l)": {
+      "calories": 480,
+      "protein": 10,
+      "carbs": 62,
+      "fat": 18,
+      "sodium": 180,
+      "sugar": 55,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Tapioca"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in calories",
+        "High in saturated fat"
+      ]
+    },
+    "chicken strips": {
+      "calories": 420,
+      "protein": 24,
+      "carbs": 32,
+      "fat": 21,
+      "sodium": 720,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "royal no. 9 milk tea (m)": {
+      "calories": 165,
+      "protein": 1,
+      "carbs": 36,
+      "fat": 4,
+      "sodium": 85,
+      "sugar": 33,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains blueberry"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains non-dairy creamer"
+      ]
+    },
+    "passionfruit green tea (l)": {
+      "calories": 45,
+      "protein": 0,
+      "carbs": 11,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "chrysanthemum tea (m)": {
+      "calories": 5,
+      "protein": 0,
+      "carbs": 1,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Calming properties"
+      ],
+      "healthWarnings": []
+    },
+    "strawberry dreams nail sticker": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": []
+    },
+    "flat white": {
+      "calories": 120,
+      "protein": 4,
+      "carbs": 6,
+      "fat": 7,
+      "sodium": 50,
+      "sugar": 5,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of calcium"
+      ],
+      "healthWarnings": [
+        "Contains caffeine"
+      ]
+    },
+    "tangy orange green tea with orange cream macchiato": {
+      "calories": 180,
+      "protein": 3,
+      "carbs": 32,
+      "fat": 4,
+      "sodium": 80,
+      "sugar": 28,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "black tea macchiato (l)": {
+      "calories": 140,
+      "protein": 3,
+      "carbs": 12,
+      "fat": 6,
+      "sodium": 200,
+      "sugar": 10,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Contains caffeine"
+      ]
+    },
+    "chrysanthemum milk tea l": {
+      "calories": 170,
+      "protein": 4,
+      "carbs": 28,
+      "fat": 3,
+      "sodium": 90,
+      "sugar": 24,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "the alley blue ombre/silver tumbler (500ml)": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": []
+    },
+    "original waffle": {
+      "calories": 240,
+      "protein": 3,
+      "carbs": 32,
+      "fat": 11,
+      "sodium": 280,
+      "sugar": 8,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "honey green tea (l)": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 35,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 33,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "peach oolong purple rice yogurt (m)": {
+      "calories": 240,
+      "protein": 8,
+      "carbs": 42,
+      "fat": 4,
+      "sodium": 85,
+      "sugar": 32,
+      "fiber": 2,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains probiotics"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "berry blush milkshake": {
+      "calories": 210,
+      "protein": 5,
+      "carbs": 34,
+      "fat": 6,
+      "sodium": 110,
+      "sugar": 28,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "pink salt macchiato coffee hot": {
+      "calories": 130,
+      "protein": 3,
+      "carbs": 8,
+      "fat": 7,
+      "sodium": 150,
+      "sugar": 6,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium",
+        "Contains caffeine"
+      ]
+    },
+    "belgian waffle": {
+      "calories": 380,
+      "protein": 4,
+      "carbs": 52,
+      "fat": 17,
+      "sodium": 320,
+      "sugar": 24,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium",
+        "High in sugar",
+        "High in fat"
+      ]
+    },
+    "original purple rice yogurt": {
+      "calories": 180,
+      "protein": 8,
+      "carbs": 28,
+      "fat": 3,
+      "sodium": 75,
+      "sugar": 20,
+      "fiber": 2,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains probiotics"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "the alley eco cup (500ml)": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": []
+    },
+    "honey green tea (m)": {
+      "calories": 110,
+      "protein": 0,
+      "carbs": 28,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 26,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "black coffee hot": {
+      "calories": 5,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "Contains caffeine"
+      ]
+    },
+    "original waffle + royal no.9 milk tea (8oz, hot)": {
+      "calories": 420,
+      "protein": 5,
+      "carbs": 64,
+      "fat": 13,
+      "sodium": 350,
+      "sugar": 42,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium",
+        "High in sugar",
+        "High in fat"
+      ]
+    },
+    "brown sugar deerioca crème brulee milk (m)": {
+      "calories": 320,
+      "protein": 4,
+      "carbs": 52,
+      "fat": 9,
+      "sodium": 120,
+      "sugar": 45,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "chrysanthemum tea (hot, 10oz)": {
+      "calories": 5,
+      "protein": 0,
+      "carbs": 1,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Antioxidants",
+        "Caffeine-free"
+      ],
+      "healthWarnings": []
+    },
+    "chicken drumlets": {
+      "calories": 380,
+      "protein": 28,
+      "carbs": 12,
+      "fat": 25,
+      "sodium": 620,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "latte": {
+      "calories": 180,
+      "protein": 8,
+      "carbs": 14,
+      "fat": 7,
+      "sodium": 120,
+      "sugar": 12,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of calcium",
+        "Source of protein"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "lychee green tea (m)": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 35,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 32,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Antioxidants from green tea"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "chrysanthemum milk tea m": {
+      "calories": 160,
+      "protein": 4,
+      "carbs": 28,
+      "fat": 3,
+      "sodium": 85,
+      "sugar": 24,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Antioxidants",
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "royal no. 9 milk tea (l)": {
+      "calories": 205,
+      "protein": 1,
+      "carbs": 45,
+      "fat": 5,
+      "sodium": 95,
+      "sugar": 41,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains blueberry"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains non-dairy creamer"
+      ]
+    },
+    "jasmine green tea macchiato (m)": {
+      "calories": 120,
+      "protein": 3,
+      "carbs": 18,
+      "fat": 3,
+      "sodium": 180,
+      "sugar": 14,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Antioxidants",
+        "Low calorie"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "brown sugar milkshake": {
+      "calories": 240,
+      "protein": 4,
+      "carbs": 42,
+      "fat": 5,
+      "sodium": 100,
+      "sugar": 38,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "americano": {
+      "calories": 10,
+      "protein": 1,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Very low calorie",
+        "Caffeine boost"
+      ],
+      "healthWarnings": []
+    },
+    "honey milk tea - hot": {
+      "calories": 200,
+      "protein": 4,
+      "carbs": 38,
+      "fat": 3,
+      "sodium": 90,
+      "sugar": 34,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Antioxidants",
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "white coffee hot": {
+      "calories": 160,
+      "protein": 5,
+      "carbs": 18,
+      "fat": 6,
+      "sodium": 110,
+      "sugar": 14,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of protein"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "honey classic black tea (l)": {
+      "calories": 180,
+      "protein": 0,
+      "carbs": 44,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 40,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "snow strawberry lulu (m)": {
+      "calories": 280,
+      "protein": 2,
+      "carbs": 62,
+      "fat": 2,
+      "sodium": 85,
+      "sugar": 56,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Antioxidants",
+        "Vitamin C from strawberry"
+      ],
+      "healthWarnings": [
+        "Very high in sugar"
+      ]
+    },
+    "summer orange juice": {
+      "calories": 110,
+      "protein": 1,
+      "carbs": 26,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 22,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Vitamin C",
+        "Natural fruit juice"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "brown sugar deerioca fresh milk (l)": {
+      "calories": 380,
+      "protein": 5,
+      "carbs": 62,
+      "fat": 10,
+      "sodium": 140,
+      "sugar": 54,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in calories"
+      ]
+    },
+    "strawberry yogurt": {
+      "calories": 240,
+      "protein": 8,
+      "carbs": 42,
+      "fat": 4,
+      "sodium": 95,
+      "sugar": 38,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Probiotics",
+        "Source of protein",
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "lychee green tea (l)": {
+      "calories": 200,
+      "protein": 0,
+      "carbs": 50,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 46,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Antioxidants"
+      ],
+      "healthWarnings": [
+        "Very high in sugar"
+      ]
+    },
+    "classic black tea (m)": {
+      "calories": 5,
+      "protein": 0,
+      "carbs": 1,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Antioxidants",
+        "Caffeine boost"
+      ],
+      "healthWarnings": []
+    },
+    "jasmine green tea macchiato (l)": {
+      "calories": 160,
+      "protein": 4,
+      "carbs": 24,
+      "fat": 4,
+      "sodium": 200,
+      "sugar": 18,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "classic black tea (l)": {
+      "calories": 5,
+      "protein": 0,
+      "carbs": 1,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains antioxidants",
+        "Caffeine boost"
+      ],
+      "healthWarnings": []
+    },
+    "snow strawberry lulu (l)": {
+      "calories": 280,
+      "protein": 2,
+      "carbs": 68,
+      "fat": 1,
+      "sodium": 120,
+      "sugar": 62,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains vitamin C",
+        "Antioxidant rich"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "lychee yogurt": {
+      "calories": 220,
+      "protein": 6,
+      "carbs": 42,
+      "fat": 3,
+      "sodium": 90,
+      "sugar": 38,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains probiotics",
+        "Calcium rich"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "royal no.9 tea macchiato (m)": {
+      "calories": 140,
+      "protein": 4,
+      "carbs": 18,
+      "fat": 5,
+      "sodium": 280,
+      "sugar": 14,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Caffeine boost"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "white peach oolong milk tea (m)": {
+      "calories": 200,
+      "protein": 1,
+      "carbs": 48,
+      "fat": 2,
+      "sodium": 100,
+      "sugar": 44,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Light and refreshing"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "strawberry green tea (m)": {
+      "calories": 120,
+      "protein": 1,
+      "carbs": 28,
+      "fat": 0,
+      "sodium": 80,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Low sugar",
+        "Contains antioxidants",
+        "Vitamin C source"
+      ],
+      "healthWarnings": []
+    },
+    "choco velvet milkshake": {
+      "calories": 280,
+      "protein": 5,
+      "carbs": 50,
+      "fat": 7,
+      "sodium": 150,
+      "sugar": 42,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in fat"
+      ]
+    },
+    "pink salt macchiato coffee cold": {
+      "calories": 150,
+      "protein": 4,
+      "carbs": 16,
+      "fat": 6,
+      "sodium": 320,
+      "sugar": 12,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Caffeine boost",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "honey green milk tea (m)": {
+      "calories": 210,
+      "protein": 1,
+      "carbs": 51,
+      "fat": 2,
+      "sodium": 95,
+      "sugar": 47,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Floral and aromatic"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "white peach oolong milk tea (l)": {
+      "calories": 260,
+      "protein": 1,
+      "carbs": 62,
+      "fat": 3,
+      "sodium": 120,
+      "sugar": 56,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Light and refreshing"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "orange sunrise milkshake": {
+      "calories": 260,
+      "protein": 4,
+      "carbs": 56,
+      "fat": 3,
+      "sodium": 140,
+      "sugar": 48,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Vitamin C rich",
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "honey green milk tea (l)": {
+      "calories": 270,
+      "protein": 1,
+      "carbs": 66,
+      "fat": 3,
+      "sodium": 110,
+      "sugar": 60,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Floral and aromatic"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "royal no.9 tea macchiato (l)": {
+      "calories": 180,
+      "protein": 5,
+      "carbs": 24,
+      "fat": 7,
+      "sodium": 360,
+      "sugar": 18,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Caffeine boost"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "strawberry green tea (l)": {
+      "calories": 160,
+      "protein": 1,
+      "carbs": 38,
+      "fat": 0,
+      "sodium": 100,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Low sugar",
+        "Contains antioxidants",
+        "Vitamin C source"
+      ],
+      "healthWarnings": []
+    },
+    "white coffee cold": {
+      "calories": 180,
+      "protein": 4,
+      "carbs": 20,
+      "fat": 8,
+      "sodium": 110,
+      "sugar": 16,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Caffeine boost",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "royal no.9 black tea (m)": {
+      "calories": 60,
+      "protein": 0,
+      "carbs": 14,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 12,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Caffeine boost"
+      ],
+      "healthWarnings": []
+    },
+    "original purple rice yoghurt": {
+      "calories": 240,
+      "protein": 7,
+      "carbs": 46,
+      "fat": 3,
+      "sodium": 95,
+      "sugar": 40,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains probiotics",
+        "Chewy texture appeal"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "mango green tea (m)": {
+      "calories": 180,
+      "protein": 1,
+      "carbs": 44,
+      "fat": 0,
+      "sodium": 85,
+      "sugar": 40,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Vitamin C rich",
+        "Contains antioxidants",
+        "Tropical flavor"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "honey green milk tea - hot": {
+      "calories": 220,
+      "protein": 1,
+      "carbs": 53,
+      "fat": 2,
+      "sodium": 100,
+      "sugar": 48,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Warm and comforting"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "white peach oolong macchiato (m)": {
+      "calories": 160,
+      "protein": 4,
+      "carbs": 22,
+      "fat": 5,
+      "sodium": 140,
+      "sugar": 18,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Fruity and creamy blend"
+      ],
+      "healthWarnings": []
+    },
+    "royal no.9 black tea (l)": {
+      "calories": 120,
+      "protein": 0,
+      "carbs": 30,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 28,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Antioxidants from black tea",
+        "Contains polyphenols"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "white peach oolong milk tea- hot": {
+      "calories": 180,
+      "protein": 1,
+      "carbs": 35,
+      "fat": 4,
+      "sodium": 85,
+      "sugar": 32,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains oolong tea antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains non-dairy creamer"
+      ]
+    },
+    "honey classic milk tea (l)": {
+      "calories": 220,
+      "protein": 1,
+      "carbs": 48,
+      "fat": 4,
+      "sodium": 90,
+      "sugar": 45,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains honey"
+      ],
+      "healthWarnings": [
+        "Very high in sugar"
+      ]
+    },
+    "jasmine green tea (m)": {
+      "calories": 80,
+      "protein": 0,
+      "carbs": 18,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 16,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Rich in antioxidants",
+        "Low calorie"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "white peach oolong macchiato (l)": {
+      "calories": 210,
+      "protein": 1,
+      "carbs": 42,
+      "fat": 5,
+      "sodium": 100,
+      "sugar": 38,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains oolong tea"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains non-dairy creamer"
+      ]
+    },
+    "mango green tea (l)": {
+      "calories": 240,
+      "protein": 1,
+      "carbs": 55,
+      "fat": 0.5,
+      "sodium": 20,
+      "sugar": 50,
+      "fiber": 1,
+      "allergens": [
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Contains green tea antioxidants",
+        "Fruit content"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High carbohydrate content"
+      ]
+    },
+    "classic milk tea (m)": {
+      "calories": 150,
+      "protein": 1,
+      "carbs": 32,
+      "fat": 4,
+      "sodium": 80,
+      "sugar": 29,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains non-dairy creamer"
+      ]
+    },
+    "honey classic milk tea (m)": {
+      "calories": 170,
+      "protein": 1,
+      "carbs": 38,
+      "fat": 4,
+      "sodium": 85,
+      "sugar": 35,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains honey"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "classic milk tea (l)": {
+      "calories": 190,
+      "protein": 1,
+      "carbs": 40,
+      "fat": 5,
+      "sodium": 95,
+      "sugar": 37,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains non-dairy creamer"
+      ]
+    },
+    "jasmine green tea (l)": {
+      "calories": 110,
+      "protein": 0,
+      "carbs": 25,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 23,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Rich in antioxidants",
+        "Low calorie"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "white peach oolong tea (m)": {
+      "calories": 130,
+      "protein": 0,
+      "carbs": 32,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 30,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains oolong tea antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "honey chrysanthemum tea (hot,10oz)": {
+      "calories": 95,
+      "protein": 0,
+      "carbs": 23,
+      "fat": 0,
+      "sodium": 8,
+      "sugar": 21,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Soothing properties",
+        "Contains chrysanthemum"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "classic milk tea (m) - hot": {
+      "calories": 155,
+      "protein": 1,
+      "carbs": 33,
+      "fat": 4,
+      "sodium": 82,
+      "sugar": 30,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains non-dairy creamer"
+      ]
+    },
+    "honey classic black tea (m)": {
+      "calories": 130,
+      "protein": 0,
+      "carbs": 32,
+      "fat": 0,
+      "sodium": 8,
+      "sugar": 30,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains honey",
+        "Black tea antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "white peach oolong tea (l)": {
+      "calories": 165,
+      "protein": 0,
+      "carbs": 40,
+      "fat": 0,
+      "sodium": 12,
+      "sugar": 38,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains oolong tea antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "classic black tea (m) - hot": {
+      "calories": 105,
+      "protein": 0,
+      "carbs": 24,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 22,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Black tea antioxidants",
+        "Bold flavor"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "honey chrysanthemum tea l": {
+      "calories": 130,
+      "protein": 0,
+      "carbs": 32,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 30,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Soothing properties",
+        "Contains chrysanthemum"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "honey chrysanthemum tea m": {
+      "calories": 105,
+      "protein": 0,
+      "carbs": 26,
+      "fat": 0,
+      "sodium": 8,
+      "sugar": 24,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Soothing properties",
+        "Contains chrysanthemum"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "royal no. 9 milk tea (m) - hot": {
+      "calories": 240,
+      "protein": 0,
+      "carbs": 38,
+      "fat": 8,
+      "sodium": 95,
+      "sugar": 34,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants from black tea"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in added fat from non-dairy creamer"
+      ]
+    },
+    "royal no.9 black tea (m) - hot": {
+      "calories": 180,
+      "protein": 0,
+      "carbs": 32,
+      "fat": 0,
+      "sodium": 80,
+      "sugar": 28,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants from black tea",
+        "Low fat"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "jasmine green tea (m) - hot": {
+      "calories": 25,
+      "protein": 0,
+      "carbs": 4,
+      "fat": 0,
+      "sodium": 75,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in antioxidants",
+        "Low calorie",
+        "Contains L-theanine for relaxation"
+      ],
+      "healthWarnings": []
+    },
+    "jasmine green milk tea (m)": {
+      "calories": 180,
+      "protein": 0,
+      "carbs": 28,
+      "fat": 7,
+      "sodium": 85,
+      "sugar": 24,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants from green tea"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in added fat from non-dairy creamer"
+      ]
+    },
+    "jasmine green milk tea (l)": {
+      "calories": 260,
+      "protein": 0,
+      "carbs": 42,
+      "fat": 10,
+      "sodium": 120,
+      "sugar": 36,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants from green tea"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in added fat from non-dairy creamer"
+      ]
+    },
+    "peach oolong tea (m) - hot": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 28,
+      "fat": 0,
+      "sodium": 85,
+      "sugar": 24,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants from oolong tea",
+        "Low fat"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "jasmine green milk tea (m) - hot": {
+      "calories": 180,
+      "protein": 0,
+      "carbs": 28,
+      "fat": 7,
+      "sodium": 85,
+      "sugar": 24,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants from green tea"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in added fat from non-dairy creamer"
+      ]
+    }
+  }
+}

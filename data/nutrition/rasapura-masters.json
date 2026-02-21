@@ -1,0 +1,830 @@
+{
+  "brand": "rasapura-masters",
+  "generatedAt": "2026-02-21T11:23:56.583Z",
+  "items": {
+    "rasaputra assorted biscuits": {
+      "calories": 180,
+      "protein": 2.5,
+      "carbs": 22,
+      "fat": 9,
+      "sodium": 220,
+      "sugar": 8,
+      "fiber": 0.5,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Sesame"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "homemade barley 自制薏米水": {
+      "calories": 45,
+      "protein": 0.5,
+      "carbs": 11,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 6,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains barley nutrients"
+      ],
+      "healthWarnings": []
+    },
+    "soft boiled eggs 半生熟蛋": {
+      "calories": 140,
+      "protein": 12,
+      "carbs": 1,
+      "fat": 10,
+      "sodium": 140,
+      "sugar": 0.5,
+      "fiber": 0,
+      "allergens": [
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains choline",
+        "Good source of selenium"
+      ],
+      "healthWarnings": [
+        "Moderate cholesterol content"
+      ]
+    },
+    "coffee o 咖啡乌": {
+      "calories": 35,
+      "protein": 0.5,
+      "carbs": 3,
+      "fat": 2,
+      "sodium": 50,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "Contains caffeine"
+      ]
+    },
+    "iced green tea sour plum 梅子绿茶冰": {
+      "calories": 60,
+      "protein": 0,
+      "carbs": 15,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 13,
+      "fiber": 0.5,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains green tea antioxidants",
+        "Low fat"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains caffeine"
+      ]
+    },
+    "ufc coconut water 罐装椰子汁": {
+      "calories": 45,
+      "protein": 0.5,
+      "carbs": 10,
+      "fat": 0.5,
+      "sodium": 250,
+      "sugar": 8,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Natural electrolytes",
+        "Hydrating",
+        "Low calorie"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Contains natural sugars"
+      ]
+    },
+    "honey lemon 蜂蜜柠檬": {
+      "calories": 80,
+      "protein": 0,
+      "carbs": 20,
+      "fat": 0,
+      "sodium": 25,
+      "sugar": 18,
+      "fiber": 0.5,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains vitamin C",
+        "Natural ingredients"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "minute maid pulpy orange 罐装橙汁": {
+      "calories": 110,
+      "protein": 1,
+      "carbs": 26,
+      "fat": 0.5,
+      "sodium": 15,
+      "sugar": 23,
+      "fiber": 0.5,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains vitamin C",
+        "Source of folate"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Acidic content"
+      ]
+    },
+    "ginseng chrysanthemum tea bottled 洋参菊花茶": {
+      "calories": 25,
+      "protein": 0,
+      "carbs": 5,
+      "fat": 0,
+      "sodium": 30,
+      "sugar": 3,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains ginseng",
+        "Herbal benefits",
+        "Low calorie"
+      ],
+      "healthWarnings": []
+    },
+    "kaya butter traditional toast 传统咖椰牛油土司": {
+      "calories": 220,
+      "protein": 4,
+      "carbs": 22,
+      "fat": 13,
+      "sodium": 280,
+      "sugar": 5,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "tea o 茶乌": {
+      "calories": 30,
+      "protein": 0.5,
+      "carbs": 2,
+      "fat": 1.5,
+      "sodium": 50,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains tea antioxidants"
+      ],
+      "healthWarnings": [
+        "Contains caffeine"
+      ]
+    },
+    "red bull energy drink 红牛能量饮料": {
+      "calories": 110,
+      "protein": 0,
+      "carbs": 27,
+      "fat": 0,
+      "sodium": 200,
+      "sugar": 27,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in caffeine",
+        "High in sodium"
+      ]
+    },
+    "homemade iced lemon tea 自制柠檬茶": {
+      "calories": 75,
+      "protein": 0,
+      "carbs": 18,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 16,
+      "fiber": 0.5,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains vitamin C",
+        "Contains tea antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains caffeine"
+      ]
+    },
+    "kaya butter traditional set a 传统咖椰牛油土司套餐": {
+      "calories": 380,
+      "protein": 7,
+      "carbs": 35,
+      "fat": 22,
+      "sodium": 480,
+      "sugar": 7,
+      "fiber": 1.5,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Complete breakfast"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "coffee 咖啡": {
+      "calories": 5,
+      "protein": 0.5,
+      "carbs": 1,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Very low calorie",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "Contains caffeine"
+      ]
+    },
+    "orange with honey 桔子蜜": {
+      "calories": 65,
+      "protein": 0.5,
+      "carbs": 16,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 15,
+      "fiber": 0.5,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains vitamin C",
+        "Natural honey"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "water chestnut 马蹄水": {
+      "calories": 50,
+      "protein": 0.5,
+      "carbs": 12,
+      "fat": 0,
+      "sodium": 30,
+      "sugar": 10,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Low fat",
+        "Natural refreshment",
+        "Contains fiber"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "wheatgrass with honey 蜂蜜小麦草": {
+      "calories": 55,
+      "protein": 1,
+      "carbs": 12,
+      "fat": 0,
+      "sodium": 25,
+      "sugar": 10,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains wheatgrass nutrients",
+        "Natural honey",
+        "Low fat"
+      ],
+      "healthWarnings": [
+        "Contains sugar"
+      ]
+    },
+    "ibc root beer (non alcohol) 瓶装根汁汽水 (非酒精)": {
+      "calories": 160,
+      "protein": 0,
+      "carbs": 40,
+      "fat": 0,
+      "sodium": 85,
+      "sugar": 38,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in calories"
+      ]
+    },
+    "tea 茶": {
+      "calories": 2,
+      "protein": 0.3,
+      "carbs": 0.5,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Very low calorie",
+        "Contains tea antioxidants"
+      ],
+      "healthWarnings": [
+        "Contains caffeine"
+      ]
+    },
+    "aloe vera with honey 蜂蜜芦荟": {
+      "calories": 45,
+      "protein": 0,
+      "carbs": 11,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 10,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "May aid digestion",
+        "Low calorie"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "soya milk 豆奶": {
+      "calories": 95,
+      "protein": 3,
+      "carbs": 12,
+      "fat": 4,
+      "sodium": 85,
+      "sugar": 10,
+      "fiber": 1,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Plant-based protein",
+        "Contains isoflavones"
+      ],
+      "healthWarnings": []
+    },
+    "coffee c 咖啡c": {
+      "calories": 85,
+      "protein": 1,
+      "carbs": 10,
+      "fat": 4,
+      "sodium": 65,
+      "sugar": 8,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of caffeine"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "tea c 茶c": {
+      "calories": 75,
+      "protein": 0.5,
+      "carbs": 9,
+      "fat": 3,
+      "sodium": 55,
+      "sugar": 7,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Source of caffeine"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "luo han guo 罗汉果": {
+      "calories": 30,
+      "protein": 0,
+      "carbs": 7,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Zero sugar sweetener",
+        "Low calorie",
+        "Traditional herbal remedy"
+      ],
+      "healthWarnings": []
+    },
+    "bandung 曼隆": {
+      "calories": 120,
+      "protein": 1,
+      "carbs": 26,
+      "fat": 1.5,
+      "sodium": 80,
+      "sugar": 24,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in carbohydrates"
+      ]
+    },
+    "lime juice 酸柑汁": {
+      "calories": 85,
+      "protein": 0.5,
+      "carbs": 18,
+      "fat": 0.5,
+      "sodium": 70,
+      "sugar": 15,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Rich in vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "roselle tea 洛神花茶": {
+      "calories": 40,
+      "protein": 0,
+      "carbs": 10,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 9,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "May support heart health"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "yuan yang 鸳鸯": {
+      "calories": 95,
+      "protein": 1,
+      "carbs": 12,
+      "fat": 4,
+      "sodium": 70,
+      "sugar": 9,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of caffeine"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "horlicks 好力克": {
+      "calories": 110,
+      "protein": 2,
+      "carbs": 20,
+      "fat": 2,
+      "sodium": 95,
+      "sugar": 17,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Fortified with vitamins and minerals"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "bottled mineral water 矿泉水": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 30,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Zero calories",
+        "Hydrating"
+      ],
+      "healthWarnings": []
+    },
+    "horlicks c 好力克c": {
+      "calories": 125,
+      "protein": 2.5,
+      "carbs": 21,
+      "fat": 3,
+      "sodium": 105,
+      "sugar": 18,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Fortified with vitamins and minerals"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "passion fruit iced lemon tea 百香果柠檬茶": {
+      "calories": 145,
+      "protein": 0.5,
+      "carbs": 35,
+      "fat": 0,
+      "sodium": 80,
+      "sugar": 32,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Rich in vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "chocolate 巧克力": {
+      "calories": 130,
+      "protein": 2,
+      "carbs": 18,
+      "fat": 5,
+      "sodium": 90,
+      "sugar": 15,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "fruit iced lemon tea 水果柠檬茶": {
+      "calories": 140,
+      "protein": 0.5,
+      "carbs": 33,
+      "fat": 0,
+      "sodium": 75,
+      "sugar": 30,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Rich in vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "chocolate c 巧克力c": {
+      "calories": 145,
+      "protein": 2.5,
+      "carbs": 20,
+      "fat": 5.5,
+      "sodium": 100,
+      "sugar": 16,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "chocolate godzilla 可可哥斯拉": {
+      "calories": 185,
+      "protein": 3,
+      "carbs": 28,
+      "fat": 7,
+      "sodium": 115,
+      "sugar": 24,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "premium blend iced tea 独创冰奶茶": {
+      "calories": 135,
+      "protein": 1,
+      "carbs": 22,
+      "fat": 4,
+      "sodium": 85,
+      "sugar": 20,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "premium blend iced coffee 独创冰咖啡": {
+      "calories": 140,
+      "protein": 1.5,
+      "carbs": 20,
+      "fat": 5,
+      "sodium": 90,
+      "sugar": 18,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of caffeine"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "3 layer coffee 三色咖啡": {
+      "calories": 155,
+      "protein": 2,
+      "carbs": 20,
+      "fat": 6,
+      "sodium": 95,
+      "sugar": 17,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of caffeine"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "3 layer tea 三色奶茶": {
+      "calories": 280,
+      "protein": 3.5,
+      "carbs": 42,
+      "fat": 8,
+      "sodium": 120,
+      "sugar": 38,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from tea"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "instant chinese tea 即冲中国茶": {
+      "calories": 5,
+      "protein": 0,
+      "carbs": 1,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains tea antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "condensed milk 热牛奶": {
+      "calories": 320,
+      "protein": 7,
+      "carbs": 48,
+      "fat": 10,
+      "sodium": 150,
+      "sugar": 45,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of calcium",
+        "Contains protein"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories",
+        "High in saturated fat"
+      ]
+    },
+    "chocolate dinosaur 可可恐龙": {
+      "calories": 420,
+      "protein": 8,
+      "carbs": 58,
+      "fat": 16,
+      "sodium": 180,
+      "sugar": 52,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains cocoa antioxidants"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in calories",
+        "High in saturated fat"
+      ]
+    },
+    "bubble milk tea 珍珠奶茶": {
+      "calories": 380,
+      "protein": 3,
+      "carbs": 62,
+      "fat": 10,
+      "sodium": 140,
+      "sugar": 54,
+      "fiber": 2,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains tea antioxidants"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in calories"
+      ]
+    },
+    "premium blend iced chocolate 独创冰巧克力": {
+      "calories": 480,
+      "protein": 9,
+      "carbs": 65,
+      "fat": 18,
+      "sodium": 200,
+      "sugar": 58,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains cocoa antioxidants"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in calories",
+        "High in saturated fat"
+      ]
+    }
+  }
+}

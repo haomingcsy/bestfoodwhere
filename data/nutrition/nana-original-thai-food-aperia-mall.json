@@ -1,0 +1,150 @@
+{
+  "brand": "nana-original-thai-food-aperia-mall",
+  "generatedAt": "2026-02-21T11:01:50.539Z",
+  "items": {
+    "thai salad platter": {
+      "calories": 680,
+      "protein": 52,
+      "carbs": 58,
+      "fat": 22,
+      "sodium": 1840,
+      "sugar": 8,
+      "fiber": 6,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of fiber",
+        "Rich in vitamins from fresh vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in saturated fat"
+      ]
+    },
+    "pickled crab salad": {
+      "calories": 220,
+      "protein": 28,
+      "carbs": 12,
+      "fat": 6,
+      "sodium": 1620,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Shellfish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Low in calories",
+        "Rich in omega-3 from crab"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "Contains fermented fish sauce"
+      ]
+    },
+    "salted grilled fish platter": {
+      "calories": 720,
+      "protein": 58,
+      "carbs": 56,
+      "fat": 20,
+      "sodium": 2100,
+      "sugar": 6,
+      "fiber": 4,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Excellent source of protein",
+        "High in omega-3 fatty acids",
+        "Contains vitamins and minerals"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High salt content from salted preparation"
+      ]
+    },
+    "fried mackerel platter": {
+      "calories": 840,
+      "protein": 54,
+      "carbs": 58,
+      "fat": 38,
+      "sodium": 1950,
+      "sugar": 6,
+      "fiber": 4,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Excellent source of protein",
+        "Rich in omega-3 fatty acids",
+        "Good source of vitamins D and B12"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "thai hotpot": {
+      "calories": 580,
+      "protein": 48,
+      "carbs": 32,
+      "fat": 24,
+      "sodium": 2200,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Interactive meal encourages portion control",
+        "Vegetables provide nutrients"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in saturated fat from broth and meats"
+      ]
+    },
+    "moo krata": {
+      "calories": 920,
+      "protein": 62,
+      "carbs": 18,
+      "fat": 62,
+      "sodium": 2400,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Shellfish",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Very high in protein",
+        "Rich in iron and B vitamins"
+      ],
+      "healthWarnings": [
+        "Very high in calories",
+        "Very high in saturated fat",
+        "Extremely high in sodium"
+      ]
+    }
+  }
+}

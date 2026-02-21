@@ -1,0 +1,345 @@
+{
+  "brand": "hugabo",
+  "generatedAt": "2026-02-16T15:26:18.102Z",
+  "items": {
+    "broccoli with roasted sesame": {
+      "calories": 120,
+      "protein": 5,
+      "carbs": 12,
+      "fat": 6,
+      "sodium": 380,
+      "sugar": 2,
+      "fiber": 3,
+      "allergens": [
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "Good source of vitamins K and C",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "Moderate sodium content"
+      ]
+    },
+    "mala xiang guo": {
+      "calories": 280,
+      "protein": 18,
+      "carbs": 20,
+      "fat": 14,
+      "sodium": 720,
+      "sugar": 3,
+      "fiber": 4,
+      "allergens": [
+        "Shellfish",
+        "Peanut",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains healthy fats from peanuts",
+        "Rich in vitamins and minerals"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Spicy - may irritate sensitive stomachs"
+      ]
+    },
+    "superior chicken soup with cordyceps flower": {
+      "calories": 180,
+      "protein": 22,
+      "carbs": 8,
+      "fat": 6,
+      "sodium": 890,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein",
+        "Contains immune-boosting cordyceps",
+        "Low in fat",
+        "Nourishing broth"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "batang fish soup (small)": {
+      "calories": 220,
+      "protein": 28,
+      "carbs": 12,
+      "fat": 5,
+      "sodium": 950,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of omega-3 fatty acids",
+        "Low in calories",
+        "Contains beneficial vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Contains fish"
+      ]
+    },
+    "chinese superior soup with chicken": {
+      "calories": 200,
+      "protein": 24,
+      "carbs": 10,
+      "fat": 7,
+      "sodium": 920,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein",
+        "Nourishing ingredients",
+        "Supports digestive health",
+        "Low sugar"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "mala soup with beef and beefballs": {
+      "calories": 320,
+      "protein": 32,
+      "carbs": 14,
+      "fat": 14,
+      "sodium": 1080,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron",
+        "Contains beneficial mushrooms"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Spicy - may cause digestive issues"
+      ]
+    },
+    "batang fish soup (value)": {
+      "calories": 320,
+      "protein": 38,
+      "carbs": 16,
+      "fat": 8,
+      "sodium": 1100,
+      "sugar": 3,
+      "fiber": 3,
+      "allergens": [
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of omega-3 fatty acids",
+        "Rich in vegetables and nutrients"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Contains fish"
+      ]
+    },
+    "ramen egg": {
+      "calories": 80,
+      "protein": 7,
+      "carbs": 2,
+      "fat": 5,
+      "sodium": 320,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains choline for brain health",
+        "Low in carbohydrates"
+      ],
+      "healthWarnings": [
+        "Moderate sodium content"
+      ]
+    },
+    "toman fish soup (small)": {
+      "calories": 210,
+      "protein": 26,
+      "carbs": 12,
+      "fat": 5,
+      "sodium": 940,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of omega-3 fatty acids",
+        "Low in calories",
+        "Contains beneficial vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Contains fish"
+      ]
+    },
+    "chinese superior soup with beef": {
+      "calories": 240,
+      "protein": 28,
+      "carbs": 10,
+      "fat": 9,
+      "sodium": 960,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron",
+        "Nourishing ingredients",
+        "Low sugar"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate saturated fat"
+      ]
+    },
+    "mala soup with beef": {
+      "calories": 300,
+      "protein": 30,
+      "carbs": 14,
+      "fat": 12,
+      "sodium": 1050,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron",
+        "Contains beneficial mushrooms"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Spicy - may cause digestive issues"
+      ]
+    },
+    "seaweed salad": {
+      "calories": 95,
+      "protein": 3,
+      "carbs": 14,
+      "fat": 3,
+      "sodium": 450,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Rich in iodine",
+        "Contains minerals and trace elements",
+        "Low in calories",
+        "Good source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "toman fish soup (value)": {
+      "calories": 310,
+      "protein": 36,
+      "carbs": 16,
+      "fat": 8,
+      "sodium": 1090,
+      "sugar": 3,
+      "fiber": 3,
+      "allergens": [
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of omega-3 fatty acids",
+        "Rich in vegetables and nutrients"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Contains fish"
+      ]
+    },
+    "chinese superior soup with beef and beefballs": {
+      "calories": 280,
+      "protein": 32,
+      "carbs": 12,
+      "fat": 11,
+      "sodium": 1000,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron",
+        "Nourishing ingredients"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate saturated fat"
+      ]
+    },
+    "mala soup with seafood": {
+      "calories": 310,
+      "protein": 28,
+      "carbs": 14,
+      "fat": 13,
+      "sodium": 1100,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Fish",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of omega-3 fatty acids",
+        "Contains beneficial mushrooms"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Spicy - may cause digestive issues",
+        "Contains shellfish and fish"
+      ]
+    },
+    "mala soup with chicken": {
+      "calories": 260,
+      "protein": 26,
+      "carbs": 14,
+      "fat": 10,
+      "sodium": 1020,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains beneficial mushrooms",
+        "Good source of vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Spicy - may cause digestive issues"
+      ]
+    }
+  }
+}

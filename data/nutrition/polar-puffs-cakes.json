@@ -1,0 +1,103 @@
+{
+  "brand": "polar-puffs-cakes",
+  "generatedAt": "2026-02-21T11:18:30.756Z",
+  "items": {
+    "mini apple strudel treats": {
+      "calories": 2280,
+      "protein": 24,
+      "carbs": 312,
+      "fat": 92,
+      "sodium": 1080,
+      "sugar": 156,
+      "fiber": 12,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Source of fiber from apples",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories",
+        "High in fat",
+        "High in sodium"
+      ]
+    },
+    "mini chicken pie delight": {
+      "calories": 2340,
+      "protein": 72,
+      "carbs": 288,
+      "fat": 84,
+      "sodium": 2160,
+      "sugar": 18,
+      "fiber": 8,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains mushrooms with nutrients"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "High in fat"
+      ]
+    },
+    "mini curry puff feast": {
+      "calories": 2790,
+      "protein": 66,
+      "carbs": 324,
+      "fat": 108,
+      "sodium": 2820,
+      "sugar": 24,
+      "fiber": 10,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains warming spices"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "Very high in calories",
+        "High in fat"
+      ]
+    },
+    "mini vegetable puff box": {
+      "calories": 2160,
+      "protein": 36,
+      "carbs": 280,
+      "fat": 88,
+      "sodium": 1980,
+      "sugar": 12,
+      "fiber": 16,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "Contains vegetables and potassium",
+        "Source of broccoli nutrients"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in fat"
+      ]
+    }
+  }
+}

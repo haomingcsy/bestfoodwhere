@@ -1,0 +1,203 @@
+{
+  "brand": "robertas-pizza",
+  "generatedAt": "2026-02-21T11:24:44.892Z",
+  "items": {
+    "margherita": {
+      "calories": 680,
+      "protein": 28,
+      "carbs": 82,
+      "fat": 24,
+      "sodium": 1240,
+      "sugar": 6,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains lycopene from tomatoes"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "speckenwolf": {
+      "calories": 740,
+      "protein": 32,
+      "carbs": 80,
+      "fat": 30,
+      "sodium": 1480,
+      "sugar": 5,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains B vitamins from speck"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in processed meat"
+      ]
+    },
+    "widow maker": {
+      "calories": 760,
+      "protein": 34,
+      "carbs": 80,
+      "fat": 32,
+      "sodium": 1520,
+      "sugar": 5,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains antioxidants from mushrooms"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in processed meat"
+      ]
+    },
+    "normcore.sg": {
+      "calories": 700,
+      "protein": 29,
+      "carbs": 82,
+      "fat": 25,
+      "sodium": 1180,
+      "sugar": 7,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains lycopene from tomatoes",
+        "Contains antioxidants from garlic"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "shroomsday device": {
+      "calories": 710,
+      "protein": 26,
+      "carbs": 78,
+      "fat": 32,
+      "sodium": 1200,
+      "sugar": 4,
+      "fiber": 5,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "High in fiber from mushrooms",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "cowabunga!": {
+      "calories": 780,
+      "protein": 33,
+      "carbs": 80,
+      "fat": 35,
+      "sodium": 1620,
+      "sugar": 3,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in processed meat",
+        "Very high in spice"
+      ]
+    },
+    "famous original": {
+      "calories": 720,
+      "protein": 30,
+      "carbs": 82,
+      "fat": 27,
+      "sodium": 1380,
+      "sugar": 5,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains lycopene from tomatoes"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "bee sting": {
+      "calories": 750,
+      "protein": 32,
+      "carbs": 81,
+      "fat": 31,
+      "sodium": 1480,
+      "sugar": 8,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains antioxidants from honey"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in processed meat",
+        "High in sugar"
+      ]
+    },
+    "piña koala": {
+      "calories": 770,
+      "protein": 31,
+      "carbs": 88,
+      "fat": 28,
+      "sodium": 1520,
+      "sugar": 12,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vitamin C from pineapple"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in sugar"
+      ]
+    }
+  }
+}

@@ -1,0 +1,1334 @@
+{
+  "brand": "liho",
+  "generatedAt": "2026-02-21T10:52:12.034Z",
+  "items": {
+    "lychee aloe ha": {
+      "calories": 120,
+      "protein": 0,
+      "carbs": 30,
+      "fat": 0,
+      "sodium": 25,
+      "sugar": 28,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in fat",
+        "Contains antioxidants from lychee"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "sparkling peach": {
+      "calories": 110,
+      "protein": 0,
+      "carbs": 28,
+      "fat": 0,
+      "sodium": 30,
+      "sugar": 26,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in fat",
+        "Contains vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "golden avocado": {
+      "calories": 240,
+      "protein": 3,
+      "carbs": 28,
+      "fat": 14,
+      "sodium": 45,
+      "sugar": 22,
+      "fiber": 2,
+      "allergens": [
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Good source of healthy fats",
+        "Contains potassium",
+        "High in fiber"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "jasmine green tea": {
+      "calories": 5,
+      "protein": 0,
+      "carbs": 1,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Very low calorie",
+        "Contains antioxidants",
+        "Promotes hydration"
+      ],
+      "healthWarnings": []
+    },
+    "red sugar pearl lover fresh milk": {
+      "calories": 290,
+      "protein": 6,
+      "carbs": 48,
+      "fat": 8,
+      "sodium": 120,
+      "sugar": 42,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of calcium",
+        "Contains protein"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in sodium"
+      ]
+    },
+    "milk dark tea": {
+      "calories": 200,
+      "protein": 5,
+      "carbs": 32,
+      "fat": 6,
+      "sodium": 100,
+      "sugar": 28,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of calcium",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in sodium"
+      ]
+    },
+    "oat milk jasmine green tea": {
+      "calories": 130,
+      "protein": 2,
+      "carbs": 22,
+      "fat": 4,
+      "sodium": 90,
+      "sugar": 12,
+      "fiber": 1,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Lower in sugar than dairy",
+        "Good source of fiber",
+        "Dairy-free"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "jasmine green tea latte": {
+      "calories": 180,
+      "protein": 5,
+      "carbs": 28,
+      "fat": 5,
+      "sodium": 110,
+      "sugar": 22,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of calcium",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in sodium"
+      ]
+    },
+    "pearl": {
+      "calories": 70,
+      "protein": 0,
+      "carbs": 17,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 15,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "avocado coconut shake": {
+      "calories": 320,
+      "protein": 4,
+      "carbs": 35,
+      "fat": 18,
+      "sodium": 60,
+      "sugar": 28,
+      "fiber": 3,
+      "allergens": [
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Good source of healthy fats",
+        "High in fiber",
+        "Contains potassium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "classic milk tea": {
+      "calories": 200,
+      "protein": 5,
+      "carbs": 32,
+      "fat": 6,
+      "sodium": 100,
+      "sugar": 28,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of calcium",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in sodium"
+      ]
+    },
+    "orchid tie guan yin latte": {
+      "calories": 190,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 5,
+      "sodium": 110,
+      "sugar": 24,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of calcium",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in sodium"
+      ]
+    },
+    "cookies red sugar pearl fresh milk": {
+      "calories": 320,
+      "protein": 6,
+      "carbs": 54,
+      "fat": 9,
+      "sodium": 130,
+      "sugar": 48,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of calcium"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "coconut jelly": {
+      "calories": 60,
+      "protein": 0,
+      "carbs": 14,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 12,
+      "fiber": 0,
+      "allergens": [
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "sparkling lychee": {
+      "calories": 115,
+      "protein": 0,
+      "carbs": 29,
+      "fat": 0,
+      "sodium": 28,
+      "sugar": 27,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in fat",
+        "Contains vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "gardenia white tea": {
+      "calories": 8,
+      "protein": 0,
+      "carbs": 1,
+      "fat": 0,
+      "sodium": 8,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Very low calorie",
+        "Contains antioxidants",
+        "Promotes hydration"
+      ],
+      "healthWarnings": []
+    },
+    "signature coconut shake": {
+      "calories": 300,
+      "protein": 3,
+      "carbs": 38,
+      "fat": 15,
+      "sodium": 80,
+      "sugar": 32,
+      "fiber": 2,
+      "allergens": [
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Contains healthy fats",
+        "Good source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "red sugar pearl avocado": {
+      "calories": 260,
+      "protein": 3,
+      "carbs": 38,
+      "fat": 12,
+      "sodium": 50,
+      "sugar": 32,
+      "fiber": 2,
+      "allergens": [
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Good source of healthy fats",
+        "Contains potassium",
+        "High in fiber"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "coconut milk gardenia white tea": {
+      "calories": 140,
+      "protein": 2,
+      "carbs": 18,
+      "fat": 6,
+      "sodium": 85,
+      "sugar": 12,
+      "fiber": 0,
+      "allergens": [
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Lower in sugar than dairy",
+        "Dairy-free"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "lychee rose tie guan yin tea": {
+      "calories": 100,
+      "protein": 0,
+      "carbs": 25,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 24,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in fat",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "classic milk tea with pearl": {
+      "calories": 280,
+      "protein": 4,
+      "carbs": 42,
+      "fat": 8,
+      "sodium": 120,
+      "sugar": 34,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "sparkling white grape": {
+      "calories": 120,
+      "protein": 0,
+      "carbs": 30,
+      "fat": 0,
+      "sodium": 50,
+      "sugar": 28,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "mango oat milk with white jade": {
+      "calories": 240,
+      "protein": 2,
+      "carbs": 45,
+      "fat": 5,
+      "sodium": 140,
+      "sugar": 32,
+      "fiber": 1,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Plant-based",
+        "Lower saturated fat"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "longan jasmine green tea with white pearl": {
+      "calories": 200,
+      "protein": 3,
+      "carbs": 38,
+      "fat": 4,
+      "sodium": 80,
+      "sugar": 30,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Antioxidants from green tea",
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "ai yu jelly": {
+      "calories": 80,
+      "protein": 0,
+      "carbs": 20,
+      "fat": 0,
+      "sodium": 30,
+      "sugar": 18,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "orchid tie guan yin": {
+      "calories": 25,
+      "protein": 0,
+      "carbs": 5,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Very low calorie",
+        "Antioxidants",
+        "Zero sugar"
+      ],
+      "healthWarnings": []
+    },
+    "avocado oat milk": {
+      "calories": 280,
+      "protein": 3,
+      "carbs": 32,
+      "fat": 16,
+      "sodium": 150,
+      "sugar": 22,
+      "fiber": 3,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Plant-based",
+        "Good source of fiber",
+        "Healthy fats"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in calories"
+      ]
+    },
+    "lychee rose coconut smoothie": {
+      "calories": 320,
+      "protein": 2,
+      "carbs": 48,
+      "fat": 14,
+      "sodium": 160,
+      "sugar": 38,
+      "fiber": 2,
+      "allergens": [
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "money money tea latte": {
+      "calories": 340,
+      "protein": 5,
+      "carbs": 48,
+      "fat": 12,
+      "sodium": 180,
+      "sugar": 38,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of calcium",
+        "Source of protein"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories",
+        "High in saturated fat"
+      ]
+    },
+    "winter melon tea": {
+      "calories": 120,
+      "protein": 0,
+      "carbs": 30,
+      "fat": 0,
+      "sodium": 40,
+      "sugar": 26,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Very low fat",
+        "Traditional herbal tea"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "gula melaka milk tea": {
+      "calories": 310,
+      "protein": 4,
+      "carbs": 46,
+      "fat": 9,
+      "sodium": 130,
+      "sugar": 38,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "pandan avocado": {
+      "calories": 290,
+      "protein": 3,
+      "carbs": 35,
+      "fat": 15,
+      "sodium": 140,
+      "sugar": 24,
+      "fiber": 3,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Healthy fats"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in calories"
+      ]
+    },
+    "triple peach pomelo": {
+      "calories": 220,
+      "protein": 2,
+      "carbs": 52,
+      "fat": 0,
+      "sodium": 70,
+      "sugar": 44,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in fat",
+        "Vitamin C",
+        "Antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "gardenia white tea latte": {
+      "calories": 320,
+      "protein": 5,
+      "carbs": 46,
+      "fat": 11,
+      "sodium": 170,
+      "sugar": 36,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Antioxidants from white tea",
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "red bull honey calamansi smoothie": {
+      "calories": 280,
+      "protein": 1,
+      "carbs": 52,
+      "fat": 6,
+      "sodium": 240,
+      "sugar": 42,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Source of vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "brown sugar pearl": {
+      "calories": 110,
+      "protein": 1,
+      "carbs": 26,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 22,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "earl grey tea": {
+      "calories": 240,
+      "protein": 4,
+      "carbs": 40,
+      "fat": 7,
+      "sodium": 110,
+      "sugar": 32,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of calcium",
+        "Antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "white pearl": {
+      "calories": 90,
+      "protein": 0,
+      "carbs": 22,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 20,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "calpis jasmine green tea": {
+      "calories": 210,
+      "protein": 2,
+      "carbs": 42,
+      "fat": 3,
+      "sodium": 90,
+      "sugar": 32,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Antioxidants from green tea",
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "calpis avocado": {
+      "calories": 310,
+      "protein": 2,
+      "carbs": 38,
+      "fat": 16,
+      "sodium": 160,
+      "sugar": 28,
+      "fiber": 3,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Healthy fats",
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in calories"
+      ]
+    },
+    "roselle hawthorn tea": {
+      "calories": 45,
+      "protein": 0,
+      "carbs": 11,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 10,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains antioxidants",
+        "May support heart health"
+      ],
+      "healthWarnings": []
+    },
+    "red bull lychee rose smoothie": {
+      "calories": 280,
+      "protein": 2,
+      "carbs": 68,
+      "fat": 0.5,
+      "sodium": 95,
+      "sugar": 62,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains vitamin C",
+        "Energy boost"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "brown sugar milk earl grey tea": {
+      "calories": 220,
+      "protein": 3,
+      "carbs": 42,
+      "fat": 4,
+      "sodium": 85,
+      "sugar": 38,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains milk calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories",
+        "Contains dairy"
+      ]
+    },
+    "aloe vera": {
+      "calories": 15,
+      "protein": 0,
+      "carbs": 4,
+      "fat": 0,
+      "sodium": 8,
+      "sugar": 1,
+      "fiber": 0.5,
+      "allergens": [],
+      "healthBenefits": [
+        "Hydrating",
+        "Low calorie",
+        "May aid digestion"
+      ],
+      "healthWarnings": []
+    },
+    "calpis lemon": {
+      "calories": 180,
+      "protein": 1,
+      "carbs": 45,
+      "fat": 0,
+      "sodium": 110,
+      "sugar": 42,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains dairy"
+      ]
+    },
+    "passion roselle smoothie": {
+      "calories": 260,
+      "protein": 2,
+      "carbs": 64,
+      "fat": 0.5,
+      "sodium": 45,
+      "sugar": 58,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Good fiber content"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "tropical avocado": {
+      "calories": 320,
+      "protein": 4,
+      "carbs": 48,
+      "fat": 12,
+      "sodium": 55,
+      "sugar": 42,
+      "fiber": 4,
+      "allergens": [
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Good source of healthy fats",
+        "Contains fiber",
+        "Rich in potassium"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sugar"
+      ]
+    },
+    "milk lychee tea": {
+      "calories": 210,
+      "protein": 3,
+      "carbs": 42,
+      "fat": 3.5,
+      "sodium": 80,
+      "sugar": 38,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "cheesho avocado": {
+      "calories": 380,
+      "protein": 8,
+      "carbs": 42,
+      "fat": 18,
+      "sodium": 180,
+      "sugar": 35,
+      "fiber": 4,
+      "allergens": [
+        "Dairy",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains healthy fats",
+        "Rich in fiber"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "red bean coconut smoothie mix": {
+      "calories": 290,
+      "protein": 5,
+      "carbs": 56,
+      "fat": 4,
+      "sodium": 65,
+      "sugar": 48,
+      "fiber": 5,
+      "allergens": [
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains plant protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "herbal jelly": {
+      "calories": 35,
+      "protein": 0,
+      "carbs": 9,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 6,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains fiber"
+      ],
+      "healthWarnings": []
+    },
+    "honey green tea": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 35,
+      "fat": 0,
+      "sodium": 25,
+      "sugar": 33,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Contains polyphenols"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "pudding avocado": {
+      "calories": 340,
+      "protein": 5,
+      "carbs": 52,
+      "fat": 12,
+      "sodium": 95,
+      "sugar": 45,
+      "fiber": 4,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Contains healthy fats",
+        "Rich in fiber"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sugar"
+      ]
+    },
+    "pudding jelly": {
+      "calories": 80,
+      "protein": 1,
+      "carbs": 18,
+      "fat": 1,
+      "sodium": 35,
+      "sugar": 14,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "milk green tea": {
+      "calories": 190,
+      "protein": 3,
+      "carbs": 38,
+      "fat": 3,
+      "sodium": 75,
+      "sugar": 34,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Contains calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains dairy"
+      ]
+    },
+    "plum green tea": {
+      "calories": 130,
+      "protein": 0,
+      "carbs": 32,
+      "fat": 0,
+      "sodium": 30,
+      "sugar": 30,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Contains vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "red sugar pearl coconut smoothie": {
+      "calories": 310,
+      "protein": 3,
+      "carbs": 62,
+      "fat": 4,
+      "sodium": 70,
+      "sugar": 54,
+      "fiber": 2,
+      "allergens": [
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Contains fiber"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "mango tango": {
+      "calories": 270,
+      "protein": 2,
+      "carbs": 66,
+      "fat": 0.5,
+      "sodium": 40,
+      "sugar": 60,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains vitamin C",
+        "Rich in antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "fresh lemon green tea": {
+      "calories": 110,
+      "protein": 0,
+      "carbs": 27,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 25,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Contains vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "oreo crunch": {
+      "calories": 120,
+      "protein": 1,
+      "carbs": 18,
+      "fat": 5,
+      "sodium": 140,
+      "sugar": 14,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium",
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "milk green tea with red sugar pearl": {
+      "calories": 280,
+      "protein": 2,
+      "carbs": 58,
+      "fat": 3,
+      "sodium": 85,
+      "sugar": 48,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from green tea"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "money money coconut tea": {
+      "calories": 240,
+      "protein": 1,
+      "carbs": 52,
+      "fat": 2,
+      "sodium": 75,
+      "sugar": 42,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains fruit flavors",
+        "Lower in fat"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "salted caramel coffee frappe": {
+      "calories": 320,
+      "protein": 3,
+      "carbs": 62,
+      "fat": 6,
+      "sodium": 180,
+      "sugar": 52,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains caffeine"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "honey milk green tea": {
+      "calories": 300,
+      "protein": 2,
+      "carbs": 62,
+      "fat": 3,
+      "sodium": 80,
+      "sugar": 52,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from green tea",
+        "Contains honey"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "cheese": {
+      "calories": 80,
+      "protein": 3,
+      "carbs": 2,
+      "fat": 7,
+      "sodium": 120,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Good source of calcium"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "passion fruit gardenia white tea": {
+      "calories": 220,
+      "protein": 0,
+      "carbs": 48,
+      "fat": 0,
+      "sodium": 70,
+      "sugar": 40,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants from white tea",
+        "Contains vitamin C from passion fruit"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "milk da hong pao tea": {
+      "calories": 290,
+      "protein": 2,
+      "carbs": 60,
+      "fat": 3,
+      "sodium": 85,
+      "sugar": 50,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from oolong tea"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "salted caramel milk da hong pao tea": {
+      "calories": 320,
+      "protein": 2,
+      "carbs": 66,
+      "fat": 4,
+      "sodium": 160,
+      "sugar": 56,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from oolong tea"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "fresh lemon aloe vera with white pearl": {
+      "calories": 210,
+      "protein": 0,
+      "carbs": 48,
+      "fat": 0,
+      "sodium": 65,
+      "sugar": 38,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains vitamin C from lemon",
+        "Contains fiber from aloe vera"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "double chocolate milk": {
+      "calories": 340,
+      "protein": 4,
+      "carbs": 64,
+      "fat": 6,
+      "sodium": 90,
+      "sugar": 54,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains antioxidants from chocolate"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "signature coffee": {
+      "calories": 280,
+      "protein": 3,
+      "carbs": 56,
+      "fat": 4,
+      "sodium": 85,
+      "sugar": 46,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains caffeine"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    }
+  }
+}

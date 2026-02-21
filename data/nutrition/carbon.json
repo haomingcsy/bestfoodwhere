@@ -1,0 +1,102 @@
+{
+  "brand": "carbon",
+  "generatedAt": "2026-02-21T10:34:01.965Z",
+  "items": {
+    "curry ibi udan": {
+      "calories": 520,
+      "protein": 18,
+      "carbs": 62,
+      "fat": 18,
+      "sodium": 1280,
+      "sugar": 8,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Shellfish",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "wagyu beef burger": {
+      "calories": 720,
+      "protein": 42,
+      "carbs": 48,
+      "fat": 38,
+      "sodium": 1100,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Sesame",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "curry ebi udon": {
+      "calories": 580,
+      "protein": 20,
+      "carbs": 68,
+      "fat": 20,
+      "sodium": 1380,
+      "sugar": 9,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Shellfish",
+        "Fish",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in carbohydrates"
+      ]
+    },
+    "hakka platter": {
+      "calories": 980,
+      "protein": 48,
+      "carbs": 52,
+      "fat": 62,
+      "sodium": 1680,
+      "sugar": 6,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Fish",
+        "Shellfish",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains mushrooms"
+      ],
+      "healthWarnings": [
+        "Very high in saturated fat",
+        "Very high in sodium",
+        "High in calories"
+      ]
+    }
+  }
+}

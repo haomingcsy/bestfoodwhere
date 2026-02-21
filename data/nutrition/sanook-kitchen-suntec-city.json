@@ -1,0 +1,1683 @@
+{
+  "brand": "sanook-kitchen-suntec-city",
+  "generatedAt": "2026-02-21T11:29:02.777Z",
+  "items": {
+    "607d vegetarian mango salad 青芒果沙拉": {
+      "calories": 120,
+      "protein": 3,
+      "carbs": 18,
+      "fat": 5,
+      "sodium": 480,
+      "sugar": 12,
+      "fiber": 3,
+      "allergens": [
+        "Fish",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of vitamin C",
+        "High in fiber",
+        "Low calorie"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "red tom yum seafood rice noodle set 红冬阴海": {
+      "calories": 520,
+      "protein": 22,
+      "carbs": 62,
+      "fat": 18,
+      "sodium": 1280,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Shellfish",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains seafood"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "801d red ruby 椰奶红宝石": {
+      "calories": 280,
+      "protein": 2,
+      "carbs": 35,
+      "fat": 14,
+      "sodium": 120,
+      "sugar": 28,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "701d pineapple fried rice with prawn 菠萝虾": {
+      "calories": 480,
+      "protein": 18,
+      "carbs": 58,
+      "fat": 16,
+      "sodium": 960,
+      "sugar": 12,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains pineapple"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in carbs"
+      ]
+    },
+    "303d green curry seafood 青咖喱海鲜": {
+      "calories": 420,
+      "protein": 24,
+      "carbs": 28,
+      "fat": 22,
+      "sodium": 1040,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Shellfish",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "206d clear tom yum prawn soup 冬阴虾汤": {
+      "calories": 180,
+      "protein": 20,
+      "carbs": 12,
+      "fat": 6,
+      "sodium": 1120,
+      "sugar": 4,
+      "fiber": 1,
+      "allergens": [
+        "Fish",
+        "Shellfish",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Low calorie",
+        "Contains lemongrass"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "716d stir-fried kway teow with beef and": {
+      "calories": 520,
+      "protein": 24,
+      "carbs": 52,
+      "fat": 20,
+      "sodium": 1120,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in carbs",
+        "High in fat"
+      ]
+    },
+    "902d iced lemon tea 冰柠檬茶": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 35,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 32,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "add beef 加牛肉": {
+      "calories": 180,
+      "protein": 22,
+      "carbs": 0,
+      "fat": 10,
+      "sodium": 360,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in saturated fat"
+      ]
+    },
+    "201d mango salad 青芒果沙拉": {
+      "calories": 140,
+      "protein": 4,
+      "carbs": 20,
+      "fat": 6,
+      "sodium": 520,
+      "sugar": 14,
+      "fiber": 3,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Peanut"
+      ],
+      "healthBenefits": [
+        "Good source of vitamin C",
+        "High in fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "601d stir-fried kang kong with sambal 叁峇": {
+      "calories": 240,
+      "protein": 8,
+      "carbs": 16,
+      "fat": 16,
+      "sodium": 880,
+      "sugar": 3,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "105d homemade fish cake (4pcs) 自制鱼饼 (四件)": {
+      "calories": 280,
+      "protein": 16,
+      "carbs": 24,
+      "fat": 12,
+      "sodium": 720,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "504d stir-fried chicken with yellow ging": {
+      "calories": 380,
+      "protein": 28,
+      "carbs": 18,
+      "fat": 18,
+      "sodium": 920,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains ginger"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "506d stir-fried minced beef with thai ba": {
+      "calories": 380,
+      "protein": 26,
+      "carbs": 16,
+      "fat": 20,
+      "sodium": 1000,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "404d stir-fried sotong with sambal叁峇炒苏东": {
+      "calories": 420,
+      "protein": 28,
+      "carbs": 20,
+      "fat": 22,
+      "sodium": 1080,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of selenium"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "507d stir-fried beef with kai lan 牛肉炒芥兰": {
+      "calories": 360,
+      "protein": 26,
+      "carbs": 14,
+      "fat": 20,
+      "sodium": 920,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "802d thai chendol 泰式浆罗": {
+      "calories": 300,
+      "protein": 3,
+      "carbs": 42,
+      "fat": 13,
+      "sodium": 140,
+      "sugar": 36,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "712d pad thai noodle with seafood 海鲜炒巴泰面": {
+      "calories": 480,
+      "protein": 20,
+      "carbs": 54,
+      "fat": 16,
+      "sodium": 1160,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Gluten",
+        "Peanut",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in carbs"
+      ]
+    },
+    "612d vegetarian pineapple fried rice 菠萝炒": {
+      "calories": 420,
+      "protein": 10,
+      "carbs": 56,
+      "fat": 14,
+      "sodium": 880,
+      "sugar": 14,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains pineapple",
+        "Vegetarian"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in carbs"
+      ]
+    },
+    "709d thai fragrant steam rice 白米饭": {
+      "calories": 180,
+      "protein": 4,
+      "carbs": 40,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 0,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Low fat",
+        "Good carbohydrate source"
+      ],
+      "healthWarnings": []
+    },
+    "503d deep-fried chicken with thai herb 泰": {
+      "calories": 420,
+      "protein": 32,
+      "carbs": 18,
+      "fat": 26,
+      "sodium": 680,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains B vitamins"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium",
+        "Deep-fried preparation"
+      ]
+    },
+    "302d green curry beef 青咖喱牛肉": {
+      "calories": 380,
+      "protein": 28,
+      "carbs": 12,
+      "fat": 28,
+      "sodium": 720,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Fish",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains iron",
+        "Vegetable content"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "204d seafood vermicelli salad 海鲜粉丝沙拉": {
+      "calories": 280,
+      "protein": 18,
+      "carbs": 24,
+      "fat": 14,
+      "sodium": 580,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3",
+        "Vegetable content"
+      ],
+      "healthWarnings": [
+        "Moderate sodium",
+        "Contains refined carbs"
+      ]
+    },
+    "603d stir-fried kai lan with mushroom 香菇": {
+      "calories": 180,
+      "protein": 12,
+      "carbs": 14,
+      "fat": 10,
+      "sodium": 520,
+      "sugar": 2,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "Good source of vegetables",
+        "Low calorie",
+        "Contains minerals"
+      ],
+      "healthWarnings": [
+        "Moderate sodium"
+      ]
+    },
+    "honey chicken rice with fried egg set 蜜汁": {
+      "calories": 520,
+      "protein": 32,
+      "carbs": 52,
+      "fat": 20,
+      "sodium": 680,
+      "sugar": 12,
+      "fiber": 1,
+      "allergens": [
+        "Egg",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Carbs for energy"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "209d red tom yum prawn soup 红冬阴虾汤": {
+      "calories": 200,
+      "protein": 18,
+      "carbs": 8,
+      "fat": 11,
+      "sodium": 820,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Shellfish",
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Low calorie",
+        "Contains omega-3"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "Contains seafood"
+      ]
+    },
+    "901d iced thai milk tea 冰泰式奶茶": {
+      "calories": 240,
+      "protein": 4,
+      "carbs": 38,
+      "fat": 8,
+      "sodium": 120,
+      "sugar": 32,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from tea"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in calories",
+        "High in saturated fat"
+      ]
+    },
+    "add chicken 加鸡肉": {
+      "calories": 160,
+      "protein": 24,
+      "carbs": 2,
+      "fat": 7,
+      "sodium": 280,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Excellent source of protein",
+        "Low calorie",
+        "Low carb"
+      ],
+      "healthWarnings": [
+        "Moderate sodium"
+      ]
+    },
+    "106d homemade prawn cake (4pcs) 自制虾饼 (四件": {
+      "calories": 380,
+      "protein": 14,
+      "carbs": 28,
+      "fat": 24,
+      "sodium": 620,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Shellfish",
+        "Egg",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Contains protein",
+        "Contains omega-3"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium",
+        "Deep-fried preparation"
+      ]
+    },
+    "402d stir-fried sotong with thai basil九层": {
+      "calories": 320,
+      "protein": 24,
+      "carbs": 10,
+      "fat": 22,
+      "sodium": 650,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Gluten",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains selenium",
+        "Contains omega-3"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "101d deep-fried tofu with thai chilli sa": {
+      "calories": 240,
+      "protein": 14,
+      "carbs": 12,
+      "fat": 16,
+      "sodium": 480,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains calcium",
+        "Plant-based"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "Deep-fried preparation"
+      ]
+    },
+    "202d papaya salad青木瓜沙拉": {
+      "calories": 180,
+      "protein": 8,
+      "carbs": 18,
+      "fat": 9,
+      "sodium": 540,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Peanut",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of vitamin C",
+        "Contains fiber",
+        "Low calorie"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Contains peanut and sesame"
+      ]
+    },
+    "903d iced thai green milk tea 冰泰式绿奶茶": {
+      "calories": 240,
+      "protein": 4,
+      "carbs": 38,
+      "fat": 8,
+      "sodium": 120,
+      "sugar": 32,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from green tea",
+        "Contains catechins"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in calories",
+        "High in saturated fat"
+      ]
+    },
+    "508d stir-fried beef with thai herb 泰国香料": {
+      "calories": 360,
+      "protein": 30,
+      "carbs": 10,
+      "fat": 24,
+      "sodium": 700,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Excellent source of protein",
+        "Contains iron",
+        "Contains B vitamins"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "804d mango sticky rice with coconut milk": {
+      "calories": 320,
+      "protein": 4,
+      "carbs": 54,
+      "fat": 10,
+      "sodium": 180,
+      "sugar": 38,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains vitamin C",
+        "Contains fiber",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in calories",
+        "High in saturated fat"
+      ]
+    },
+    "208d clear tom yum chicken soup 冬阴鸡肉汤": {
+      "calories": 160,
+      "protein": 20,
+      "carbs": 6,
+      "fat": 6,
+      "sodium": 800,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Low calorie",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "Very high in sodium"
+      ]
+    },
+    "501d stir-fried minced chicken with thai": {
+      "calories": 340,
+      "protein": 28,
+      "carbs": 8,
+      "fat": 24,
+      "sodium": 660,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Excellent source of protein",
+        "Low carb"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "602d stir-fried thai-style kang kong 泰式空": {
+      "calories": 170,
+      "protein": 10,
+      "carbs": 12,
+      "fat": 10,
+      "sodium": 540,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "Good source of vegetables",
+        "Contains minerals"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "add egg 加煎蛋": {
+      "calories": 90,
+      "protein": 8,
+      "carbs": 1,
+      "fat": 7,
+      "sodium": 180,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains choline",
+        "Low calorie"
+      ],
+      "healthWarnings": [
+        "High in cholesterol",
+        "Moderate sodium"
+      ]
+    },
+    "406d prawn omelette 虾仁煎蛋": {
+      "calories": 360,
+      "protein": 22,
+      "carbs": 8,
+      "fat": 28,
+      "sodium": 680,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Egg",
+        "Shellfish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3",
+        "Contains selenium"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in cholesterol",
+        "High in sodium"
+      ]
+    },
+    "301d green curry chicken 青咖喱鸡肉": {
+      "calories": 420,
+      "protein": 28,
+      "carbs": 18,
+      "fat": 28,
+      "sodium": 980,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains capsaicin from chili"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "basil chicken rice set 九层塔鸡肉配米饭套餐": {
+      "calories": 580,
+      "protein": 35,
+      "carbs": 52,
+      "fat": 22,
+      "sodium": 1120,
+      "sugar": 8,
+      "fiber": 3,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Balanced meal with carbs"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in saturated fat"
+      ]
+    },
+    "210d red tom yum seafood soup 红冬阴海鲜汤": {
+      "calories": 280,
+      "protein": 22,
+      "carbs": 15,
+      "fat": 14,
+      "sodium": 1240,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Shellfish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "413d deep-fried sea bass with thai chill": {
+      "calories": 620,
+      "protein": 48,
+      "carbs": 22,
+      "fat": 38,
+      "sodium": 1080,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "Excellent source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Deep-fried preparation"
+      ]
+    },
+    "green curry chicken set 青咖喱鸡肉套餐": {
+      "calories": 600,
+      "protein": 36,
+      "carbs": 48,
+      "fat": 30,
+      "sodium": 1180,
+      "sugar": 8,
+      "fiber": 3,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Balanced meal with carbs"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "803d sweet tapioca 椰奶甜木薯": {
+      "calories": 280,
+      "protein": 2,
+      "carbs": 48,
+      "fat": 8,
+      "sodium": 120,
+      "sugar": 36,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Light dessert option"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in carbs"
+      ]
+    },
+    "add mama noodles 加妈妈面": {
+      "calories": 380,
+      "protein": 9,
+      "carbs": 52,
+      "fat": 15,
+      "sodium": 1460,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in carbs"
+      ]
+    },
+    "605d stir-fried long bean with sambal 叁峇": {
+      "calories": 180,
+      "protein": 8,
+      "carbs": 12,
+      "fat": 12,
+      "sodium": 680,
+      "sugar": 4,
+      "fiber": 4,
+      "allergens": [
+        "Fish",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Low calorie vegetable dish"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "102d thai crispy spring roll (4pcs) 炸春卷": {
+      "calories": 320,
+      "protein": 8,
+      "carbs": 32,
+      "fat": 16,
+      "sodium": 540,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Fish"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Deep-fried preparation",
+        "High in fat"
+      ]
+    },
+    "904d iced thai lemongrass 冰香茅": {
+      "calories": 45,
+      "protein": 0,
+      "carbs": 11,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 10,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Very low calorie",
+        "Refreshing beverage"
+      ],
+      "healthWarnings": [
+        "Contains sugar"
+      ]
+    },
+    "502d deep-fried chicken stir-fried with": {
+      "calories": 420,
+      "protein": 32,
+      "carbs": 16,
+      "fat": 26,
+      "sodium": 920,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Deep-fried preparation"
+      ]
+    },
+    "104d basil chicken wing (5pcs) 九层塔鸡翅膀 (五": {
+      "calories": 380,
+      "protein": 28,
+      "carbs": 8,
+      "fat": 26,
+      "sodium": 780,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "pad thai noodle with seafood set 海鲜炒巴泰面套": {
+      "calories": 620,
+      "protein": 32,
+      "carbs": 58,
+      "fat": 26,
+      "sodium": 1340,
+      "sugar": 12,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Shellfish",
+        "Soy",
+        "Gluten",
+        "Peanut"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "High in omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in sugar",
+        "Contains peanuts"
+      ]
+    },
+    "211d red tom yum chicken soup 红冬阴鸡肉汤": {
+      "calories": 260,
+      "protein": 24,
+      "carbs": 12,
+      "fat": 12,
+      "sodium": 1160,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Low calorie soup"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "509d stir-fried minced chicken with eggp": {
+      "calories": 380,
+      "protein": 30,
+      "carbs": 12,
+      "fat": 24,
+      "sodium": 840,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Egg",
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "604d stir-fried mixed vegetable with mus": {
+      "calories": 160,
+      "protein": 6,
+      "carbs": 14,
+      "fat": 8,
+      "sodium": 620,
+      "sugar": 5,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Low calorie",
+        "Rich in vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "add prawn 加虾": {
+      "calories": 60,
+      "protein": 12,
+      "carbs": 1,
+      "fat": 1,
+      "sodium": 280,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "Excellent source of protein",
+        "High in omega-3",
+        "Very low calorie"
+      ],
+      "healthWarnings": []
+    },
+    "414d steamed sea bass w chilli, lime, ga": {
+      "calories": 380,
+      "protein": 48,
+      "carbs": 8,
+      "fat": 16,
+      "sodium": 920,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "Excellent source of protein",
+        "Low in calories"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "905d roselle drink 洛神花茶": {
+      "calories": 50,
+      "protein": 0,
+      "carbs": 12,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 11,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Very low calorie",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "Contains sugar"
+      ]
+    },
+    "416d claypot prawn tang hoon 砂煲虾冬粉": {
+      "calories": 480,
+      "protein": 28,
+      "carbs": 42,
+      "fat": 20,
+      "sodium": 1240,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "High in omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in saturated fat"
+      ]
+    },
+    "pineapple fried rice with prawn set 菠萝海鲜": {
+      "calories": 650,
+      "protein": 18,
+      "carbs": 78,
+      "fat": 28,
+      "sodium": 1200,
+      "sugar": 12,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains antioxidants from pineapple"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "907d hot green tea 热绿茶": {
+      "calories": 35,
+      "protein": 0,
+      "carbs": 8,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 7,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Rich in antioxidants",
+        "Low calorie"
+      ],
+      "healthWarnings": []
+    },
+    "207d clear tom yum seafood soup 冬阴海鲜汤": {
+      "calories": 180,
+      "protein": 16,
+      "carbs": 12,
+      "fat": 8,
+      "sodium": 1100,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Shellfish",
+        "Fish",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Low calorie",
+        "Contains probiotics from fermented ingredients"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "505d honey chicken 蜜汁鸡肉": {
+      "calories": 420,
+      "protein": 35,
+      "carbs": 28,
+      "fat": 18,
+      "sodium": 680,
+      "sugar": 18,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in sodium"
+      ]
+    },
+    "606d stir-fried long bean with oyster sa": {
+      "calories": 240,
+      "protein": 12,
+      "carbs": 18,
+      "fat": 14,
+      "sodium": 850,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Shellfish",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "High in vitamins and minerals"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "roasted chicken thigh with rice set 烤鸡腿配": {
+      "calories": 680,
+      "protein": 42,
+      "carbs": 62,
+      "fat": 28,
+      "sodium": 920,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron",
+        "Contains B vitamins"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in saturated fat"
+      ]
+    },
+    "909d coca-cola original less sugar 可口可乐": {
+      "calories": 95,
+      "protein": 0,
+      "carbs": 24,
+      "fat": 0,
+      "sodium": 55,
+      "sugar": 22,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains artificial sweeteners"
+      ]
+    },
+    "418d deep-fried sea bass w thai mango sa": {
+      "calories": 520,
+      "protein": 38,
+      "carbs": 28,
+      "fat": 28,
+      "sodium": 980,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in omega-3 fatty acids",
+        "Excellent source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "212d tom kha chicken soup with coconut m": {
+      "calories": 320,
+      "protein": 18,
+      "carbs": 16,
+      "fat": 20,
+      "sodium": 920,
+      "sugar": 6,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "910d coca-cola zero sugar 零度可乐": {
+      "calories": 5,
+      "protein": 0,
+      "carbs": 1,
+      "fat": 0,
+      "sodium": 65,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Zero sugar",
+        "Low calorie"
+      ],
+      "healthWarnings": [
+        "Contains artificial sweeteners"
+      ]
+    },
+    "419d steamed sotong with chilli and lime": {
+      "calories": 240,
+      "protein": 32,
+      "carbs": 8,
+      "fat": 8,
+      "sodium": 1050,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Shellfish",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Low in calories",
+        "Rich in minerals"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "213d chicken and egg tofu soup 鸡肉蛋豆腐汤": {
+      "calories": 240,
+      "protein": 20,
+      "carbs": 12,
+      "fat": 12,
+      "sodium": 880,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains calcium from tofu"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "911d sprite 雪碧": {
+      "calories": 110,
+      "protein": 0,
+      "carbs": 28,
+      "fat": 0,
+      "sodium": 50,
+      "sugar": 28,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "401d stir-fried mixed seafood with thai": {
+      "calories": 320,
+      "protein": 28,
+      "carbs": 16,
+      "fat": 16,
+      "sodium": 1020,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "403d stir-fried sotong with yellow ginge": {
+      "calories": 310,
+      "protein": 30,
+      "carbs": 14,
+      "fat": 14,
+      "sodium": 980,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains anti-inflammatory compounds from ginger"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "411d deep-fried fish fillet w sweet and": {
+      "calories": 420,
+      "protein": 32,
+      "carbs": 32,
+      "fat": 18,
+      "sodium": 850,
+      "sugar": 12,
+      "fiber": 1,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3 fatty acids"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "908d hot thai lemongrass 热香茅": {
+      "calories": 25,
+      "protein": 0,
+      "carbs": 5,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 4,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "412d deep-fried sea bass w sweet and sou": {
+      "calories": 480,
+      "protein": 36,
+      "carbs": 28,
+      "fat": 24,
+      "sodium": 920,
+      "sugar": 10,
+      "fiber": 1,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in omega-3 fatty acids"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "915d bottled water 瓶装水": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Hydrating",
+        "Zero calories"
+      ],
+      "healthWarnings": []
+    },
+    "917d iced thai red yakult soda": {
+      "calories": 180,
+      "protein": 0,
+      "carbs": 45,
+      "fat": 0,
+      "sodium": 95,
+      "sugar": 42,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains probiotics from Yakult"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in added sugars"
+      ]
+    }
+  }
+}

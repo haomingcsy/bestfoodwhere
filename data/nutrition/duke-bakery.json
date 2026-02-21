@@ -1,0 +1,2625 @@
+{
+  "brand": "duke-bakery",
+  "generatedAt": "2026-02-16T14:34:51.045Z",
+  "items": {
+    "traditional butter cookies (per pkt)": {
+      "calories": 630,
+      "protein": 7,
+      "carbs": 72,
+      "fat": 35,
+      "sodium": 280,
+      "sugar": 28,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "raisin and cream cheese": {
+      "calories": 380,
+      "protein": 12,
+      "carbs": 52,
+      "fat": 14,
+      "sodium": 420,
+      "sugar": 18,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains fiber",
+        "Contains raisins"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in sodium"
+      ]
+    },
+    "earl grey mousse": {
+      "calories": 3200,
+      "protein": 28,
+      "carbs": 320,
+      "fat": 180,
+      "sodium": 240,
+      "sugar": 240,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from Earl Grey"
+      ],
+      "healthWarnings": [
+        "Very high in calories",
+        "Very high in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "snow cake (4pcs)": {
+      "calories": 520,
+      "protein": 8,
+      "carbs": 58,
+      "fat": 28,
+      "sodium": 180,
+      "sugar": 32,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "taiwanese pineapple pastry - original (1pc) 原味台式凤梨酥": {
+      "calories": 180,
+      "protein": 2,
+      "carbs": 22,
+      "fat": 9,
+      "sodium": 140,
+      "sugar": 12,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains pineapple"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "chocolate oreo slice": {
+      "calories": 420,
+      "protein": 6,
+      "carbs": 48,
+      "fat": 24,
+      "sodium": 320,
+      "sugar": 32,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "milano bun": {
+      "calories": 320,
+      "protein": 8,
+      "carbs": 44,
+      "fat": 12,
+      "sodium": 360,
+      "sugar": 14,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "golden giftbox 金马迎春": {
+      "calories": 1100,
+      "protein": 12,
+      "carbs": 138,
+      "fat": 52,
+      "sodium": 580,
+      "sugar": 72,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains pineapple"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "whole wheat toast": {
+      "calories": 280,
+      "protein": 10,
+      "carbs": 42,
+      "fat": 8,
+      "sodium": 420,
+      "sugar": 6,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Whole grain"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "snow cake (2pcs)": {
+      "calories": 260,
+      "protein": 4,
+      "carbs": 29,
+      "fat": 14,
+      "sodium": 90,
+      "sugar": 16,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "caramel almond cake": {
+      "calories": 380,
+      "protein": 8,
+      "carbs": 42,
+      "fat": 20,
+      "sodium": 200,
+      "sugar": 28,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Contains almonds",
+        "Contains protein"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "chocolate oreo": {
+      "calories": 3400,
+      "protein": 32,
+      "carbs": 380,
+      "fat": 188,
+      "sodium": 560,
+      "sugar": 280,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Very high in calories",
+        "Very high in sugar",
+        "Very high in saturated fat"
+      ]
+    },
+    "chocolate taosu – walnut crisp cookie (6pcs)": {
+      "calories": 520,
+      "protein": 8,
+      "carbs": 48,
+      "fat": 32,
+      "sodium": 180,
+      "sugar": 24,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Contains walnuts",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in sugar"
+      ]
+    },
+    "happiness giftbox 诸事顺意": {
+      "calories": 1240,
+      "protein": 14,
+      "carbs": 132,
+      "fat": 68,
+      "sodium": 520,
+      "sugar": 68,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Contains matcha",
+        "Contains variety of ingredients"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "original taosu – walnut crisp cookie (6pcs)": {
+      "calories": 480,
+      "protein": 10,
+      "carbs": 44,
+      "fat": 30,
+      "sodium": 160,
+      "sugar": 18,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Contains walnuts",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in calories"
+      ]
+    },
+    "dusty cocoa": {
+      "calories": 380,
+      "protein": 6,
+      "carbs": 44,
+      "fat": 20,
+      "sodium": 200,
+      "sugar": 28,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains cocoa",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "taiwanese pineapple pastry gift set - original (8pcs) 原味台式凤梨酥礼盒": {
+      "calories": 1440,
+      "protein": 16,
+      "carbs": 176,
+      "fat": 72,
+      "sodium": 1120,
+      "sugar": 96,
+      "fiber": 8,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains pineapple"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "classic snowflake giftbox 经典雪花酥礼盒": {
+      "calories": 1080,
+      "protein": 12,
+      "carbs": 124,
+      "fat": 56,
+      "sodium": 380,
+      "sugar": 72,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Contains matcha",
+        "Contains sweet potato"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "japanese scone (chocolate) ( per piece )": {
+      "calories": 220,
+      "protein": 4,
+      "carbs": 26,
+      "fat": 11,
+      "sodium": 180,
+      "sugar": 12,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "citrus cheesecake": {
+      "calories": 3680,
+      "protein": 48,
+      "carbs": 340,
+      "fat": 220,
+      "sodium": 580,
+      "sugar": 280,
+      "fiber": 4,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "earl grey mousse slice": {
+      "calories": 380,
+      "protein": 6,
+      "carbs": 38,
+      "fat": 22,
+      "sodium": 95,
+      "sugar": 28,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from Earl Grey tea"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "taiwanese pineapple pastry gift set - cranberry (8pcs) 蔓越莓台式凤梨酥礼盒": {
+      "calories": 1240,
+      "protein": 16,
+      "carbs": 140,
+      "fat": 64,
+      "sodium": 320,
+      "sugar": 72,
+      "fiber": 6,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains vitamin C from pineapple",
+        "Contains antioxidants from cranberry"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "chocolate taosu – walnut crisp cookie (1pc)": {
+      "calories": 168,
+      "protein": 3,
+      "carbs": 16,
+      "fat": 10,
+      "sodium": 85,
+      "sugar": 9,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from cocoa",
+        "Source of plant-based fat"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "Contains palm oil"
+      ]
+    },
+    "classic sandwich cookie giftbox 经典夹心饼干礼盒": {
+      "calories": 1680,
+      "protein": 18,
+      "carbs": 176,
+      "fat": 88,
+      "sodium": 420,
+      "sugar": 104,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "matcha raspberry": {
+      "calories": 3240,
+      "protein": 44,
+      "carbs": 300,
+      "fat": 200,
+      "sodium": 520,
+      "sugar": 260,
+      "fiber": 6,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from matcha",
+        "Contains vitamin C from raspberry"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "10-mutli grain toast": {
+      "calories": 420,
+      "protein": 14,
+      "carbs": 68,
+      "fat": 8,
+      "sodium": 580,
+      "sugar": 4,
+      "fiber": 8,
+      "allergens": [
+        "Gluten",
+        "Tree Nut",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "Good source of protein",
+        "Contains whole grains"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "candy cookie pouch 糖果曲奇包": {
+      "calories": 880,
+      "protein": 10,
+      "carbs": 104,
+      "fat": 48,
+      "sodium": 280,
+      "sugar": 56,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "original taosu – walnut crisp cookie (1pc)": {
+      "calories": 156,
+      "protein": 3,
+      "carbs": 14,
+      "fat": 10,
+      "sodium": 75,
+      "sugar": 5,
+      "fiber": 1,
+      "allergens": [
+        "Egg",
+        "Gluten",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Source of plant-based fat",
+        "Contains minerals from walnut"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "Contains palm oil"
+      ]
+    },
+    "citrus cheesecake slice": {
+      "calories": 420,
+      "protein": 6,
+      "carbs": 38,
+      "fat": 26,
+      "sodium": 68,
+      "sugar": 32,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains vitamin C from citrus"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sugar"
+      ]
+    },
+    "french walnut": {
+      "calories": 380,
+      "protein": 12,
+      "carbs": 52,
+      "fat": 14,
+      "sodium": 480,
+      "sugar": 3,
+      "fiber": 6,
+      "allergens": [
+        "Gluten",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains plant-based fat"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "chocolate blueberry": {
+      "calories": 3580,
+      "protein": 46,
+      "carbs": 320,
+      "fat": 220,
+      "sodium": 560,
+      "sugar": 260,
+      "fiber": 8,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from blueberry",
+        "Contains antioxidants from cocoa"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "garlic ham": {
+      "calories": 320,
+      "protein": 16,
+      "carbs": 40,
+      "fat": 12,
+      "sodium": 720,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Processed meat content"
+      ]
+    },
+    "chia seed cheesy stick": {
+      "calories": 680,
+      "protein": 18,
+      "carbs": 72,
+      "fat": 36,
+      "sodium": 640,
+      "sugar": 6,
+      "fiber": 8,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "Good source of protein",
+        "Contains omega-3 from chia seeds"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "chocolate blueberry slice": {
+      "calories": 420,
+      "protein": 6,
+      "carbs": 40,
+      "fat": 26,
+      "sodium": 85,
+      "sugar": 32,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from blueberry",
+        "Contains antioxidants from cocoa"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sugar"
+      ]
+    },
+    "tiramisu": {
+      "calories": 3420,
+      "protein": 50,
+      "carbs": 310,
+      "fat": 210,
+      "sodium": 540,
+      "sugar": 270,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains caffeine from coffee"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sugar",
+        "High in calories",
+        "Contains raw egg risk"
+      ]
+    },
+    "quinoa walnut": {
+      "calories": 420,
+      "protein": 14,
+      "carbs": 56,
+      "fat": 16,
+      "sodium": 520,
+      "sugar": 2,
+      "fiber": 8,
+      "allergens": [
+        "Gluten",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "Complete protein source from quinoa",
+        "Contains plant-based fat"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "black forest slice": {
+      "calories": 400,
+      "protein": 6,
+      "carbs": 42,
+      "fat": 24,
+      "sodium": 90,
+      "sugar": 34,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from cocoa",
+        "Contains vitamin C from cherry"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sugar"
+      ]
+    },
+    "pineapple ball 财源滚滚": {
+      "calories": 1360,
+      "protein": 14,
+      "carbs": 156,
+      "fat": 64,
+      "sodium": 340,
+      "sugar": 68,
+      "fiber": 4,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains vitamin C from pineapple"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "pineapple tart 好运旺旺来": {
+      "calories": 1380,
+      "protein": 14,
+      "carbs": 158,
+      "fat": 66,
+      "sodium": 350,
+      "sugar": 70,
+      "fiber": 4,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains vitamin C from pineapple"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "pandan coconut butter cookies (per pkt)": {
+      "calories": 680,
+      "protein": 8,
+      "carbs": 72,
+      "fat": 40,
+      "sodium": 320,
+      "sugar": 36,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Tree Nut"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sugar"
+      ]
+    },
+    "black forest": {
+      "calories": 2800,
+      "protein": 32,
+      "carbs": 280,
+      "fat": 160,
+      "sodium": 480,
+      "sugar": 200,
+      "fiber": 6,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from cocoa"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "hokkaido mixed bean toast": {
+      "calories": 320,
+      "protein": 12,
+      "carbs": 48,
+      "fat": 8,
+      "sodium": 380,
+      "sugar": 12,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains legume protein"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "matcha raspberry slice": {
+      "calories": 340,
+      "protein": 6,
+      "carbs": 42,
+      "fat": 16,
+      "sodium": 180,
+      "sugar": 28,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from matcha",
+        "Contains vitamin C from raspberry"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "duke garlic slice (per pkt)": {
+      "calories": 720,
+      "protein": 10,
+      "carbs": 68,
+      "fat": 44,
+      "sodium": 680,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains garlic"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "butter cookie牛油曲奇": {
+      "calories": 1980,
+      "protein": 20,
+      "carbs": 180,
+      "fat": 132,
+      "sodium": 420,
+      "sugar": 72,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Tree Nut"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sugar"
+      ]
+    },
+    "cranberry cookie 蔓越莓曲奇": {
+      "calories": 1980,
+      "protein": 20,
+      "carbs": 184,
+      "fat": 132,
+      "sodium": 420,
+      "sugar": 76,
+      "fiber": 5,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from cranberry"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sugar"
+      ]
+    },
+    "tiramisu slice": {
+      "calories": 380,
+      "protein": 8,
+      "carbs": 38,
+      "fat": 22,
+      "sodium": 200,
+      "sugar": 32,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains caffeine from coffee"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "duke chocolate slice (per pkt)": {
+      "calories": 720,
+      "protein": 10,
+      "carbs": 72,
+      "fat": 44,
+      "sodium": 240,
+      "sugar": 40,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from cocoa"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sugar"
+      ]
+    },
+    "cranberry walnut": {
+      "calories": 340,
+      "protein": 11,
+      "carbs": 44,
+      "fat": 14,
+      "sodium": 360,
+      "sugar": 10,
+      "fiber": 5,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains omega-3 from walnuts",
+        "Contains antioxidants from cranberry"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "almond cookies (per pkt)": {
+      "calories": 760,
+      "protein": 18,
+      "carbs": 68,
+      "fat": 48,
+      "sodium": 280,
+      "sugar": 32,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Good source of vitamin E from almonds",
+        "Contains protein"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sugar"
+      ]
+    },
+    "sourdough loaf": {
+      "calories": 620,
+      "protein": 18,
+      "carbs": 104,
+      "fat": 8,
+      "sodium": 920,
+      "sugar": 2,
+      "fiber": 6,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Lower glycemic impact",
+        "Contains probiotics"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "matcha cookie 抹茶曲奇": {
+      "calories": 1980,
+      "protein": 20,
+      "carbs": 180,
+      "fat": 132,
+      "sodium": 420,
+      "sugar": 68,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from matcha"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sugar"
+      ]
+    },
+    "walnut cookie 核桃曲奇": {
+      "calories": 1980,
+      "protein": 22,
+      "carbs": 176,
+      "fat": 136,
+      "sodium": 360,
+      "sugar": 64,
+      "fiber": 6,
+      "allergens": [
+        "Gluten",
+        "Tree Nut",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Contains omega-3 from walnuts",
+        "Contains minerals from sesame"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sugar"
+      ]
+    },
+    "energy stick": {
+      "calories": 420,
+      "protein": 14,
+      "carbs": 44,
+      "fat": 22,
+      "sodium": 280,
+      "sugar": 8,
+      "fiber": 5,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Tree Nut",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains plant-based protein",
+        "Contains omega-3 from seeds"
+      ],
+      "healthWarnings": []
+    },
+    "egg toast": {
+      "calories": 340,
+      "protein": 14,
+      "carbs": 44,
+      "fat": 12,
+      "sodium": 420,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "chocolate crisp cookie 巧克力脆片曲奇": {
+      "calories": 1980,
+      "protein": 20,
+      "carbs": 184,
+      "fat": 132,
+      "sodium": 420,
+      "sugar": 80,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from cocoa"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sugar"
+      ]
+    },
+    "walnut cheese": {
+      "calories": 280,
+      "protein": 10,
+      "carbs": 32,
+      "fat": 14,
+      "sodium": 340,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Good source of protein from cheese",
+        "Contains omega-3 from walnuts"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "duke sugar slice (per pkt)": {
+      "calories": 720,
+      "protein": 8,
+      "carbs": 80,
+      "fat": 40,
+      "sodium": 240,
+      "sugar": 48,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "bruce blueberry": {
+      "calories": 320,
+      "protein": 9,
+      "carbs": 48,
+      "fat": 8,
+      "sodium": 380,
+      "sugar": 14,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from blueberry",
+        "Good source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "passion fruit cookie 百香果曲奇": {
+      "calories": 520,
+      "protein": 8,
+      "carbs": 52,
+      "fat": 30,
+      "sodium": 180,
+      "sugar": 28,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Tree Nut",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from passion fruit",
+        "Good source of almonds"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "chocolate cookies (per pkt)": {
+      "calories": 720,
+      "protein": 9,
+      "carbs": 78,
+      "fat": 40,
+      "sodium": 240,
+      "sugar": 38,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains cocoa"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "black sesame": {
+      "calories": 380,
+      "protein": 10,
+      "carbs": 48,
+      "fat": 16,
+      "sodium": 320,
+      "sugar": 8,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of sesame",
+        "Rich in minerals"
+      ],
+      "healthWarnings": [
+        "Moderate sodium",
+        "High in calories"
+      ]
+    },
+    "blueberry cookie 蓝莓曲奇": {
+      "calories": 530,
+      "protein": 8,
+      "carbs": 54,
+      "fat": 31,
+      "sodium": 180,
+      "sugar": 30,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Tree Nut",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from blueberry",
+        "Good source of almonds"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "almond cookie (large) 杏仁饼干(大)": {
+      "calories": 680,
+      "protein": 14,
+      "carbs": 56,
+      "fat": 45,
+      "sodium": 160,
+      "sugar": 26,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Tree Nut",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of almonds",
+        "High in protein",
+        "Contains vitamin E"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "chia seed cheesy stick 奇亚籽芝士条": {
+      "calories": 280,
+      "protein": 9,
+      "carbs": 24,
+      "fat": 16,
+      "sodium": 380,
+      "sugar": 2,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of chia seeds",
+        "High in omega-3",
+        "Low sugar"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "swiss chocolate": {
+      "calories": 320,
+      "protein": 6,
+      "carbs": 38,
+      "fat": 16,
+      "sodium": 240,
+      "sugar": 18,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains cocoa"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "pizza onion toast": {
+      "calories": 340,
+      "protein": 11,
+      "carbs": 38,
+      "fat": 16,
+      "sodium": 520,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "cranberry citrus cookie 蔓越莓橘皮饼干": {
+      "calories": 380,
+      "protein": 6,
+      "carbs": 48,
+      "fat": 18,
+      "sodium": 200,
+      "sugar": 22,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains cranberry and citrus"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "chocolate cookie 巧克力饼干": {
+      "calories": 400,
+      "protein": 8,
+      "carbs": 44,
+      "fat": 20,
+      "sodium": 200,
+      "sugar": 20,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Contains cocoa",
+        "Good source of almonds"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "wholemeal sourdough loaf": {
+      "calories": 380,
+      "protein": 13,
+      "carbs": 58,
+      "fat": 8,
+      "sodium": 480,
+      "sugar": 4,
+      "fiber": 6,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "High in protein",
+        "Low sugar"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "chinese wolfberry": {
+      "calories": 320,
+      "protein": 9,
+      "carbs": 44,
+      "fat": 12,
+      "sodium": 340,
+      "sugar": 8,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains wolfberry antioxidants"
+      ],
+      "healthWarnings": [
+        "Moderate sodium"
+      ]
+    },
+    "red yeast wolfberry cookie 红曲枸杞饼干": {
+      "calories": 360,
+      "protein": 7,
+      "carbs": 46,
+      "fat": 16,
+      "sodium": 220,
+      "sugar": 18,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Contains wolfberry",
+        "Contains sesame"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "horse year fortune basket 马年福气篮子": {
+      "calories": 450,
+      "protein": 9,
+      "carbs": 52,
+      "fat": 22,
+      "sodium": 240,
+      "sugar": 20,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Mixed assortment"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "japanese scone (blueberry) ( per piece )": {
+      "calories": 180,
+      "protein": 4,
+      "carbs": 22,
+      "fat": 8,
+      "sodium": 160,
+      "sugar": 8,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains blueberry"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "strawberry cookie 草莓曲奇": {
+      "calories": 520,
+      "protein": 8,
+      "carbs": 52,
+      "fat": 30,
+      "sodium": 180,
+      "sugar": 28,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Tree Nut",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains strawberry",
+        "Good source of almonds"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "chocolate bun": {
+      "calories": 320,
+      "protein": 7,
+      "carbs": 42,
+      "fat": 14,
+      "sodium": 280,
+      "sugar": 16,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains cocoa"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "matcha roll with mochi": {
+      "calories": 340,
+      "protein": 6,
+      "carbs": 48,
+      "fat": 14,
+      "sodium": 200,
+      "sugar": 18,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains matcha antioxidants",
+        "Contains mochi"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "mango cookie 芒果曲奇": {
+      "calories": 520,
+      "protein": 8,
+      "carbs": 54,
+      "fat": 30,
+      "sodium": 180,
+      "sugar": 30,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Tree Nut",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains mango",
+        "Good source of almonds"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "chia seed cheesy stick (large) 奇亚籽芝士条 (大)": {
+      "calories": 520,
+      "protein": 14,
+      "carbs": 52,
+      "fat": 28,
+      "sodium": 680,
+      "sugar": 8,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "Good source of fiber"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "orange and walnut": {
+      "calories": 380,
+      "protein": 9,
+      "carbs": 48,
+      "fat": 18,
+      "sodium": 320,
+      "sugar": 12,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Tree Nut",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Good source of fiber"
+      ],
+      "healthWarnings": [
+        "Moderate saturated fat"
+      ]
+    },
+    "chrysanthemum": {
+      "calories": 320,
+      "protein": 8,
+      "carbs": 45,
+      "fat": 12,
+      "sodium": 280,
+      "sugar": 10,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains herbal benefits",
+        "Light and refreshing"
+      ],
+      "healthWarnings": []
+    },
+    "energy stick 能量棒": {
+      "calories": 380,
+      "protein": 11,
+      "carbs": 42,
+      "fat": 19,
+      "sodium": 240,
+      "sugar": 14,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Sesame",
+        "Tree Nut",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in antioxidants",
+        "Good source of fiber",
+        "Contains nuts"
+      ],
+      "healthWarnings": [
+        "Moderate sodium",
+        "High in sugar"
+      ]
+    },
+    "french garlic soft bread": {
+      "calories": 280,
+      "protein": 8,
+      "carbs": 38,
+      "fat": 11,
+      "sodium": 580,
+      "sugar": 4,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains garlic",
+        "Soft texture"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "cranberry quinoa": {
+      "calories": 360,
+      "protein": 10,
+      "carbs": 50,
+      "fat": 14,
+      "sodium": 300,
+      "sugar": 11,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in quinoa",
+        "Good source of fiber",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "green jewel": {
+      "calories": 420,
+      "protein": 11,
+      "carbs": 52,
+      "fat": 20,
+      "sodium": 340,
+      "sugar": 16,
+      "fiber": 5,
+      "allergens": [
+        "Gluten",
+        "Tree Nut",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in antioxidants",
+        "Multiple berries",
+        "Contains matcha"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Moderate saturated fat"
+      ]
+    },
+    "japanese scone (cranberry) ( per piece )": {
+      "calories": 140,
+      "protein": 3,
+      "carbs": 18,
+      "fat": 6,
+      "sodium": 120,
+      "sugar": 6,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Portioned control",
+        "Light pastry"
+      ],
+      "healthWarnings": [
+        "Moderate sugar"
+      ]
+    },
+    "japanese scone (salted) ( per piece )": {
+      "calories": 150,
+      "protein": 3,
+      "carbs": 19,
+      "fat": 7,
+      "sodium": 280,
+      "sugar": 4,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Portioned control"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "farlona": {
+      "calories": 320,
+      "protein": 8,
+      "carbs": 42,
+      "fat": 14,
+      "sodium": 260,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": []
+    },
+    "double choco orange": {
+      "calories": 380,
+      "protein": 7,
+      "carbs": 50,
+      "fat": 18,
+      "sodium": 300,
+      "sugar": 24,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains orange peel"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "super energy 12": {
+      "calories": 380,
+      "protein": 12,
+      "carbs": 54,
+      "fat": 14,
+      "sodium": 280,
+      "sugar": 10,
+      "fiber": 6,
+      "allergens": [
+        "Gluten",
+        "Sesame",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "Multiple grains",
+        "Seeds and nuts",
+        "Low sugar"
+      ],
+      "healthWarnings": []
+    },
+    "blueberry macadamia": {
+      "calories": 400,
+      "protein": 10,
+      "carbs": 48,
+      "fat": 20,
+      "sodium": 320,
+      "sugar": 14,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Tree Nut",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in antioxidants",
+        "Good source of fiber"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "Moderate sugar"
+      ]
+    },
+    "tuna corn pillow": {
+      "calories": 320,
+      "protein": 13,
+      "carbs": 38,
+      "fat": 14,
+      "sodium": 520,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Fish",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "savoury sausage twist": {
+      "calories": 300,
+      "protein": 12,
+      "carbs": 34,
+      "fat": 14,
+      "sodium": 580,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "chocolate with mochi": {
+      "calories": 360,
+      "protein": 8,
+      "carbs": 50,
+      "fat": 15,
+      "sodium": 280,
+      "sugar": 20,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Chewy texture"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Moderate saturated fat"
+      ]
+    },
+    "salt bread set": {
+      "calories": 280,
+      "protein": 9,
+      "carbs": 38,
+      "fat": 11,
+      "sodium": 480,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Variety of flavors"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "red bean mochi salt bread": {
+      "calories": 220,
+      "protein": 6,
+      "carbs": 35,
+      "fat": 6,
+      "sodium": 420,
+      "sugar": 8,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Sesame",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains red beans"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "truffle salt bread": {
+      "calories": 240,
+      "protein": 7,
+      "carbs": 32,
+      "fat": 10,
+      "sodium": 480,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Gourmet ingredients"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "matcha cranberry cheese": {
+      "calories": 340,
+      "protein": 9,
+      "carbs": 46,
+      "fat": 14,
+      "sodium": 320,
+      "sugar": 13,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains matcha",
+        "Antioxidants"
+      ],
+      "healthWarnings": [
+        "Moderate sugar",
+        "Moderate saturated fat"
+      ]
+    },
+    "chocolate and blue mt. coffee": {
+      "calories": 380,
+      "protein": 8,
+      "carbs": 48,
+      "fat": 16,
+      "sodium": 320,
+      "sugar": 18,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Source of antioxidants from coffee"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "triangle cheese": {
+      "calories": 280,
+      "protein": 10,
+      "carbs": 32,
+      "fat": 12,
+      "sodium": 480,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of calcium and protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "healthy longan": {
+      "calories": 320,
+      "protein": 7,
+      "carbs": 52,
+      "fat": 8,
+      "sodium": 280,
+      "sugar": 22,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains antioxidants from longan"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "healthy sweet potato": {
+      "calories": 330,
+      "protein": 6,
+      "carbs": 54,
+      "fat": 9,
+      "sodium": 290,
+      "sugar": 18,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains beta-carotene",
+        "Lower glycemic index"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "taro beauty": {
+      "calories": 350,
+      "protein": 6,
+      "carbs": 50,
+      "fat": 14,
+      "sodium": 310,
+      "sugar": 16,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Source of minerals",
+        "Contains resistant starch"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "Moderate sugar content"
+      ]
+    },
+    "tuna cheese": {
+      "calories": 310,
+      "protein": 16,
+      "carbs": 35,
+      "fat": 11,
+      "sodium": 520,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3 from tuna"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "japanese scone (raisin) ( per piece )": {
+      "calories": 140,
+      "protein": 2,
+      "carbs": 22,
+      "fat": 5,
+      "sodium": 120,
+      "sugar": 8,
+      "fiber": 0.5,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains natural sugars from raisins"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "qq taro toast": {
+      "calories": 320,
+      "protein": 5,
+      "carbs": 48,
+      "fat": 12,
+      "sodium": 300,
+      "sugar": 14,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Source of minerals from taro"
+      ],
+      "healthWarnings": [
+        "High in saturated fat"
+      ]
+    },
+    "baby toast - mix & match (3pcs)": {
+      "calories": 280,
+      "protein": 4,
+      "carbs": 38,
+      "fat": 12,
+      "sodium": 240,
+      "sugar": 12,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in saturated fat",
+        "Moderate sugar content"
+      ]
+    },
+    "baby toast - chocolate (4pcs)": {
+      "calories": 360,
+      "protein": 5,
+      "carbs": 48,
+      "fat": 16,
+      "sodium": 280,
+      "sugar": 14,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Source of antioxidants from cocoa"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sugar"
+      ]
+    },
+    "baby toast - chocolate (1pc)": {
+      "calories": 90,
+      "protein": 1,
+      "carbs": 12,
+      "fat": 4,
+      "sodium": 70,
+      "sugar": 3.5,
+      "fiber": 0.25,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Source of antioxidants from cocoa"
+      ],
+      "healthWarnings": [
+        "High in saturated fat"
+      ]
+    },
+    "baby toast - pandan (4pcs)": {
+      "calories": 350,
+      "protein": 5,
+      "carbs": 46,
+      "fat": 16,
+      "sodium": 270,
+      "sugar": 10,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in saturated fat"
+      ]
+    },
+    "baby toast - pandan (1pc)": {
+      "calories": 87,
+      "protein": 1,
+      "carbs": 11.5,
+      "fat": 4,
+      "sodium": 67,
+      "sugar": 2.5,
+      "fiber": 0.25,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in saturated fat"
+      ]
+    },
+    "baby toast - earl grey (4pcs)": {
+      "calories": 345,
+      "protein": 5,
+      "carbs": 46,
+      "fat": 15,
+      "sodium": 280,
+      "sugar": 9,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Source of antioxidants from tea"
+      ],
+      "healthWarnings": [
+        "High in saturated fat"
+      ]
+    },
+    "baby toast - earl grey (1pc)": {
+      "calories": 86,
+      "protein": 1,
+      "carbs": 11.5,
+      "fat": 3.75,
+      "sodium": 70,
+      "sugar": 2.25,
+      "fiber": 0.25,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Source of antioxidants from tea"
+      ],
+      "healthWarnings": [
+        "High in saturated fat"
+      ]
+    },
+    "smoky chicken melt": {
+      "calories": 380,
+      "protein": 18,
+      "carbs": 36,
+      "fat": 18,
+      "sodium": 580,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains fiber from walnuts"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "friday combo (scone 3pcs + blueberry juice)": {
+      "calories": 420,
+      "protein": 6,
+      "carbs": 62,
+      "fat": 16,
+      "sodium": 320,
+      "sugar": 28,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Source of antioxidants from blueberry",
+        "Contains vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "thursday combo (chocolate & blue mt coffee + mango juice)": {
+      "calories": 460,
+      "protein": 8,
+      "carbs": 68,
+      "fat": 16,
+      "sodium": 340,
+      "sugar": 32,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Source of antioxidants from coffee and cocoa",
+        "Contains vitamin C from mango"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "wednesday combo (orange and walnut + orange juice)": {
+      "calories": 420,
+      "protein": 7,
+      "carbs": 58,
+      "fat": 18,
+      "sodium": 280,
+      "sugar": 26,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "High in vitamin C",
+        "Good source of fiber",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "wednesday combo (cranberry walnut + orange juice)": {
+      "calories": 410,
+      "protein": 7,
+      "carbs": 60,
+      "fat": 15,
+      "sodium": 310,
+      "sugar": 24,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "High in vitamin C",
+        "Good source of fiber",
+        "Contains antioxidants from cranberry"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "tuesday combo (cranberry quinoa + apple juice)": {
+      "calories": 520,
+      "protein": 12,
+      "carbs": 68,
+      "fat": 18,
+      "sodium": 380,
+      "sugar": 18,
+      "fiber": 6,
+      "allergens": [
+        "Gluten",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains antioxidants from cranberry",
+        "Complete protein from quinoa"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "tuesday combo (quinoa walnut + apple juice)": {
+      "calories": 530,
+      "protein": 14,
+      "carbs": 65,
+      "fat": 20,
+      "sodium": 360,
+      "sugar": 16,
+      "fiber": 7,
+      "allergens": [
+        "Gluten",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "High in omega-3 fatty acids",
+        "Good source of protein",
+        "High in fiber"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "monday combo (green jewel + jelley yogurt)": {
+      "calories": 580,
+      "protein": 16,
+      "carbs": 72,
+      "fat": 22,
+      "sodium": 420,
+      "sugar": 22,
+      "fiber": 5,
+      "allergens": [
+        "Gluten",
+        "Tree Nut",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Rich in antioxidants",
+        "Good source of protein from yogurt",
+        "Contains multiple superfruits"
+      ],
+      "healthWarnings": [
+        "Moderate to high sugar content",
+        "Contains dairy"
+      ]
+    },
+    "red date bun": {
+      "calories": 360,
+      "protein": 8,
+      "carbs": 58,
+      "fat": 8,
+      "sodium": 280,
+      "sugar": 16,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Traditional ingredient with antioxidants"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content",
+        "Low fiber"
+      ]
+    },
+    "earl grey walnut": {
+      "calories": 420,
+      "protein": 11,
+      "carbs": 52,
+      "fat": 16,
+      "sodium": 340,
+      "sugar": 12,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Source of polyphenols from earl grey",
+        "Contains omega-3 from walnuts"
+      ],
+      "healthWarnings": [
+        "Moderate fat content"
+      ]
+    },
+    "chia walnut": {
+      "calories": 430,
+      "protein": 12,
+      "carbs": 50,
+      "fat": 18,
+      "sodium": 350,
+      "sugar": 11,
+      "fiber": 8,
+      "allergens": [
+        "Gluten",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "Rich in omega-3 fatty acids",
+        "Good source of protein"
+      ],
+      "healthWarnings": []
+    }
+  }
+}

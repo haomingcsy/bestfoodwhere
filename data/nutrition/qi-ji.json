@@ -1,0 +1,851 @@
+{
+  "brand": "qi-ji",
+  "generatedAt": "2026-02-21T11:23:10.254Z",
+  "items": {
+    "water chestnut (upsize)": {
+      "calories": 45,
+      "protein": 0,
+      "carbs": 11,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Good source of fiber",
+        "Natural hydration"
+      ],
+      "healthWarnings": []
+    },
+    "nasi lemak set 2 - chicken wing": {
+      "calories": 850,
+      "protein": 32,
+      "carbs": 78,
+      "fat": 42,
+      "sodium": 1200,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains complex carbs"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "nasi lemak rice (per portion)": {
+      "calories": 180,
+      "protein": 3,
+      "carbs": 35,
+      "fat": 3,
+      "sodium": 180,
+      "sugar": 0,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Source of carbohydrates",
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "Moderate sodium content"
+      ]
+    },
+    "tahu goreng": {
+      "calories": 380,
+      "protein": 18,
+      "carbs": 22,
+      "fat": 25,
+      "sodium": 520,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Peanut",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of fiber",
+        "Plant-based protein"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "Deep fried preparation",
+        "High in calories"
+      ]
+    },
+    "lime juice (upsize)": {
+      "calories": 50,
+      "protein": 1,
+      "carbs": 12,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 8,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "High in vitamin C",
+        "Low calorie",
+        "Good for hydration"
+      ],
+      "healthWarnings": []
+    },
+    "laksa chili": {
+      "calories": 15,
+      "protein": 1,
+      "carbs": 3,
+      "fat": 0,
+      "sodium": 450,
+      "sugar": 0,
+      "fiber": 1,
+      "allergens": [
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Very low calorie",
+        "Contains capsaicin"
+      ],
+      "healthWarnings": [
+        "Very high in sodium"
+      ]
+    },
+    "nasi lemak chili": {
+      "calories": 20,
+      "protein": 1,
+      "carbs": 4,
+      "fat": 0,
+      "sodium": 350,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Very low calorie",
+        "Adds flavor without fat"
+      ],
+      "healthWarnings": [
+        "Very high in sodium"
+      ]
+    },
+    "mee siam special": {
+      "calories": 720,
+      "protein": 28,
+      "carbs": 82,
+      "fat": 28,
+      "sodium": 1150,
+      "sugar": 5,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Fish",
+        "Shrimp",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "Moderate fat content"
+      ]
+    },
+    "ice lemon tea (upsize)": {
+      "calories": 85,
+      "protein": 0,
+      "carbs": 22,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 18,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants from tea"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains caffeine"
+      ]
+    },
+    "chicken wing (per piece)": {
+      "calories": 120,
+      "protein": 13,
+      "carbs": 0,
+      "fat": 7,
+      "sodium": 280,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "Moderately high in sodium",
+        "Fried preparation"
+      ]
+    },
+    "mee rebus special": {
+      "calories": 740,
+      "protein": 30,
+      "carbs": 85,
+      "fat": 30,
+      "sodium": 1100,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Fish",
+        "Shrimp",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "Moderate fat content"
+      ]
+    },
+    "bandung (upsize)": {
+      "calories": 120,
+      "protein": 0,
+      "carbs": 28,
+      "fat": 2,
+      "sodium": 15,
+      "sugar": 24,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains calcium from milk"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in calories"
+      ]
+    },
+    "thai milk tea (upsize)": {
+      "calories": 180,
+      "protein": 2,
+      "carbs": 32,
+      "fat": 5,
+      "sodium": 20,
+      "sugar": 28,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains calcium",
+        "Contains antioxidants from tea"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "Contains caffeine",
+        "High in calories"
+      ]
+    },
+    "egg noodles": {
+      "calories": 520,
+      "protein": 15,
+      "carbs": 72,
+      "fat": 16,
+      "sodium": 850,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of carbohydrates",
+        "Contains protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "Moderate fat content"
+      ]
+    },
+    "otah (per piece)": {
+      "calories": 85,
+      "protein": 8,
+      "carbs": 3,
+      "fat": 5,
+      "sodium": 320,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Fish",
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Contains fish and shellfish"
+      ]
+    },
+    "thai milk tea": {
+      "calories": 140,
+      "protein": 2,
+      "carbs": 24,
+      "fat": 4,
+      "sodium": 15,
+      "sugar": 22,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains calcium",
+        "Contains antioxidants from tea"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains caffeine"
+      ]
+    },
+    "begedil (per piece)": {
+      "calories": 110,
+      "protein": 3,
+      "carbs": 14,
+      "fat": 5,
+      "sodium": 180,
+      "sugar": 1,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains fiber",
+        "Good source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "Fried preparation",
+        "Moderate fat content"
+      ]
+    },
+    "nasi lemak set 1 - sausage, cuttlefish, chicken meat loaf": {
+      "calories": 920,
+      "protein": 38,
+      "carbs": 78,
+      "fat": 48,
+      "sodium": 1350,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Egg",
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains complex carbs"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in saturated fat",
+        "Very high in calories"
+      ]
+    },
+    "nasi lemak set 3 - chicken cutlet": {
+      "calories": 920,
+      "protein": 35,
+      "carbs": 78,
+      "fat": 48,
+      "sodium": 1280,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains complex carbs"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in saturated fat",
+        "Very high in calories"
+      ]
+    },
+    "bandung": {
+      "calories": 90,
+      "protein": 0,
+      "carbs": 21,
+      "fat": 1.5,
+      "sodium": 12,
+      "sugar": 18,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains calcium from milk"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "water chestnut": {
+      "calories": 45,
+      "protein": 0,
+      "carbs": 11,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 10,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Good source of fiber"
+      ],
+      "healthWarnings": []
+    },
+    "nasi lemak set 4 - tempura fish & chicken wing": {
+      "calories": 750,
+      "protein": 32,
+      "carbs": 72,
+      "fat": 38,
+      "sodium": 1200,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Egg",
+        "Gluten",
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "lime juice": {
+      "calories": 35,
+      "protein": 0,
+      "carbs": 9,
+      "fat": 0,
+      "sodium": 2,
+      "sugar": 7,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in vitamin C",
+        "Low calorie"
+      ],
+      "healthWarnings": []
+    },
+    "ayam berempah": {
+      "calories": 480,
+      "protein": 38,
+      "carbs": 18,
+      "fat": 28,
+      "sodium": 950,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "2x huat popiah (smoked duck) 薄饼烟熏鸭": {
+      "calories": 380,
+      "protein": 24,
+      "carbs": 35,
+      "fat": 16,
+      "sodium": 820,
+      "sugar": 8,
+      "fiber": 3,
+      "allergens": [
+        "Fish",
+        "Shellfish",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Good source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "thai green milk tea (upsize)": {
+      "calories": 220,
+      "protein": 3,
+      "carbs": 38,
+      "fat": 6,
+      "sodium": 85,
+      "sugar": 32,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "2x huat popiah (smoked salmon) 薄饼烟熏三文鱼": {
+      "calories": 420,
+      "protein": 26,
+      "carbs": 35,
+      "fat": 20,
+      "sodium": 840,
+      "sugar": 8,
+      "fiber": 3,
+      "allergens": [
+        "Fish",
+        "Shellfish",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "High in omega-3",
+        "Good source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "thai green milk tea": {
+      "calories": 160,
+      "protein": 2,
+      "carbs": 28,
+      "fat": 5,
+      "sodium": 75,
+      "sugar": 24,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "nasi lemak 6 - express": {
+      "calories": 520,
+      "protein": 22,
+      "carbs": 58,
+      "fat": 22,
+      "sodium": 1050,
+      "sugar": 1,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "soya milk": {
+      "calories": 85,
+      "protein": 3,
+      "carbs": 9,
+      "fat": 4,
+      "sodium": 95,
+      "sugar": 6,
+      "fiber": 1,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Low calorie"
+      ],
+      "healthWarnings": []
+    },
+    "soya milk ice (upsize)": {
+      "calories": 120,
+      "protein": 4,
+      "carbs": 13,
+      "fat": 5,
+      "sodium": 110,
+      "sugar": 8,
+      "fiber": 1,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": []
+    },
+    "curry chicken cutlet set": {
+      "calories": 620,
+      "protein": 28,
+      "carbs": 58,
+      "fat": 28,
+      "sodium": 1100,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Egg",
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "popiah (prawn) x2": {
+      "calories": 360,
+      "protein": 18,
+      "carbs": 38,
+      "fat": 14,
+      "sodium": 780,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Good source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "milo (ice)": {
+      "calories": 140,
+      "protein": 1,
+      "carbs": 24,
+      "fat": 4,
+      "sodium": 80,
+      "sugar": 20,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "milo ice (upsize)": {
+      "calories": 180,
+      "protein": 2,
+      "carbs": 32,
+      "fat": 5,
+      "sodium": 100,
+      "sugar": 26,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "popiah (premium) x2": {
+      "calories": 420,
+      "protein": 26,
+      "carbs": 42,
+      "fat": 16,
+      "sodium": 850,
+      "sugar": 7,
+      "fiber": 3,
+      "allergens": [
+        "Shellfish",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Good source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "laksa (clams)": {
+      "calories": 480,
+      "protein": 22,
+      "carbs": 48,
+      "fat": 20,
+      "sodium": 1150,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Fish",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "ice lemon tea": {
+      "calories": 40,
+      "protein": 0,
+      "carbs": 10,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 8,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie"
+      ],
+      "healthWarnings": []
+    },
+    "laksa (prawn)": {
+      "calories": 500,
+      "protein": 24,
+      "carbs": 50,
+      "fat": 22,
+      "sodium": 1180,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Fish",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "barley": {
+      "calories": 55,
+      "protein": 0,
+      "carbs": 14,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 11,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie"
+      ],
+      "healthWarnings": []
+    },
+    "laksa deluxe (scallop & prawns & clams)": {
+      "calories": 520,
+      "protein": 28,
+      "carbs": 52,
+      "fat": 18,
+      "sodium": 1240,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of omega-3",
+        "Rich in minerals"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in saturated fat"
+      ]
+    },
+    "mee siam": {
+      "calories": 380,
+      "protein": 14,
+      "carbs": 58,
+      "fat": 8,
+      "sodium": 980,
+      "sugar": 3,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Egg",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good source of whole grain",
+        "Contains vegetables",
+        "Moderate protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Contains added sugar in gravy"
+      ]
+    },
+    "mee rebus": {
+      "calories": 410,
+      "protein": 16,
+      "carbs": 54,
+      "fat": 12,
+      "sodium": 1120,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Egg",
+        "Shellfish",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables",
+        "Rich in carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in sugar",
+        "Moderate in saturated fat"
+      ]
+    }
+  }
+}

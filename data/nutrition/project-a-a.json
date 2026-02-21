@@ -1,0 +1,618 @@
+{
+  "brand": "project-a-a",
+  "generatedAt": "2026-02-21T11:21:24.534Z",
+  "items": {
+    "avocado toast": {
+      "calories": 380,
+      "protein": 14,
+      "carbs": 38,
+      "fat": 19,
+      "sodium": 420,
+      "sugar": 2,
+      "fiber": 9,
+      "allergens": [
+        "Tree Nut",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "Good source of healthy fats",
+        "Rich in antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "where my chocolate abs?": {
+      "calories": 420,
+      "protein": 14,
+      "carbs": 48,
+      "fat": 16,
+      "sodium": 120,
+      "sugar": 32,
+      "fiber": 6,
+      "allergens": [
+        "Peanut",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains antioxidants from cacao",
+        "Energy boosting"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "original flower bowl": {
+      "calories": 420,
+      "protein": 12,
+      "carbs": 58,
+      "fat": 16,
+      "sodium": 240,
+      "sugar": 24,
+      "fiber": 9,
+      "allergens": [
+        "Tree Nut",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in antioxidants",
+        "Good source of fiber",
+        "Rich in vitamins"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "assorted flavours": {
+      "calories": 5,
+      "protein": 0,
+      "carbs": 1,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Very low calorie",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "black coffee": {
+      "calories": 5,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Zero calories",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "matcha latte": {
+      "calories": 125,
+      "protein": 3,
+      "carbs": 14,
+      "fat": 4,
+      "sodium": 85,
+      "sugar": 9,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Low calorie",
+        "High in antioxidants",
+        "Contains L-theanine"
+      ],
+      "healthWarnings": []
+    },
+    "yogi wannabe-rry": {
+      "calories": 320,
+      "protein": 7,
+      "carbs": 58,
+      "fat": 5,
+      "sodium": 65,
+      "sugar": 38,
+      "fiber": 7,
+      "allergens": [],
+      "healthBenefits": [
+        "High in antioxidants",
+        "Good source of fiber",
+        "Contains omega-3"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "iced black coffee": {
+      "calories": 5,
+      "protein": 0.5,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in antioxidants",
+        "Low calorie",
+        "Boosts metabolism"
+      ],
+      "healthWarnings": []
+    },
+    "beach body to-go": {
+      "calories": 280,
+      "protein": 8,
+      "carbs": 52,
+      "fat": 4,
+      "sodium": 85,
+      "sugar": 38,
+      "fiber": 6,
+      "allergens": [
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "High in antioxidants",
+        "Good source of vitamin C",
+        "Contains probiotics"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "nuts for açaí bowl": {
+      "calories": 520,
+      "protein": 14,
+      "carbs": 62,
+      "fat": 26,
+      "sodium": 140,
+      "sugar": 32,
+      "fiber": 10,
+      "allergens": [
+        "Tree Nut",
+        "Peanut"
+      ],
+      "healthBenefits": [
+        "High in antioxidants",
+        "Good source of fiber",
+        "Contains omega-3"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories",
+        "High in fat"
+      ]
+    },
+    "nut butter toast": {
+      "calories": 420,
+      "protein": 16,
+      "carbs": 42,
+      "fat": 22,
+      "sodium": 380,
+      "sugar": 12,
+      "fiber": 7,
+      "allergens": [
+        "Tree Nut",
+        "Peanut",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "High in fiber",
+        "Contains healthy fats"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in fat"
+      ]
+    },
+    "hojicha latte": {
+      "calories": 220,
+      "protein": 3,
+      "carbs": 28,
+      "fat": 8,
+      "sodium": 75,
+      "sugar": 22,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Lower caffeine than regular tea",
+        "Calming properties"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "coconut yogurt açaí bowl": {
+      "calories": 480,
+      "protein": 10,
+      "carbs": 68,
+      "fat": 20,
+      "sodium": 150,
+      "sugar": 38,
+      "fiber": 9,
+      "allergens": [
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "High in antioxidants",
+        "Good source of probiotics",
+        "High in fiber"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "latte": {
+      "calories": 160,
+      "protein": 2.5,
+      "carbs": 16,
+      "fat": 8,
+      "sodium": 90,
+      "sugar": 12,
+      "fiber": 0,
+      "allergens": [
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "yogurta be kidding me": {
+      "calories": 310,
+      "protein": 9,
+      "carbs": 54,
+      "fat": 5,
+      "sodium": 95,
+      "sugar": 42,
+      "fiber": 5,
+      "allergens": [
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "High in antioxidants",
+        "Good source of vitamin C",
+        "Contains probiotics"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "iced latte": {
+      "calories": 120,
+      "protein": 3,
+      "carbs": 12,
+      "fat": 4,
+      "sodium": 85,
+      "sugar": 8,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Low calorie",
+        "Good source of calcium"
+      ],
+      "healthWarnings": []
+    },
+    "earl grey latte": {
+      "calories": 210,
+      "protein": 3,
+      "carbs": 26,
+      "fat": 8,
+      "sodium": 80,
+      "sugar": 20,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from tea",
+        "Lower caffeine than coffee"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "matcha espresso latte": {
+      "calories": 260,
+      "protein": 4,
+      "carbs": 32,
+      "fat": 9,
+      "sodium": 90,
+      "sugar": 24,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in antioxidants",
+        "Sustained energy release",
+        "Contains L-theanine"
+      ],
+      "healthWarnings": [
+        "Moderate caffeine content",
+        "Moderate sugar"
+      ]
+    },
+    "coffee america-no": {
+      "calories": 380,
+      "protein": 12,
+      "carbs": 42,
+      "fat": 16,
+      "sodium": 95,
+      "sugar": 24,
+      "fiber": 6,
+      "allergens": [
+        "Tree Nut",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in antioxidants",
+        "Good source of protein",
+        "Contains healthy fats"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "iced matcha latte": {
+      "calories": 180,
+      "protein": 2.5,
+      "carbs": 18,
+      "fat": 8,
+      "sodium": 90,
+      "sugar": 13,
+      "fiber": 1,
+      "allergens": [
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in antioxidants",
+        "Good source of L-theanine"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "lemon açaí bowl": {
+      "calories": 420,
+      "protein": 11,
+      "carbs": 58,
+      "fat": 14,
+      "sodium": 120,
+      "sugar": 32,
+      "fiber": 8,
+      "allergens": [
+        "Tree Nut",
+        "Dairy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "Rich in antioxidants",
+        "Good source of probiotics"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Moderate calories"
+      ]
+    },
+    "can't let that man-go": {
+      "calories": 340,
+      "protein": 8,
+      "carbs": 52,
+      "fat": 10,
+      "sodium": 75,
+      "sugar": 36,
+      "fiber": 7,
+      "allergens": [],
+      "healthBenefits": [
+        "High in antioxidants",
+        "Good source of potassium",
+        "Contains omega-3 from chia seeds"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Moderate calories"
+      ]
+    },
+    "strawberry matcha latte": {
+      "calories": 245,
+      "protein": 3,
+      "carbs": 35,
+      "fat": 8,
+      "sodium": 85,
+      "sugar": 29,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from matcha",
+        "Vitamin C from strawberry"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "iced hojicha latte": {
+      "calories": 130,
+      "protein": 3,
+      "carbs": 15,
+      "fat": 4,
+      "sodium": 85,
+      "sugar": 10,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Low calorie",
+        "Rich in antioxidants",
+        "Contains calcium"
+      ],
+      "healthWarnings": []
+    },
+    "cookie crussh açaí bowl": {
+      "calories": 480,
+      "protein": 10,
+      "carbs": 65,
+      "fat": 18,
+      "sodium": 180,
+      "sugar": 42,
+      "fiber": 7,
+      "allergens": [
+        "Tree Nut",
+        "Dairy",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "Rich in antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories",
+        "High in sodium"
+      ]
+    },
+    "diy açaí bowl - regular": {
+      "calories": 380,
+      "protein": 12,
+      "carbs": 52,
+      "fat": 14,
+      "sodium": 95,
+      "sugar": 28,
+      "fiber": 8,
+      "allergens": [
+        "Tree Nut",
+        "Peanut"
+      ],
+      "healthBenefits": [
+        "High in antioxidants",
+        "Good source of fiber",
+        "Rich in vitamins"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "diy açaí bowl": {
+      "calories": 410,
+      "protein": 11,
+      "carbs": 56,
+      "fat": 15,
+      "sodium": 125,
+      "sugar": 30,
+      "fiber": 9,
+      "allergens": [
+        "Tree Nut",
+        "Dairy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "Customizable",
+        "Rich in antioxidants"
+      ],
+      "healthWarnings": [
+        "Moderate sugar",
+        "Moderate calories"
+      ]
+    },
+    "iced earl grey latte": {
+      "calories": 130,
+      "protein": 3,
+      "carbs": 15,
+      "fat": 4,
+      "sodium": 90,
+      "sugar": 10,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "iced strawberry matcha latte": {
+      "calories": 240,
+      "protein": 3,
+      "carbs": 34,
+      "fat": 8,
+      "sodium": 85,
+      "sugar": 28,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from matcha",
+        "Lower caffeine than coffee"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "professor green": {
+      "calories": 410,
+      "protein": 13,
+      "carbs": 50,
+      "fat": 15,
+      "sodium": 110,
+      "sugar": 24,
+      "fiber": 7,
+      "allergens": [
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "High in leafy greens",
+        "Good source of protein",
+        "Rich in antioxidants"
+      ],
+      "healthWarnings": [
+        "Moderate calorie content"
+      ]
+    },
+    "diy açaí bowl - large": {
+      "calories": 520,
+      "protein": 16,
+      "carbs": 68,
+      "fat": 20,
+      "sodium": 130,
+      "sugar": 38,
+      "fiber": 10,
+      "allergens": [
+        "Tree Nut",
+        "Peanut"
+      ],
+      "healthBenefits": [
+        "High in antioxidants",
+        "Excellent source of fiber",
+        "Rich in vitamins and minerals"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    }
+  }
+}

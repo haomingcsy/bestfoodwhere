@@ -1,0 +1,1169 @@
+{
+  "brand": "ramen-kiou",
+  "generatedAt": "2026-02-21T11:23:49.890Z",
+  "items": {
+    "coca cola ®": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 39,
+      "fat": 0,
+      "sodium": 55,
+      "sugar": 39,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "truffle hamaguri ramen": {
+      "calories": 620,
+      "protein": 28,
+      "carbs": 72,
+      "fat": 22,
+      "sodium": 1680,
+      "sugar": 3,
+      "fiber": 3,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains seafood"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "value set for 2": {
+      "calories": 1420,
+      "protein": 52,
+      "carbs": 165,
+      "fat": 48,
+      "sodium": 3200,
+      "sugar": 28,
+      "fiber": 5,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Balanced meal for 2",
+        "Contains protein and vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "kiou signature black ebi chahan": {
+      "calories": 520,
+      "protein": 22,
+      "carbs": 58,
+      "fat": 20,
+      "sodium": 1280,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains prawn"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "hamaguri tonkotsu ramen": {
+      "calories": 580,
+      "protein": 26,
+      "carbs": 68,
+      "fat": 20,
+      "sodium": 1620,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains shellfish"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "hokkaido hotate chashu ramen": {
+      "calories": 640,
+      "protein": 32,
+      "carbs": 72,
+      "fat": 24,
+      "sodium": 1740,
+      "sugar": 3,
+      "fiber": 3,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains seafood and vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "torotama kiou ramen": {
+      "calories": 610,
+      "protein": 28,
+      "carbs": 70,
+      "fat": 22,
+      "sodium": 1580,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains egg"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "bibi sudachi highball 250ml": {
+      "calories": 105,
+      "protein": 0,
+      "carbs": 8,
+      "fat": 0,
+      "sodium": 30,
+      "sugar": 6,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie beverage",
+        "Contains citrus"
+      ],
+      "healthWarnings": [
+        "Contains alcohol"
+      ]
+    },
+    "deluxe shoyu tonkotsu ramen": {
+      "calories": 610,
+      "protein": 28,
+      "carbs": 70,
+      "fat": 22,
+      "sodium": 1640,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains egg"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "ebi mentai mayo fry": {
+      "calories": 280,
+      "protein": 14,
+      "carbs": 18,
+      "fat": 18,
+      "sodium": 420,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Shellfish",
+        "Egg",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains seafood"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "Deep fried"
+      ]
+    },
+    "seafood tomato ramen": {
+      "calories": 620,
+      "protein": 30,
+      "carbs": 74,
+      "fat": 20,
+      "sodium": 1720,
+      "sugar": 5,
+      "fiber": 4,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains vegetables and seafood",
+        "Contains lycopene from tomato"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "coca cola zero sugar ®": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 65,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Zero calories",
+        "Zero sugar"
+      ],
+      "healthWarnings": [
+        "Contains artificial sweeteners"
+      ]
+    },
+    "truffle shoyu ramen": {
+      "calories": 580,
+      "protein": 22,
+      "carbs": 70,
+      "fat": 20,
+      "sodium": 1620,
+      "sugar": 2,
+      "fiber": 3,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains shellfish"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "kata chashu tomato ramen": {
+      "calories": 640,
+      "protein": 32,
+      "carbs": 74,
+      "fat": 22,
+      "sodium": 1680,
+      "sugar": 5,
+      "fiber": 4,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains vegetables and lycopene"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "pokka sparkling lemon 325ml": {
+      "calories": 95,
+      "protein": 0,
+      "carbs": 24,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 22,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Refreshing beverage"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "kiou signature black chahan": {
+      "calories": 480,
+      "protein": 18,
+      "carbs": 56,
+      "fat": 18,
+      "sodium": 1240,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains egg"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "shoyu tonkotsu chashu ramen": {
+      "calories": 680,
+      "protein": 36,
+      "carbs": 72,
+      "fat": 26,
+      "sodium": 1740,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains 4 pieces of chashu"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "miso tonkotsu ramen": {
+      "calories": 600,
+      "protein": 24,
+      "carbs": 70,
+      "fat": 20,
+      "sodium": 1660,
+      "sugar": 3,
+      "fiber": 3,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains shellfish"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "kiou pan-fried gyoza (5pcs)": {
+      "calories": 240,
+      "protein": 12,
+      "carbs": 22,
+      "fat": 12,
+      "sodium": 580,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Portion controlled"
+      ],
+      "healthWarnings": [
+        "Pan fried"
+      ]
+    },
+    "hokkaido hotate ramen": {
+      "calories": 620,
+      "protein": 28,
+      "carbs": 72,
+      "fat": 22,
+      "sodium": 1700,
+      "sugar": 3,
+      "fiber": 3,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains seafood and vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "kiou ramen": {
+      "calories": 520,
+      "protein": 28,
+      "carbs": 52,
+      "fat": 20,
+      "sodium": 1680,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains collagen from broth"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "chashu chahan": {
+      "calories": 680,
+      "protein": 32,
+      "carbs": 68,
+      "fat": 28,
+      "sodium": 1240,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Provides energy"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Calorie-dense"
+      ]
+    },
+    "hokkaido hotate deluxe ramen": {
+      "calories": 640,
+      "protein": 38,
+      "carbs": 54,
+      "fat": 26,
+      "sodium": 1520,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Fish",
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains omega-3 from seafood",
+        "Good source of minerals"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "shoyu tonkotsu kata chashu ramen": {
+      "calories": 540,
+      "protein": 30,
+      "carbs": 50,
+      "fat": 22,
+      "sodium": 1720,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains collagen"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "tomato chashu ramen": {
+      "calories": 560,
+      "protein": 32,
+      "carbs": 52,
+      "fat": 22,
+      "sodium": 1480,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains lycopene from tomato",
+        "Lower sodium than traditional ramen"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "truffle seafood ramen": {
+      "calories": 620,
+      "protein": 35,
+      "carbs": 48,
+      "fat": 28,
+      "sodium": 1560,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Fish",
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains omega-3 from seafood"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "mentai mayo gyoza (5pcs)": {
+      "calories": 280,
+      "protein": 12,
+      "carbs": 24,
+      "fat": 14,
+      "sodium": 420,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in sodium"
+      ]
+    },
+    "riki tonkotsu ramen": {
+      "calories": 600,
+      "protein": 32,
+      "carbs": 50,
+      "fat": 28,
+      "sodium": 1640,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Fish",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains collagen"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "ice lemon tea": {
+      "calories": 120,
+      "protein": 0,
+      "carbs": 28,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 25,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "pokka sparkling peach 325ml": {
+      "calories": 150,
+      "protein": 0,
+      "carbs": 36,
+      "fat": 0,
+      "sodium": 30,
+      "sugar": 33,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "bottled water": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Hydrating",
+        "Zero calories"
+      ],
+      "healthWarnings": []
+    },
+    "truffle fried gyoza": {
+      "calories": 260,
+      "protein": 11,
+      "carbs": 22,
+      "fat": 13,
+      "sodium": 380,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in sodium"
+      ]
+    },
+    "aka tonkotsu ramen": {
+      "calories": 580,
+      "protein": 32,
+      "carbs": 50,
+      "fat": 24,
+      "sodium": 1720,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Fish",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains collagen"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Spicy"
+      ]
+    },
+    "chashu cube don": {
+      "calories": 520,
+      "protein": 28,
+      "carbs": 54,
+      "fat": 18,
+      "sodium": 980,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Good source of minerals"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "shoyu tonkotsu supreme kata chashu ramen": {
+      "calories": 620,
+      "protein": 38,
+      "carbs": 50,
+      "fat": 26,
+      "sodium": 1820,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains collagen"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "tomato cheese ramen": {
+      "calories": 600,
+      "protein": 34,
+      "carbs": 54,
+      "fat": 26,
+      "sodium": 1520,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Fish",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains lycopene",
+        "Good source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "kiou kata chashu ramen": {
+      "calories": 540,
+      "protein": 30,
+      "carbs": 52,
+      "fat": 20,
+      "sodium": 1640,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains collagen"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "shoyu tonkotsu aburi nankotsu ramen": {
+      "calories": 560,
+      "protein": 32,
+      "carbs": 48,
+      "fat": 24,
+      "sodium": 1680,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains collagen and cartilage"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "karaage (6pcs)": {
+      "calories": 420,
+      "protein": 26,
+      "carbs": 18,
+      "fat": 28,
+      "sodium": 480,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in calories",
+        "Deep fried"
+      ]
+    },
+    "kiou supreme kata chashu ramen": {
+      "calories": 720,
+      "protein": 38,
+      "carbs": 68,
+      "fat": 28,
+      "sodium": 1680,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains collagen from bone broth"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "ebi chahan": {
+      "calories": 520,
+      "protein": 18,
+      "carbs": 62,
+      "fat": 18,
+      "sodium": 920,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Shellfish",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3 from shrimp"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "Moderate fat content"
+      ]
+    },
+    "kuro tonkotsu ramen": {
+      "calories": 680,
+      "protein": 36,
+      "carbs": 64,
+      "fat": 26,
+      "sodium": 1620,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Fish",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains black garlic antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "yuzu sesame tori karaage": {
+      "calories": 380,
+      "protein": 28,
+      "carbs": 12,
+      "fat": 24,
+      "sodium": 580,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Sesame",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains sesame antioxidants"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "Deep fried"
+      ]
+    },
+    "aburi nankotsu ramen": {
+      "calories": 620,
+      "protein": 34,
+      "carbs": 66,
+      "fat": 20,
+      "sodium": 1540,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains cartilage nutrients"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "yawaraka tamago don": {
+      "calories": 480,
+      "protein": 16,
+      "carbs": 58,
+      "fat": 16,
+      "sodium": 680,
+      "sugar": 4,
+      "fiber": 1,
+      "allergens": [
+        "Egg",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of choline",
+        "Contains quality protein"
+      ],
+      "healthWarnings": [
+        "Moderate in sodium",
+        "High in calories"
+      ]
+    },
+    "green chilli tonkotsu ramen": {
+      "calories": 670,
+      "protein": 35,
+      "carbs": 64,
+      "fat": 25,
+      "sodium": 1600,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Fish",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Capsaicin from green chilli"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Spicy"
+      ]
+    },
+    "shoyu tonkotsu double niku ramen": {
+      "calories": 760,
+      "protein": 42,
+      "carbs": 68,
+      "fat": 30,
+      "sodium": 1720,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains cartilage nutrients"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Very high in calories"
+      ]
+    },
+    "double niku ramen": {
+      "calories": 750,
+      "protein": 40,
+      "carbs": 68,
+      "fat": 29,
+      "sodium": 1700,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains cartilage nutrients"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Very high in calories"
+      ]
+    },
+    "deluxe chashu don": {
+      "calories": 580,
+      "protein": 32,
+      "carbs": 56,
+      "fat": 20,
+      "sodium": 840,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "Moderate sodium",
+        "Moderate saturated fat"
+      ]
+    },
+    "truffle fried edamame": {
+      "calories": 320,
+      "protein": 12,
+      "carbs": 16,
+      "fat": 22,
+      "sodium": 420,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains plant compounds"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "Deep fried"
+      ]
+    },
+    "kata chashu & tamago platter": {
+      "calories": 320,
+      "protein": 22,
+      "carbs": 2,
+      "fat": 24,
+      "sodium": 620,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of choline"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "kata chashu don": {
+      "calories": 540,
+      "protein": 28,
+      "carbs": 56,
+      "fat": 18,
+      "sodium": 780,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "Moderate sodium",
+        "Moderate saturated fat"
+      ]
+    },
+    "chashu trio don": {
+      "calories": 680,
+      "protein": 42,
+      "carbs": 56,
+      "fat": 28,
+      "sodium": 1020,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in calories",
+        "Moderate sodium"
+      ]
+    },
+    "toro-tamago": {
+      "calories": 90,
+      "protein": 7,
+      "carbs": 1,
+      "fat": 7,
+      "sodium": 240,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of choline",
+        "Contains quality protein"
+      ],
+      "healthWarnings": [
+        "High in sodium relative to portion"
+      ]
+    }
+  }
+}

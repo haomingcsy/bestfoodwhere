@@ -1,0 +1,496 @@
+{
+  "brand": "mos-burger-junction-8",
+  "generatedAt": "2026-02-21T11:00:47.948Z",
+  "items": {
+    "xi har burger": {
+      "calories": 520,
+      "protein": 18,
+      "carbs": 52,
+      "fat": 24,
+      "sodium": 980,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "2 fish kids burger": {
+      "calories": 420,
+      "protein": 14,
+      "carbs": 45,
+      "fat": 18,
+      "sodium": 750,
+      "sugar": 6,
+      "fiber": 1,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "kids chicken tomato rice burger meal": {
+      "calories": 580,
+      "protein": 16,
+      "carbs": 68,
+      "fat": 22,
+      "sodium": 820,
+      "sugar": 18,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "xi har rice burger": {
+      "calories": 540,
+      "protein": 16,
+      "carbs": 62,
+      "fat": 22,
+      "sodium": 1020,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "mos burger": {
+      "calories": 380,
+      "protein": 15,
+      "carbs": 38,
+      "fat": 18,
+      "sodium": 680,
+      "sugar": 5,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "kids fish tomato rice burger meal": {
+      "calories": 560,
+      "protein": 14,
+      "carbs": 68,
+      "fat": 20,
+      "sodium": 800,
+      "sugar": 18,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "mos cheeseburger": {
+      "calories": 420,
+      "protein": 16,
+      "carbs": 38,
+      "fat": 22,
+      "sodium": 780,
+      "sugar": 5,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "kids cheese burger meal": {
+      "calories": 520,
+      "protein": 14,
+      "carbs": 62,
+      "fat": 20,
+      "sodium": 750,
+      "sugar": 16,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "spicy mos burger": {
+      "calories": 400,
+      "protein": 15,
+      "carbs": 39,
+      "fat": 19,
+      "sodium": 720,
+      "sugar": 6,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "kids chicken nuggets meal": {
+      "calories": 540,
+      "protein": 16,
+      "carbs": 62,
+      "fat": 22,
+      "sodium": 780,
+      "sugar": 16,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "kids corn cup (8oz)": {
+      "calories": 120,
+      "protein": 3,
+      "carbs": 18,
+      "fat": 4,
+      "sodium": 280,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "spicy mos cheeseburger": {
+      "calories": 440,
+      "protein": 16,
+      "carbs": 39,
+      "fat": 23,
+      "sodium": 820,
+      "sugar": 6,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "chicken burger": {
+      "calories": 410,
+      "protein": 18,
+      "carbs": 38,
+      "fat": 18,
+      "sodium": 680,
+      "sugar": 5,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "fish burger": {
+      "calories": 380,
+      "protein": 16,
+      "carbs": 38,
+      "fat": 16,
+      "sodium": 660,
+      "sugar": 4,
+      "fiber": 1,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "teriyaki chicken burger": {
+      "calories": 430,
+      "protein": 18,
+      "carbs": 42,
+      "fat": 19,
+      "sodium": 740,
+      "sugar": 8,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "yakiniku rice burger": {
+      "calories": 520,
+      "protein": 19,
+      "carbs": 58,
+      "fat": 22,
+      "sodium": 900,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Sesame",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "kakiage rice burger": {
+      "calories": 510,
+      "protein": 14,
+      "carbs": 60,
+      "fat": 22,
+      "sodium": 920,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Sesame"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "yakitori rice burger": {
+      "calories": 490,
+      "protein": 17,
+      "carbs": 56,
+      "fat": 20,
+      "sodium": 880,
+      "sugar": 7,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Sesame",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "teriyaki truffle wagyu burger": {
+      "calories": 580,
+      "protein": 22,
+      "carbs": 44,
+      "fat": 32,
+      "sodium": 920,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Very high in saturated fat"
+      ]
+    },
+    "deluxe mushroom wagyu burger": {
+      "calories": 560,
+      "protein": 21,
+      "carbs": 42,
+      "fat": 32,
+      "sodium": 880,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Very high in saturated fat"
+      ]
+    },
+    "unagi rice burger": {
+      "calories": 520,
+      "protein": 18,
+      "carbs": 62,
+      "fat": 19,
+      "sodium": 980,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3 fatty acids from eel"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "unagi tamago rice burger": {
+      "calories": 560,
+      "protein": 20,
+      "carbs": 63,
+      "fat": 21,
+      "sodium": 1050,
+      "sugar": 9,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Egg",
+        "Soy",
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3 fatty acids",
+        "Source of choline from egg"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in cholesterol"
+      ]
+    }
+  }
+}

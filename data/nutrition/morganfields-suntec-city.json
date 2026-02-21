@@ -1,0 +1,183 @@
+{
+  "brand": "morganfields-suntec-city",
+  "generatedAt": "2026-02-21T10:59:47.170Z",
+  "items": {
+    "angus beef ribeye": {
+      "calories": 720,
+      "protein": 68,
+      "carbs": 18,
+      "fat": 38,
+      "sodium": 480,
+      "sugar": 2,
+      "fiber": 3,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "Good source of B vitamins",
+        "Contains zinc"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in calories",
+        "High in cholesterol"
+      ]
+    },
+    "pork belly chop": {
+      "calories": 680,
+      "protein": 52,
+      "carbs": 22,
+      "fat": 42,
+      "sodium": 520,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains B vitamins",
+        "Rich in selenium"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in calories",
+        "High in sodium"
+      ]
+    },
+    "southern fried chicken & waffles": {
+      "calories": 920,
+      "protein": 48,
+      "carbs": 78,
+      "fat": 48,
+      "sodium": 1240,
+      "sugar": 18,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "Very high in calories",
+        "High in sodium",
+        "High in saturated fat",
+        "High in sugar"
+      ]
+    },
+    "smokehouse bacon cheeseburger": {
+      "calories": 820,
+      "protein": 52,
+      "carbs": 42,
+      "fat": 48,
+      "sodium": 1180,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "Very high in calories",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "the american": {
+      "calories": 720,
+      "protein": 44,
+      "carbs": 48,
+      "fat": 38,
+      "sodium": 1020,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "morgan's rib sandwich": {
+      "calories": 680,
+      "protein": 42,
+      "carbs": 52,
+      "fat": 32,
+      "sodium": 1100,
+      "sugar": 14,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat",
+        "High in sugar"
+      ]
+    },
+    "fried chicken sandwich": {
+      "calories": 720,
+      "protein": 38,
+      "carbs": 54,
+      "fat": 40,
+      "sodium": 980,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Dairy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "blackened salmon": {
+      "calories": 580,
+      "protein": 52,
+      "carbs": 24,
+      "fat": 28,
+      "sodium": 640,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in omega-3 fatty acids",
+        "Excellent source of protein",
+        "Rich in vitamin D",
+        "Good source of selenium"
+      ],
+      "healthWarnings": [
+        "Moderate in sodium"
+      ]
+    }
+  }
+}

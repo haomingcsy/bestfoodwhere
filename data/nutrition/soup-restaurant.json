@@ -1,0 +1,385 @@
+{
+  "brand": "soup-restaurant",
+  "generatedAt": "2026-02-21T11:42:43.831Z",
+  "items": {
+    "samsui ginger chicken 三水姜茸鸡": {
+      "calories": 420,
+      "protein": 48,
+      "carbs": 8,
+      "fat": 22,
+      "sodium": 1200,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in saturated fat"
+      ]
+    },
+    "baby abalone with crispy yam & longan yu sheng (m) + xo seafood fried rice (s)": {
+      "calories": 680,
+      "protein": 32,
+      "carbs": 78,
+      "fat": 28,
+      "sodium": 1800,
+      "sugar": 12,
+      "fiber": 3,
+      "allergens": [
+        "Fish",
+        "Shellfish",
+        "Soy",
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains omega-3 fatty acids"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "Moderate in saturated fat"
+      ]
+    },
+    "samsui sambal sauce 三水叁巴酱": {
+      "calories": 95,
+      "protein": 2,
+      "carbs": 6,
+      "fat": 7,
+      "sodium": 580,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Fish",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Contains capsaicin from chili"
+      ],
+      "healthWarnings": [
+        "High in sodium per serving"
+      ]
+    },
+    "homemade chrysanthemum tea (bottled)": {
+      "calories": 25,
+      "protein": 0,
+      "carbs": 6,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 4,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Antioxidant-rich",
+        "Low calorie",
+        "Traditional cooling properties"
+      ],
+      "healthWarnings": []
+    },
+    "red tea aloe vera jelly 红茶芦荟果冻": {
+      "calories": 120,
+      "protein": 1,
+      "carbs": 30,
+      "fat": 0,
+      "sodium": 40,
+      "sugar": 24,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains aloe vera",
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Moderate calories"
+      ]
+    },
+    "coke zero sugar": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 75,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Zero sugar",
+        "Zero calories"
+      ],
+      "healthWarnings": [
+        "Contains artificial sweeteners",
+        "Contains caffeine"
+      ]
+    },
+    "10 head braised abalone": {
+      "calories": 320,
+      "protein": 52,
+      "carbs": 4,
+      "fat": 10,
+      "sodium": 1400,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Shellfish",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Extremely high in protein",
+        "Rich in minerals",
+        "Low in carbs"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Premium ingredient"
+      ]
+    },
+    "samsui xo sauce 三水XO酱": {
+      "calories": 110,
+      "protein": 4,
+      "carbs": 4,
+      "fat": 9,
+      "sodium": 720,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Fish",
+        "Shellfish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains dried scallop and shrimp"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "samsui ginger sauce 三水姜茸酱": {
+      "calories": 85,
+      "protein": 1,
+      "carbs": 5,
+      "fat": 7,
+      "sodium": 550,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Contains fresh ginger",
+        "Anti-inflammatory properties"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "coke": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 39,
+      "fat": 0,
+      "sodium": 55,
+      "sugar": 39,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains caffeine",
+        "High calorie beverage"
+      ]
+    },
+    "双喜临门福袋 double happiness combo": {
+      "calories": 890,
+      "protein": 68,
+      "carbs": 72,
+      "fat": 36,
+      "sodium": 2100,
+      "sugar": 8,
+      "fiber": 3,
+      "allergens": [
+        "Fish",
+        "Shellfish",
+        "Soy",
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains omega-3",
+        "Festive specialty"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "sprite": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 36,
+      "fat": 0,
+      "sodium": 65,
+      "sugar": 36,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High calorie beverage"
+      ]
+    },
+    "small baby abalone crispy yam yusheng 小鲍鱼金芋龙眼鱼生(小)": {
+      "calories": 420,
+      "protein": 18,
+      "carbs": 58,
+      "fat": 14,
+      "sodium": 1100,
+      "sugar": 8,
+      "fiber": 3,
+      "allergens": [
+        "Fish",
+        "Shellfish",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Contains fresh vegetables",
+        "Festive auspicious dish",
+        "Moderate protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Contains raw fish"
+      ]
+    },
+    "medium baby abalone crispy yam yusheng 小鲍鱼金芋龙眼鱼生(中)": {
+      "calories": 520,
+      "protein": 24,
+      "carbs": 72,
+      "fat": 18,
+      "sodium": 1350,
+      "sugar": 10,
+      "fiber": 4,
+      "allergens": [
+        "Fish",
+        "Shellfish",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Contains fresh vegetables",
+        "Festive auspicious dish",
+        "Good for sharing"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Contains raw fish"
+      ]
+    },
+    "large baby abalone crispy yam yusheng 小鲍鱼金芋龙眼鱼生(大)": {
+      "calories": 640,
+      "protein": 32,
+      "carbs": 88,
+      "fat": 22,
+      "sodium": 1600,
+      "sugar": 12,
+      "fiber": 5,
+      "allergens": [
+        "Fish",
+        "Shellfish",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Contains fresh vegetables",
+        "Festive auspicious dish",
+        "Large sharing portion"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "Contains raw fish"
+      ]
+    },
+    "traditional steamed rice with chinese sausage 传统腊味饭 5pax": {
+      "calories": 1680,
+      "protein": 42,
+      "carbs": 198,
+      "fat": 58,
+      "sodium": 1800,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of carbohydrates",
+        "Serves 5 people"
+      ],
+      "healthWarnings": [
+        "High in calories per portion",
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "orange peel red bean paste with taro balls 芋圆陈皮红豆沙": {
+      "calories": 280,
+      "protein": 4,
+      "carbs": 62,
+      "fat": 2,
+      "sodium": 120,
+      "sugar": 38,
+      "fiber": 6,
+      "allergens": [],
+      "healthBenefits": [
+        "High in fiber",
+        "Contains red beans",
+        "Traditional dessert soup"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Moderate calories"
+      ]
+    },
+    "1for1: baby abalone with crispy yam & longan yu sheng(s)+yong chow fried rice(s)": {
+      "calories": 780,
+      "protein": 36,
+      "carbs": 88,
+      "fat": 32,
+      "sodium": 1950,
+      "sugar": 10,
+      "fiber": 3,
+      "allergens": [
+        "Fish",
+        "Shellfish",
+        "Soy",
+        "Gluten",
+        "Sesame",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains multiple vegetables",
+        "Value bundle"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "Promotional pricing"
+      ]
+    }
+  }
+}

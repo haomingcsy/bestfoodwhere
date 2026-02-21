@@ -1,0 +1,90 @@
+{
+  "brand": "cat-the-fiddle-cakes-junction-8",
+  "generatedAt": "2026-02-16T14:08:56.048Z",
+  "items": {
+    "mixed pineapple tart": {
+      "calories": 520,
+      "protein": 6,
+      "carbs": 68,
+      "fat": 24,
+      "sodium": 280,
+      "sugar": 42,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten",
+        "Tree Nut"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "original pineapple tart": {
+      "calories": 510,
+      "protein": 5,
+      "carbs": 66,
+      "fat": 24,
+      "sodium": 270,
+      "sugar": 40,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Source of vitamin C from pineapple"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "pandan gula melaka pineapple tart": {
+      "calories": 530,
+      "protein": 6,
+      "carbs": 70,
+      "fat": 24,
+      "sodium": 290,
+      "sugar": 44,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "tiramisu cheesecake": {
+      "calories": 580,
+      "protein": 8,
+      "carbs": 62,
+      "fat": 32,
+      "sodium": 320,
+      "sugar": 48,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten",
+        "Coffee"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    }
+  }
+}

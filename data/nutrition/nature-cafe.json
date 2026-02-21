@@ -1,0 +1,285 @@
+{
+  "brand": "nature-cafe",
+  "generatedAt": "2026-02-21T11:02:25.127Z",
+  "items": {
+    "all items": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": []
+    },
+    "cny 2026": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": []
+    },
+    "noodle": {
+      "calories": 520,
+      "protein": 14,
+      "carbs": 68,
+      "fat": 18,
+      "sodium": 1240,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of carbohydrates",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in fat"
+      ]
+    },
+    "rice": {
+      "calories": 480,
+      "protein": 12,
+      "carbs": 72,
+      "fat": 12,
+      "sodium": 980,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of carbohydrates",
+        "Low in sugar"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "sides": {
+      "calories": 180,
+      "protein": 6,
+      "carbs": 18,
+      "fat": 8,
+      "sodium": 420,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Light serving",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "Moderate sodium"
+      ]
+    },
+    "vegetables": {
+      "calories": 120,
+      "protein": 8,
+      "carbs": 14,
+      "fat": 3,
+      "sodium": 380,
+      "sugar": 4,
+      "fiber": 4,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "Low in calories",
+        "Rich in vitamins",
+        "Good source of plant protein"
+      ],
+      "healthWarnings": []
+    },
+    "tofu": {
+      "calories": 240,
+      "protein": 18,
+      "carbs": 12,
+      "fat": 14,
+      "sodium": 520,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Excellent source of plant protein",
+        "Contains iron",
+        "Low in calories"
+      ],
+      "healthWarnings": []
+    },
+    "delights": {
+      "calories": 380,
+      "protein": 16,
+      "carbs": 42,
+      "fat": 16,
+      "sodium": 840,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Balanced meal",
+        "Contains protein and vegetables"
+      ],
+      "healthWarnings": [
+        "Moderate sodium",
+        "Moderate fat"
+      ]
+    },
+    "soup": {
+      "calories": 140,
+      "protein": 12,
+      "carbs": 16,
+      "fat": 2,
+      "sodium": 1120,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Low in fat",
+        "Hydrating",
+        "Light meal"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "daily soup": {
+      "calories": 150,
+      "protein": 11,
+      "carbs": 18,
+      "fat": 3,
+      "sodium": 1180,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Low in fat",
+        "Hydrating",
+        "Fresh vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "western": {
+      "calories": 620,
+      "protein": 28,
+      "carbs": 58,
+      "fat": 28,
+      "sodium": 1340,
+      "sugar": 8,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Balanced meal"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "dessert & tea": {
+      "calories": 280,
+      "protein": 4,
+      "carbs": 42,
+      "fat": 10,
+      "sodium": 140,
+      "sugar": 36,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Source of energy"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "cold drinks": {
+      "calories": 180,
+      "protein": 0,
+      "carbs": 45,
+      "fat": 0,
+      "sodium": 80,
+      "sugar": 38,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Hydrating"
+      ],
+      "healthWarnings": [
+        "Very high in sugar"
+      ]
+    },
+    "hot drinks": {
+      "calories": 160,
+      "protein": 2,
+      "carbs": 24,
+      "fat": 6,
+      "sodium": 120,
+      "sugar": 20,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "homemade sauces": {
+      "calories": 80,
+      "protein": 2,
+      "carbs": 8,
+      "fat": 4,
+      "sodium": 640,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Adds flavor to dishes"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    }
+  }
+}

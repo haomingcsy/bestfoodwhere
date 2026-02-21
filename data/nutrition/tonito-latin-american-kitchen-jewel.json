@@ -1,0 +1,715 @@
+{
+  "brand": "tonito-latin-american-kitchen-jewel",
+  "generatedAt": "2026-02-21T12:12:10.220Z",
+  "items": {
+    "agua panna 500ml": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Hydrating",
+        "Zero calories"
+      ],
+      "healthWarnings": []
+    },
+    "invite me to drink": {
+      "calories": 145,
+      "protein": 0,
+      "carbs": 36,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 32,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains herbal infusions"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "early bird sling": {
+      "calories": 180,
+      "protein": 0,
+      "carbs": 18,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 15,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains passion fruit"
+      ],
+      "healthWarnings": [
+        "Contains alcohol",
+        "High in sugar"
+      ]
+    },
+    "soft drinks": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 39,
+      "fat": 0,
+      "sodium": 55,
+      "sugar": 39,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in sodium"
+      ]
+    },
+    "lemon ginger mint": {
+      "calories": 5,
+      "protein": 0,
+      "carbs": 1,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Caffeine-free",
+        "Contains ginger",
+        "Aids digestion"
+      ],
+      "healthWarnings": []
+    },
+    "aguaribay malbec 2022": {
+      "calories": 120,
+      "protein": 0.1,
+      "carbs": 3.5,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Sulfites"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "Contains alcohol",
+        "Contains sulfites"
+      ]
+    },
+    "mac and cheese": {
+      "calories": 520,
+      "protein": 22,
+      "carbs": 58,
+      "fat": 22,
+      "sodium": 680,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "espresso": {
+      "calories": 10,
+      "protein": 0.5,
+      "carbs": 0.5,
+      "fat": 0.1,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains caffeine",
+        "Low calorie"
+      ],
+      "healthWarnings": []
+    },
+    "corona": {
+      "calories": 148,
+      "protein": 1.1,
+      "carbs": 13.7,
+      "fat": 0,
+      "sodium": 76,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Contains alcohol",
+        "High in carbs"
+      ]
+    },
+    "double espresso": {
+      "calories": 20,
+      "protein": 1,
+      "carbs": 1,
+      "fat": 0.2,
+      "sodium": 10,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains caffeine",
+        "Low calorie"
+      ],
+      "healthWarnings": []
+    },
+    "tamarind citrus": {
+      "calories": 190,
+      "protein": 0,
+      "carbs": 22,
+      "fat": 0,
+      "sodium": 12,
+      "sugar": 18,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains citrus"
+      ],
+      "healthWarnings": [
+        "Contains alcohol",
+        "High in sugar"
+      ]
+    },
+    "kono sauvignon blanc 2023": {
+      "calories": 118,
+      "protein": 0.1,
+      "carbs": 3,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 0.8,
+      "fiber": 0,
+      "allergens": [
+        "Sulfites"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "Contains alcohol",
+        "Contains sulfites"
+      ]
+    },
+    "modelo negra": {
+      "calories": 172,
+      "protein": 1.3,
+      "carbs": 14,
+      "fat": 0,
+      "sodium": 84,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Contains alcohol",
+        "High in carbs"
+      ]
+    },
+    "chicha frutilla sour": {
+      "calories": 95,
+      "protein": 0.5,
+      "carbs": 24,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 20,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants from purple corn",
+        "Contains raspberry"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "osmanthus sencha": {
+      "calories": 3,
+      "protein": 0.1,
+      "carbs": 0.5,
+      "fat": 0,
+      "sodium": 3,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Low calorie"
+      ],
+      "healthWarnings": []
+    },
+    "fruit juice": {
+      "calories": 110,
+      "protein": 1.5,
+      "carbs": 26,
+      "fat": 0.2,
+      "sodium": 25,
+      "sugar": 21,
+      "fiber": 0.5,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "san pellegrino 500ml": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 65,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Hydrating",
+        "Carbonated"
+      ],
+      "healthWarnings": [
+        "Moderate sodium"
+      ]
+    },
+    "egg & cheese quesadilla": {
+      "calories": 385,
+      "protein": 18,
+      "carbs": 32,
+      "fat": 21,
+      "sodium": 520,
+      "sugar": 1,
+      "fiber": 2,
+      "allergens": [
+        "Egg",
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains choline"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "black coffee": {
+      "calories": 5,
+      "protein": 0.5,
+      "carbs": 0.2,
+      "fat": 0.1,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains caffeine",
+        "Very low calorie",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "fish & chips": {
+      "calories": 480,
+      "protein": 28,
+      "carbs": 44,
+      "fat": 20,
+      "sodium": 620,
+      "sugar": 0.5,
+      "fiber": 3,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3 fatty acids"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "water by glass (refillable)": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Hydrating",
+        "Zero calories"
+      ],
+      "healthWarnings": []
+    },
+    "refreshing lychee mojito": {
+      "calories": 180,
+      "protein": 0,
+      "carbs": 45,
+      "fat": 0,
+      "sodium": 25,
+      "sugar": 42,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Refreshing"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in carbohydrates"
+      ]
+    },
+    "muscat beauty with white grape": {
+      "calories": 35,
+      "protein": 1,
+      "carbs": 8,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 6,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Antioxidants from tea",
+        "Low calorie"
+      ],
+      "healthWarnings": []
+    },
+    "jarritos": {
+      "calories": 170,
+      "protein": 0,
+      "carbs": 42,
+      "fat": 0,
+      "sodium": 40,
+      "sugar": 39,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in carbohydrates"
+      ]
+    },
+    "blue millesimato 2021": {
+      "calories": 120,
+      "protein": 0,
+      "carbs": 2,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains resveratrol"
+      ],
+      "healthWarnings": [
+        "Alcoholic beverage",
+        "Contains sulfites"
+      ]
+    },
+    "frozen margarita": {
+      "calories": 280,
+      "protein": 0,
+      "carbs": 32,
+      "fat": 0,
+      "sodium": 150,
+      "sugar": 28,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in sodium",
+        "Alcoholic beverage"
+      ]
+    },
+    "earl grey lavender with strawberry": {
+      "calories": 30,
+      "protein": 1,
+      "carbs": 7,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 5,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Antioxidants from tea",
+        "Low calorie"
+      ],
+      "healthWarnings": []
+    },
+    "chicken popcorn": {
+      "calories": 380,
+      "protein": 18,
+      "carbs": 38,
+      "fat": 18,
+      "sodium": 650,
+      "sugar": 0,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat",
+        "High in calories"
+      ]
+    },
+    "flat white": {
+      "calories": 160,
+      "protein": 9,
+      "carbs": 10,
+      "fat": 8,
+      "sodium": 120,
+      "sugar": 9,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains caffeine"
+      ],
+      "healthWarnings": []
+    },
+    "passion fruit mojito": {
+      "calories": 220,
+      "protein": 0,
+      "carbs": 24,
+      "fat": 0,
+      "sodium": 30,
+      "sugar": 22,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains vitamin C from passion fruit"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Alcoholic beverage"
+      ]
+    },
+    "not my passion (frozen)": {
+      "calories": 240,
+      "protein": 3,
+      "carbs": 38,
+      "fat": 8,
+      "sodium": 85,
+      "sugar": 35,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "pearl of the orient with lychee": {
+      "calories": 25,
+      "protein": 1,
+      "carbs": 6,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 4,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Antioxidants from green tea",
+        "Low calorie"
+      ],
+      "healthWarnings": []
+    },
+    "cappuccino": {
+      "calories": 170,
+      "protein": 10,
+      "carbs": 11,
+      "fat": 9,
+      "sodium": 130,
+      "sugar": 10,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains caffeine"
+      ],
+      "healthWarnings": []
+    },
+    "peruvian piscola": {
+      "calories": 240,
+      "protein": 0,
+      "carbs": 28,
+      "fat": 0,
+      "sodium": 35,
+      "sugar": 25,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains vitamin C from orange"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Alcoholic beverage"
+      ]
+    },
+    "moscato sangria": {
+      "calories": 160,
+      "protein": 0,
+      "carbs": 38,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 35,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains fruit",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in carbohydrates"
+      ]
+    },
+    "juice": {
+      "calories": 110,
+      "protein": 1,
+      "carbs": 26,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 22,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "homemade iced tea (peach/lemon)": {
+      "calories": 50,
+      "protein": 0,
+      "carbs": 13,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 12,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Antioxidants from tea"
+      ],
+      "healthWarnings": [
+        "Contains added sugar"
+      ]
+    },
+    "cafe latte": {
+      "calories": 180,
+      "protein": 10,
+      "carbs": 13,
+      "fat": 8,
+      "sodium": 140,
+      "sugar": 12,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains calcium",
+        "Contains caffeine"
+      ],
+      "healthWarnings": []
+    },
+    "ice cream": {
+      "calories": 220,
+      "protein": 3,
+      "carbs": 28,
+      "fat": 11,
+      "sodium": 80,
+      "sugar": 24,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in fat",
+        "High in calories"
+      ]
+    },
+    "cafe mocha": {
+      "calories": 210,
+      "protein": 10,
+      "carbs": 24,
+      "fat": 9,
+      "sodium": 140,
+      "sugar": 22,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains antioxidants",
+        "Contains caffeine"
+      ],
+      "healthWarnings": [
+        "Contains added sugar"
+      ]
+    },
+    "hot chocolate": {
+      "calories": 280,
+      "protein": 8,
+      "carbs": 32,
+      "fat": 12,
+      "sodium": 140,
+      "sugar": 28,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of antioxidants",
+        "Contains calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    }
+  }
+}

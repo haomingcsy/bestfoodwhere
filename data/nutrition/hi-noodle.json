@@ -1,0 +1,600 @@
+{
+  "brand": "hi-noodle",
+  "generatedAt": "2026-02-16T15:23:31.765Z",
+  "items": {
+    "麻辣小龙虾盖饭 spicy crayfish rice bowl": {
+      "calories": 680,
+      "protein": 28,
+      "carbs": 72,
+      "fat": 28,
+      "sodium": 1240,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Rich in omega-3 fatty acids"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat",
+        "Spicy"
+      ]
+    },
+    "y01 缘溪幽兰（无奶油） orchid oasis blend milk tea (no cream)": {
+      "calories": 180,
+      "protein": 2,
+      "carbs": 42,
+      "fat": 0,
+      "sodium": 85,
+      "sugar": 38,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants from tea"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "玉竹乌鸡汤 herbal black chicken soup with solomon's seal": {
+      "calories": 240,
+      "protein": 22,
+      "carbs": 8,
+      "fat": 12,
+      "sodium": 920,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains herbal nutrients",
+        "Low in carbs"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate fat content"
+      ]
+    },
+    "隆江猪脚饭 longjiang pork hock rice bowl": {
+      "calories": 720,
+      "protein": 38,
+      "carbs": 68,
+      "fat": 32,
+      "sodium": 1480,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of collagen"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "y02 东方茉岚（无奶油）oriental jasmine mist milk tea (no cream)": {
+      "calories": 175,
+      "protein": 2,
+      "carbs": 41,
+      "fat": 0,
+      "sodium": 80,
+      "sugar": 37,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants from jasmine tea"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "菌菇肉丸汤 meat ball soup with cordyceps mushroom": {
+      "calories": 220,
+      "protein": 18,
+      "carbs": 12,
+      "fat": 10,
+      "sodium": 880,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains medicinal mushrooms",
+        "Low in carbs"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate fat content"
+      ]
+    },
+    "冬瓜肉丸汤 meat ball soup with winter melon": {
+      "calories": 210,
+      "protein": 16,
+      "carbs": 14,
+      "fat": 9,
+      "sodium": 860,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains cooling properties"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "y03 园中桂（无奶油） golden osmanthus garden milk tea (no cream)": {
+      "calories": 182,
+      "protein": 2,
+      "carbs": 43,
+      "fat": 0,
+      "sodium": 82,
+      "sugar": 39,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants from tea"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "蒜蓉小龙虾盖饭 garlic crayfish rice bowl": {
+      "calories": 660,
+      "protein": 26,
+      "carbs": 72,
+      "fat": 26,
+      "sodium": 1180,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Gluten",
+        "Garlic"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Rich in omega-3 fatty acids"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "卤肉盖饭 braised pork rice bowl": {
+      "calories": 620,
+      "protein": 28,
+      "carbs": 70,
+      "fat": 22,
+      "sodium": 1320,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat",
+        "High in calories"
+      ]
+    },
+    "y04 桃源寻香（无奶油）peach haven aroma milk tea (no cream)": {
+      "calories": 188,
+      "protein": 2,
+      "carbs": 44,
+      "fat": 0,
+      "sodium": 83,
+      "sugar": 40,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants from tea"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "abc汤 abc soup": {
+      "calories": 240,
+      "protein": 14,
+      "carbs": 20,
+      "fat": 10,
+      "sodium": 900,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains mixed vegetables",
+        "Moderate protein"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "西洋菜排骨汤 pork ribs soup with watercress": {
+      "calories": 280,
+      "protein": 24,
+      "carbs": 6,
+      "fat": 16,
+      "sodium": 1040,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains vitamins and minerals",
+        "Low in carbs"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "y05 荔枝桂花乌龙轻乳茶（无奶油）lychee osmanthus oolong milk tea (no cream)": {
+      "calories": 190,
+      "protein": 2,
+      "carbs": 45,
+      "fat": 0,
+      "sodium": 84,
+      "sugar": 41,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants from oolong tea"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "珍珠米 pearl rice": {
+      "calories": 260,
+      "protein": 5,
+      "carbs": 58,
+      "fat": 1,
+      "sodium": 2,
+      "sugar": 0,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of carbohydrates for energy"
+      ],
+      "healthWarnings": [
+        "High in carbs"
+      ]
+    },
+    "f01 维c橙橙 c-c sunshine orangetea": {
+      "calories": 195,
+      "protein": 1,
+      "carbs": 48,
+      "fat": 0,
+      "sodium": 25,
+      "sugar": 44,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of vitamin C",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "莲藕排骨汤 pork ribs soup with lotus root": {
+      "calories": 290,
+      "protein": 24,
+      "carbs": 10,
+      "fat": 16,
+      "sodium": 1060,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains fiber",
+        "Traditional herbal benefits"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "白萝卜排骨汤 pork ribs soup with radish": {
+      "calories": 270,
+      "protein": 24,
+      "carbs": 8,
+      "fat": 14,
+      "sodium": 1020,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Low in carbs",
+        "Contains vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "f02 手打柠檬茶 handcrafted lemon tea": {
+      "calories": 165,
+      "protein": 1,
+      "carbs": 40,
+      "fat": 0,
+      "sodium": 35,
+      "sugar": 36,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of vitamin C",
+        "Contains antioxidants from tea"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "f03 手剥多肉葡萄 juicy peel grape tea": {
+      "calories": 210,
+      "protein": 1,
+      "carbs": 52,
+      "fat": 0,
+      "sodium": 40,
+      "sugar": 48,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of antioxidants",
+        "Contains resveratrol from grapes"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "f04 杏初白桃 apricot & white peach delight": {
+      "calories": 180,
+      "protein": 0.5,
+      "carbs": 45,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 42,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Source of vitamin C",
+        "Refreshing beverage"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "No nutritional value"
+      ]
+    },
+    "f05 良田柠檬青提 lush field lemon & green grape tea": {
+      "calories": 190,
+      "protein": 0.5,
+      "carbs": 48,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 45,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Source of vitamin C",
+        "Antioxidants from tea"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Acidic beverage"
+      ]
+    },
+    "f06 桃花杏运 blossoming peach & apricot tea": {
+      "calories": 185,
+      "protein": 0.5,
+      "carbs": 46,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 43,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Source of vitamin C",
+        "Refreshing beverage"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "No nutritional value"
+      ]
+    },
+    "f07 白桃青柠 white peach & lime tea": {
+      "calories": 175,
+      "protein": 0.5,
+      "carbs": 43,
+      "fat": 0,
+      "sodium": 18,
+      "sugar": 40,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Source of vitamin C",
+        "Antioxidants from tea"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Acidic beverage"
+      ]
+    },
+    "f08 蜜桃乌龙 honey peach oolong tea": {
+      "calories": 200,
+      "protein": 1,
+      "carbs": 49,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 46,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Antioxidants from oolong tea",
+        "Source of polyphenols"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "f09 荔枝茉莉冰柠茶 lychee jasmine iced lemon tea": {
+      "calories": 185,
+      "protein": 0.5,
+      "carbs": 45,
+      "fat": 0,
+      "sodium": 22,
+      "sugar": 42,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Source of vitamin C",
+        "Antioxidants from jasmine tea"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Acidic beverage"
+      ]
+    },
+    "f10 荔枝冰红茶 lychee iced black tea": {
+      "calories": 180,
+      "protein": 0.5,
+      "carbs": 44,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 41,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Antioxidants from black tea",
+        "Source of polyphenols"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "m01 相思红豆奶茶 red bean milk tea": {
+      "calories": 240,
+      "protein": 4,
+      "carbs": 48,
+      "fat": 2.5,
+      "sodium": 80,
+      "sugar": 42,
+      "fiber": 2,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of fiber",
+        "Plant-based protein",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains dairy"
+      ]
+    },
+    "m02 嫩仙草奶茶 grass jelly milk tea": {
+      "calories": 220,
+      "protein": 3,
+      "carbs": 46,
+      "fat": 2,
+      "sodium": 75,
+      "sugar": 40,
+      "fiber": 3,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of fiber",
+        "Low in fat",
+        "Contains probiotics"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains dairy"
+      ]
+    },
+    "m03 金桂冻冻奶茶 golden osmanthus jelly milk tea": {
+      "calories": 230,
+      "protein": 3,
+      "carbs": 47,
+      "fat": 2.5,
+      "sodium": 78,
+      "sugar": 41,
+      "fiber": 2,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of fiber",
+        "Low in fat",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains dairy"
+      ]
+    },
+    "矿泉水 mineral water (bottle)": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Hydrating",
+        "Zero calories",
+        "No added sugars"
+      ],
+      "healthWarnings": []
+    }
+  }
+}

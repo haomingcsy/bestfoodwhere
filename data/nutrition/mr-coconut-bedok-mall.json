@@ -1,0 +1,168 @@
+{
+  "brand": "mr-coconut-bedok-mall",
+  "generatedAt": "2026-02-21T11:00:56.735Z",
+  "items": {
+    "(m) coconut caffe latte (gf)": {
+      "calories": 280,
+      "protein": 8,
+      "carbs": 32,
+      "fat": 12,
+      "sodium": 95,
+      "sugar": 28,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains medium-chain triglycerides"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "(m) mocha coconut caffe latte (gf)": {
+      "calories": 320,
+      "protein": 8,
+      "carbs": 38,
+      "fat": 13,
+      "sodium": 110,
+      "sugar": 35,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from cocoa",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "Contains caffeine"
+      ]
+    },
+    "(m) gula melaka coconut caffe latte (gf)": {
+      "calories": 300,
+      "protein": 8,
+      "carbs": 36,
+      "fat": 12,
+      "sodium": 100,
+      "sugar": 32,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains medium-chain triglycerides"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "(m) coconut americano (gf)": {
+      "calories": 180,
+      "protein": 6,
+      "carbs": 18,
+      "fat": 9,
+      "sodium": 80,
+      "sugar": 14,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Lower in sugar than lattes",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "Moderate saturated fat",
+        "Contains caffeine"
+      ]
+    },
+    "(hot) coconut caffe latte (gf)": {
+      "calories": 285,
+      "protein": 8,
+      "carbs": 32,
+      "fat": 12,
+      "sodium": 95,
+      "sugar": 28,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains medium-chain triglycerides"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "(hot) mocha coconut caffe latte (gf)": {
+      "calories": 325,
+      "protein": 8,
+      "carbs": 38,
+      "fat": 13,
+      "sodium": 110,
+      "sugar": 35,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from cocoa",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "Contains caffeine"
+      ]
+    },
+    "(hot) gula melaka coconut caffe latte (gf)": {
+      "calories": 305,
+      "protein": 8,
+      "carbs": 36,
+      "fat": 12,
+      "sodium": 100,
+      "sugar": 32,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains medium-chain triglycerides"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "(hot) coconut americano (gf)": {
+      "calories": 185,
+      "protein": 6,
+      "carbs": 18,
+      "fat": 9,
+      "sodium": 80,
+      "sugar": 14,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Lower in sugar than lattes",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "Moderate saturated fat",
+        "Contains caffeine"
+      ]
+    }
+  }
+}

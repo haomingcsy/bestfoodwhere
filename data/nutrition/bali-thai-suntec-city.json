@@ -1,0 +1,2563 @@
+{
+  "brand": "bali-thai-suntec-city",
+  "generatedAt": "2026-02-16T13:36:31.199Z",
+  "items": {
+    "bendi belado": {
+      "calories": 145,
+      "protein": 3,
+      "carbs": 12,
+      "fat": 9,
+      "sodium": 680,
+      "sugar": 2,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Low calorie",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "bai krapow": {
+      "calories": 320,
+      "protein": 28,
+      "carbs": 18,
+      "fat": 16,
+      "sodium": 920,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains basil antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate saturated fat"
+      ]
+    },
+    "yum ma muang / som tum": {
+      "calories": 165,
+      "protein": 4,
+      "carbs": 22,
+      "fat": 7,
+      "sodium": 740,
+      "sugar": 12,
+      "fiber": 4,
+      "allergens": [
+        "Fish",
+        "Peanut",
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "Good source of vitamin C",
+        "Contains probiotics"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate sugar content"
+      ]
+    },
+    "lychee mint freeze": {
+      "calories": 210,
+      "protein": 0,
+      "carbs": 52,
+      "fat": 0,
+      "sodium": 45,
+      "sugar": 48,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Refreshing",
+        "Contains vitamin C"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High calorie beverage"
+      ]
+    },
+    "cumi bakar / sambal": {
+      "calories": 280,
+      "protein": 32,
+      "carbs": 8,
+      "fat": 13,
+      "sodium": 1020,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "High in selenium",
+        "Good source of omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in cholesterol"
+      ]
+    },
+    "nasi goreng istemewa": {
+      "calories": 480,
+      "protein": 18,
+      "carbs": 58,
+      "fat": 18,
+      "sodium": 1180,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Egg",
+        "Soy",
+        "Gluten",
+        "Peanut",
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "Good source of carbs",
+        "Contains protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High calorie"
+      ]
+    },
+    "tod man goong": {
+      "calories": 200,
+      "protein": 14,
+      "carbs": 16,
+      "fat": 10,
+      "sodium": 450,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Shellfish",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains seafood"
+      ],
+      "healthWarnings": [
+        "Fried food",
+        "Moderate sodium content"
+      ]
+    },
+    "chendol": {
+      "calories": 240,
+      "protein": 2,
+      "carbs": 45,
+      "fat": 7,
+      "sodium": 120,
+      "sugar": 38,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains coconut milk"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High saturated fat"
+      ]
+    },
+    "iced lemongrass (homemade)": {
+      "calories": 45,
+      "protein": 0,
+      "carbs": 11,
+      "fat": 0,
+      "sodium": 8,
+      "sugar": 9,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Refreshing",
+        "Contains lemongrass antioxidants",
+        "Low calorie"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "tahu telur": {
+      "calories": 380,
+      "protein": 16,
+      "carbs": 18,
+      "fat": 28,
+      "sodium": 850,
+      "sugar": 8,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Egg",
+        "Peanut"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains plant-based iron"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "crab meat omelette fried rice": {
+      "calories": 680,
+      "protein": 32,
+      "carbs": 72,
+      "fat": 28,
+      "sodium": 1540,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Egg",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains crab meat"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in calories",
+        "High in fat and saturated fat"
+      ]
+    },
+    "english tea": {
+      "calories": 5,
+      "protein": 0,
+      "carbs": 1,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains antioxidants",
+        "Hydrating"
+      ],
+      "healthWarnings": []
+    },
+    "iced barley (homemade)": {
+      "calories": 45,
+      "protein": 1,
+      "carbs": 10,
+      "fat": 0,
+      "sodium": 25,
+      "sugar": 8,
+      "fiber": 1,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains minerals",
+        "Refreshing"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "fried glass noodle with crispy softshell crab": {
+      "calories": 520,
+      "protein": 18,
+      "carbs": 52,
+      "fat": 24,
+      "sodium": 1240,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Gluten",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3 fatty acids"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat",
+        "High in calories"
+      ]
+    },
+    "ikan goreng sambal manga": {
+      "calories": 480,
+      "protein": 32,
+      "carbs": 28,
+      "fat": 26,
+      "sodium": 1380,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of omega-3",
+        "Contains vitamin C from mango"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Deep fried"
+      ]
+    },
+    "ma kher phad bai krapow": {
+      "calories": 380,
+      "protein": 24,
+      "carbs": 18,
+      "fat": 24,
+      "sodium": 1050,
+      "sugar": 3,
+      "fiber": 4,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "High in fiber",
+        "Rich in basil antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "jasmine green tea": {
+      "calories": 5,
+      "protein": 0,
+      "carbs": 1,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Rich in antioxidants",
+        "Low calorie",
+        "May boost metabolism"
+      ],
+      "healthWarnings": []
+    },
+    "gai yang": {
+      "calories": 420,
+      "protein": 38,
+      "carbs": 8,
+      "fat": 26,
+      "sodium": 890,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of B vitamins",
+        "Grilled preparation"
+      ],
+      "healthWarnings": [
+        "Moderate to high fat",
+        "Contains saturated fat"
+      ]
+    },
+    "thai style tang hoon with scampi prawn": {
+      "calories": 540,
+      "protein": 22,
+      "carbs": 48,
+      "fat": 28,
+      "sodium": 1320,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Gluten",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3 from prawns"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat",
+        "High in calories"
+      ]
+    },
+    "crab meat fried rice": {
+      "calories": 520,
+      "protein": 22,
+      "carbs": 54,
+      "fat": 22,
+      "sodium": 1020,
+      "sugar": 4,
+      "fiber": 1,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains seafood"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "High in fat"
+      ]
+    },
+    "fruity snow (soursop longan)": {
+      "calories": 280,
+      "protein": 2,
+      "carbs": 62,
+      "fat": 2,
+      "sodium": 45,
+      "sugar": 48,
+      "fiber": 3,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains vitamin C",
+        "Good source of fiber",
+        "Refreshing"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in calories"
+      ]
+    },
+    "peek gai sod sai": {
+      "calories": 210,
+      "protein": 16,
+      "carbs": 6,
+      "fat": 14,
+      "sodium": 380,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "yum gai yang / nuer": {
+      "calories": 320,
+      "protein": 38,
+      "carbs": 12,
+      "fat": 14,
+      "sodium": 980,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Low carbohydrate",
+        "Contains fresh vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Spicy preparation"
+      ]
+    },
+    "blue pea flower cooler with chia seed (homemade)": {
+      "calories": 160,
+      "protein": 4,
+      "carbs": 28,
+      "fat": 4,
+      "sodium": 140,
+      "sugar": 18,
+      "fiber": 5,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains chia seeds",
+        "High in fiber",
+        "Natural ingredients"
+      ],
+      "healthWarnings": [
+        "Contains added sugar"
+      ]
+    },
+    "iced red ruby": {
+      "calories": 240,
+      "protein": 2,
+      "carbs": 58,
+      "fat": 0,
+      "sodium": 180,
+      "sugar": 48,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains tapioca pearls",
+        "Refreshing"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in calories"
+      ]
+    },
+    "tod man pla": {
+      "calories": 220,
+      "protein": 16,
+      "carbs": 14,
+      "fat": 11,
+      "sodium": 680,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "Fried preparation"
+      ]
+    },
+    "black olive rice set": {
+      "calories": 620,
+      "protein": 28,
+      "carbs": 72,
+      "fat": 18,
+      "sodium": 1240,
+      "sugar": 3,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Complete meal",
+        "Contains vegetables",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "High in carbohydrates"
+      ]
+    },
+    "mango pomelo freeze": {
+      "calories": 320,
+      "protein": 1,
+      "carbs": 78,
+      "fat": 0,
+      "sodium": 120,
+      "sugar": 62,
+      "fiber": 3,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains fresh fruit",
+        "Good source of vitamin C"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in calories"
+      ]
+    },
+    "hot coffee": {
+      "calories": 15,
+      "protein": 1,
+      "carbs": 2,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "nuer chanron": {
+      "calories": 480,
+      "protein": 42,
+      "carbs": 8,
+      "fat": 32,
+      "sodium": 1100,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Excellent source of protein",
+        "High in iron",
+        "Contains B vitamins"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "pla muek nueng manow": {
+      "calories": 180,
+      "protein": 28,
+      "carbs": 6,
+      "fat": 4,
+      "sodium": 850,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Shellfish",
+        "Fish",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Low in fat",
+        "Contains selenium and zinc"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Contains shellfish allergen"
+      ]
+    },
+    "phad phak narm mun hoi": {
+      "calories": 240,
+      "protein": 8,
+      "carbs": 18,
+      "fat": 16,
+      "sodium": 1020,
+      "sugar": 4,
+      "fiber": 4,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "Good source of vegetables",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat from oyster sauce"
+      ]
+    },
+    "xo seafood fried rice": {
+      "calories": 610,
+      "protein": 26,
+      "carbs": 72,
+      "fat": 20,
+      "sodium": 1480,
+      "sugar": 12,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Shellfish",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains seafood"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in sugar"
+      ]
+    },
+    "black pepper tang hoon with prawn in claypot": {
+      "calories": 380,
+      "protein": 22,
+      "carbs": 42,
+      "fat": 14,
+      "sodium": 1180,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains seafood"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "yum woonsen talay / gai": {
+      "calories": 280,
+      "protein": 32,
+      "carbs": 16,
+      "fat": 10,
+      "sodium": 1050,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains vegetables",
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Spicy preparation"
+      ]
+    },
+    "thai tapioca with coconut milk": {
+      "calories": 280,
+      "protein": 2,
+      "carbs": 42,
+      "fat": 12,
+      "sodium": 180,
+      "sugar": 28,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "calamansi": {
+      "calories": 65,
+      "protein": 0,
+      "carbs": 16,
+      "fat": 0,
+      "sodium": 25,
+      "sugar": 14,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in vitamin C",
+        "Low calorie"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "satay madura": {
+      "calories": 420,
+      "protein": 32,
+      "carbs": 12,
+      "fat": 28,
+      "sodium": 950,
+      "sugar": 6,
+      "fiber": 1,
+      "allergens": [
+        "Peanut",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains B vitamins"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in saturated fat",
+        "Contains peanut allergen"
+      ]
+    },
+    "phad thai with satay": {
+      "calories": 580,
+      "protein": 24,
+      "carbs": 62,
+      "fat": 24,
+      "sodium": 1040,
+      "sugar": 12,
+      "fiber": 3,
+      "allergens": [
+        "Peanut",
+        "Soy",
+        "Fish",
+        "Sesame",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "High in saturated fat"
+      ]
+    },
+    "gai ho bi tuey": {
+      "calories": 140,
+      "protein": 12,
+      "carbs": 8,
+      "fat": 6,
+      "sodium": 420,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": []
+    },
+    "rendang sapi": {
+      "calories": 420,
+      "protein": 32,
+      "carbs": 6,
+      "fat": 32,
+      "sodium": 580,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "hot honey lemon": {
+      "calories": 85,
+      "protein": 0,
+      "carbs": 21,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 18,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of vitamin C",
+        "Contains honey"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "sago gula melaka": {
+      "calories": 240,
+      "protein": 1,
+      "carbs": 52,
+      "fat": 3,
+      "sodium": 120,
+      "sugar": 36,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in carbohydrates"
+      ]
+    },
+    "yum mama talay / gai": {
+      "calories": 420,
+      "protein": 26,
+      "carbs": 48,
+      "fat": 14,
+      "sodium": 1180,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Shellfish",
+        "Egg",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in calories"
+      ]
+    },
+    "ikan asam pedas": {
+      "calories": 380,
+      "protein": 42,
+      "carbs": 12,
+      "fat": 18,
+      "sodium": 1200,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "Good source of protein",
+        "Rich in antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in saturated fat"
+      ]
+    },
+    "phad prik tour": {
+      "calories": 240,
+      "protein": 10,
+      "carbs": 18,
+      "fat": 14,
+      "sodium": 780,
+      "sugar": 3,
+      "fiber": 3,
+      "allergens": [
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains vegetables",
+        "Good source of vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in fat"
+      ]
+    },
+    "glutinous rice mango": {
+      "calories": 380,
+      "protein": 4,
+      "carbs": 58,
+      "fat": 14,
+      "sodium": 120,
+      "sugar": 32,
+      "fiber": 2,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains vitamin C",
+        "Natural fruit"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "fried kway teow with grilled chicken": {
+      "calories": 580,
+      "protein": 28,
+      "carbs": 56,
+      "fat": 24,
+      "sodium": 1100,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in calories",
+        "High in fat"
+      ]
+    },
+    "kai jiao ma ra & goong": {
+      "calories": 280,
+      "protein": 22,
+      "carbs": 8,
+      "fat": 18,
+      "sodium": 850,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Egg",
+        "Shellfish",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in cholesterol",
+        "High in sodium"
+      ]
+    },
+    "black olive fried rice": {
+      "calories": 395,
+      "protein": 11,
+      "carbs": 50,
+      "fat": 17,
+      "sodium": 980,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Contains healthy fats"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "fried kway teow with crispy softshell crab": {
+      "calories": 520,
+      "protein": 24,
+      "carbs": 48,
+      "fat": 26,
+      "sodium": 1100,
+      "sugar": 4,
+      "fiber": 1,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains seafood"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat",
+        "High in calories"
+      ]
+    },
+    "salted plum soda": {
+      "calories": 120,
+      "protein": 0,
+      "carbs": 28,
+      "fat": 0,
+      "sodium": 480,
+      "sugar": 24,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in sodium"
+      ]
+    },
+    "gai phad medmamuang": {
+      "calories": 380,
+      "protein": 38,
+      "carbs": 14,
+      "fat": 18,
+      "sodium": 920,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Tree Nut",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Excellent source of protein",
+        "Contains cashews",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in fat"
+      ]
+    },
+    "nasi goreng petai with satay set": {
+      "calories": 520,
+      "protein": 28,
+      "carbs": 54,
+      "fat": 22,
+      "sodium": 1050,
+      "sugar": 5,
+      "fiber": 3,
+      "allergens": [
+        "Peanut",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables",
+        "Good source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat",
+        "High in calories"
+      ]
+    },
+    "xo seafood fried noodle": {
+      "calories": 480,
+      "protein": 16,
+      "carbs": 58,
+      "fat": 20,
+      "sodium": 1200,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "High in fat"
+      ]
+    },
+    "ikan bakar bali": {
+      "calories": 420,
+      "protein": 46,
+      "carbs": 16,
+      "fat": 18,
+      "sodium": 680,
+      "sugar": 8,
+      "fiber": 1,
+      "allergens": [
+        "Fish",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "Excellent source of protein",
+        "Rich in antioxidants"
+      ],
+      "healthWarnings": [
+        "Moderate in sodium"
+      ]
+    },
+    "sago gula melaka with ice cream": {
+      "calories": 280,
+      "protein": 3,
+      "carbs": 48,
+      "fat": 9,
+      "sodium": 90,
+      "sugar": 38,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "gaeng jued woonsen talay / gai": {
+      "calories": 280,
+      "protein": 18,
+      "carbs": 22,
+      "fat": 12,
+      "sodium": 1200,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "Low calorie",
+        "Good source of protein",
+        "Light and hydrating"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "hot barley (homemade)": {
+      "calories": 95,
+      "protein": 2,
+      "carbs": 22,
+      "fat": 0,
+      "sodium": 8,
+      "sugar": 12,
+      "fiber": 2,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Low in fat",
+        "Contains barley"
+      ],
+      "healthWarnings": [
+        "Moderate in sugar"
+      ]
+    },
+    "hot lemongrass (homemade)": {
+      "calories": 45,
+      "protein": 0,
+      "carbs": 11,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 9,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Natural antioxidants",
+        "Aids digestion"
+      ],
+      "healthWarnings": []
+    },
+    "mee goreng with satay": {
+      "calories": 620,
+      "protein": 24,
+      "carbs": 68,
+      "fat": 26,
+      "sodium": 1480,
+      "sugar": 12,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Peanut",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in fat",
+        "High in sodium",
+        "High in sugar"
+      ]
+    },
+    "pineapple seafood fried rice": {
+      "calories": 520,
+      "protein": 18,
+      "carbs": 62,
+      "fat": 20,
+      "sodium": 1200,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vitamins from pineapple"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "High in fat"
+      ]
+    },
+    "tom yum seafood fried rice": {
+      "calories": 580,
+      "protein": 22,
+      "carbs": 64,
+      "fat": 22,
+      "sodium": 1250,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "High in fat"
+      ]
+    },
+    "phad thai kana": {
+      "calories": 340,
+      "protein": 12,
+      "carbs": 28,
+      "fat": 20,
+      "sodium": 1100,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "tom yum nam sai talay / gai": {
+      "calories": 290,
+      "protein": 20,
+      "carbs": 18,
+      "fat": 14,
+      "sodium": 1250,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Low calorie"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "iced lemon tea": {
+      "calories": 120,
+      "protein": 0,
+      "carbs": 28,
+      "fat": 0,
+      "sodium": 40,
+      "sugar": 24,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in fat",
+        "Contains vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "pla rad prik / yum ma muang": {
+      "calories": 520,
+      "protein": 32,
+      "carbs": 28,
+      "fat": 32,
+      "sodium": 1240,
+      "sugar": 12,
+      "fiber": 4,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of omega-3",
+        "Rich in vitamins from mango"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "gaeng daeng gai": {
+      "calories": 420,
+      "protein": 28,
+      "carbs": 22,
+      "fat": 26,
+      "sodium": 1180,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Fish",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains coconut milk benefits"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "crispy softshell crab": {
+      "calories": 580,
+      "protein": 32,
+      "carbs": 45,
+      "fat": 28,
+      "sodium": 1250,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains selenium",
+        "Rich in omega-3"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in fat",
+        "High in sodium"
+      ]
+    },
+    "phad thai with seafood": {
+      "calories": 540,
+      "protein": 26,
+      "carbs": 58,
+      "fat": 19,
+      "sodium": 1150,
+      "sugar": 10,
+      "fiber": 3,
+      "allergens": [
+        "Shellfish",
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Peanut",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "High in fat"
+      ]
+    },
+    "iced lime tea cooler": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 34,
+      "fat": 0,
+      "sodium": 45,
+      "sugar": 28,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in fat",
+        "Contains vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "snow pea": {
+      "calories": 420,
+      "protein": 28,
+      "carbs": 32,
+      "fat": 22,
+      "sodium": 1120,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Egg",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "ayam panggang bali": {
+      "calories": 380,
+      "protein": 42,
+      "carbs": 12,
+      "fat": 18,
+      "sodium": 1080,
+      "sugar": 4,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Low in carbs",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "combi bakar": {
+      "calories": 780,
+      "protein": 68,
+      "carbs": 18,
+      "fat": 44,
+      "sodium": 1680,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Shellfish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in omega-3 from seafood"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "tom yum noodle soup": {
+      "calories": 420,
+      "protein": 22,
+      "carbs": 48,
+      "fat": 14,
+      "sodium": 1520,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Gluten",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains fiber",
+        "Anti-inflammatory from spices"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "mee goreng": {
+      "calories": 460,
+      "protein": 18,
+      "carbs": 56,
+      "fat": 16,
+      "sodium": 1360,
+      "sugar": 7,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Peanut",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of carbohydrates",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Contains peanuts",
+        "High in calories"
+      ]
+    },
+    "jungle noodle (dry/ gravy) seafood/ beef": {
+      "calories": 500,
+      "protein": 26,
+      "carbs": 54,
+      "fat": 18,
+      "sodium": 1400,
+      "sugar": 5,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Fish",
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "nasi goreng petai": {
+      "calories": 480,
+      "protein": 20,
+      "carbs": 58,
+      "fat": 16,
+      "sodium": 1240,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of carbohydrates",
+        "Contains protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "fried rice with shrimp paste": {
+      "calories": 520,
+      "protein": 18,
+      "carbs": 62,
+      "fat": 20,
+      "sodium": 1560,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "High in saturated fat"
+      ]
+    },
+    "sam ahan wang": {
+      "calories": 480,
+      "protein": 22,
+      "carbs": 36,
+      "fat": 28,
+      "sodium": 1240,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Shellfish",
+        "Soy",
+        "Gluten",
+        "Peanut",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Variety of flavors",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Contains multiple allergens"
+      ]
+    },
+    "si ahan wang": {
+      "calories": 420,
+      "protein": 24,
+      "carbs": 32,
+      "fat": 20,
+      "sodium": 1100,
+      "sugar": 4,
+      "fiber": 1,
+      "allergens": [
+        "Shellfish",
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Egg",
+        "Peanut"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "High in fat"
+      ]
+    },
+    "glutinous rice mango with ice cream": {
+      "calories": 380,
+      "protein": 6,
+      "carbs": 58,
+      "fat": 14,
+      "sodium": 95,
+      "sugar": 42,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Source of vitamins from mango",
+        "Contains carbohydrates for energy"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "iced honey lemon": {
+      "calories": 145,
+      "protein": 0,
+      "carbs": 36,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 32,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Vitamin C source"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "basil leaves chicken": {
+      "calories": 185,
+      "protein": 22,
+      "carbs": 8,
+      "fat": 8,
+      "sodium": 520,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Low in calories"
+      ],
+      "healthWarnings": [
+        "Moderate sodium content"
+      ]
+    },
+    "kai jiao pak woonsen": {
+      "calories": 320,
+      "protein": 18,
+      "carbs": 22,
+      "fat": 18,
+      "sodium": 680,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "tom yum": {
+      "calories": 95,
+      "protein": 12,
+      "carbs": 6,
+      "fat": 3,
+      "sodium": 850,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Shellfish",
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Low in calories",
+        "Good source of protein",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "gai ob num pheung": {
+      "calories": 420,
+      "protein": 32,
+      "carbs": 28,
+      "fat": 20,
+      "sodium": 780,
+      "sugar": 18,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories",
+        "High in fat"
+      ]
+    },
+    "tom yum seafood fried noodle": {
+      "calories": 560,
+      "protein": 24,
+      "carbs": 62,
+      "fat": 20,
+      "sodium": 1200,
+      "sugar": 7,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "High in fat"
+      ]
+    },
+    "vegetarian fried rice": {
+      "calories": 480,
+      "protein": 12,
+      "carbs": 62,
+      "fat": 18,
+      "sodium": 980,
+      "sugar": 5,
+      "fiber": 4,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "goong kao od": {
+      "calories": 520,
+      "protein": 38,
+      "carbs": 28,
+      "fat": 28,
+      "sodium": 1280,
+      "sugar": 12,
+      "fiber": 1,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "gaeng daeng talay": {
+      "calories": 420,
+      "protein": 32,
+      "carbs": 14,
+      "fat": 28,
+      "sodium": 1100,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Fish",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "bandung soda": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 36,
+      "fat": 0,
+      "sodium": 45,
+      "sugar": 34,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "nasi goreng sapi": {
+      "calories": 410,
+      "protein": 18,
+      "carbs": 50,
+      "fat": 16,
+      "sodium": 1050,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "tom kha": {
+      "calories": 145,
+      "protein": 11,
+      "carbs": 8,
+      "fat": 7,
+      "sodium": 880,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Shellfish",
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Coconut"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "tao hoo chanron": {
+      "calories": 380,
+      "protein": 22,
+      "carbs": 14,
+      "fat": 26,
+      "sodium": 1050,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Shellfish",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains probiotics from fermented tofu"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "kaeng khiao wan gai / nuer": {
+      "calories": 380,
+      "protein": 28,
+      "carbs": 12,
+      "fat": 26,
+      "sodium": 950,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains antioxidants from Thai herbs"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "lychee aloe vera with wolfberry green tea": {
+      "calories": 95,
+      "protein": 0,
+      "carbs": 24,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 22,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in fat",
+        "Contains antioxidants from green tea"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "phad see yew kway teow with marbled sirloin beef": {
+      "calories": 680,
+      "protein": 35,
+      "carbs": 58,
+      "fat": 32,
+      "sodium": 1450,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "High in saturated fat"
+      ]
+    },
+    "sambal udang petai": {
+      "calories": 420,
+      "protein": 32,
+      "carbs": 8,
+      "fat": 28,
+      "sodium": 1100,
+      "sugar": 2,
+      "fiber": 3,
+      "allergens": [
+        "Shellfish",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "phad see yew kway teow": {
+      "calories": 580,
+      "protein": 22,
+      "carbs": 58,
+      "fat": 26,
+      "sodium": 1400,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Fish",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "High in fat"
+      ]
+    },
+    "basil leaves chicken with steamed rice & fried egg": {
+      "calories": 620,
+      "protein": 32,
+      "carbs": 68,
+      "fat": 18,
+      "sodium": 1050,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Balanced meal with carbs"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "nasi goreng ayam with basil": {
+      "calories": 610,
+      "protein": 28,
+      "carbs": 70,
+      "fat": 18,
+      "sodium": 1100,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains aromatic herbs"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "kang kong": {
+      "calories": 180,
+      "protein": 8,
+      "carbs": 12,
+      "fat": 12,
+      "sodium": 850,
+      "sugar": 2,
+      "fiber": 3,
+      "allergens": [
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "Low in calories",
+        "Good source of vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "goong ob woonsen": {
+      "calories": 480,
+      "protein": 28,
+      "carbs": 42,
+      "fat": 18,
+      "sodium": 1200,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "thick seafood soup": {
+      "calories": 320,
+      "protein": 26,
+      "carbs": 18,
+      "fat": 16,
+      "sodium": 1200,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Fish",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains collagen from broth"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "young coconut": {
+      "calories": 95,
+      "protein": 1,
+      "carbs": 9,
+      "fat": 5,
+      "sodium": 105,
+      "sugar": 7,
+      "fiber": 2,
+      "allergens": [
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Low calorie",
+        "Natural electrolytes",
+        "Hydrating"
+      ],
+      "healthWarnings": []
+    },
+    "thai iced milk tea": {
+      "calories": 220,
+      "protein": 4,
+      "carbs": 32,
+      "fat": 8,
+      "sodium": 85,
+      "sugar": 28,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "phad thai with diced chicken": {
+      "calories": 520,
+      "protein": 24,
+      "carbs": 58,
+      "fat": 18,
+      "sodium": 1100,
+      "sugar": 10,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Peanut",
+        "Fish",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "High in fat"
+      ]
+    },
+    "goong ob noey": {
+      "calories": 420,
+      "protein": 38,
+      "carbs": 18,
+      "fat": 21,
+      "sodium": 680,
+      "sugar": 12,
+      "fiber": 1,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of selenium"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "thai iced milk coffee": {
+      "calories": 240,
+      "protein": 4,
+      "carbs": 28,
+      "fat": 10,
+      "sodium": 95,
+      "sugar": 24,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "tom yum moh fai mama talay": {
+      "calories": 680,
+      "protein": 32,
+      "carbs": 68,
+      "fat": 24,
+      "sodium": 1600,
+      "sugar": 8,
+      "fiber": 3,
+      "allergens": [
+        "Shellfish",
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of omega-3",
+        "Spicy metabolism boost"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in calories",
+        "High in fat"
+      ]
+    },
+    "coke": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 39,
+      "fat": 0,
+      "sodium": 50,
+      "sugar": 39,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "Empty calories"
+      ]
+    },
+    "gulai udang panas": {
+      "calories": 520,
+      "protein": 28,
+      "carbs": 32,
+      "fat": 28,
+      "sodium": 1100,
+      "sugar": 12,
+      "fiber": 3,
+      "allergens": [
+        "Shellfish",
+        "Coconut",
+        "Fish",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of omega-3",
+        "Contains pineapple enzymes"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "pla nueng manow": {
+      "calories": 280,
+      "protein": 42,
+      "carbs": 8,
+      "fat": 9,
+      "sodium": 820,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Fish",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "High in omega-3",
+        "Low in carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "seafood bakar": {
+      "calories": 580,
+      "protein": 65,
+      "carbs": 12,
+      "fat": 28,
+      "sodium": 1120,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Shellfish",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "High in omega-3",
+        "Good source of minerals"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "sprite": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 36,
+      "fat": 0,
+      "sodium": 55,
+      "sugar": 35,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "coke float": {
+      "calories": 320,
+      "protein": 2,
+      "carbs": 48,
+      "fat": 13,
+      "sodium": 95,
+      "sugar": 45,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories",
+        "High in saturated fat"
+      ]
+    },
+    "coke zero": {
+      "calories": 2,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 85,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Zero sugar",
+        "Zero calories"
+      ],
+      "healthWarnings": []
+    },
+    "bottled water": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Hydrating",
+        "Zero calories"
+      ],
+      "healthWarnings": []
+    },
+    "sprite float": {
+      "calories": 300,
+      "protein": 2,
+      "carbs": 44,
+      "fat": 13,
+      "sodium": 90,
+      "sugar": 42,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories",
+        "High in saturated fat"
+      ]
+    },
+    "coke zero float": {
+      "calories": 260,
+      "protein": 2,
+      "carbs": 6,
+      "fat": 13,
+      "sodium": 110,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Low in sugar"
+      ],
+      "healthWarnings": [
+        "High in saturated fat"
+      ]
+    }
+  }
+}

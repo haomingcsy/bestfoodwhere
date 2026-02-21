@@ -1,0 +1,1192 @@
+{
+  "brand": "hei-sushi",
+  "generatedAt": "2026-02-16T15:22:24.914Z",
+  "items": {
+    "salmon set a": {
+      "calories": 320,
+      "protein": 38,
+      "carbs": 18,
+      "fat": 12,
+      "sodium": 680,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "Excellent source of protein",
+        "Rich in vitamin D"
+      ],
+      "healthWarnings": [
+        "Moderate sodium content"
+      ]
+    },
+    "ebi fry": {
+      "calories": 220,
+      "protein": 12,
+      "carbs": 16,
+      "fat": 13,
+      "sodium": 480,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Shellfish",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in calories from deep frying"
+      ]
+    },
+    "salmon stick": {
+      "calories": 380,
+      "protein": 42,
+      "carbs": 8,
+      "fat": 20,
+      "sodium": 720,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Fish",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "Excellent source of protein",
+        "Rich in vitamin D"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in sodium"
+      ]
+    },
+    "deluxe platter": {
+      "calories": 1420,
+      "protein": 68,
+      "carbs": 156,
+      "fat": 42,
+      "sodium": 2240,
+      "sugar": 8,
+      "fiber": 3,
+      "allergens": [
+        "Fish",
+        "Shellfish",
+        "Soy",
+        "Gluten",
+        "Sesame",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3 from fish"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "Contains multiple allergens"
+      ]
+    },
+    "lunar yusheng ( 6 to 8 pax )": {
+      "calories": 680,
+      "protein": 52,
+      "carbs": 48,
+      "fat": 32,
+      "sodium": 1240,
+      "sugar": 12,
+      "fiber": 8,
+      "allergens": [
+        "Fish",
+        "Sesame",
+        "Peanut",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "High in fiber",
+        "Rich in vegetables",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in peanut content"
+      ]
+    },
+    "kimchi chimni": {
+      "calories": 85,
+      "protein": 2,
+      "carbs": 8,
+      "fat": 4,
+      "sodium": 620,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains probiotics",
+        "Low calorie"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Spicy"
+      ]
+    },
+    "tamago tango": {
+      "calories": 180,
+      "protein": 8,
+      "carbs": 24,
+      "fat": 5,
+      "sodium": 380,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Egg",
+        "Soy",
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Source of choline"
+      ],
+      "healthWarnings": [
+        "Moderate sodium"
+      ]
+    },
+    "kani fumi trio": {
+      "calories": 165,
+      "protein": 14,
+      "carbs": 20,
+      "fat": 4,
+      "sodium": 420,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Low fat"
+      ],
+      "healthWarnings": [
+        "Shellfish allergen"
+      ]
+    },
+    "sizzling hot plate ( chicken )": {
+      "calories": 420,
+      "protein": 48,
+      "carbs": 12,
+      "fat": 18,
+      "sodium": 860,
+      "sugar": 3,
+      "fiber": 0,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Excellent source of protein",
+        "Lean meat"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "ebi sushi": {
+      "calories": 85,
+      "protein": 8,
+      "carbs": 10,
+      "fat": 2,
+      "sodium": 200,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Low calorie",
+        "Low fat"
+      ],
+      "healthWarnings": []
+    },
+    "spring yusheng ( 3 to 4 pax )": {
+      "calories": 440,
+      "protein": 34,
+      "carbs": 32,
+      "fat": 21,
+      "sodium": 820,
+      "sugar": 8,
+      "fiber": 5,
+      "allergens": [
+        "Fish",
+        "Sesame",
+        "Peanut",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "High in fiber",
+        "Rich in vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Contains peanut"
+      ]
+    },
+    "chuka hotate": {
+      "calories": 95,
+      "protein": 12,
+      "carbs": 6,
+      "fat": 3,
+      "sodium": 480,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Shellfish",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Excellent source of protein",
+        "Low calorie",
+        "Rich in minerals"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "cheese gyoza": {
+      "calories": 280,
+      "protein": 10,
+      "carbs": 22,
+      "fat": 16,
+      "sodium": 540,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Source of protein",
+        "Source of calcium from cheese"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in saturated fat from cheese"
+      ]
+    },
+    "spicy seoulmate (kimchi)": {
+      "calories": 175,
+      "protein": 6,
+      "carbs": 28,
+      "fat": 4,
+      "sodium": 620,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Contains probiotics",
+        "Low fat"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Spicy"
+      ]
+    },
+    "unagi trio": {
+      "calories": 320,
+      "protein": 18,
+      "carbs": 30,
+      "fat": 12,
+      "sodium": 620,
+      "sugar": 4,
+      "fiber": 1,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vitamin A"
+      ],
+      "healthWarnings": [
+        "Moderate sodium",
+        "Contains gluten"
+      ]
+    },
+    "tori karaage": {
+      "calories": 340,
+      "protein": 28,
+      "carbs": 18,
+      "fat": 18,
+      "sodium": 540,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in calories from deep frying"
+      ]
+    },
+    "salmon set b": {
+      "calories": 360,
+      "protein": 40,
+      "carbs": 20,
+      "fat": 14,
+      "sodium": 720,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "Excellent source of protein",
+        "Rich in vitamin D"
+      ],
+      "healthWarnings": [
+        "Moderate sodium"
+      ]
+    },
+    "okinawa platter": {
+      "calories": 1280,
+      "protein": 64,
+      "carbs": 144,
+      "fat": 38,
+      "sodium": 2080,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Shellfish",
+        "Soy",
+        "Gluten",
+        "Sesame",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "Contains multiple allergens"
+      ]
+    },
+    "sizzling hot plate ( beef slice )": {
+      "calories": 520,
+      "protein": 52,
+      "carbs": 12,
+      "fat": 28,
+      "sodium": 920,
+      "sugar": 3,
+      "fiber": 0,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Excellent source of protein",
+        "Rich in iron and B vitamins"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "tako sushi": {
+      "calories": 70,
+      "protein": 10,
+      "carbs": 8,
+      "fat": 1,
+      "sodium": 180,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Excellent source of protein",
+        "Very low fat",
+        "Low calorie"
+      ],
+      "healthWarnings": []
+    },
+    "oshizushi set b": {
+      "calories": 420,
+      "protein": 38,
+      "carbs": 42,
+      "fat": 12,
+      "sodium": 680,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "Good source of protein",
+        "Rich in iodine"
+      ],
+      "healthWarnings": [
+        "Moderate sodium content"
+      ]
+    },
+    "himawari party set": {
+      "calories": 1280,
+      "protein": 95,
+      "carbs": 140,
+      "fat": 35,
+      "sodium": 2100,
+      "sugar": 8,
+      "fiber": 3,
+      "allergens": [
+        "Fish",
+        "Shellfish",
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "sizzling hot plate (unagi)": {
+      "calories": 380,
+      "protein": 28,
+      "carbs": 35,
+      "fat": 16,
+      "sodium": 920,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "Good source of protein",
+        "Rich in vitamin A"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in sugar"
+      ]
+    },
+    "chuka wakame": {
+      "calories": 35,
+      "protein": 2,
+      "carbs": 5,
+      "fat": 1,
+      "sodium": 480,
+      "sugar": 1,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Low calorie",
+        "High in fiber",
+        "Rich in iodine",
+        "High in minerals"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "salmon trio": {
+      "calories": 180,
+      "protein": 22,
+      "carbs": 14,
+      "fat": 6,
+      "sodium": 320,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Fish",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "Good source of protein",
+        "Rich in vitamin D"
+      ],
+      "healthWarnings": []
+    },
+    "cheese scallop 2 pieces": {
+      "calories": 240,
+      "protein": 22,
+      "carbs": 8,
+      "fat": 14,
+      "sodium": 520,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Shellfish",
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Rich in selenium"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "Moderate sodium"
+      ]
+    },
+    "fortune sushi platter": {
+      "calories": 1350,
+      "protein": 110,
+      "carbs": 155,
+      "fat": 28,
+      "sodium": 2400,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Shellfish",
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "soft shell crab": {
+      "calories": 320,
+      "protein": 18,
+      "carbs": 22,
+      "fat": 18,
+      "sodium": 680,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Shellfish",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Rich in selenium"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "Moderate sodium"
+      ]
+    },
+    "chick n groove": {
+      "calories": 185,
+      "protein": 12,
+      "carbs": 18,
+      "fat": 8,
+      "sodium": 420,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "Moderate sodium"
+      ]
+    },
+    "kanifumi sushi": {
+      "calories": 45,
+      "protein": 5,
+      "carbs": 6,
+      "fat": 1,
+      "sodium": 180,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Shellfish",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Low calorie",
+        "Good source of protein"
+      ],
+      "healthWarnings": []
+    },
+    "chuka idako": {
+      "calories": 65,
+      "protein": 12,
+      "carbs": 3,
+      "fat": 1,
+      "sodium": 560,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Shellfish",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Low calorie",
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "kaika party set": {
+      "calories": 1150,
+      "protein": 85,
+      "carbs": 130,
+      "fat": 32,
+      "sodium": 1900,
+      "sugar": 7,
+      "fiber": 3,
+      "allergens": [
+        "Fish",
+        "Shellfish",
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "hamachi trio": {
+      "calories": 175,
+      "protein": 24,
+      "carbs": 14,
+      "fat": 4,
+      "sodium": 300,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Fish",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "High in protein",
+        "Rich in vitamin D"
+      ],
+      "healthWarnings": []
+    },
+    "lucky sushi platter": {
+      "calories": 1020,
+      "protein": 82,
+      "carbs": 120,
+      "fat": 22,
+      "sodium": 1850,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Shellfish",
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "oshizushi set c": {
+      "calories": 580,
+      "protein": 48,
+      "carbs": 58,
+      "fat": 16,
+      "sodium": 920,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "Moderate sodium"
+      ]
+    },
+    "shake sushi": {
+      "calories": 50,
+      "protein": 6,
+      "carbs": 6,
+      "fat": 1,
+      "sodium": 160,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Fish",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Low calorie",
+        "High in omega-3",
+        "Good source of protein"
+      ],
+      "healthWarnings": []
+    },
+    "shake tobimayo yakimono": {
+      "calories": 280,
+      "protein": 24,
+      "carbs": 12,
+      "fat": 16,
+      "sodium": 480,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in fat"
+      ]
+    },
+    "tebasaki": {
+      "calories": 240,
+      "protein": 20,
+      "carbs": 12,
+      "fat": 13,
+      "sodium": 380,
+      "sugar": 6,
+      "fiber": 0,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in sugar"
+      ]
+    },
+    "hotate tobimayo": {
+      "calories": 260,
+      "protein": 20,
+      "carbs": 14,
+      "fat": 14,
+      "sodium": 520,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Rich in selenium"
+      ],
+      "healthWarnings": [
+        "High in fat"
+      ]
+    },
+    "shishamo": {
+      "calories": 160,
+      "protein": 18,
+      "carbs": 4,
+      "fat": 8,
+      "sodium": 420,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Fish",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "Moderate sodium"
+      ]
+    },
+    "tamago sushi": {
+      "calories": 68,
+      "protein": 6,
+      "carbs": 8,
+      "fat": 2,
+      "sodium": 180,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Egg",
+        "Fish",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains choline"
+      ],
+      "healthWarnings": [
+        "Moderate sodium"
+      ]
+    },
+    "chuka kurage": {
+      "calories": 45,
+      "protein": 8,
+      "carbs": 2,
+      "fat": 0.5,
+      "sodium": 520,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Very low calorie",
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "Very high in sodium"
+      ]
+    },
+    "hei heiwa": {
+      "calories": 320,
+      "protein": 24,
+      "carbs": 32,
+      "fat": 8,
+      "sodium": 680,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Shellfish",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3",
+        "Balanced meal"
+      ],
+      "healthWarnings": [
+        "Moderate to high sodium",
+        "Contains refined carbs"
+      ]
+    },
+    "unagi kabayaki": {
+      "calories": 385,
+      "protein": 32,
+      "carbs": 18,
+      "fat": 20,
+      "sodium": 720,
+      "sugar": 8,
+      "fiber": 0,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in omega-3 fatty acids",
+        "Good source of vitamin A"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in sugar"
+      ]
+    },
+    "hei sora": {
+      "calories": 480,
+      "protein": 36,
+      "carbs": 48,
+      "fat": 12,
+      "sodium": 1020,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Shellfish",
+        "Sesame",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains multiple seafood types",
+        "Good source of omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate calorie content"
+      ]
+    },
+    "unagi sushi": {
+      "calories": 95,
+      "protein": 8,
+      "carbs": 9,
+      "fat": 4,
+      "sodium": 240,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3",
+        "Rich in vitamin A"
+      ],
+      "healthWarnings": [
+        "Moderate sodium",
+        "Contains sugar from sauce"
+      ]
+    },
+    "lobster salad": {
+      "calories": 110,
+      "protein": 16,
+      "carbs": 4,
+      "fat": 4,
+      "sodium": 380,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Low calorie",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "Moderate sodium"
+      ]
+    },
+    "shake": {
+      "calories": 320,
+      "protein": 28,
+      "carbs": 12,
+      "fat": 18,
+      "sodium": 650,
+      "sugar": 6,
+      "fiber": 0,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in omega-3 fatty acids",
+        "Good source of vitamin D"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "hot bean hotate 3 pcs": {
+      "calories": 185,
+      "protein": 22,
+      "carbs": 8,
+      "fat": 7,
+      "sodium": 580,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Low calorie",
+        "Good source of zinc"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "ika yaki": {
+      "calories": 195,
+      "protein": 26,
+      "carbs": 6,
+      "fat": 7,
+      "sodium": 620,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Low calorie",
+        "Contains selenium"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "yakitori": {
+      "calories": 245,
+      "protein": 28,
+      "carbs": 3,
+      "fat": 12,
+      "sodium": 480,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Lean meat",
+        "Low carb"
+      ],
+      "healthWarnings": [
+        "Moderate sodium",
+        "Moderate fat content"
+      ]
+    },
+    "chicken thigh": {
+      "calories": 310,
+      "protein": 32,
+      "carbs": 5,
+      "fat": 16,
+      "sodium": 520,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of B vitamins",
+        "Contains iron"
+      ],
+      "healthWarnings": [
+        "Moderate sodium",
+        "Moderate saturated fat"
+      ]
+    },
+    "gyu yakimono": {
+      "calories": 385,
+      "protein": 38,
+      "carbs": 6,
+      "fat": 20,
+      "sodium": 640,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron and zinc",
+        "Good source of B12"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in saturated fat",
+        "Moderate sodium"
+      ]
+    },
+    "beef stick": {
+      "calories": 340,
+      "protein": 36,
+      "carbs": 2,
+      "fat": 19,
+      "sodium": 580,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Premium wagyu beef",
+        "Rich in iron and zinc"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in saturated fat",
+        "Moderate sodium"
+      ]
+    }
+  }
+}

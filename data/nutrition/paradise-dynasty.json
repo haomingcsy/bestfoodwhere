@@ -1,0 +1,2100 @@
+{
+  "brand": "paradise-dynasty",
+  "generatedAt": "2026-02-21T11:07:57.467Z",
+  "items": {
+    "bento set a 便当a 宫保腰果鸡饭": {
+      "calories": 680,
+      "protein": 28,
+      "carbs": 72,
+      "fat": 28,
+      "sodium": 1240,
+      "sugar": 8,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Peanut",
+        "Tree Nut",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables",
+        "Balanced meal"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "h1 coke 可乐": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 39,
+      "fat": 0,
+      "sodium": 45,
+      "sugar": 39,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "Empty calories",
+        "High glycemic index"
+      ]
+    },
+    "f11 la mian with sliced kurobuta pork in signature pork bone soup 美国黑猪肉卷猪骨汤拉面": {
+      "calories": 820,
+      "protein": 38,
+      "carbs": 88,
+      "fat": 32,
+      "sodium": 1680,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains collagen from bone broth"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in calories",
+        "High in saturated fat"
+      ]
+    },
+    "longevity set menu (3-4 pax) 福寿绵绵(3-4位)": {
+      "calories": 2480,
+      "protein": 185,
+      "carbs": 95,
+      "fat": 125,
+      "sodium": 3240,
+      "sugar": 12,
+      "fiber": 8,
+      "allergens": [
+        "Fish",
+        "Shellfish",
+        "Soy",
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in omega-3 from seafood",
+        "Contains medicinal ingredients",
+        "Balanced festive meal"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in calories per serving",
+        "High in cholesterol from seafood"
+      ]
+    },
+    "b1 radish pastry (3pc) 萝卜丝酥饼（三粒）": {
+      "calories": 320,
+      "protein": 6,
+      "carbs": 38,
+      "fat": 16,
+      "sodium": 580,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Contains vegetables",
+        "Traditional dim sum"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat from frying",
+        "High in calories"
+      ]
+    },
+    "c1 chilled assorted vegetable and tofu tossed with vinaigrette 凉拌小菜": {
+      "calories": 140,
+      "protein": 12,
+      "carbs": 8,
+      "fat": 7,
+      "sodium": 720,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Low in calories",
+        "Good source of protein from tofu",
+        "High in fiber",
+        "Light appetizer"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "d1 double-boiled chicken soup with bamboo fungus & black fungus 竹笙木耳炖土鸡汤": {
+      "calories": 220,
+      "protein": 28,
+      "carbs": 12,
+      "fat": 6,
+      "sodium": 1080,
+      "sugar": 2,
+      "fiber": 3,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains medicinal mushrooms",
+        "Good source of collagen",
+        "Light and nourishing"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "f2 rice cake with shredded pork in signature pork bone soup 肉丝年糕猪骨汤": {
+      "calories": 580,
+      "protein": 24,
+      "carbs": 68,
+      "fat": 20,
+      "sodium": 1420,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains collagen from broth"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "High in saturated fat"
+      ]
+    },
+    "e1 stir-fried shredded pork in sweet bean sauce served with chinese crepe 京酱肉丝": {
+      "calories": 480,
+      "protein": 26,
+      "carbs": 44,
+      "fat": 20,
+      "sodium": 1560,
+      "sugar": 12,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "a1 specialty dynasty xiao long bao (8 flavours) 特色皇朝小笼包 (八色)": {
+      "calories": 380,
+      "protein": 16,
+      "carbs": 44,
+      "fat": 14,
+      "sodium": 840,
+      "sugar": 6,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg",
+        "Shellfish",
+        "Pork"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Signature dish"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "g1 pan-fried pancake with red bean paste 香煎豆沙锅饼": {
+      "calories": 420,
+      "protein": 8,
+      "carbs": 58,
+      "fat": 16,
+      "sodium": 380,
+      "sugar": 24,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Contains fiber from red beans"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories",
+        "High in fat"
+      ]
+    },
+    "e11 steamed chicken with porcini mushroom in chinese wine 牛肝菌花雕蒸鸡": {
+      "calories": 320,
+      "protein": 38,
+      "carbs": 8,
+      "fat": 14,
+      "sodium": 780,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Low in calories",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "steamed dragon grouper in hong kong style (700g) 港式蒸龙虎斑 (700克)": {
+      "calories": 520,
+      "protein": 68,
+      "carbs": 6,
+      "fat": 24,
+      "sodium": 1240,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Very high in protein",
+        "Rich in omega-3",
+        "Low in carbs",
+        "High quality white fish"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in cholesterol"
+      ]
+    },
+    "steamed dragon grouper in hong kong style (1.1kg) 港式蒸龙虎斑 (1.1公斤)": {
+      "calories": 840,
+      "protein": 109,
+      "carbs": 10,
+      "fat": 38,
+      "sodium": 1980,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Very high in protein",
+        "Rich in omega-3",
+        "Low in carbs"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in cholesterol"
+      ]
+    },
+    "d3 double-boiled pork rib soup with cabbage 清炖菜胆排骨汤": {
+      "calories": 280,
+      "protein": 32,
+      "carbs": 10,
+      "fat": 12,
+      "sodium": 1120,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains collagen",
+        "Good source of minerals"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in cholesterol"
+      ]
+    },
+    "a2 signature original xiao long bao 招牌原味小笼包 (6pcs) (6粒)": {
+      "calories": 240,
+      "protein": 10,
+      "carbs": 28,
+      "fat": 9,
+      "sodium": 560,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg",
+        "Pork"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Signature dish"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "e3 braised pork belly in shanghai style 外婆红烧肉 5 pcs (5粒)": {
+      "calories": 520,
+      "protein": 38,
+      "carbs": 12,
+      "fat": 38,
+      "sodium": 720,
+      "sugar": 8,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron",
+        "Rich in B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Very high in saturated fat",
+        "High in cholesterol"
+      ]
+    },
+    "h4 bottled drinking water 瓶装食用水": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Hydrating",
+        "No calories"
+      ],
+      "healthWarnings": []
+    },
+    "wealth set menu (5-6 pax) 金玉满堂(5-6位)": {
+      "calories": 3420,
+      "protein": 245,
+      "carbs": 128,
+      "fat": 168,
+      "sodium": 4380,
+      "sugar": 16,
+      "fiber": 10,
+      "allergens": [
+        "Fish",
+        "Shellfish",
+        "Soy",
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Very high in protein",
+        "Rich in omega-3 from seafood",
+        "Contains medicinal ingredients",
+        "Festive celebratory meal"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in cholesterol",
+        "High in calories per serving",
+        "High in saturated fat"
+      ]
+    },
+    "c2 chilled tofu with century egg 松花皮蛋豆腐": {
+      "calories": 160,
+      "protein": 14,
+      "carbs": 6,
+      "fat": 8,
+      "sodium": 840,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Low in calories",
+        "Light appetizer"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in cholesterol from century egg"
+      ]
+    },
+    "f12 la mian with prawn and pork wanton in signature pork bone soup 鲜虾猪肉云吞猪骨汤拉面": {
+      "calories": 520,
+      "protein": 28,
+      "carbs": 58,
+      "fat": 16,
+      "sodium": 1680,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Shellfish",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains seafood"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "f3 wok-fried rice cake with pork and vegetable in shanghai style 上海炒年糕": {
+      "calories": 480,
+      "protein": 16,
+      "carbs": 62,
+      "fat": 16,
+      "sodium": 1420,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in carbohydrates"
+      ]
+    },
+    "c4 poached chicken in shanghai style 上海白切鸡": {
+      "calories": 380,
+      "protein": 42,
+      "carbs": 4,
+      "fat": 20,
+      "sodium": 1200,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Low in carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "bento set d 便当d 姜葱鱼片饭": {
+      "calories": 550,
+      "protein": 32,
+      "carbs": 52,
+      "fat": 18,
+      "sodium": 1340,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Balanced meal",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "b4 crispy vegetable spring roll (3pc) 淮扬三丝春卷（三粒）": {
+      "calories": 240,
+      "protein": 6,
+      "carbs": 28,
+      "fat": 12,
+      "sodium": 480,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in saturated fat"
+      ]
+    },
+    "g2 pan-fried pumpkin pastry (3pc) 香煎南瓜饼 (三片)": {
+      "calories": 220,
+      "protein": 3,
+      "carbs": 32,
+      "fat": 10,
+      "sodium": 240,
+      "sugar": 12,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains pumpkin"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "steamed dragon grouper with \"hua diao\" wine (700g) 花雕酒蒸龙虎斑(700克)": {
+      "calories": 680,
+      "protein": 68,
+      "carbs": 8,
+      "fat": 38,
+      "sodium": 1800,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in omega-3 fatty acids"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "h5 lime juice (cold) 酸柑汁(冷)": {
+      "calories": 45,
+      "protein": 0,
+      "carbs": 10,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 8,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in calories",
+        "Contains vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "e3 braised pork belly in shanghai style 外婆红烧肉 8 pcs (8粒)": {
+      "calories": 680,
+      "protein": 48,
+      "carbs": 12,
+      "fat": 48,
+      "sodium": 1840,
+      "sugar": 8,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "Very high in saturated fat",
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "b2 steamed taro lava bun (2pcs) 香芋流沙包 (2粒)": {
+      "calories": 240,
+      "protein": 4,
+      "carbs": 36,
+      "fat": 8,
+      "sodium": 320,
+      "sugar": 14,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains taro"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in carbohydrates"
+      ]
+    },
+    "d4 vegetable and pork wanton in signature pork bone soup (6pc) 菜肉云吞猪骨汤（六粒）": {
+      "calories": 280,
+      "protein": 14,
+      "carbs": 32,
+      "fat": 10,
+      "sodium": 1240,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "a2 signature original xiao long bao 招牌原味小笼包 (10pcs) (10粒)": {
+      "calories": 360,
+      "protein": 16,
+      "carbs": 44,
+      "fat": 12,
+      "sodium": 920,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg",
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "g3 black sesame glutinous rice ball topped with peanut powder (4pc) 擂沙汤丸 (四片)": {
+      "calories": 260,
+      "protein": 6,
+      "carbs": 38,
+      "fat": 10,
+      "sodium": 180,
+      "sugar": 18,
+      "fiber": 2,
+      "allergens": [
+        "Sesame",
+        "Peanut",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains sesame seeds"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "grand feast set menu (8-10 pax) 合家团庆(8-10位)": {
+      "calories": 4200,
+      "protein": 280,
+      "carbs": 320,
+      "fat": 180,
+      "sodium": 8400,
+      "sugar": 40,
+      "fiber": 8,
+      "allergens": [
+        "Fish",
+        "Shellfish",
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Variety of dishes"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in fat",
+        "Very high in calories"
+      ]
+    },
+    "c3 black fungus in peppercorn vinaigrette 凉拌黑木耳": {
+      "calories": 120,
+      "protein": 4,
+      "carbs": 16,
+      "fat": 4,
+      "sodium": 480,
+      "sugar": 2,
+      "fiber": 3,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "Low in calories",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "f4 wok-fried rice cake with shredded pork & porcini mushroom 牛肝菌肉丝炒年糕": {
+      "calories": 480,
+      "protein": 18,
+      "carbs": 60,
+      "fat": 16,
+      "sodium": 1380,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains mushrooms",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in carbohydrates"
+      ]
+    },
+    "f13 la mian with crispy pork chop in signature pork bone soup 香酥猪扒猪骨汤拉面": {
+      "calories": 560,
+      "protein": 32,
+      "carbs": 56,
+      "fat": 20,
+      "sodium": 1620,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "f14 la mian with sliced fish in pickled vegetable broth 酸菜鱼拉面": {
+      "calories": 480,
+      "protein": 28,
+      "carbs": 54,
+      "fat": 14,
+      "sodium": 1720,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Rich in omega-3 fatty acids"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "steamed dragon grouper with \"hua diao\" wine (1.1kg) 花雕酒蒸龙虎斑 (1.1公斤)": {
+      "calories": 980,
+      "protein": 96,
+      "carbs": 12,
+      "fat": 54,
+      "sodium": 2520,
+      "sugar": 3,
+      "fiber": 0,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in omega-3 fatty acids"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "a3 foie gras xiao long bao 鹅肝小笼包  (6pcs) (6粒)": {
+      "calories": 280,
+      "protein": 12,
+      "carbs": 28,
+      "fat": 14,
+      "sodium": 680,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Shellfish",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Source of iron",
+        "Contains B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in cholesterol"
+      ]
+    },
+    "b3 steamed custard lava bun (2pc) 咸蛋流沙包（2粒）": {
+      "calories": 240,
+      "protein": 8,
+      "carbs": 32,
+      "fat": 10,
+      "sodium": 520,
+      "sugar": 8,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Source of choline"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in cholesterol"
+      ]
+    },
+    "c6 japanese cucumber with minced garlic 蒜香青瓜": {
+      "calories": 85,
+      "protein": 2,
+      "carbs": 8,
+      "fat": 5,
+      "sodium": 420,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Low calorie",
+        "Good source of hydration",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "e4 scrambled egg white with fish and conpoy 瑶柱芙蓉赛螃蟹": {
+      "calories": 320,
+      "protein": 28,
+      "carbs": 12,
+      "fat": 16,
+      "sodium": 680,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Fish",
+        "Shellfish",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in selenium",
+        "Contains omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in cholesterol"
+      ]
+    },
+    "h6 water chestnut (cold) 马蹄水(冷)": {
+      "calories": 45,
+      "protein": 1,
+      "carbs": 11,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Good source of fiber",
+        "Natural hydration"
+      ],
+      "healthWarnings": []
+    },
+    "g6 black sesame glutinous rice ball served in ginger soup (3pc) 姜茶黑芝麻汤圆 (三粒)": {
+      "calories": 280,
+      "protein": 6,
+      "carbs": 42,
+      "fat": 10,
+      "sodium": 120,
+      "sugar": 18,
+      "fiber": 3,
+      "allergens": [
+        "Sesame",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Source of calcium",
+        "Contains antioxidants",
+        "Good source of minerals"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in carbs"
+      ]
+    },
+    "f5 fried rice in shanghai style 上海炒饭": {
+      "calories": 420,
+      "protein": 14,
+      "carbs": 48,
+      "fat": 18,
+      "sodium": 780,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Source of carbohydrates",
+        "Contains B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "e5 crispy pork chop 香酥猪扒": {
+      "calories": 380,
+      "protein": 32,
+      "carbs": 18,
+      "fat": 22,
+      "sodium": 650,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of B vitamins",
+        "Contains iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "d5 prawn and pork wanton in signature pork bone soup (6pc) 鲜虾猪肉云吞猪骨汤（六粒）": {
+      "calories": 240,
+      "protein": 18,
+      "carbs": 24,
+      "fat": 10,
+      "sodium": 920,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Shellfish",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains collagen from bone broth",
+        "Rich in minerals"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "g7 glutinous rice ball in fermented rice wine 桂花酒酿丸子": {
+      "calories": 220,
+      "protein": 4,
+      "carbs": 38,
+      "fat": 6,
+      "sodium": 85,
+      "sugar": 22,
+      "fiber": 1,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains alcohol"
+      ]
+    },
+    "f16 la mian with pork dumpling in hot chilli vinaigrette (dry) 四川抄手拌面.": {
+      "calories": 420,
+      "protein": 18,
+      "carbs": 52,
+      "fat": 16,
+      "sodium": 1020,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Peanut",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains chili antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Spicy"
+      ]
+    },
+    "a3 foie gras xiao long bao 鹅肝小笼包 (10pcs) (10粒)": {
+      "calories": 470,
+      "protein": 20,
+      "carbs": 46,
+      "fat": 23,
+      "sodium": 1130,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Shellfish",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Source of iron",
+        "Contains B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in cholesterol"
+      ]
+    },
+    "c7 century egg with vinaigrette and chilli oil 烧椒皮蛋": {
+      "calories": 180,
+      "protein": 12,
+      "carbs": 6,
+      "fat": 12,
+      "sodium": 520,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of minerals",
+        "Contains selenium"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in cholesterol"
+      ]
+    },
+    "e6 stir-fried shrimp in shanghai style 上海清炒虾仁": {
+      "calories": 280,
+      "protein": 32,
+      "carbs": 8,
+      "fat": 14,
+      "sodium": 680,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Shellfish",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of omega-3",
+        "Low in calories"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in cholesterol"
+      ]
+    },
+    "poached argentine prawn served with superior soya sauce(400g) 白灼阿根廷虾(400克)": {
+      "calories": 320,
+      "protein": 48,
+      "carbs": 6,
+      "fat": 12,
+      "sodium": 780,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Shellfish",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in omega-3",
+        "Low in carbs",
+        "Good source of selenium"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in cholesterol"
+      ]
+    },
+    "b5 baked shanghai bbq pork pastry (3pc) 上海芝麻叉烧酥 （三粒）": {
+      "calories": 320,
+      "protein": 12,
+      "carbs": 34,
+      "fat": 16,
+      "sodium": 620,
+      "sugar": 6,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Sesame",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Source of protein",
+        "Contains minerals"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "f7 fried rice with assorted vegetable 鲜蔬炒饭": {
+      "calories": 380,
+      "protein": 12,
+      "carbs": 46,
+      "fat": 16,
+      "sodium": 720,
+      "sugar": 5,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of vegetables",
+        "Contains fiber",
+        "Source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "h6 water chestnut (warm) 马蹄水(温)": {
+      "calories": 45,
+      "protein": 1,
+      "carbs": 11,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Good source of fiber",
+        "Natural hydration"
+      ],
+      "healthWarnings": []
+    },
+    "a4 black truffle xiao long bao 黑松露小笼包  (6pcs) (6粒)": {
+      "calories": 290,
+      "protein": 11,
+      "carbs": 30,
+      "fat": 15,
+      "sodium": 700,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Shellfish",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Source of antioxidants",
+        "Contains B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "f8 egg fried rice 蛋炒饭": {
+      "calories": 520,
+      "protein": 12,
+      "carbs": 68,
+      "fat": 18,
+      "sodium": 980,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Egg",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "High in fat"
+      ]
+    },
+    "poached argentine prawn served with superior soya sauce(500g) 白灼阿根廷虾(500克)": {
+      "calories": 280,
+      "protein": 52,
+      "carbs": 4,
+      "fat": 6,
+      "sodium": 1200,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Low in fat",
+        "Good source of selenium"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in cholesterol"
+      ]
+    },
+    "b7 pan-fried shanghai pork bun (3pc) 上海生煎包（三粒）": {
+      "calories": 380,
+      "protein": 12,
+      "carbs": 45,
+      "fat": 16,
+      "sodium": 720,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "High in fat"
+      ]
+    },
+    "f17 la mian in szechuan hot and sour with seafood 酸辣海鲜汤拉面（辣).": {
+      "calories": 450,
+      "protein": 18,
+      "carbs": 58,
+      "fat": 14,
+      "sodium": 1400,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Shellfish",
+        "Soy",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Very high in spice",
+        "High in calories"
+      ]
+    },
+    "h7 barley (cold) 薏米水 (冷)": {
+      "calories": 45,
+      "protein": 1,
+      "carbs": 10,
+      "fat": 0,
+      "sodium": 80,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in calories",
+        "Low in fat",
+        "Hydrating"
+      ],
+      "healthWarnings": []
+    },
+    "e8 sweet and sour sliced fish 糖醋鱼片": {
+      "calories": 380,
+      "protein": 28,
+      "carbs": 32,
+      "fat": 16,
+      "sodium": 1100,
+      "sugar": 12,
+      "fiber": 1,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "f18 la mian with vegetable pork wanton in signature pork bone soup 菜肉云吞猪骨汤拉面.": {
+      "calories": 480,
+      "protein": 20,
+      "carbs": 60,
+      "fat": 16,
+      "sodium": 1350,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg",
+        "Pork"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "High in fat"
+      ]
+    },
+    "e9 stir-fried beef with scallion 京葱爆肥牛肉": {
+      "calories": 520,
+      "protein": 42,
+      "carbs": 12,
+      "fat": 32,
+      "sodium": 1100,
+      "sugar": 4,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "h7 barley (warm) 薏米水 (温)": {
+      "calories": 45,
+      "protein": 1,
+      "carbs": 10,
+      "fat": 0,
+      "sodium": 80,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in calories",
+        "Low in fat",
+        "Hydrating"
+      ],
+      "healthWarnings": []
+    },
+    "a4 black truffle xiao long bao 黑松露小笼包 (10pcs) (10粒)": {
+      "calories": 580,
+      "protein": 18,
+      "carbs": 68,
+      "fat": 22,
+      "sodium": 1050,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg",
+        "Pork",
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "High in fat"
+      ]
+    },
+    "b8 yam paste xiao long bao 芋泥小笼包 (6pc) （六粒）": {
+      "calories": 300,
+      "protein": 8,
+      "carbs": 42,
+      "fat": 10,
+      "sodium": 480,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains potassium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "crisp-fried smoked fish in shanghai style 上海脆皮熏鱼": {
+      "calories": 420,
+      "protein": 32,
+      "carbs": 8,
+      "fat": 28,
+      "sodium": 950,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of omega-3",
+        "Good source of vitamin D"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "f26 fragrant white rice 田园米饭": {
+      "calories": 180,
+      "protein": 3,
+      "carbs": 40,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 0,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in carbs",
+        "Low in fiber"
+      ]
+    },
+    "a6 crab roe xiao long bao 蟹粉小笼包  (6pcs) (6粒)": {
+      "calories": 380,
+      "protein": 14,
+      "carbs": 48,
+      "fat": 14,
+      "sodium": 920,
+      "sugar": 5,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg",
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains selenium"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "High cholesterol"
+      ]
+    },
+    "f20 la mian with scallion oil (dry) 开洋葱油拌面.": {
+      "calories": 480,
+      "protein": 16,
+      "carbs": 62,
+      "fat": 16,
+      "sodium": 1280,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains minerals"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "b8 yam paste xiao long bao 芋泥小笼包 (10pc) （十粒）": {
+      "calories": 500,
+      "protein": 12,
+      "carbs": 70,
+      "fat": 16,
+      "sodium": 800,
+      "sugar": 14,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains potassium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "e10 stir-fried us beef black pepper sauce 黑胡椒美国肥牛": {
+      "calories": 540,
+      "protein": 44,
+      "carbs": 14,
+      "fat": 34,
+      "sodium": 1150,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "a7 garlic xiao long bao 蒜香小笼包  (6pcs) (6粒)": {
+      "calories": 340,
+      "protein": 12,
+      "carbs": 44,
+      "fat": 12,
+      "sodium": 820,
+      "sugar": 4,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg",
+        "Pork"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains garlic"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "b9 steamed red bean paste bun 讨喜豆沙包 (三粒）": {
+      "calories": 280,
+      "protein": 6,
+      "carbs": 48,
+      "fat": 6,
+      "sodium": 320,
+      "sugar": 18,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "b10 steamed vegetable dumpling 花蔬蒸饺 (6pc) （六粒）": {
+      "calories": 180,
+      "protein": 6,
+      "carbs": 28,
+      "fat": 4,
+      "sodium": 520,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Low in fat",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "Moderate sodium content"
+      ]
+    },
+    "a7 garlic xiao long bao 蒜香小笼包 (10pcs) (10粒)": {
+      "calories": 320,
+      "protein": 12,
+      "carbs": 38,
+      "fat": 12,
+      "sodium": 680,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in saturated fat"
+      ]
+    },
+    "e12 crispy sweet and sour pork 菠萝咕噜肉": {
+      "calories": 480,
+      "protein": 28,
+      "carbs": 42,
+      "fat": 20,
+      "sodium": 920,
+      "sugar": 18,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "b10 steamed vegetable dumpling 花蔬蒸饺 (10pc) （十粒）": {
+      "calories": 300,
+      "protein": 10,
+      "carbs": 46,
+      "fat": 7,
+      "sodium": 860,
+      "sugar": 3,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Low in fat",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "e13 kung pao chicken 宫保腰果鸡丁": {
+      "calories": 420,
+      "protein": 32,
+      "carbs": 24,
+      "fat": 22,
+      "sodium": 980,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Tree Nut",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "a8 szechuan xiao long bao (spicy) 川味小笼包 (辣) (6pcs) (6粒)": {
+      "calories": 200,
+      "protein": 8,
+      "carbs": 24,
+      "fat": 8,
+      "sodium": 540,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "Moderate sodium content"
+      ]
+    },
+    "a8 szechuan xiao long bao (spicy) 川味小笼包 (辣) (10pcs) (10粒)": {
+      "calories": 330,
+      "protein": 13,
+      "carbs": 40,
+      "fat": 13,
+      "sodium": 900,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in saturated fat"
+      ]
+    },
+    "e14 stir-fried spinach with minced garlic 蒜茸炒菠菜": {
+      "calories": 220,
+      "protein": 8,
+      "carbs": 16,
+      "fat": 14,
+      "sodium": 680,
+      "sugar": 2,
+      "fiber": 3,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "Rich in iron",
+        "Good source of vitamins"
+      ],
+      "healthWarnings": [
+        "Moderate sodium content"
+      ]
+    },
+    "b11 pork dumpling in hot chilli vinaigrette (6pc) 红油抄手（六粒）": {
+      "calories": 240,
+      "protein": 10,
+      "carbs": 26,
+      "fat": 10,
+      "sodium": 680,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "a9 korean kimchi xiao long bao (spicy) 韩式泡菜小笼包 (辣) (6pcs) (6粒)": {
+      "calories": 210,
+      "protein": 8,
+      "carbs": 26,
+      "fat": 8,
+      "sodium": 720,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of probiotics",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "e15 braised baby cabbage with assorted mushroom 鲜菌菇扒奶白": {
+      "calories": 280,
+      "protein": 12,
+      "carbs": 22,
+      "fat": 16,
+      "sodium": 740,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Rich in minerals",
+        "Low in calories"
+      ],
+      "healthWarnings": [
+        "Moderate sodium content",
+        "Contains dairy"
+      ]
+    },
+    "b12 prawn and pork dumpling in hot chilli vinaigrette (6pc) 红油鲜虾猪肉抄手（六粒）": {
+      "calories": 260,
+      "protein": 12,
+      "carbs": 28,
+      "fat": 11,
+      "sodium": 720,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg",
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Contains shellfish"
+      ]
+    },
+    "b13 poached vegetable and pork dumpling (8pc) 三鲜鲜肉水饺（八粒）": {
+      "calories": 240,
+      "protein": 10,
+      "carbs": 32,
+      "fat": 8,
+      "sodium": 620,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "Moderate sodium content"
+      ]
+    },
+    "e16 stir-fried french bean with minced pork and preserved olive vegetable 肉碎榄菜干煸": {
+      "calories": 320,
+      "protein": 18,
+      "carbs": 20,
+      "fat": 18,
+      "sodium": 1040,
+      "sugar": 4,
+      "fiber": 4,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "a9 korean kimchi xiao long bao (spicy) 韩식泡菜小笼包 (辣) (10pcs) (10粒)": {
+      "calories": 350,
+      "protein": 13,
+      "carbs": 43,
+      "fat": 13,
+      "sodium": 1200,
+      "sugar": 5,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of probiotics",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in saturated fat"
+      ]
+    },
+    "e18 poached sliced fish in szechuan chilli oil (less spicy/ spicy/ very spicy) 香": {
+      "calories": 520,
+      "protein": 48,
+      "carbs": 18,
+      "fat": 26,
+      "sodium": 1200,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "High in omega-3",
+        "Rich in minerals"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "e19 speciality fish in pickled vegetable broth 皇朝酸菜鱼": {
+      "calories": 480,
+      "protein": 42,
+      "carbs": 20,
+      "fat": 24,
+      "sodium": 1280,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "High in omega-3"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "e20 ma po tofu 重庆麻婆豆腐": {
+      "calories": 320,
+      "protein": 16,
+      "carbs": 18,
+      "fat": 20,
+      "sodium": 1100,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains calcium"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "e21 spicy szechuan crispy chicken 四川辣子鸡": {
+      "calories": 580,
+      "protein": 42,
+      "carbs": 28,
+      "fat": 32,
+      "sodium": 1340,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "Very high in saturated fat"
+      ]
+    },
+    "e22 poached sliced beef in szechuan chilli oil (less spicy/ spicy/ very spicy) 川": {
+      "calories": 540,
+      "protein": 50,
+      "carbs": 16,
+      "fat": 28,
+      "sodium": 1320,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "High in iron",
+        "Rich in B vitamins"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "Very high in saturated fat"
+      ]
+    }
+  }
+}

@@ -1,0 +1,530 @@
+{
+  "brand": "mr-coconut-junction-8",
+  "generatedAt": "2026-02-21T11:01:15.440Z",
+  "items": {
+    "(m) coconut caffe latte (gf)": {
+      "calories": 240,
+      "protein": 8,
+      "carbs": 18,
+      "fat": 14,
+      "sodium": 95,
+      "sugar": 16,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of calcium",
+        "Contains antioxidants from coconut"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "Moderate sugar content"
+      ]
+    },
+    "(l) coconut mango pandan kaya shake -gf": {
+      "calories": 380,
+      "protein": 6,
+      "carbs": 58,
+      "fat": 12,
+      "sodium": 110,
+      "sugar": 48,
+      "fiber": 2,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains vitamin C from mango",
+        "Source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "(m) mocha coconut caffe latte (gf)": {
+      "calories": 280,
+      "protein": 9,
+      "carbs": 24,
+      "fat": 15,
+      "sodium": 100,
+      "sugar": 20,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains caffeine",
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "Contains added sugars"
+      ]
+    },
+    "(l) coconut pandan kaya shake -gf": {
+      "calories": 360,
+      "protein": 5,
+      "carbs": 52,
+      "fat": 14,
+      "sodium": 105,
+      "sugar": 44,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Traditional ingredients",
+        "Source of energy"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "(l) coconut pistachio shake- gf": {
+      "calories": 420,
+      "protein": 10,
+      "carbs": 48,
+      "fat": 18,
+      "sodium": 125,
+      "sugar": 40,
+      "fiber": 3,
+      "allergens": [
+        "Dairy",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains healthy fats",
+        "Source of fiber"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sugar"
+      ]
+    },
+    "(m) gula melaka coconut caffe latte (gf)": {
+      "calories": 260,
+      "protein": 8,
+      "carbs": 22,
+      "fat": 14,
+      "sodium": 95,
+      "sugar": 19,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains traditional palm sugar",
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "Contains added sugars"
+      ]
+    },
+    "(m) coconut americano (gf)": {
+      "calories": 180,
+      "protein": 2,
+      "carbs": 8,
+      "fat": 12,
+      "sodium": 80,
+      "sugar": 6,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in sugar",
+        "Contains antioxidants from coffee"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "Contains caffeine"
+      ]
+    },
+    "(l) coconut shake (made with kitkat) - gf": {
+      "calories": 440,
+      "protein": 7,
+      "carbs": 56,
+      "fat": 18,
+      "sodium": 130,
+      "sugar": 50,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of energy"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in calories",
+        "High in saturated fat"
+      ]
+    },
+    "(hot) coconut caffe latte (gf)": {
+      "calories": 240,
+      "protein": 8,
+      "carbs": 18,
+      "fat": 14,
+      "sodium": 95,
+      "sugar": 16,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of calcium",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "Moderate sugar content"
+      ]
+    },
+    "(l) coconut shake (made with milo) -gf": {
+      "calories": 360,
+      "protein": 8,
+      "carbs": 48,
+      "fat": 12,
+      "sodium": 140,
+      "sugar": 42,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of protein",
+        "Contains added minerals"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in sodium"
+      ]
+    },
+    "(hot) mocha coconut caffe latte (gf)": {
+      "calories": 280,
+      "protein": 9,
+      "carbs": 24,
+      "fat": 15,
+      "sodium": 100,
+      "sugar": 20,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains caffeine",
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "Contains added sugars"
+      ]
+    },
+    "(l) matcha coconut pandan kaya latte - gf": {
+      "calories": 380,
+      "protein": 7,
+      "carbs": 50,
+      "fat": 14,
+      "sodium": 115,
+      "sugar": 42,
+      "fiber": 2,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from matcha",
+        "Source of L-theanine"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains caffeine"
+      ]
+    },
+    "(hot) gula melaka coconut caffe latte (gf)": {
+      "calories": 260,
+      "protein": 8,
+      "carbs": 22,
+      "fat": 14,
+      "sodium": 95,
+      "sugar": 19,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains traditional palm sugar",
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "Contains added sugars"
+      ]
+    },
+    "(l) prosperity orange coconut shake - gf": {
+      "calories": 370,
+      "protein": 5,
+      "carbs": 56,
+      "fat": 12,
+      "sodium": 120,
+      "sugar": 48,
+      "fiber": 2,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains vitamin C from orange",
+        "Source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "(hot) coconut americano (gf)": {
+      "calories": 180,
+      "protein": 2,
+      "carbs": 8,
+      "fat": 12,
+      "sodium": 80,
+      "sugar": 6,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in sugar",
+        "Contains antioxidants from coffee"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "Contains caffeine"
+      ]
+    },
+    "(m) coconut mango pandan kaya shake - gf": {
+      "calories": 320,
+      "protein": 6,
+      "carbs": 48,
+      "fat": 11,
+      "sodium": 105,
+      "sugar": 40,
+      "fiber": 2,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains vitamin C from mango",
+        "Source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Moderate calories"
+      ]
+    },
+    "(m) coconut pandan kaya shake - gf": {
+      "calories": 300,
+      "protein": 5,
+      "carbs": 44,
+      "fat": 12,
+      "sodium": 100,
+      "sugar": 36,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Traditional ingredients",
+        "Source of energy"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Moderate calories"
+      ]
+    },
+    "(m) coconut pistachio shake- gf": {
+      "calories": 360,
+      "protein": 9,
+      "carbs": 38,
+      "fat": 16,
+      "sodium": 120,
+      "sugar": 32,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains healthy fats",
+        "Source of fiber"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "Moderate sugar"
+      ]
+    },
+    "(m) coconut shake (made with kitkat) - gf": {
+      "calories": 380,
+      "protein": 6,
+      "carbs": 48,
+      "fat": 16,
+      "sodium": 125,
+      "sugar": 42,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of energy"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories",
+        "High in saturated fat"
+      ]
+    },
+    "(m) matcha coconut pandan kaya latte - gf": {
+      "calories": 320,
+      "protein": 7,
+      "carbs": 40,
+      "fat": 13,
+      "sodium": 110,
+      "sugar": 34,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from matcha",
+        "Source of L-theanine"
+      ],
+      "healthWarnings": [
+        "Moderate sugar",
+        "Contains caffeine"
+      ]
+    },
+    "(m) prosperity orange coconut shake - gf": {
+      "calories": 320,
+      "protein": 2,
+      "carbs": 72,
+      "fat": 4,
+      "sodium": 85,
+      "sugar": 65,
+      "fiber": 1,
+      "allergens": [
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Source of vitamin C",
+        "Hydrating"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in carbohydrates"
+      ]
+    },
+    "m-coconut mao shan wang shake -gf": {
+      "calories": 380,
+      "protein": 2,
+      "carbs": 82,
+      "fat": 5,
+      "sodium": 95,
+      "sugar": 74,
+      "fiber": 1,
+      "allergens": [
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Rich in antioxidants",
+        "Source of potassium"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in carbohydrates"
+      ]
+    },
+    "(m) coconut shake (made with milo) -": {
+      "calories": 340,
+      "protein": 4,
+      "carbs": 68,
+      "fat": 6,
+      "sodium": 120,
+      "sugar": 58,
+      "fiber": 1,
+      "allergens": [
+        "Tree Nut",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of calcium",
+        "Contains malt"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in sodium"
+      ]
+    },
+    "l-coconut mao shan wang shake - gf": {
+      "calories": 520,
+      "protein": 3,
+      "carbs": 115,
+      "fat": 7,
+      "sodium": 130,
+      "sugar": 102,
+      "fiber": 2,
+      "allergens": [
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Rich in antioxidants",
+        "Source of potassium"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "Very high in carbohydrates"
+      ]
+    },
+    "(m) coconut shake dinosaur (made with milo) -gf": {
+      "calories": 380,
+      "protein": 4,
+      "carbs": 78,
+      "fat": 6,
+      "sodium": 130,
+      "sugar": 68,
+      "fiber": 1,
+      "allergens": [
+        "Tree Nut",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of calcium",
+        "Contains malt"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in sodium"
+      ]
+    },
+    "(l) coconut shake dinosaur (made with milo) -gf": {
+      "calories": 520,
+      "protein": 5,
+      "carbs": 108,
+      "fat": 8,
+      "sodium": 150,
+      "sugar": 92,
+      "fiber": 2,
+      "allergens": [
+        "Tree Nut",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of calcium",
+        "Contains malt"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "Very high in carbohydrates",
+        "High in sodium"
+      ]
+    }
+  }
+}

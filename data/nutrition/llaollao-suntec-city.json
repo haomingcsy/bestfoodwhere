@@ -1,0 +1,55 @@
+{
+  "brand": "llaollao-suntec-city",
+  "generatedAt": "2026-02-21T10:55:54.970Z",
+  "items": {
+    "single llaobox": {
+      "calories": 320,
+      "protein": 8,
+      "carbs": 52,
+      "fat": 6,
+      "sodium": 85,
+      "sugar": 38,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Tree Nut",
+        "Sesame",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains probiotics from yogurt"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in carbohydrates"
+      ]
+    },
+    "double llaobox": {
+      "calories": 520,
+      "protein": 13,
+      "carbs": 85,
+      "fat": 11,
+      "sodium": 140,
+      "sugar": 62,
+      "fiber": 3,
+      "allergens": [
+        "Dairy",
+        "Tree Nut",
+        "Sesame",
+        "Gluten",
+        "Peanut"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains probiotics from yogurt",
+        "Contains antioxidants from fruits"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in carbohydrates",
+        "High in calories"
+      ]
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "brand": "melvados-woodleigh",
+  "generatedAt": "2026-02-21T10:58:46.408Z",
+  "items": {
+    "6 for ice cream": {
+      "calories": 1200,
+      "protein": 12,
+      "carbs": 156,
+      "fat": 54,
+      "sodium": 240,
+      "sugar": 132,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "festive set": {
+      "calories": 980,
+      "protein": 18,
+      "carbs": 124,
+      "fat": 42,
+      "sodium": 680,
+      "sugar": 48,
+      "fiber": 3,
+      "allergens": [
+        "Dairy",
+        "Gluten",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Source of protein",
+        "Contains whole grains"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "under": {
+      "calories": 520,
+      "protein": 8,
+      "carbs": 68,
+      "fat": 22,
+      "sodium": 380,
+      "sugar": 32,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Moderate portion size"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in sodium"
+      ]
+    }
+  }
+}

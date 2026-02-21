@@ -1,0 +1,105 @@
+{
+  "brand": "wok-hey-imm-jurong-east",
+  "generatedAt": "2026-02-21T12:19:57.223Z",
+  "items": {
+    "ebimazerice": {
+      "calories": 520,
+      "protein": 18,
+      "carbs": 68,
+      "fat": 16,
+      "sodium": 1280,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3 from prawns",
+        "Provides essential minerals"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in saturated fat"
+      ]
+    },
+    "fresh ramen": {
+      "calories": 480,
+      "protein": 22,
+      "carbs": 56,
+      "fat": 14,
+      "sodium": 1420,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Shellfish",
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Egg",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains vegetables",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in carbohydrates"
+      ]
+    },
+    "shanghai fried rice": {
+      "calories": 510,
+      "protein": 24,
+      "carbs": 62,
+      "fat": 15,
+      "sodium": 1350,
+      "sugar": 2,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Egg",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains broccoli vitamins",
+        "Provides carbohydrates for energy"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in calories"
+      ]
+    },
+    "fresh udon": {
+      "calories": 540,
+      "protein": 28,
+      "carbs": 64,
+      "fat": 14,
+      "sodium": 1480,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Egg",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein from beef",
+        "Good source of iron",
+        "Provides sustained energy"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in saturated fat"
+      ]
+    }
+  }
+}

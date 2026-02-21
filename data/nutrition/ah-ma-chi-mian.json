@@ -1,0 +1,484 @@
+{
+  "brand": "ah-ma-chi-mian",
+  "generatedAt": "2026-02-16T13:21:03.746Z",
+  "items": {
+    "v1. specialty meatball noodle set 特制肉圆面套餐": {
+      "calories": 520,
+      "protein": 18,
+      "carbs": 68,
+      "fat": 16,
+      "sodium": 1240,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains carbohydrates for energy"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in saturated fat"
+      ]
+    },
+    "coke 可乐": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 39,
+      "fat": 0,
+      "sodium": 45,
+      "sugar": 39,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories from sugar"
+      ]
+    },
+    "s1. specialty pork liver (dry) 特制猪肝（干）": {
+      "calories": 280,
+      "protein": 28,
+      "carbs": 8,
+      "fat": 12,
+      "sodium": 580,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "High in vitamin A"
+      ],
+      "healthWarnings": [
+        "High in cholesterol",
+        "High in sodium"
+      ]
+    },
+    "m5. specialty yuan yang noodle 特制鸳鸯面": {
+      "calories": 420,
+      "protein": 19,
+      "carbs": 55,
+      "fat": 11,
+      "sodium": 980,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains seafood"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in carbohydrates"
+      ]
+    },
+    "m1. specialty meatball noodle 特制肉圆面": {
+      "calories": 460,
+      "protein": 17,
+      "carbs": 60,
+      "fat": 14,
+      "sodium": 1150,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains carbohydrates for energy"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in saturated fat"
+      ]
+    },
+    "bm2. tender loving buddy meal 双人爱心套餐 (u.p. sgd19.9)": {
+      "calories": 820,
+      "protein": 32,
+      "carbs": 110,
+      "fat": 22,
+      "sodium": 2000,
+      "sugar": 10,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains carbohydrates for energy"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "Moderate in saturated fat"
+      ]
+    },
+    "s2. specialty pork liver soup 特制猪肝汤": {
+      "calories": 220,
+      "protein": 24,
+      "carbs": 6,
+      "fat": 8,
+      "sodium": 620,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "High in vitamin A"
+      ],
+      "healthWarnings": [
+        "High in cholesterol",
+        "High in sodium"
+      ]
+    },
+    "m2. ah ma fishball noodle 阿嬷鱼圆面": {
+      "calories": 440,
+      "protein": 16,
+      "carbs": 58,
+      "fat": 13,
+      "sodium": 1100,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains carbohydrates for energy"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in saturated fat"
+      ]
+    },
+    "v2. ah ma fish ball noodle set 阿嬷鱼圆面套餐": {
+      "calories": 500,
+      "protein": 20,
+      "carbs": 62,
+      "fat": 13,
+      "sodium": 1150,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains seafood"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in carbohydrates"
+      ]
+    },
+    "green tea 绿茶": {
+      "calories": 5,
+      "protein": 0,
+      "carbs": 1,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "m3. ah ma specialty noodle 阿嬷特制肉脞面": {
+      "calories": 520,
+      "protein": 22,
+      "carbs": 64,
+      "fat": 16,
+      "sodium": 1240,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains carbohydrates for energy",
+        "Rich in iron from liver"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in saturated fat",
+        "High in cholesterol"
+      ]
+    },
+    "s3. specialty yuan yang (dry) 特制鸳鸯（干）": {
+      "calories": 300,
+      "protein": 24,
+      "carbs": 12,
+      "fat": 14,
+      "sodium": 680,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in saturated fat"
+      ]
+    },
+    "v3. ah ma specialty noodle set 阿嬷特制肉脞面套餐": {
+      "calories": 560,
+      "protein": 23,
+      "carbs": 70,
+      "fat": 17,
+      "sodium": 1320,
+      "sugar": 9,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains carbohydrates for energy",
+        "Rich in iron from liver"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in saturated fat",
+        "High in cholesterol"
+      ]
+    },
+    "v4. signature scallop dry mee sua set 招牌扇贝干捞面线套餐": {
+      "calories": 580,
+      "protein": 20,
+      "carbs": 72,
+      "fat": 16,
+      "sodium": 1280,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Shellfish",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains carbohydrates for energy"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in saturated fat"
+      ]
+    },
+    "s4. specialty yuan yang soup 特制鸳鸯汤": {
+      "calories": 240,
+      "protein": 14,
+      "carbs": 8,
+      "fat": 15,
+      "sodium": 1080,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains seafood"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "m4. signature scallop dry mee sua 招牌扇贝干捞面线": {
+      "calories": 420,
+      "protein": 17,
+      "carbs": 48,
+      "fat": 16,
+      "sodium": 1100,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains seafood"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in fat"
+      ]
+    },
+    "v5. specialty yuan yang noodle set 特制鸳鸯面套餐": {
+      "calories": 520,
+      "protein": 22,
+      "carbs": 68,
+      "fat": 14,
+      "sodium": 1200,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains seafood"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in carbohydrates"
+      ]
+    },
+    "s5. specialty meatball soup (8pcs) 特制肉圆汤": {
+      "calories": 280,
+      "protein": 16,
+      "carbs": 12,
+      "fat": 18,
+      "sodium": 1100,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "s6. teochew fishball soup (7pcs) 潮州鱼圆汤": {
+      "calories": 260,
+      "protein": 14,
+      "carbs": 10,
+      "fat": 16,
+      "sodium": 1050,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "v6. ah ma prawn laksa set 阿嬷叻沙套餐": {
+      "calories": 580,
+      "protein": 20,
+      "carbs": 62,
+      "fat": 24,
+      "sodium": 1400,
+      "sugar": 5,
+      "fiber": 3,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Shellfish",
+        "Coconut"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "m6. ah ma prawn laksa 阿嬷叻沙": {
+      "calories": 480,
+      "protein": 18,
+      "carbs": 50,
+      "fat": 20,
+      "sodium": 1250,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Shellfish",
+        "Coconut"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "s7. specialty scallop (dry) (10pcs) 特制扇贝 （干）": {
+      "calories": 240,
+      "protein": 18,
+      "carbs": 8,
+      "fat": 14,
+      "sodium": 980,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Shellfish",
+        "Chilli"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of minerals"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    }
+  }
+}

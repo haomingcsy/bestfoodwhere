@@ -9,7 +9,8 @@ export type FormSource =
   | "bfw_vip_club"
   | "contact_form"
   | "career_application"
-  | "recipe_newsletter";
+  | "recipe_newsletter"
+  | "report_issue";
 
 export type TrafficChannel =
   | "seo"

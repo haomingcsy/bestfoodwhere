@@ -1,0 +1,716 @@
+{
+  "brand": "red-ginger",
+  "generatedAt": "2026-02-21T11:24:20.085Z",
+  "items": {
+    "nasi pattaya": {
+      "calories": 650,
+      "protein": 16,
+      "carbs": 78,
+      "fat": 28,
+      "sodium": 1240,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Egg",
+        "Soy",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "curry fish head": {
+      "calories": 480,
+      "protein": 42,
+      "carbs": 12,
+      "fat": 28,
+      "sodium": 1680,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Fish",
+        "Shellfish",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "High in omega-3 fatty acids"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in cholesterol"
+      ]
+    },
+    "hot chinese tea": {
+      "calories": 5,
+      "protein": 0,
+      "carbs": 1,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "iced chinese tea": {
+      "calories": 8,
+      "protein": 0,
+      "carbs": 2,
+      "fat": 0,
+      "sodium": 8,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "kl hokkien mee": {
+      "calories": 720,
+      "protein": 18,
+      "carbs": 68,
+      "fat": 38,
+      "sodium": 1520,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Fish",
+        "Shellfish",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "salmon teriyaki fried rice": {
+      "calories": 680,
+      "protein": 22,
+      "carbs": 76,
+      "fat": 26,
+      "sodium": 1180,
+      "sugar": 12,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Egg",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "High in omega-3 fatty acids",
+        "Good source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "hot coffee o": {
+      "calories": 35,
+      "protein": 0,
+      "carbs": 2,
+      "fat": 2,
+      "sodium": 15,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains caffeine for alertness"
+      ],
+      "healthWarnings": []
+    },
+    "iced coffee o": {
+      "calories": 40,
+      "protein": 0,
+      "carbs": 3,
+      "fat": 2,
+      "sodium": 18,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains caffeine for alertness"
+      ],
+      "healthWarnings": []
+    },
+    "seafood hor fun": {
+      "calories": 580,
+      "protein": 20,
+      "carbs": 62,
+      "fat": 24,
+      "sodium": 1340,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Fish",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Good source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "hot tea o": {
+      "calories": 5,
+      "protein": 0,
+      "carbs": 1,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "kampung fried rice": {
+      "calories": 620,
+      "protein": 14,
+      "carbs": 74,
+      "fat": 26,
+      "sodium": 1280,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Egg",
+        "Soy",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "iced tea o": {
+      "calories": 12,
+      "protein": 0,
+      "carbs": 3,
+      "fat": 0,
+      "sodium": 8,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "claypot beef hor fun": {
+      "calories": 640,
+      "protein": 24,
+      "carbs": 60,
+      "fat": 30,
+      "sodium": 1420,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Good source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in cholesterol"
+      ]
+    },
+    "hot coffee with milk": {
+      "calories": 120,
+      "protein": 3,
+      "carbs": 8,
+      "fat": 8,
+      "sodium": 45,
+      "sugar": 4,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of calcium",
+        "Contains caffeine"
+      ],
+      "healthWarnings": [
+        "Contains dairy"
+      ]
+    },
+    "penang kuey teow": {
+      "calories": 700,
+      "protein": 16,
+      "carbs": 72,
+      "fat": 36,
+      "sodium": 1560,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Fish",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "iced coffee with milk": {
+      "calories": 140,
+      "protein": 3,
+      "carbs": 10,
+      "fat": 8,
+      "sodium": 50,
+      "sugar": 5,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of calcium",
+        "Contains caffeine"
+      ],
+      "healthWarnings": [
+        "Contains dairy"
+      ]
+    },
+    "beef fried rice": {
+      "calories": 660,
+      "protein": 18,
+      "carbs": 76,
+      "fat": 28,
+      "sodium": 1320,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Good source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in cholesterol"
+      ]
+    },
+    "hot tea with milk": {
+      "calories": 80,
+      "protein": 2,
+      "carbs": 6,
+      "fat": 4,
+      "sodium": 35,
+      "sugar": 3,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Good source of calcium"
+      ],
+      "healthWarnings": [
+        "Contains dairy"
+      ]
+    },
+    "mee goreng": {
+      "calories": 680,
+      "protein": 16,
+      "carbs": 70,
+      "fat": 32,
+      "sodium": 1480,
+      "sugar": 7,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Fish",
+        "Peanut",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Contains peanuts"
+      ]
+    },
+    "iced tea with milk": {
+      "calories": 100,
+      "protein": 2,
+      "carbs": 10,
+      "fat": 4,
+      "sodium": 40,
+      "sugar": 4,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Good source of calcium"
+      ],
+      "healthWarnings": [
+        "Contains dairy"
+      ]
+    },
+    "tahu goreng": {
+      "calories": 280,
+      "protein": 12,
+      "carbs": 18,
+      "fat": 18,
+      "sodium": 520,
+      "sugar": 1,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains iron"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in sodium"
+      ]
+    },
+    "hot coffee c": {
+      "calories": 25,
+      "protein": 1,
+      "carbs": 3,
+      "fat": 0.5,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "iced coffee c": {
+      "calories": 35,
+      "protein": 1,
+      "carbs": 4,
+      "fat": 1,
+      "sodium": 10,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "hot tea c": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Zero calorie",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "iced tea c": {
+      "calories": 45,
+      "protein": 0,
+      "carbs": 11,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 10,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "hot tea tarik": {
+      "calories": 120,
+      "protein": 3,
+      "carbs": 15,
+      "fat": 5,
+      "sodium": 80,
+      "sugar": 12,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Good source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains dairy"
+      ]
+    },
+    "iced tea tarik": {
+      "calories": 140,
+      "protein": 3,
+      "carbs": 18,
+      "fat": 5.5,
+      "sodium": 100,
+      "sugar": 15,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Good source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains dairy"
+      ]
+    },
+    "hot tea halia": {
+      "calories": 30,
+      "protein": 0,
+      "carbs": 7,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 5,
+      "fiber": 0.5,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "May aid digestion"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "iced tea halia": {
+      "calories": 40,
+      "protein": 0,
+      "carbs": 10,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 8,
+      "fiber": 0.5,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "May aid digestion"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "hot milo": {
+      "calories": 150,
+      "protein": 3,
+      "carbs": 28,
+      "fat": 3,
+      "sodium": 150,
+      "sugar": 24,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of calcium",
+        "Contains iron"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in sodium"
+      ]
+    },
+    "iced milo": {
+      "calories": 170,
+      "protein": 3,
+      "carbs": 32,
+      "fat": 3.5,
+      "sodium": 160,
+      "sugar": 27,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of calcium",
+        "Contains iron"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in sodium"
+      ]
+    },
+    "hot horlicks": {
+      "calories": 140,
+      "protein": 3.5,
+      "carbs": 26,
+      "fat": 2.5,
+      "sodium": 140,
+      "sugar": 22,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of calcium",
+        "Contains vitamins"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in sodium"
+      ]
+    },
+    "iced horlicks": {
+      "calories": 160,
+      "protein": 3.5,
+      "carbs": 30,
+      "fat": 3,
+      "sodium": 150,
+      "sugar": 25,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of calcium",
+        "Contains vitamins"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in sodium"
+      ]
+    },
+    "hot nescafe": {
+      "calories": 20,
+      "protein": 0.5,
+      "carbs": 3,
+      "fat": 0.5,
+      "sodium": 10,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "iced nescafe": {
+      "calories": 30,
+      "protein": 0.5,
+      "carbs": 4,
+      "fat": 1,
+      "sodium": 15,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "iced bandung": {
+      "calories": 130,
+      "protein": 2,
+      "carbs": 28,
+      "fat": 1.5,
+      "sodium": 120,
+      "sugar": 26,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in sodium"
+      ]
+    },
+    "canned drinks": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 35,
+      "fat": 0,
+      "sodium": 45,
+      "sugar": 34,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in calories"
+      ]
+    },
+    "mineral water": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 2,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Zero calorie",
+        "Contains minerals"
+      ],
+      "healthWarnings": []
+    }
+  }
+}

@@ -1,0 +1,336 @@
+{
+  "brand": "crave-nasi-lemak-amk-hub",
+  "generatedAt": "2026-02-21T10:34:12.167Z",
+  "items": {
+    "nasi lemak salmon fish": {
+      "calories": 680,
+      "protein": 38,
+      "carbs": 62,
+      "fat": 28,
+      "sodium": 920,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "Good source of protein",
+        "Rich in vitamin D"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "fried noodle with chicken wing （炒面+鸡翅膀）": {
+      "calories": 520,
+      "protein": 22,
+      "carbs": 48,
+      "fat": 24,
+      "sodium": 1080,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "fried bee hoon with chicken wing": {
+      "calories": 480,
+      "protein": 20,
+      "carbs": 42,
+      "fat": 22,
+      "sodium": 1020,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "nasi lemak garlic pork （姜葱猪肉椰浆饭）": {
+      "calories": 620,
+      "protein": 28,
+      "carbs": 58,
+      "fat": 26,
+      "sodium": 850,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "fried maggie": {
+      "calories": 560,
+      "protein": 16,
+      "carbs": 64,
+      "fat": 24,
+      "sodium": 1240,
+      "sugar": 4,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "nasi lemak basil chicken": {
+      "calories": 640,
+      "protein": 32,
+      "carbs": 60,
+      "fat": 26,
+      "sodium": 880,
+      "sugar": 1,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Sesame",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains herbs with antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "laksa noodle （拉萨面）": {
+      "calories": 540,
+      "protein": 18,
+      "carbs": 48,
+      "fat": 28,
+      "sodium": 1100,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Fish",
+        "Gluten",
+        "Soy",
+        "Sesame",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "nasi lemak curry chicken （咖喱鸡椰浆饭）": {
+      "calories": 580,
+      "protein": 26,
+      "carbs": 56,
+      "fat": 22,
+      "sodium": 920,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains turmeric"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "mee rebus": {
+      "calories": 500,
+      "protein": 14,
+      "carbs": 54,
+      "fat": 22,
+      "sodium": 1060,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Sesame",
+        "Egg",
+        "Peanut"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "nasi lemak green curry chicken （青咖喱鸡肉椰浆饭）": {
+      "calories": 620,
+      "protein": 30,
+      "carbs": 58,
+      "fat": 26,
+      "sodium": 940,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains herbs with antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "nasi lemak chicken wing （鸡翅膀椰浆饭）": {
+      "calories": 560,
+      "protein": 24,
+      "carbs": 52,
+      "fat": 24,
+      "sodium": 820,
+      "sugar": 1,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "nasi lemak fried fish （炸鱼椰浆饭）": {
+      "calories": 600,
+      "protein": 28,
+      "carbs": 56,
+      "fat": 24,
+      "sodium": 880,
+      "sugar": 1,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "nasi lemak chicken cutlet （鸡扒椰浆饭）": {
+      "calories": 680,
+      "protein": 34,
+      "carbs": 60,
+      "fat": 28,
+      "sodium": 920,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Sesame",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "nasi lemak pork skewer （猪肉沙椰浆饭）": {
+      "calories": 600,
+      "protein": 26,
+      "carbs": 56,
+      "fat": 24,
+      "sodium": 900,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "chicken cutlet fried rice": {
+      "calories": 660,
+      "protein": 32,
+      "carbs": 62,
+      "fat": 26,
+      "sodium": 940,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Sesame",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    }
+  }
+}

@@ -9,6 +9,10 @@ import {
   isValidImageUrl,
   getOptimizedUrl,
 } from "@/lib/restaurant-images";
+import {
+  parseOpeningHoursText,
+  getCondensedSchedule,
+} from "@/lib/format-opening-hours";
 
 interface Props {
   restaurant: MallRestaurant;
@@ -470,9 +474,29 @@ export function MallRestaurantCard({
               </svg>
             </button>
           )}
-          {showHours && (
+          {showHours && restaurant.openingHours && (
             <div className="rounded-lg bg-gray-50 px-3 py-2 text-sm text-gray-600">
-              {restaurant.openingHours}
+              {(() => {
+                const schedule = parseOpeningHoursText(restaurant.openingHours);
+                if (!schedule) return restaurant.openingHours;
+                const display = getCondensedSchedule(schedule);
+                return (
+                  <div className="space-y-1">
+                    {display.map((entry, i) => (
+                      <div key={i} className="flex justify-between gap-4">
+                        {entry.day && (
+                          <span className="font-medium text-gray-700">
+                            {entry.day}
+                          </span>
+                        )}
+                        <span className="text-right text-gray-600">
+                          {entry.hours}
+                        </span>
+                      </div>
+                    ))}
+                  </div>
+                );
+              })()}
             </div>
           )}
 
@@ -569,7 +593,7 @@ export function MallRestaurantCard({
           </Link>
           {restaurant.hasMenuPage ? (
             <Link
-              href={`/menu/${restaurant.slug}`}
+              href={`/menu/${restaurant.slug}?location=${restaurant.mallSlug}`}
               className="flex items-center justify-center gap-2 rounded-xl bg-bfw-orange px-4 py-3 text-sm font-semibold text-white transition hover:bg-bfw-orange/90"
             >
               VIEW MENU

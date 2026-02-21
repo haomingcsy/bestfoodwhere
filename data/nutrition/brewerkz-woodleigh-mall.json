@@ -1,0 +1,4509 @@
+{
+  "brand": "brewerkz-woodleigh-mall",
+  "generatedAt": "2026-02-16T14:04:38.302Z",
+  "items": {
+    "hakuna manuka": {
+      "calories": 185,
+      "protein": 1,
+      "carbs": 44,
+      "fat": 0,
+      "sodium": 35,
+      "sugar": 38,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "Source of vitamin C",
+        "Contains antioxidants",
+        "Cold-pressed"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "all soft drinks": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 35,
+      "fat": 0,
+      "sodium": 45,
+      "sugar": 33,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in sodium"
+      ]
+    },
+    "prosecco": {
+      "calories": 95,
+      "protein": 0,
+      "carbs": 3,
+      "fat": 0,
+      "sodium": 8,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Sulfites"
+      ],
+      "healthBenefits": [
+        "Low calorie"
+      ],
+      "healthWarnings": [
+        "Contains alcohol",
+        "Contains sulfites"
+      ]
+    },
+    "kfc (korean fried cauliflower)": {
+      "calories": 280,
+      "protein": 8,
+      "carbs": 32,
+      "fat": 14,
+      "sodium": 680,
+      "sugar": 8,
+      "fiber": 5,
+      "allergens": [
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Vegetarian",
+        "Contains vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "cinderella": {
+      "calories": 145,
+      "protein": 1,
+      "carbs": 36,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 33,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "jim beam": {
+      "calories": 105,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Contains alcohol",
+        "High calorie density"
+      ]
+    },
+    "naked apple": {
+      "calories": 160,
+      "protein": 0,
+      "carbs": 12,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 8,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains natural apple compounds"
+      ],
+      "healthWarnings": [
+        "Contains alcohol",
+        "Contains sugar"
+      ]
+    },
+    "circuit breaker": {
+      "calories": 210,
+      "protein": 1,
+      "carbs": 18,
+      "fat": 0,
+      "sodium": 35,
+      "sugar": 3,
+      "fiber": 0,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains tropical fruits"
+      ],
+      "healthWarnings": [
+        "Contains alcohol",
+        "High in IBU"
+      ]
+    },
+    "salted egg mermaid fish": {
+      "calories": 320,
+      "protein": 14,
+      "carbs": 22,
+      "fat": 18,
+      "sodium": 680,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Fish",
+        "Egg",
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in fat",
+        "High in cholesterol"
+      ]
+    },
+    "golden buttermilk chicken-in-basket": {
+      "calories": 1080,
+      "protein": 64,
+      "carbs": 78,
+      "fat": 52,
+      "sodium": 2140,
+      "sugar": 8,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "Very high in calories",
+        "Very high in sodium",
+        "Very high in fat",
+        "High in saturated fat"
+      ]
+    },
+    "jose cuervo": {
+      "calories": 105,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Contains alcohol",
+        "High calorie density"
+      ]
+    },
+    "singapore sling": {
+      "calories": 320,
+      "protein": 0,
+      "carbs": 28,
+      "fat": 0,
+      "sodium": 55,
+      "sugar": 25,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in alcohol",
+        "High in calories"
+      ]
+    },
+    "big breakfast": {
+      "calories": 720,
+      "protein": 42,
+      "carbs": 62,
+      "fat": 32,
+      "sodium": 1420,
+      "sugar": 8,
+      "fiber": 6,
+      "allergens": [
+        "Egg",
+        "Dairy",
+        "Gluten",
+        "Pork"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of fiber"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "hot chocolate": {
+      "calories": 240,
+      "protein": 8,
+      "carbs": 32,
+      "fat": 10,
+      "sodium": 180,
+      "sugar": 26,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of calcium",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in sodium",
+        "Moderate saturated fat"
+      ]
+    },
+    "brewerkz platter": {
+      "calories": 1050,
+      "protein": 58,
+      "carbs": 72,
+      "fat": 56,
+      "sodium": 1680,
+      "sugar": 8,
+      "fiber": 6,
+      "allergens": [
+        "Shellfish",
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "Very high in calories",
+        "High in saturated fat",
+        "Very high in sodium",
+        "Fried foods"
+      ]
+    },
+    "golden ale": {
+      "calories": 180,
+      "protein": 2,
+      "carbs": 15,
+      "fat": 0,
+      "sodium": 30,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Moderate calories for beer"
+      ],
+      "healthWarnings": [
+        "Contains alcohol",
+        "High in carbohydrates"
+      ]
+    },
+    "el distilador reposado": {
+      "calories": 105,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Contains alcohol",
+        "High calorie density"
+      ]
+    },
+    "mount gay": {
+      "calories": 120,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in alcohol",
+        "Calorie dense"
+      ]
+    },
+    "meat lovers": {
+      "calories": 720,
+      "protein": 32,
+      "carbs": 72,
+      "fat": 32,
+      "sodium": 1420,
+      "sugar": 6,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains B vitamins"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "cuban sour": {
+      "calories": 220,
+      "protein": 1,
+      "carbs": 16,
+      "fat": 0,
+      "sodium": 25,
+      "sugar": 12,
+      "fiber": 0,
+      "allergens": [
+        "Egg",
+        "Sulfites"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Contains alcohol",
+        "Contains raw egg white",
+        "High in sugar"
+      ]
+    },
+    "coke zero": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 80,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Zero calories",
+        "Zero sugar"
+      ],
+      "healthWarnings": [
+        "Contains artificial sweeteners",
+        "High in sodium"
+      ]
+    },
+    "black coffee": {
+      "calories": 5,
+      "protein": 0,
+      "carbs": 1,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains antioxidants",
+        "Caffeine boost"
+      ],
+      "healthWarnings": []
+    },
+    "sakura shrimp pasta": {
+      "calories": 520,
+      "protein": 28,
+      "carbs": 58,
+      "fat": 16,
+      "sodium": 820,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3 from shrimp"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Contains shellfish"
+      ]
+    },
+    "stolichnaya": {
+      "calories": 100,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in alcohol",
+        "Contains alcohol"
+      ]
+    },
+    "lychee amber": {
+      "calories": 205,
+      "protein": 2,
+      "carbs": 18,
+      "fat": 0,
+      "sodium": 35,
+      "sugar": 8,
+      "fiber": 0,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Source of B vitamins"
+      ],
+      "healthWarnings": [
+        "Alcoholic beverage",
+        "Contains gluten"
+      ]
+    },
+    "bacardi rum": {
+      "calories": 96,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Alcoholic beverage",
+        "High in alcohol content"
+      ]
+    },
+    "black squid ink": {
+      "calories": 480,
+      "protein": 26,
+      "carbs": 52,
+      "fat": 14,
+      "sodium": 890,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Gluten",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains minerals from squid ink"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Contains shellfish and fish"
+      ]
+    },
+    "circuit breaker new england ipa": {
+      "calories": 185,
+      "protein": 1.8,
+      "carbs": 14,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 6,
+      "fiber": 0,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from hops"
+      ],
+      "healthWarnings": [
+        "Alcoholic beverage",
+        "Contains gluten"
+      ]
+    },
+    "aperol spritz": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 9,
+      "fat": 0,
+      "sodium": 18,
+      "sugar": 8,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in alcohol content"
+      ]
+    },
+    "super nachos": {
+      "calories": 620,
+      "protein": 18,
+      "carbs": 58,
+      "fat": 35,
+      "sodium": 1200,
+      "sugar": 6,
+      "fiber": 6,
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains fiber"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "Very high in fat",
+        "High in calories"
+      ]
+    },
+    "johnnie walker black label": {
+      "calories": 105,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in alcohol content"
+      ]
+    },
+    "rose": {
+      "calories": 85,
+      "protein": 0.1,
+      "carbs": 2,
+      "fat": 0,
+      "sodium": 6,
+      "sugar": 1.5,
+      "fiber": 0,
+      "allergens": [
+        "Sulfites"
+      ],
+      "healthBenefits": [
+        "Contains resveratrol"
+      ],
+      "healthWarnings": [
+        "Alcoholic beverage",
+        "Contains sulfites"
+      ]
+    },
+    "american cowboy": {
+      "calories": 720,
+      "protein": 42,
+      "carbs": 54,
+      "fat": 36,
+      "sodium": 1480,
+      "sugar": 12,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "Very high in fat",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "drunk cru belgian golden strong": {
+      "calories": 125,
+      "protein": 1.2,
+      "carbs": 10,
+      "fat": 0,
+      "sodium": 12,
+      "sugar": 5,
+      "fiber": 0,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Low alcohol craft beer"
+      ],
+      "healthWarnings": [
+        "Alcoholic beverage",
+        "Contains gluten"
+      ]
+    },
+    "pacific clam chowder": {
+      "calories": 320,
+      "protein": 14,
+      "carbs": 28,
+      "fat": 16,
+      "sodium": 950,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Dairy",
+        "Gluten",
+        "Alcohol"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains iron from clams"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "oatmeal stout beeramisu": {
+      "calories": 420,
+      "protein": 8,
+      "carbs": 45,
+      "fat": 18,
+      "sodium": 120,
+      "sugar": 35,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories",
+        "Contains alcohol"
+      ]
+    },
+    "fish & chips": {
+      "calories": 580,
+      "protein": 32,
+      "carbs": 52,
+      "fat": 28,
+      "sodium": 1050,
+      "sugar": 2,
+      "fiber": 3,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains omega-3 fatty acids"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "british breakfast": {
+      "calories": 2,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Hydrating"
+      ],
+      "healthWarnings": []
+    },
+    "mint lychee sparkling fizz": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 34,
+      "fat": 0,
+      "sodium": 25,
+      "sugar": 32,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Alcohol-free"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "glenlivet 12 y.o.": {
+      "calories": 105,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in alcohol",
+        "Contains alcohol"
+      ]
+    },
+    "wild turkey": {
+      "calories": 105,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in alcohol",
+        "Empty calories"
+      ]
+    },
+    "dream blonde ale": {
+      "calories": 155,
+      "protein": 1,
+      "carbs": 12,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 8,
+      "fiber": 0,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Low fat"
+      ],
+      "healthWarnings": [
+        "Contains alcohol",
+        "High in sugar"
+      ]
+    },
+    "steak cut fries": {
+      "calories": 420,
+      "protein": 5,
+      "carbs": 52,
+      "fat": 20,
+      "sodium": 680,
+      "sugar": 1,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "bitter lime lemon": {
+      "calories": 95,
+      "protein": 0,
+      "carbs": 24,
+      "fat": 0,
+      "sodium": 35,
+      "sugar": 20,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in calories",
+        "Contains vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "black knight nitro irish stout": {
+      "calories": 165,
+      "protein": 2,
+      "carbs": 12,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Low sugar",
+        "Contains antioxidants from cocoa"
+      ],
+      "healthWarnings": [
+        "Contains alcohol",
+        "High in calories for alcohol content"
+      ]
+    },
+    "pure pepperoni": {
+      "calories": 680,
+      "protein": 32,
+      "carbs": 62,
+      "fat": 32,
+      "sodium": 1420,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "mini stromboli": {
+      "calories": 380,
+      "protein": 18,
+      "carbs": 40,
+      "fat": 16,
+      "sodium": 720,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "mimolette cheese sticks": {
+      "calories": 360,
+      "protein": 12,
+      "carbs": 28,
+      "fat": 22,
+      "sodium": 520,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of calcium"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "riesling": {
+      "calories": 120,
+      "protein": 0,
+      "carbs": 4,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Sulfites"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "Contains alcohol",
+        "Contains sulfites"
+      ]
+    },
+    "chardonnay": {
+      "calories": 120,
+      "protein": 0,
+      "carbs": 4,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in alcohol",
+        "Contains sulfites"
+      ]
+    },
+    "acai salad appetiser + main course + soft drink": {
+      "calories": 680,
+      "protein": 18,
+      "carbs": 75,
+      "fat": 28,
+      "sodium": 850,
+      "sugar": 35,
+      "fiber": 8,
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of antioxidants",
+        "Contains fiber",
+        "Includes fresh vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in sugar",
+        "Moderate saturated fat"
+      ]
+    },
+    "oatmeal stout beeramisú": {
+      "calories": 420,
+      "protein": 6,
+      "carbs": 48,
+      "fat": 18,
+      "sodium": 120,
+      "sugar": 32,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in calories",
+        "High in sugar",
+        "High in saturated fat",
+        "Contains alcohol"
+      ]
+    },
+    "probiotic raspberry sour": {
+      "calories": 155,
+      "protein": 1.5,
+      "carbs": 14,
+      "fat": 0.5,
+      "sodium": 20,
+      "sugar": 10,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains probiotics for gut health",
+        "Low calorie alcohol"
+      ],
+      "healthWarnings": [
+        "Contains alcohol",
+        "Contains sugar"
+      ]
+    },
+    "merlot": {
+      "calories": 125,
+      "protein": 0,
+      "carbs": 4,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Sulfites"
+      ],
+      "healthBenefits": [
+        "Contains resveratrol"
+      ],
+      "healthWarnings": [
+        "High in alcohol",
+        "Contains sulfites"
+      ]
+    },
+    "the grassy berry": {
+      "calories": 145,
+      "protein": 0,
+      "carbs": 32,
+      "fat": 0,
+      "sodium": 35,
+      "sugar": 28,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains vitamin C from cranberry",
+        "Refreshing"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "No nutritional protein"
+      ]
+    },
+    "henry martin v.s.o.p": {
+      "calories": 105,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in alcohol",
+        "Empty calories"
+      ]
+    },
+    "half rack baby back ribs": {
+      "calories": 950,
+      "protein": 52,
+      "carbs": 45,
+      "fat": 62,
+      "sodium": 1400,
+      "sugar": 22,
+      "fiber": 2,
+      "allergens": [
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium",
+        "High in calories",
+        "High in sugar"
+      ]
+    },
+    "pulled pork rye sourdough": {
+      "calories": 580,
+      "protein": 32,
+      "carbs": 52,
+      "fat": 24,
+      "sodium": 1050,
+      "sugar": 8,
+      "fiber": 5,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains fiber from rye bread and kale"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "orange juice, apple juice": {
+      "calories": 140,
+      "protein": 2,
+      "carbs": 33,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 28,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Source of vitamin C",
+        "Contains natural sugars"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "No fiber compared to whole fruit"
+      ]
+    },
+    "chocolate lava cake": {
+      "calories": 420,
+      "protein": 6,
+      "carbs": 48,
+      "fat": 24,
+      "sodium": 95,
+      "sugar": 38,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from dark chocolate"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "thai galician octopus": {
+      "calories": 280,
+      "protein": 28,
+      "carbs": 18,
+      "fat": 12,
+      "sodium": 780,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Excellent source of protein",
+        "Low in calories",
+        "Rich in minerals"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "gordon's gin": {
+      "calories": 110,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 2,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in alcohol",
+        "Empty calories"
+      ]
+    },
+    "still mitch neipa": {
+      "calories": 120,
+      "protein": 1,
+      "carbs": 12,
+      "fat": 0,
+      "sodium": 50,
+      "sugar": 8,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low alcohol",
+        "Lower calorie alternative"
+      ],
+      "healthWarnings": [
+        "Contains sugar"
+      ]
+    },
+    "impossible": {
+      "calories": 620,
+      "protein": 28,
+      "carbs": 48,
+      "fat": 36,
+      "sodium": 1100,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Plant-based protein",
+        "Lower saturated fat than beef"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "Contains soy"
+      ]
+    },
+    "pulled beef mantou sliders": {
+      "calories": 480,
+      "protein": 28,
+      "carbs": 42,
+      "fat": 22,
+      "sodium": 680,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "tanqueray": {
+      "calories": 220,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in alcohol content",
+        "Empty calories"
+      ]
+    },
+    "french onion soup": {
+      "calories": 280,
+      "protein": 16,
+      "carbs": 24,
+      "fat": 14,
+      "sodium": 1300,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains antioxidants from onions"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate calories"
+      ]
+    },
+    "single espresso": {
+      "calories": 3,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 3,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Natural caffeine boost"
+      ],
+      "healthWarnings": [
+        "High caffeine content"
+      ]
+    },
+    "coco passion": {
+      "calories": 180,
+      "protein": 0,
+      "carbs": 45,
+      "fat": 0,
+      "sodium": 30,
+      "sugar": 38,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains passion fruit",
+        "Refreshing mocktail"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in carbohydrates"
+      ]
+    },
+    "fruit punch, lime, cranberry, pineapple juice": {
+      "calories": 150,
+      "protein": 1,
+      "carbs": 36,
+      "fat": 0,
+      "sodium": 25,
+      "sugar": 30,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Source of vitamin C",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "No fiber compared to whole fruit"
+      ]
+    },
+    "+ cheese": {
+      "calories": 120,
+      "protein": 8,
+      "carbs": 1,
+      "fat": 9,
+      "sodium": 280,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of calcium",
+        "Source of protein"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "pulled beef mantou burger": {
+      "calories": 620,
+      "protein": 38,
+      "carbs": 52,
+      "fat": 28,
+      "sodium": 920,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Source of iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "bohemian pilsner": {
+      "calories": 140,
+      "protein": 1,
+      "carbs": 10,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Contains alcohol",
+        "High in empty calories"
+      ]
+    },
+    "truffle wild mushroom": {
+      "calories": 420,
+      "protein": 18,
+      "carbs": 48,
+      "fat": 18,
+      "sodium": 680,
+      "sugar": 3,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of antioxidants from mushrooms",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "Moderate to high in calories",
+        "Contains truffle oil high in fat"
+      ]
+    },
+    "still mitch ultra-low abv neipa": {
+      "calories": 95,
+      "protein": 1,
+      "carbs": 10,
+      "fat": 0,
+      "sodium": 45,
+      "sugar": 7,
+      "fiber": 0,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Very low alcohol",
+        "Lower calorie option"
+      ],
+      "healthWarnings": [
+        "Contains sugar",
+        "Contains gluten"
+      ]
+    },
+    "coke, ginger ale, tonic, root beer": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 36,
+      "fat": 0,
+      "sodium": 45,
+      "sugar": 34,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories",
+        "High in carbohydrates"
+      ]
+    },
+    "4am double ipa": {
+      "calories": 210,
+      "protein": 2,
+      "carbs": 18,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Antioxidants from hops"
+      ],
+      "healthWarnings": [
+        "High alcohol content",
+        "High in calories"
+      ]
+    },
+    "bolognese pasta": {
+      "calories": 580,
+      "protein": 32,
+      "carbs": 62,
+      "fat": 22,
+      "sodium": 1080,
+      "sugar": 8,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "High in saturated fat"
+      ]
+    },
+    "superfoods salad": {
+      "calories": 380,
+      "protein": 14,
+      "carbs": 35,
+      "fat": 20,
+      "sodium": 420,
+      "sugar": 8,
+      "fiber": 8,
+      "allergens": [
+        "Tree Nut",
+        "Dairy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "Good source of protein",
+        "Rich in antioxidants",
+        "Contains healthy fats"
+      ],
+      "healthWarnings": []
+    },
+    "pear": {
+      "calories": 140,
+      "protein": 0.5,
+      "carbs": 8,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 6,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in alcohol",
+        "High in sugar"
+      ]
+    },
+    "coke zero, oolong tea, ayataka green tea, soda": {
+      "calories": 5,
+      "protein": 0,
+      "carbs": 1,
+      "fat": 0,
+      "sodium": 30,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie"
+      ],
+      "healthWarnings": [
+        "Contains artificial sweeteners",
+        "High in sodium"
+      ]
+    },
+    "hendrick's": {
+      "calories": 110,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in alcohol content"
+      ]
+    },
+    "summer cooler": {
+      "calories": 135,
+      "protein": 0,
+      "carbs": 34,
+      "fat": 0,
+      "sodium": 40,
+      "sugar": 32,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains ginger for digestion"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "absolut blue": {
+      "calories": 115,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in alcohol",
+        "Calorie dense"
+      ]
+    },
+    "moscato": {
+      "calories": 120,
+      "protein": 0,
+      "carbs": 9,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 8,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Lower alcohol content"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains alcohol"
+      ]
+    },
+    "nasi lemak": {
+      "calories": 650,
+      "protein": 28,
+      "carbs": 72,
+      "fat": 28,
+      "sodium": 920,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Egg",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains antioxidants from blue pea rice"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat",
+        "High in calories"
+      ]
+    },
+    "caramelised date pudding": {
+      "calories": 480,
+      "protein": 4,
+      "carbs": 68,
+      "fat": 20,
+      "sodium": 240,
+      "sugar": 52,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in calories",
+        "High in saturated fat"
+      ]
+    },
+    "jack daniel's": {
+      "calories": 105,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in alcohol",
+        "No nutritional value"
+      ]
+    },
+    "get acai-ed": {
+      "calories": 160,
+      "protein": 2,
+      "carbs": 36,
+      "fat": 1.5,
+      "sodium": 15,
+      "sugar": 28,
+      "fiber": 4,
+      "allergens": [],
+      "healthBenefits": [
+        "High in antioxidants",
+        "Good source of fiber",
+        "Contains vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "iced chocolate": {
+      "calories": 320,
+      "protein": 4,
+      "carbs": 42,
+      "fat": 14,
+      "sodium": 85,
+      "sugar": 38,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in calories"
+      ]
+    },
+    "earl grey lavender": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains antioxidants",
+        "No caffeine alternative available"
+      ],
+      "healthWarnings": []
+    },
+    "crispy tofu fritters": {
+      "calories": 280,
+      "protein": 16,
+      "carbs": 18,
+      "fat": 16,
+      "sodium": 580,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Sesame",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of plant-based protein",
+        "Low in sugar"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "4am": {
+      "calories": 215,
+      "protein": 2,
+      "carbs": 15,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in alcohol",
+        "Empty calories"
+      ]
+    },
+    "spam fries": {
+      "calories": 520,
+      "protein": 12,
+      "carbs": 48,
+      "fat": 30,
+      "sodium": 1100,
+      "sugar": 2,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "grilled broccolini": {
+      "calories": 180,
+      "protein": 8,
+      "carbs": 12,
+      "fat": 12,
+      "sodium": 350,
+      "sugar": 2,
+      "fiber": 3,
+      "allergens": [
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "Good source of vitamins",
+        "Low calorie"
+      ],
+      "healthWarnings": []
+    },
+    "margarita": {
+      "calories": 170,
+      "protein": 0,
+      "carbs": 12,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 10,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in alcohol content"
+      ]
+    },
+    "don papa": {
+      "calories": 120,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in alcohol",
+        "Calorie dense"
+      ]
+    },
+    "patrón añejo": {
+      "calories": 110,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in alcohol"
+      ]
+    },
+    "sg wings platter": {
+      "calories": 850,
+      "protein": 72,
+      "carbs": 18,
+      "fat": 52,
+      "sodium": 1400,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "balvenie 12 y.o.": {
+      "calories": 105,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in alcohol"
+      ]
+    },
+    "build your own": {
+      "calories": 720,
+      "protein": 28,
+      "carbs": 68,
+      "fat": 32,
+      "sodium": 1050,
+      "sugar": 12,
+      "fiber": 6,
+      "allergens": [
+        "Egg",
+        "Dairy",
+        "Gluten",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Customizable",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "High in saturated fat"
+      ]
+    },
+    "golden ale fish & chips": {
+      "calories": 680,
+      "protein": 28,
+      "carbs": 64,
+      "fat": 32,
+      "sodium": 950,
+      "sugar": 2,
+      "fiber": 3,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Good source of omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat",
+        "High in calories"
+      ]
+    },
+    "india pale ale": {
+      "calories": 185,
+      "protein": 2,
+      "carbs": 16,
+      "fat": 0,
+      "sodium": 18,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Antioxidants from hops"
+      ],
+      "healthWarnings": [
+        "Contains alcohol",
+        "Moderate calories"
+      ]
+    },
+    "perry gingy": {
+      "calories": 95,
+      "protein": 1,
+      "carbs": 22,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 18,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "High in vitamin C",
+        "Contains turmeric",
+        "Natural juice"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "truffled wild mushroom": {
+      "calories": 520,
+      "protein": 18,
+      "carbs": 62,
+      "fat": 24,
+      "sodium": 680,
+      "sugar": 3,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in sodium"
+      ]
+    },
+    "patrón anejo": {
+      "calories": 110,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in alcohol",
+        "Empty calories"
+      ]
+    },
+    "lime, cranberry, pineapple": {
+      "calories": 85,
+      "protein": 1,
+      "carbs": 21,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 18,
+      "fiber": 0.5,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of vitamin C",
+        "Antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "mystic pea": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 8,
+      "fat": 0,
+      "sodium": 35,
+      "sugar": 7,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Antioxidants from butterfly pea"
+      ],
+      "healthWarnings": [
+        "High in alcohol",
+        "High in sugar"
+      ]
+    },
+    "coke": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 39,
+      "fat": 0,
+      "sodium": 55,
+      "sugar": 39,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in sodium"
+      ]
+    },
+    "mille-feuille' pork cheese katsu": {
+      "calories": 650,
+      "protein": 38,
+      "carbs": 42,
+      "fat": 38,
+      "sodium": 780,
+      "sugar": 12,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "hennessy v.s.o.p": {
+      "calories": 120,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in alcohol",
+        "Empty calories"
+      ]
+    },
+    "moscato sparkling": {
+      "calories": 120,
+      "protein": 0,
+      "carbs": 9,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 8,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Lower alcohol content"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains alcohol"
+      ]
+    },
+    "what the helles munich-style lager": {
+      "calories": 145,
+      "protein": 1.5,
+      "carbs": 12,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Lower alcohol content"
+      ],
+      "healthWarnings": [
+        "Contains alcohol"
+      ]
+    },
+    "genmaicha rice lager": {
+      "calories": 150,
+      "protein": 1.5,
+      "carbs": 13,
+      "fat": 0,
+      "sodium": 12,
+      "sugar": 2,
+      "fiber": 0.5,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Green tea antioxidants"
+      ],
+      "healthWarnings": [
+        "Contains alcohol"
+      ]
+    },
+    "crispy tex-mex riblets": {
+      "calories": 520,
+      "protein": 32,
+      "carbs": 28,
+      "fat": 32,
+      "sodium": 920,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains kale"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "classic vongole": {
+      "calories": 520,
+      "protein": 18,
+      "carbs": 68,
+      "fat": 14,
+      "sodium": 680,
+      "sugar": 2,
+      "fiber": 4,
+      "allergens": [
+        "Shellfish",
+        "Gluten",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains iron",
+        "Low sugar"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in saturated fat"
+      ]
+    },
+    "baby squid & calamari": {
+      "calories": 280,
+      "protein": 24,
+      "carbs": 18,
+      "fat": 14,
+      "sodium": 520,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Shellfish",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of minerals"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in cholesterol"
+      ]
+    },
+    "cabernet sauvignon": {
+      "calories": 120,
+      "protein": 0,
+      "carbs": 4,
+      "fat": 0,
+      "sodium": 12,
+      "sugar": 3,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "May support heart health"
+      ],
+      "healthWarnings": [
+        "Contains alcohol",
+        "High in sugar"
+      ]
+    },
+    "onion ring fritters": {
+      "calories": 340,
+      "protein": 4,
+      "carbs": 42,
+      "fat": 16,
+      "sodium": 480,
+      "sugar": 2,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains dietary fiber"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in saturated fat",
+        "Deep fried",
+        "High in sodium"
+      ]
+    },
+    "flat white": {
+      "calories": 220,
+      "protein": 11,
+      "carbs": 12,
+      "fat": 14,
+      "sodium": 140,
+      "sugar": 11,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains calcium"
+      ],
+      "healthWarnings": [
+        "Contains caffeine",
+        "Moderate saturated fat"
+      ]
+    },
+    "sauvignon blanc": {
+      "calories": 120,
+      "protein": 0,
+      "carbs": 3,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Source of antioxidants"
+      ],
+      "healthWarnings": [
+        "Contains alcohol",
+        "High in sugar for wine"
+      ]
+    },
+    "perky gingy": {
+      "calories": 110,
+      "protein": 2,
+      "carbs": 26,
+      "fat": 0,
+      "sodium": 35,
+      "sugar": 18,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "High in vitamin A",
+        "Contains antioxidants",
+        "Good source of vitamin C",
+        "Contains turmeric"
+      ],
+      "healthWarnings": [
+        "High in natural sugar"
+      ]
+    },
+    "monkey shoulder": {
+      "calories": 100,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Contains alcohol",
+        "No nutritional benefit"
+      ]
+    },
+    "ondeh ondeh amber lager": {
+      "calories": 140,
+      "protein": 1,
+      "carbs": 10,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 3,
+      "fiber": 0,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in alcohol",
+        "Contains gluten"
+      ]
+    },
+    "chain reaction modern ipa": {
+      "calories": 160,
+      "protein": 2,
+      "carbs": 8,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Low in sugar",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "Contains alcohol",
+        "Moderate calorie content"
+      ]
+    },
+    "sweet potato fries": {
+      "calories": 320,
+      "protein": 4,
+      "carbs": 38,
+      "fat": 14,
+      "sodium": 280,
+      "sugar": 8,
+      "fiber": 4,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains vitamin A"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in fat",
+        "Fried food"
+      ]
+    },
+    "classic caesar salad": {
+      "calories": 380,
+      "protein": 14,
+      "carbs": 16,
+      "fat": 28,
+      "sodium": 720,
+      "sugar": 3,
+      "fiber": 3,
+      "allergens": [
+        "Fish",
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "+ beer chilli": {
+      "calories": 45,
+      "protein": 2,
+      "carbs": 6,
+      "fat": 1,
+      "sodium": 420,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains capsaicin"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "rosé": {
+      "calories": 105,
+      "protein": 0,
+      "carbs": 3,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Sulfites"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Contains alcohol",
+        "Contains sulfites"
+      ]
+    },
+    "queen mary": {
+      "calories": 240,
+      "protein": 1,
+      "carbs": 22,
+      "fat": 0,
+      "sodium": 35,
+      "sugar": 18,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains vitamin C from juices"
+      ],
+      "healthWarnings": [
+        "Contains alcohol",
+        "High in sugar",
+        "High calorie cocktail"
+      ]
+    },
+    "pink sunrise": {
+      "calories": 180,
+      "protein": 0,
+      "carbs": 45,
+      "fat": 0,
+      "sodium": 35,
+      "sugar": 42,
+      "fiber": 0,
+      "allergens": [
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Source of vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in added syrups"
+      ]
+    },
+    "double espresso": {
+      "calories": 10,
+      "protein": 0.5,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Very low calorie",
+        "High in caffeine",
+        "Antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "monkey 47 y.o.": {
+      "calories": 120,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Alcoholic beverage",
+        "High alcohol content"
+      ]
+    },
+    "chain reaction": {
+      "calories": 210,
+      "protein": 2,
+      "carbs": 15,
+      "fat": 0,
+      "sodium": 40,
+      "sugar": 3,
+      "fiber": 0,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Source of B vitamins"
+      ],
+      "healthWarnings": [
+        "Alcoholic beverage",
+        "Contains gluten"
+      ]
+    },
+    "don julio blanco": {
+      "calories": 110,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Alcoholic beverage",
+        "High alcohol content"
+      ]
+    },
+    "cosmopolitan": {
+      "calories": 150,
+      "protein": 0,
+      "carbs": 10,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 9,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in alcohol content"
+      ]
+    },
+    "grey goose original": {
+      "calories": 115,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in alcohol",
+        "Calorie dense"
+      ]
+    },
+    "white gingerlily": {
+      "calories": 5,
+      "protein": 0,
+      "carbs": 1,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Antioxidants from tea"
+      ],
+      "healthWarnings": []
+    },
+    "truffled scallop pasta": {
+      "calories": 580,
+      "protein": 32,
+      "carbs": 48,
+      "fat": 28,
+      "sodium": 920,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in cholesterol"
+      ]
+    },
+    "truffle cheese croquettes": {
+      "calories": 285,
+      "protein": 8,
+      "carbs": 22,
+      "fat": 18,
+      "sodium": 420,
+      "sugar": 6,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "white gingerbilly": {
+      "calories": 15,
+      "protein": 0,
+      "carbs": 3,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Antioxidants from tea"
+      ],
+      "healthWarnings": []
+    },
+    "get acai-ted": {
+      "calories": 160,
+      "protein": 2,
+      "carbs": 37,
+      "fat": 2,
+      "sodium": 25,
+      "sugar": 27,
+      "fiber": 5,
+      "allergens": [],
+      "healthBenefits": [
+        "High in antioxidants",
+        "Good source of fiber"
+      ],
+      "healthWarnings": [
+        "High in natural sugar"
+      ]
+    },
+    "maker's mark": {
+      "calories": 105,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in alcohol",
+        "No nutritional value"
+      ]
+    },
+    "rye in peace baltic porter": {
+      "calories": 240,
+      "protein": 2,
+      "carbs": 18,
+      "fat": 0,
+      "sodium": 50,
+      "sugar": 5,
+      "fiber": 0,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Source of B vitamins"
+      ],
+      "healthWarnings": [
+        "Alcoholic beverage",
+        "Higher alcohol content",
+        "Contains gluten"
+      ]
+    },
+    "hawaiian": {
+      "calories": 620,
+      "protein": 28,
+      "carbs": 72,
+      "fat": 22,
+      "sodium": 1480,
+      "sugar": 12,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vitamin C from pineapple"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "margherita": {
+      "calories": 520,
+      "protein": 18,
+      "carbs": 58,
+      "fat": 22,
+      "sodium": 680,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains calcium"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "smoky beer chilli bowl": {
+      "calories": 480,
+      "protein": 12,
+      "carbs": 52,
+      "fat": 24,
+      "sodium": 1120,
+      "sugar": 8,
+      "fiber": 6,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "impossible em": {
+      "calories": 650,
+      "protein": 32,
+      "carbs": 58,
+      "fat": 28,
+      "sodium": 1340,
+      "sugar": 10,
+      "fiber": 5,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Plant-based protein",
+        "Good source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "brewerkz ice cream": {
+      "calories": 380,
+      "protein": 6,
+      "carbs": 48,
+      "fat": 18,
+      "sodium": 85,
+      "sugar": 42,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in fat"
+      ]
+    },
+    "iced tea": {
+      "calories": 120,
+      "protein": 0,
+      "carbs": 30,
+      "fat": 0,
+      "sodium": 25,
+      "sugar": 28,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "golden ale blue mussels": {
+      "calories": 420,
+      "protein": 38,
+      "carbs": 28,
+      "fat": 16,
+      "sodium": 1640,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "High in iron",
+        "High in omega-3"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "Shellfish allergen"
+      ]
+    },
+    "mushroom cream pasta": {
+      "calories": 620,
+      "protein": 38,
+      "carbs": 58,
+      "fat": 24,
+      "sodium": 980,
+      "sugar": 4,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "High in saturated fat"
+      ]
+    },
+    "strawberry lime": {
+      "calories": 145,
+      "protein": 0,
+      "carbs": 12,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 10,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains natural fruit flavors"
+      ],
+      "healthWarnings": [
+        "Contains alcohol",
+        "High in sugar"
+      ]
+    },
+    "half rack babyback ribs": {
+      "calories": 780,
+      "protein": 52,
+      "carbs": 42,
+      "fat": 44,
+      "sodium": 1560,
+      "sugar": 28,
+      "fiber": 2,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "High in iron"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "Very high in fat",
+        "High in saturated fat",
+        "High in sugar"
+      ]
+    },
+    "sprite": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 39,
+      "fat": 0,
+      "sodium": 65,
+      "sugar": 39,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "mimosa": {
+      "calories": 110,
+      "protein": 1,
+      "carbs": 12,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 11,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in alcohol content"
+      ]
+    },
+    "sailor jerry": {
+      "calories": 120,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in alcohol",
+        "Calorie dense"
+      ]
+    },
+    "sausage platter": {
+      "calories": 720,
+      "protein": 38,
+      "carbs": 52,
+      "fat": 42,
+      "sodium": 1420,
+      "sugar": 8,
+      "fiber": 6,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "shirley temple": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 35,
+      "fat": 0,
+      "sodium": 40,
+      "sugar": 32,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Non-alcoholic"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "wagyu beef ribeye": {
+      "calories": 680,
+      "protein": 52,
+      "carbs": 18,
+      "fat": 46,
+      "sodium": 520,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein",
+        "High in iron",
+        "High in B vitamins"
+      ],
+      "healthWarnings": [
+        "Very high in saturated fat",
+        "High in calories"
+      ]
+    },
+    "marrakeesh mint": {
+      "calories": 5,
+      "protein": 0,
+      "carbs": 1,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "iced milo": {
+      "calories": 180,
+      "protein": 4,
+      "carbs": 32,
+      "fat": 4,
+      "sodium": 120,
+      "sugar": 28,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in added sugars"
+      ]
+    },
+    "ginger ale": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 36,
+      "fat": 0,
+      "sodium": 40,
+      "sugar": 35,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Very high in sugar"
+      ]
+    },
+    "virgin mojito": {
+      "calories": 90,
+      "protein": 0,
+      "carbs": 22,
+      "fat": 0,
+      "sodium": 40,
+      "sugar": 20,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains fresh mint and lime"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "straits style nasi lemak": {
+      "calories": 720,
+      "protein": 28,
+      "carbs": 74,
+      "fat": 32,
+      "sodium": 1200,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Egg",
+        "Fish",
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "fresh thai coconut": {
+      "calories": 160,
+      "protein": 2,
+      "carbs": 8,
+      "fat": 14,
+      "sodium": 280,
+      "sugar": 6,
+      "fiber": 0,
+      "allergens": [
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Contains electrolytes"
+      ],
+      "healthWarnings": [
+        "High in saturated fat"
+      ]
+    },
+    "white gingerly": {
+      "calories": 120,
+      "protein": 2,
+      "carbs": 28,
+      "fat": 0.5,
+      "sodium": 5,
+      "sugar": 24,
+      "fiber": 0.5,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains ginger for digestion",
+        "Antioxidant properties"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "green pastures": {
+      "calories": 85,
+      "protein": 1.5,
+      "carbs": 20,
+      "fat": 0.5,
+      "sodium": 45,
+      "sugar": 15,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "High in vitamins",
+        "Low calorie",
+        "Good source of fiber"
+      ],
+      "healthWarnings": []
+    },
+    "spirited away iii fruited milkshake sour": {
+      "calories": 180,
+      "protein": 2,
+      "carbs": 18,
+      "fat": 1,
+      "sodium": 15,
+      "sugar": 14,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains fruit flavors"
+      ],
+      "healthWarnings": [
+        "Contains alcohol",
+        "High in sugar"
+      ]
+    },
+    "pearl of the orient": {
+      "calories": 35,
+      "protein": 1,
+      "carbs": 8,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 5,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains antioxidants",
+        "May aid digestion"
+      ],
+      "healthWarnings": []
+    },
+    "brûlée cheesecake": {
+      "calories": 420,
+      "protein": 8,
+      "carbs": 45,
+      "fat": 22,
+      "sodium": 280,
+      "sugar": 38,
+      "fiber": 1.5,
+      "allergens": [
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Source of protein",
+        "Contains berries with antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "latte": {
+      "calories": 150,
+      "protein": 5,
+      "carbs": 14,
+      "fat": 6,
+      "sodium": 85,
+      "sugar": 12,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of calcium",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in caffeine",
+        "High in sugar"
+      ]
+    },
+    "virgin piña colada": {
+      "calories": 240,
+      "protein": 1,
+      "carbs": 32,
+      "fat": 11,
+      "sodium": 25,
+      "sugar": 28,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "carbonara egg confit": {
+      "calories": 520,
+      "protein": 28,
+      "carbs": 48,
+      "fat": 24,
+      "sodium": 680,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "'tortilla' chips & salsa": {
+      "calories": 210,
+      "protein": 7,
+      "carbs": 24,
+      "fat": 10,
+      "sodium": 420,
+      "sugar": 4,
+      "fiber": 4,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "Good source of protein",
+        "Upcycled brewer's grains"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate fat content"
+      ]
+    },
+    "bottled water / sparkling": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Zero calorie",
+        "Hydrating"
+      ],
+      "healthWarnings": []
+    },
+    "oatmeal stout": {
+      "calories": 210,
+      "protein": 2,
+      "carbs": 18,
+      "fat": 0,
+      "sodium": 45,
+      "sugar": 3,
+      "fiber": 0,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in alcohol",
+        "High in carbs"
+      ]
+    },
+    "meatless lasagna": {
+      "calories": 480,
+      "protein": 22,
+      "carbs": 52,
+      "fat": 18,
+      "sodium": 720,
+      "sugar": 6,
+      "fiber": 3.5,
+      "allergens": [
+        "Dairy",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of fiber",
+        "Plant-based alternative"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "Moderate saturated fat"
+      ]
+    },
+    "root beer": {
+      "calories": 150,
+      "protein": 0,
+      "carbs": 39,
+      "fat": 0,
+      "sodium": 75,
+      "sugar": 39,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "Empty calories"
+      ]
+    },
+    "dim sum shrimp poppers": {
+      "calories": 280,
+      "protein": 12,
+      "carbs": 22,
+      "fat": 16,
+      "sodium": 420,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Shellfish",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Fried food"
+      ]
+    },
+    "patrón reposado": {
+      "calories": 110,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in alcohol",
+        "Empty calories"
+      ]
+    },
+    "piña colada": {
+      "calories": 380,
+      "protein": 2,
+      "carbs": 42,
+      "fat": 16,
+      "sodium": 25,
+      "sugar": 38,
+      "fiber": 1,
+      "allergens": [
+        "Coconut",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains vitamin C"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in alcohol content",
+        "High in saturated fat"
+      ]
+    },
+    "+ grilled chicken": {
+      "calories": 220,
+      "protein": 42,
+      "carbs": 0,
+      "fat": 5,
+      "sodium": 480,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Excellent source of protein",
+        "Low in fat",
+        "Low in carbs"
+      ],
+      "healthWarnings": [
+        "Moderate sodium"
+      ]
+    },
+    "kombu truffle fries": {
+      "calories": 380,
+      "protein": 8,
+      "carbs": 38,
+      "fat": 22,
+      "sodium": 480,
+      "sugar": 1,
+      "fiber": 3,
+      "allergens": [
+        "Dairy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Contains iodine from kombu"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "chamomile dream": {
+      "calories": 5,
+      "protein": 0,
+      "carbs": 1,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "May aid relaxation",
+        "Low calorie"
+      ],
+      "healthWarnings": []
+    },
+    "bourbon sunset": {
+      "calories": 280,
+      "protein": 0,
+      "carbs": 22,
+      "fat": 0,
+      "sodium": 40,
+      "sugar": 18,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in alcohol",
+        "High in calories"
+      ]
+    },
+    "cappuccino": {
+      "calories": 150,
+      "protein": 8,
+      "carbs": 12,
+      "fat": 6,
+      "sodium": 140,
+      "sugar": 10,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of calcium",
+        "Contains caffeine for energy"
+      ],
+      "healthWarnings": [
+        "Contains caffeine",
+        "Moderate sugar content"
+      ]
+    },
+    "pancetta aglio olio": {
+      "calories": 520,
+      "protein": 18,
+      "carbs": 62,
+      "fat": 22,
+      "sodium": 890,
+      "sugar": 2,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "rave fever saison": {
+      "calories": 185,
+      "protein": 1,
+      "carbs": 14,
+      "fat": 0,
+      "sodium": 18,
+      "sugar": 9,
+      "fiber": 0,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Low fat"
+      ],
+      "healthWarnings": [
+        "Contains alcohol",
+        "High in sugar"
+      ]
+    },
+    "florentine": {
+      "calories": 480,
+      "protein": 22,
+      "carbs": 48,
+      "fat": 20,
+      "sodium": 950,
+      "sugar": 4,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables",
+        "Good source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "chargrilled lamb ribs": {
+      "calories": 520,
+      "protein": 48,
+      "carbs": 12,
+      "fat": 28,
+      "sodium": 680,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron",
+        "Contains zinc"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "old fashioned": {
+      "calories": 160,
+      "protein": 0,
+      "carbs": 8,
+      "fat": 0,
+      "sodium": 25,
+      "sugar": 7,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in alcohol content"
+      ]
+    },
+    "virgin sunrise": {
+      "calories": 120,
+      "protein": 1,
+      "carbs": 29,
+      "fat": 0,
+      "sodium": 25,
+      "sugar": 26,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "juices": {
+      "calories": 120,
+      "protein": 2,
+      "carbs": 28,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 24,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains vitamin C",
+        "Low fat"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Low in fiber"
+      ]
+    },
+    "spicy chicken satay": {
+      "calories": 420,
+      "protein": 32,
+      "carbs": 18,
+      "fat": 26,
+      "sodium": 720,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Peanut",
+        "Tree Nut",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in sodium",
+        "Contains tree nuts and peanuts"
+      ]
+    },
+    "angus beef ribeye (300g)": {
+      "calories": 820,
+      "protein": 56,
+      "carbs": 32,
+      "fat": 52,
+      "sodium": 1100,
+      "sugar": 1,
+      "fiber": 2,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "High in iron",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium",
+        "High in calories",
+        "High in cholesterol"
+      ]
+    },
+    "+ grilled trout": {
+      "calories": 220,
+      "protein": 35,
+      "carbs": 0,
+      "fat": 9,
+      "sodium": 85,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Very high in protein",
+        "Rich in omega-3 fatty acids",
+        "Low calorie",
+        "High in selenium"
+      ],
+      "healthWarnings": []
+    },
+    "long island tea": {
+      "calories": 280,
+      "protein": 0,
+      "carbs": 24,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 22,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in alcohol content",
+        "Empty calories"
+      ]
+    },
+    "wagyu beef rice bowl +3": {
+      "calories": 680,
+      "protein": 48,
+      "carbs": 52,
+      "fat": 32,
+      "sodium": 840,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "botanic sling": {
+      "calories": 220,
+      "protein": 1,
+      "carbs": 20,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 18,
+      "fiber": 0,
+      "allergens": [
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains herbal botanicals"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains alcohol"
+      ]
+    },
+    "negroni": {
+      "calories": 180,
+      "protein": 0,
+      "carbs": 6,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 5,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High alcohol content",
+        "High in sugar"
+      ]
+    },
+    "*tortilla chips & salsa": {
+      "calories": 220,
+      "protein": 6,
+      "carbs": 28,
+      "fat": 10,
+      "sodium": 380,
+      "sugar": 3,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "Contains protein from brewer's grains"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "iced black coffee": {
+      "calories": 5,
+      "protein": 0.5,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "grilled pork t-bone": {
+      "calories": 620,
+      "protein": 52,
+      "carbs": 22,
+      "fat": 35,
+      "sodium": 920,
+      "sugar": 12,
+      "fiber": 2,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron and B vitamins"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "lemon ginger mint": {
+      "calories": 25,
+      "protein": 0,
+      "carbs": 6,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 4,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains ginger for digestion",
+        "Low calorie"
+      ],
+      "healthWarnings": []
+    },
+    "pineapple paradise": {
+      "calories": 180,
+      "protein": 1,
+      "carbs": 42,
+      "fat": 1,
+      "sodium": 55,
+      "sugar": 35,
+      "fiber": 1,
+      "allergens": [
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Contains vitamin C"
+      ],
+      "healthWarnings": [
+        "Very high in sugar"
+      ]
+    },
+    "grilled sandwich pizzette": {
+      "calories": 280,
+      "protein": 14,
+      "carbs": 32,
+      "fat": 12,
+      "sodium": 520,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "danksta juice new england ipa": {
+      "calories": 180,
+      "protein": 2,
+      "carbs": 12,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in alcohol",
+        "Contains gluten"
+      ]
+    },
+    "turmeric french poulet": {
+      "calories": 680,
+      "protein": 48,
+      "carbs": 55,
+      "fat": 32,
+      "sodium": 950,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of turmeric",
+        "Contains herbs"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "quattro formaggi": {
+      "calories": 680,
+      "protein": 28,
+      "carbs": 62,
+      "fat": 32,
+      "sodium": 1200,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Good source of calcium"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "mocha": {
+      "calories": 180,
+      "protein": 7,
+      "carbs": 20,
+      "fat": 8,
+      "sodium": 150,
+      "sugar": 16,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of calcium",
+        "Contains caffeine"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains caffeine"
+      ]
+    },
+    "iced latte": {
+      "calories": 140,
+      "protein": 8,
+      "carbs": 12,
+      "fat": 6,
+      "sodium": 110,
+      "sugar": 10,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of calcium",
+        "Protein source"
+      ],
+      "healthWarnings": [
+        "Moderate sugar",
+        "Contains caffeine"
+      ]
+    },
+    "crispy peppercorn chicken": {
+      "calories": 420,
+      "protein": 32,
+      "carbs": 28,
+      "fat": 22,
+      "sodium": 720,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "belle's blush": {
+      "calories": 180,
+      "protein": 1,
+      "carbs": 14,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 12,
+      "fiber": 0,
+      "allergens": [
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from hibiscus"
+      ],
+      "healthWarnings": [
+        "High in alcohol",
+        "High in sugar",
+        "Contains raw egg"
+      ]
+    },
+    "paper wrapped laksa seafood": {
+      "calories": 640,
+      "protein": 34,
+      "carbs": 52,
+      "fat": 28,
+      "sodium": 1400,
+      "sugar": 5,
+      "fiber": 3,
+      "allergens": [
+        "Shellfish",
+        "Fish",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of omega-3"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in saturated fat",
+        "Spicy"
+      ]
+    },
+    "mojito": {
+      "calories": 220,
+      "protein": 0,
+      "carbs": 18,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 16,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains vitamin C from lime"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in alcohol content"
+      ]
+    },
+    "red hot buffalo wings": {
+      "calories": 480,
+      "protein": 38,
+      "carbs": 8,
+      "fat": 32,
+      "sodium": 1120,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "redhot buffalo wings": {
+      "calories": 520,
+      "protein": 32,
+      "carbs": 12,
+      "fat": 38,
+      "sodium": 1240,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Deep fried"
+      ]
+    },
+    "frutti de mare": {
+      "calories": 420,
+      "protein": 24,
+      "carbs": 42,
+      "fat": 16,
+      "sodium": 680,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Fish",
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Source of omega-3"
+      ],
+      "healthWarnings": [
+        "Contains shellfish",
+        "Moderate sodium"
+      ]
+    },
+    "trio of skewers": {
+      "calories": 380,
+      "protein": 18,
+      "carbs": 28,
+      "fat": 22,
+      "sodium": 520,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Shellfish",
+        "Fish",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Variety of proteins"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "Deep fried",
+        "High sodium"
+      ]
+    },
+    "bacon aglio olio": {
+      "calories": 520,
+      "protein": 22,
+      "carbs": 52,
+      "fat": 24,
+      "sodium": 920,
+      "sugar": 3,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "apple tango": {
+      "calories": 180,
+      "protein": 0,
+      "carbs": 44,
+      "fat": 0,
+      "sodium": 30,
+      "sugar": 42,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Refreshing",
+        "Alcohol-free"
+      ],
+      "healthWarnings": [
+        "Very high in sugar"
+      ]
+    },
+    "bak kwa bacon burger +3": {
+      "calories": 680,
+      "protein": 42,
+      "carbs": 48,
+      "fat": 36,
+      "sodium": 1320,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "rémy martin v.s.o.p": {
+      "calories": 105,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High alcohol content",
+        "Calorie dense"
+      ]
+    },
+    "iced cappuccino": {
+      "calories": 140,
+      "protein": 8,
+      "carbs": 14,
+      "fat": 5,
+      "sodium": 95,
+      "sugar": 12,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of calcium",
+        "Contains caffeine"
+      ],
+      "healthWarnings": []
+    },
+    "truffle kale forest": {
+      "calories": 440,
+      "protein": 18,
+      "carbs": 44,
+      "fat": 20,
+      "sodium": 720,
+      "sugar": 3,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains antioxidants",
+        "Source of protein"
+      ],
+      "healthWarnings": [
+        "Moderate sodium",
+        "High in fat from truffle oil"
+      ]
+    },
+    "wagyu beef bowl": {
+      "calories": 720,
+      "protein": 48,
+      "carbs": 38,
+      "fat": 42,
+      "sodium": 1080,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Source of iron",
+        "Premium quality beef"
+      ],
+      "healthWarnings": [
+        "Very high in saturated fat",
+        "High in sodium",
+        "High calorie"
+      ]
+    },
+    "crunchy calamari": {
+      "calories": 380,
+      "protein": 28,
+      "carbs": 32,
+      "fat": 18,
+      "sodium": 640,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Shellfish",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains selenium"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "tandoori chicken": {
+      "calories": 480,
+      "protein": 36,
+      "carbs": 48,
+      "fat": 18,
+      "sodium": 820,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains spices with anti-inflammatory properties"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "cordon bleu": {
+      "calories": 250,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in alcohol content",
+        "Empty calories"
+      ]
+    },
+    "iced mocha": {
+      "calories": 180,
+      "protein": 8,
+      "carbs": 22,
+      "fat": 6,
+      "sodium": 110,
+      "sugar": 18,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains caffeine"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "lychee martini": {
+      "calories": 180,
+      "protein": 0,
+      "carbs": 12,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 11,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in alcohol content"
+      ]
+    },
+    "the botanist": {
+      "calories": 110,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in alcohol content"
+      ]
+    },
+    "glenlivet 12 yo": {
+      "calories": 105,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in alcohol content"
+      ]
+    },
+    "the balvenie 12 yo": {
+      "calories": 105,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in alcohol content"
+      ]
+    },
+    "spiced lamb goulash": {
+      "calories": 580,
+      "protein": 42,
+      "carbs": 28,
+      "fat": 34,
+      "sodium": 820,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "glenfiddich 18 yo": {
+      "calories": 105,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in alcohol content"
+      ]
+    },
+    "port charlotte 12 yo, peated": {
+      "calories": 120,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in alcohol",
+        "Calorie dense"
+      ]
+    },
+    "wagyu rice bowl": {
+      "calories": 850,
+      "protein": 45,
+      "carbs": 65,
+      "fat": 48,
+      "sodium": 1200,
+      "sugar": 8,
+      "fiber": 3,
+      "allergens": [
+        "Egg",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "smirnoff vodka": {
+      "calories": 115,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in alcohol",
+        "Calorie dense"
+      ]
+    },
+    "bacardi white": {
+      "calories": 120,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in alcohol",
+        "Calorie dense"
+      ]
+    }
+  }
+}

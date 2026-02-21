@@ -1,0 +1,646 @@
+{
+  "brand": "qin-ji-rougamo-woodleigh-mall",
+  "generatedAt": "2026-02-21T12:30:21.163Z",
+  "items": {
+    "b1. sour & spicy (potato noodle) with minced pork秦记酸辣粉": {
+      "calories": 520,
+      "protein": 18,
+      "carbs": 68,
+      "fat": 16,
+      "sodium": 1420,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains carbohydrates for energy"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "d.6 小酥肉 crispy pork": {
+      "calories": 380,
+      "protein": 22,
+      "carbs": 18,
+      "fat": 26,
+      "sodium": 680,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "c1. brown sugar bubble milk tea黑糖珍珠奶茶": {
+      "calories": 380,
+      "protein": 6,
+      "carbs": 52,
+      "fat": 14,
+      "sodium": 180,
+      "sugar": 44,
+      "fiber": 2,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "a1. qinji pork rougamo秦记肉夹馍": {
+      "calories": 420,
+      "protein": 24,
+      "carbs": 35,
+      "fat": 20,
+      "sodium": 920,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "set a-套餐a": {
+      "calories": 880,
+      "protein": 32,
+      "carbs": 105,
+      "fat": 32,
+      "sodium": 1680,
+      "sugar": 8,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Balanced meal"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate to high in fat"
+      ]
+    },
+    "b.2rice noodle w fatty beef slice in bean sauce酱烧肥牛米线": {
+      "calories": 580,
+      "protein": 26,
+      "carbs": 62,
+      "fat": 22,
+      "sodium": 1540,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat",
+        "High in saturated fat"
+      ]
+    },
+    "set b-套餐b": {
+      "calories": 820,
+      "protein": 28,
+      "carbs": 98,
+      "fat": 28,
+      "sodium": 1520,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Balanced meal"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate to high in fat"
+      ]
+    },
+    "d.5 香辣牛肉卤豆干 braised sliced beef w beancurd": {
+      "calories": 280,
+      "protein": 20,
+      "carbs": 12,
+      "fat": 18,
+      "sodium": 1280,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "c2. grass jelly milk tea仙草奶茶": {
+      "calories": 320,
+      "protein": 5,
+      "carbs": 42,
+      "fat": 12,
+      "sodium": 140,
+      "sugar": 35,
+      "fiber": 2,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Moderate in calories"
+      ]
+    },
+    "a2. chicken rougamo秦椒鸡肉馍": {
+      "calories": 380,
+      "protein": 26,
+      "carbs": 33,
+      "fat": 16,
+      "sodium": 850,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Lower in fat than pork"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in fat"
+      ]
+    },
+    "a3. cumin pork rougamo孜然肉夹馍": {
+      "calories": 430,
+      "protein": 24,
+      "carbs": 35,
+      "fat": 22,
+      "sodium": 920,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "c3. green tea with green grapes低脂青提绿茶": {
+      "calories": 280,
+      "protein": 1,
+      "carbs": 38,
+      "fat": 8,
+      "sodium": 120,
+      "sugar": 32,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Low in fat",
+        "Contains antioxidants from green tea"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Moderate in calories"
+      ]
+    },
+    "set c-套餐c": {
+      "calories": 950,
+      "protein": 36,
+      "carbs": 112,
+      "fat": 34,
+      "sodium": 1740,
+      "sugar": 10,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Balanced meal"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate to high in fat"
+      ]
+    },
+    "b3. braised beef with rice noodles川香牛肉粉": {
+      "calories": 570,
+      "protein": 28,
+      "carbs": 60,
+      "fat": 20,
+      "sodium": 1480,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "d.3 京葱腐竹拌莴笋 dried beancurd skin w vege": {
+      "calories": 240,
+      "protein": 14,
+      "carbs": 16,
+      "fat": 14,
+      "sodium": 1100,
+      "sugar": 2,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains fiber",
+        "Low in calories"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in fat"
+      ]
+    },
+    "d.4 红油肚丝 shredded pork tripe w chili oil": {
+      "calories": 220,
+      "protein": 18,
+      "carbs": 8,
+      "fat": 14,
+      "sodium": 1240,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Low in carbs"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat",
+        "High in cholesterol"
+      ]
+    },
+    "b4. rice noodle with tomato soup番茄汤米线": {
+      "calories": 420,
+      "protein": 14,
+      "carbs": 68,
+      "fat": 8,
+      "sodium": 1320,
+      "sugar": 8,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of carbohydrates",
+        "Contains lycopene from tomato",
+        "Lower in fat"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "set d-套餐d": {
+      "calories": 920,
+      "protein": 34,
+      "carbs": 108,
+      "fat": 32,
+      "sodium": 1680,
+      "sugar": 9,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Balanced meal"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate to high in fat"
+      ]
+    },
+    "c4. passion fruit with lime juice鲜柠檬百香果": {
+      "calories": 210,
+      "protein": 1,
+      "carbs": 32,
+      "fat": 6,
+      "sodium": 90,
+      "sugar": 28,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in sodium",
+        "Contains vitamin C",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "a4. black pepper beef rougamo黑椒牛肉馍": {
+      "calories": 420,
+      "protein": 26,
+      "carbs": 34,
+      "fat": 20,
+      "sodium": 880,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "c5. ice peak orange soda冰峰": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 35,
+      "fat": 0,
+      "sodium": 45,
+      "sugar": 34,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "Empty calories"
+      ]
+    },
+    "b5. cold noodles skin西安大凉皮": {
+      "calories": 380,
+      "protein": 12,
+      "carbs": 58,
+      "fat": 8,
+      "sodium": 920,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Sesame",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of carbohydrates",
+        "Refreshing cold dish"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Contains gluten"
+      ]
+    },
+    "a5. healthy vegetable rougamo健康蔬菜馍": {
+      "calories": 320,
+      "protein": 10,
+      "carbs": 42,
+      "fat": 12,
+      "sodium": 480,
+      "sugar": 4,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Rich in vegetables",
+        "Moderate protein"
+      ],
+      "healthWarnings": [
+        "Moderate sodium",
+        "Contains gluten"
+      ]
+    },
+    "d.2 老醋川味木耳 black fungus w vinegar": {
+      "calories": 85,
+      "protein": 3,
+      "carbs": 12,
+      "fat": 2,
+      "sodium": 680,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Low calorie",
+        "Good source of fiber",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "b6.noodle w minced pork in bean sauce川烧炸酱面": {
+      "calories": 520,
+      "protein": 22,
+      "carbs": 65,
+      "fat": 16,
+      "sodium": 1120,
+      "sugar": 8,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Provides energy"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "Moderate saturated fat"
+      ]
+    },
+    "d.1 爽口脆瓜条 cucumber appetizer": {
+      "calories": 65,
+      "protein": 2,
+      "carbs": 8,
+      "fat": 2,
+      "sodium": 620,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Very low calorie",
+        "Hydrating",
+        "Light appetizer"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "a6. crispy rougamo单馍": {
+      "calories": 280,
+      "protein": 8,
+      "carbs": 36,
+      "fat": 11,
+      "sodium": 420,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "Moderate calories",
+        "Contains gluten"
+      ]
+    },
+    "c6. fresh soy milk新鲜豆浆": {
+      "calories": 110,
+      "protein": 8,
+      "carbs": 10,
+      "fat": 5,
+      "sodium": 95,
+      "sugar": 6,
+      "fiber": 1,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of plant-based protein",
+        "Contains isoflavones"
+      ],
+      "healthWarnings": [
+        "Contains soy"
+      ]
+    },
+    "jian li bao lime flavor健力宝青柠味": {
+      "calories": 120,
+      "protein": 0,
+      "carbs": 30,
+      "fat": 0,
+      "sodium": 35,
+      "sugar": 28,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Refreshing beverage"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Empty calories"
+      ]
+    },
+    "b7. qin ji braised beef with dry rice noodles双椒牛肉拌米线": {
+      "calories": 540,
+      "protein": 28,
+      "carbs": 62,
+      "fat": 16,
+      "sodium": 1080,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Excellent source of protein",
+        "Rich in iron",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate saturated fat"
+      ]
+    },
+    "b8. pickled cabbage fish with rice noodle酸菜鱼米线": {
+      "calories": 480,
+      "protein": 26,
+      "carbs": 58,
+      "fat": 14,
+      "sodium": 1200,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Excellent source of protein",
+        "Contains omega-3 fatty acids",
+        "Good source of probiotics from fermented vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Contains fish allergen"
+      ]
+    }
+  }
+}

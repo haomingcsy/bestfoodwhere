@@ -1,0 +1,531 @@
+{
+  "brand": "olivia-co",
+  "generatedAt": "2026-02-21T11:03:40.045Z",
+  "items": {
+    "peppermint choco chip": {
+      "calories": 520,
+      "protein": 12,
+      "carbs": 68,
+      "fat": 22,
+      "sodium": 180,
+      "sugar": 58,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "short macchiato": {
+      "calories": 95,
+      "protein": 6,
+      "carbs": 7,
+      "fat": 4,
+      "sodium": 75,
+      "sugar": 5,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Low calorie"
+      ],
+      "healthWarnings": []
+    },
+    "caesar": {
+      "calories": 420,
+      "protein": 28,
+      "carbs": 18,
+      "fat": 28,
+      "sodium": 780,
+      "sugar": 4,
+      "fiber": 4,
+      "allergens": [
+        "Fish",
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains leafy greens"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "oreo madness": {
+      "calories": 490,
+      "protein": 11,
+      "carbs": 65,
+      "fat": 20,
+      "sodium": 320,
+      "sugar": 54,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "keto": {
+      "calories": 380,
+      "protein": 32,
+      "carbs": 12,
+      "fat": 25,
+      "sodium": 420,
+      "sugar": 3,
+      "fiber": 5,
+      "allergens": [
+        "Fish",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of omega-3",
+        "Low carb",
+        "High in fiber"
+      ],
+      "healthWarnings": [
+        "High in fat"
+      ]
+    },
+    "tropical fruit salad": {
+      "calories": 240,
+      "protein": 5,
+      "carbs": 42,
+      "fat": 6,
+      "sodium": 120,
+      "sugar": 28,
+      "fiber": 6,
+      "allergens": [],
+      "healthBenefits": [
+        "High in fiber",
+        "Rich in antioxidants",
+        "Good source of vitamin C"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "nutella": {
+      "calories": 520,
+      "protein": 11,
+      "carbs": 62,
+      "fat": 24,
+      "sodium": 210,
+      "sugar": 52,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Tree Nut",
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "mocha": {
+      "calories": 210,
+      "protein": 8,
+      "carbs": 18,
+      "fat": 10,
+      "sodium": 110,
+      "sugar": 14,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content",
+        "Moderate saturated fat"
+      ]
+    },
+    "tokyo salad": {
+      "calories": 280,
+      "protein": 8,
+      "carbs": 24,
+      "fat": 16,
+      "sodium": 650,
+      "sugar": 8,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Sesame",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains leafy greens"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "milk": {
+      "calories": 140,
+      "protein": 8,
+      "carbs": 12,
+      "fat": 5,
+      "sodium": 95,
+      "sugar": 9,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Good source of calcium"
+      ],
+      "healthWarnings": []
+    },
+    "classic milkshakes": {
+      "calories": 380,
+      "protein": 10,
+      "carbs": 52,
+      "fat": 15,
+      "sodium": 160,
+      "sugar": 46,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "matcha latte": {
+      "calories": 180,
+      "protein": 7,
+      "carbs": 22,
+      "fat": 5,
+      "sodium": 85,
+      "sugar": 18,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "avery shake": {
+      "calories": 320,
+      "protein": 6,
+      "carbs": 38,
+      "fat": 14,
+      "sodium": 110,
+      "sugar": 24,
+      "fiber": 5,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "Good source of healthy fats",
+        "Rich in antioxidants"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "magic": {
+      "calories": 120,
+      "protein": 5,
+      "carbs": 8,
+      "fat": 6,
+      "sodium": 80,
+      "sugar": 4,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "long macchiato": {
+      "calories": 125,
+      "protein": 8,
+      "carbs": 9,
+      "fat": 5,
+      "sodium": 95,
+      "sugar": 6,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Low calorie",
+        "Good source of protein"
+      ],
+      "healthWarnings": []
+    },
+    "long black/ americano": {
+      "calories": 10,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Very low calorie",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "latte": {
+      "calories": 180,
+      "protein": 10,
+      "carbs": 14,
+      "fat": 7,
+      "sodium": 110,
+      "sugar": 10,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Good source of calcium"
+      ],
+      "healthWarnings": []
+    },
+    "kashmiri chai latte": {
+      "calories": 220,
+      "protein": 7,
+      "carbs": 32,
+      "fat": 6,
+      "sodium": 120,
+      "sugar": 26,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "Moderate to high sugar content"
+      ]
+    },
+    "hot chocolate with marshmallow": {
+      "calories": 280,
+      "protein": 9,
+      "carbs": 38,
+      "fat": 10,
+      "sodium": 140,
+      "sugar": 32,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Moderate saturated fat"
+      ]
+    },
+    "frappe": {
+      "calories": 380,
+      "protein": 4,
+      "carbs": 52,
+      "fat": 14,
+      "sodium": 180,
+      "sugar": 48,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "flat white": {
+      "calories": 220,
+      "protein": 8,
+      "carbs": 12,
+      "fat": 11,
+      "sodium": 150,
+      "sugar": 10,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Good source of calcium"
+      ],
+      "healthWarnings": [
+        "High in saturated fat"
+      ]
+    },
+    "espresso": {
+      "calories": 10,
+      "protein": 0.5,
+      "carbs": 0.5,
+      "fat": 0.5,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "double espresso": {
+      "calories": 20,
+      "protein": 1,
+      "carbs": 1,
+      "fat": 1,
+      "sodium": 10,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "crème brulee cappuccino": {
+      "calories": 320,
+      "protein": 7,
+      "carbs": 42,
+      "fat": 12,
+      "sodium": 160,
+      "sugar": 38,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Good source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "cappuccino": {
+      "calories": 220,
+      "protein": 8,
+      "carbs": 12,
+      "fat": 11,
+      "sodium": 150,
+      "sugar": 10,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Good source of calcium"
+      ],
+      "healthWarnings": [
+        "High in saturated fat"
+      ]
+    },
+    "babycino with marshmallow": {
+      "calories": 110,
+      "protein": 3,
+      "carbs": 16,
+      "fat": 3,
+      "sodium": 80,
+      "sugar": 14,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "affogato": {
+      "calories": 280,
+      "protein": 4,
+      "carbs": 28,
+      "fat": 14,
+      "sodium": 100,
+      "sugar": 26,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Good source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "acai berry latte": {
+      "calories": 310,
+      "protein": 8,
+      "carbs": 42,
+      "fat": 10,
+      "sodium": 160,
+      "sugar": 36,
+      "fiber": 2,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of antioxidants",
+        "High in fiber",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    }
+  }
+}

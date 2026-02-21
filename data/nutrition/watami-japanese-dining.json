@@ -1,0 +1,1415 @@
+{
+  "brand": "watami-japanese-dining",
+  "generatedAt": "2026-02-21T12:17:31.098Z",
+  "items": {
+    "soft shell crab tempura (1pc)": {
+      "calories": 280,
+      "protein": 12,
+      "carbs": 22,
+      "fat": 16,
+      "sodium": 520,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3 fatty acids"
+      ],
+      "healthWarnings": [
+        "Deep fried",
+        "High in fat",
+        "Moderate sodium"
+      ]
+    },
+    "wafu pizza with mentai mayo": {
+      "calories": 520,
+      "protein": 24,
+      "carbs": 48,
+      "fat": 24,
+      "sodium": 1080,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy",
+        "Egg",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat",
+        "High in calories"
+      ]
+    },
+    "iberico pork katsu curry rice": {
+      "calories": 780,
+      "protein": 38,
+      "carbs": 72,
+      "fat": 36,
+      "sodium": 1240,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains iron"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in fat",
+        "High in sodium",
+        "Deep fried"
+      ]
+    },
+    "tonkotsu shoyu chashu ramen": {
+      "calories": 720,
+      "protein": 36,
+      "carbs": 68,
+      "fat": 32,
+      "sodium": 1680,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains collagen"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in calories",
+        "High in fat"
+      ]
+    },
+    "chicken wing skewer (1pc)": {
+      "calories": 120,
+      "protein": 10,
+      "carbs": 4,
+      "fat": 7,
+      "sodium": 380,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "Moderate sodium"
+      ]
+    },
+    "watami original fried chicken (3pcs)": {
+      "calories": 380,
+      "protein": 24,
+      "carbs": 12,
+      "fat": 26,
+      "sodium": 520,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Egg",
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "Deep fried",
+        "High in fat",
+        "High in saturated fat"
+      ]
+    },
+    "steamed rice": {
+      "calories": 180,
+      "protein": 4,
+      "carbs": 40,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 0,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Low fat",
+        "Good source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "Low in fiber",
+        "Low in protein"
+      ]
+    },
+    "watami salad": {
+      "calories": 320,
+      "protein": 22,
+      "carbs": 14,
+      "fat": 20,
+      "sodium": 680,
+      "sugar": 3,
+      "fiber": 3,
+      "allergens": [
+        "Fish",
+        "Shellfish",
+        "Soy",
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of fiber",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "Moderate sodium"
+      ]
+    },
+    "grilled w chicken (original garlic)": {
+      "calories": 320,
+      "protein": 36,
+      "carbs": 4,
+      "fat": 16,
+      "sodium": 640,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Lean meat"
+      ],
+      "healthWarnings": [
+        "Moderate sodium"
+      ]
+    },
+    "salmon and avocado maki": {
+      "calories": 340,
+      "protein": 16,
+      "carbs": 38,
+      "fat": 14,
+      "sodium": 480,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Fish",
+        "Shellfish",
+        "Gluten",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of omega-3",
+        "Good source of protein",
+        "Contains healthy fats"
+      ],
+      "healthWarnings": [
+        "Moderate sodium"
+      ]
+    },
+    "grilled mackerel (half)": {
+      "calories": 280,
+      "protein": 32,
+      "carbs": 0,
+      "fat": 16,
+      "sodium": 420,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "High in protein",
+        "Lean protein source"
+      ],
+      "healthWarnings": [
+        "Moderate sodium"
+      ]
+    },
+    "homemade rolled omelette": {
+      "calories": 240,
+      "protein": 14,
+      "carbs": 8,
+      "fat": 16,
+      "sodium": 380,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Egg",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains choline"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in cholesterol"
+      ]
+    },
+    "watami fried chicken with spicy miso sauce (3pcs)": {
+      "calories": 400,
+      "protein": 24,
+      "carbs": 14,
+      "fat": 28,
+      "sodium": 720,
+      "sugar": 3,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "Deep fried",
+        "High in fat",
+        "High in sodium"
+      ]
+    },
+    "tokachi-style pork rice bowl": {
+      "calories": 480,
+      "protein": 28,
+      "carbs": 52,
+      "fat": 16,
+      "sodium": 840,
+      "sugar": 6,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Good source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate fat"
+      ]
+    },
+    "chicken thigh skewer (1pc)": {
+      "calories": 140,
+      "protein": 12,
+      "carbs": 4,
+      "fat": 8,
+      "sodium": 380,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "Moderate sodium"
+      ]
+    },
+    "cold soba": {
+      "calories": 320,
+      "protein": 12,
+      "carbs": 54,
+      "fat": 4,
+      "sodium": 820,
+      "sugar": 3,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good source of carbohydrates",
+        "Low fat"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "prawn tempura (5pcs)": {
+      "calories": 340,
+      "protein": 16,
+      "carbs": 28,
+      "fat": 18,
+      "sodium": 580,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Shellfish",
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3"
+      ],
+      "healthWarnings": [
+        "Deep fried",
+        "High in fat",
+        "Moderate sodium"
+      ]
+    },
+    "miso soup": {
+      "calories": 80,
+      "protein": 6,
+      "carbs": 8,
+      "fat": 2,
+      "sodium": 820,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Low calorie",
+        "Good source of probiotics",
+        "Contains seaweed"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "watami fried chicken with black pepper sauce (3pcs)": {
+      "calories": 400,
+      "protein": 24,
+      "carbs": 14,
+      "fat": 28,
+      "sodium": 640,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "Deep fried",
+        "High in fat",
+        "High in saturated fat"
+      ]
+    },
+    "california maki": {
+      "calories": 300,
+      "protein": 12,
+      "carbs": 40,
+      "fat": 10,
+      "sodium": 420,
+      "sugar": 3,
+      "fiber": 3,
+      "allergens": [
+        "Shellfish",
+        "Gluten",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of carbohydrates",
+        "Contains healthy fats"
+      ],
+      "healthWarnings": [
+        "Moderate sodium"
+      ]
+    },
+    "grilled salmon (teriyaki)": {
+      "calories": 420,
+      "protein": 42,
+      "carbs": 18,
+      "fat": 18,
+      "sodium": 780,
+      "sugar": 12,
+      "fiber": 0,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "Good source of protein",
+        "Rich in vitamin D"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Contains sugar"
+      ]
+    },
+    "homemade rolled omelette with mentai mayo sauce": {
+      "calories": 340,
+      "protein": 14,
+      "carbs": 12,
+      "fat": 26,
+      "sodium": 520,
+      "sugar": 3,
+      "fiber": 0,
+      "allergens": [
+        "Egg",
+        "Fish",
+        "Dairy",
+        "Mayonnaise"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains choline"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in cholesterol"
+      ]
+    },
+    "chicken karaage rice bowl with black pepper sauce": {
+      "calories": 580,
+      "protein": 32,
+      "carbs": 58,
+      "fat": 22,
+      "sodium": 1020,
+      "sugar": 4,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains carbohydrates for energy"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "High in saturated fat"
+      ]
+    },
+    "cold soba with tempura": {
+      "calories": 520,
+      "protein": 20,
+      "carbs": 62,
+      "fat": 18,
+      "sodium": 1240,
+      "sugar": 8,
+      "fiber": 3,
+      "allergens": [
+        "Shellfish",
+        "Fish",
+        "Gluten",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains protein",
+        "Contains buckwheat"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate calories"
+      ]
+    },
+    "chicken thigh skewer with mentai mayo (1pc)": {
+      "calories": 180,
+      "protein": 16,
+      "carbs": 2,
+      "fat": 12,
+      "sodium": 380,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Fish",
+        "Egg",
+        "Mayonnaise"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Grilled preparation"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "Contains mayonnaise"
+      ]
+    },
+    "pumpkin & sweet potato tempura": {
+      "calories": 280,
+      "protein": 4,
+      "carbs": 36,
+      "fat": 14,
+      "sodium": 420,
+      "sugar": 8,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains beta-carotene",
+        "Vegetarian"
+      ],
+      "healthWarnings": [
+        "High in calories from deep frying",
+        "Contains sugar"
+      ]
+    },
+    "edamame": {
+      "calories": 95,
+      "protein": 11,
+      "carbs": 8,
+      "fat": 4,
+      "sodium": 280,
+      "sugar": 1,
+      "fiber": 3,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of fiber",
+        "Contains isoflavones",
+        "Low calorie"
+      ],
+      "healthWarnings": [
+        "Moderate sodium content"
+      ]
+    },
+    "assorted tempura": {
+      "calories": 480,
+      "protein": 18,
+      "carbs": 48,
+      "fat": 22,
+      "sodium": 920,
+      "sugar": 6,
+      "fiber": 4,
+      "allergens": [
+        "Shellfish",
+        "Fish",
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Contains protein",
+        "Contains vegetables",
+        "Contains fiber"
+      ],
+      "healthWarnings": [
+        "High in calories from deep frying",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "grilled salmon with mentai mayo": {
+      "calories": 440,
+      "protein": 40,
+      "carbs": 4,
+      "fat": 32,
+      "sodium": 620,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Fish",
+        "Egg",
+        "Mayonnaise"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "High in protein",
+        "Rich in vitamin D"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in calories"
+      ]
+    },
+    "unagi maki": {
+      "calories": 380,
+      "protein": 16,
+      "carbs": 42,
+      "fat": 14,
+      "sodium": 780,
+      "sugar": 6,
+      "fiber": 1,
+      "allergens": [
+        "Fish",
+        "Shellfish",
+        "Soy",
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3 from eel"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Contains sugar"
+      ]
+    },
+    "crab cream croquette": {
+      "calories": 240,
+      "protein": 8,
+      "carbs": 20,
+      "fat": 14,
+      "sodium": 480,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Shellfish",
+        "Dairy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains protein"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in calories from deep frying"
+      ]
+    },
+    "chicken thigh skewer with spicy miso (1pc)": {
+      "calories": 170,
+      "protein": 16,
+      "carbs": 4,
+      "fat": 10,
+      "sodium": 420,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Grilled preparation"
+      ],
+      "healthWarnings": [
+        "Moderate sodium",
+        "Contains spicy ingredients"
+      ]
+    },
+    "beef udon": {
+      "calories": 520,
+      "protein": 28,
+      "carbs": 62,
+      "fat": 14,
+      "sodium": 1180,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains carbohydrates",
+        "Warm soup"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate calories"
+      ]
+    },
+    "beef karubi rice bowl (yakiniku sauce)": {
+      "calories": 580,
+      "protein": 32,
+      "carbs": 58,
+      "fat": 18,
+      "sodium": 980,
+      "sugar": 8,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains iron",
+        "Contains B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate calories",
+        "Contains saturated fat"
+      ]
+    },
+    "beef karubi rice bowl (spicy miso)": {
+      "calories": 580,
+      "protein": 32,
+      "carbs": 58,
+      "fat": 18,
+      "sodium": 1020,
+      "sugar": 6,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains iron",
+        "Contains B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate calories",
+        "Contains spicy ingredients"
+      ]
+    },
+    "fried tofu with mentai cheese sauce": {
+      "calories": 280,
+      "protein": 14,
+      "carbs": 8,
+      "fat": 22,
+      "sodium": 540,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Dairy",
+        "Fish",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains calcium"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in calories from deep frying"
+      ]
+    },
+    "fried gyoza (5pcs)": {
+      "calories": 220,
+      "protein": 8,
+      "carbs": 22,
+      "fat": 12,
+      "sodium": 520,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Sesame",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories from deep frying"
+      ]
+    },
+    "watami oishi maki": {
+      "calories": 400,
+      "protein": 18,
+      "carbs": 44,
+      "fat": 16,
+      "sodium": 820,
+      "sugar": 8,
+      "fiber": 1,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Sesame",
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "Good source of protein",
+        "Signature item"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Contains sugar",
+        "Moderate calories"
+      ]
+    },
+    "grilled squid with teriyaki sauce": {
+      "calories": 310,
+      "protein": 32,
+      "carbs": 16,
+      "fat": 12,
+      "sodium": 740,
+      "sugar": 10,
+      "fiber": 0,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Low in fat",
+        "Contains minerals"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Contains sugar"
+      ]
+    },
+    "udon soup with clams": {
+      "calories": 480,
+      "protein": 24,
+      "carbs": 58,
+      "fat": 12,
+      "sodium": 1280,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains iron",
+        "Contains B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate calories"
+      ]
+    },
+    "5-kind assorted skewers": {
+      "calories": 380,
+      "protein": 32,
+      "carbs": 12,
+      "fat": 24,
+      "sodium": 650,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of B vitamins",
+        "Contains minerals"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "Moderate sodium content"
+      ]
+    },
+    "tonpeiyaki": {
+      "calories": 520,
+      "protein": 18,
+      "carbs": 28,
+      "fat": 38,
+      "sodium": 820,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Egg",
+        "Dairy",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in fat",
+        "High in sodium"
+      ]
+    },
+    "beef karubi rice bowl (black pepper sauce)": {
+      "calories": 650,
+      "protein": 38,
+      "carbs": 58,
+      "fat": 28,
+      "sodium": 890,
+      "sugar": 8,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron",
+        "Contains amino acids"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "Moderate saturated fat"
+      ]
+    },
+    "takoyaki (5pcs)": {
+      "calories": 280,
+      "protein": 12,
+      "carbs": 24,
+      "fat": 16,
+      "sodium": 540,
+      "sugar": 4,
+      "fiber": 0,
+      "allergens": [
+        "Shellfish",
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains selenium"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate fat content"
+      ]
+    },
+    "grilled w chicken (teriyaki sauce)": {
+      "calories": 420,
+      "protein": 38,
+      "carbs": 14,
+      "fat": 22,
+      "sodium": 720,
+      "sugar": 5,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of B vitamins",
+        "Contains selenium"
+      ],
+      "healthWarnings": [
+        "Moderate sodium content",
+        "Moderate fat content"
+      ]
+    },
+    "tonkotsu shoyu ramen (white)": {
+      "calories": 680,
+      "protein": 32,
+      "carbs": 72,
+      "fat": 28,
+      "sodium": 1200,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg",
+        "Pork"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains collagen from broth"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in calories",
+        "Moderate fat content"
+      ]
+    },
+    "pork karubi rice bowl (yakiniku sauce)": {
+      "calories": 680,
+      "protein": 36,
+      "carbs": 58,
+      "fat": 32,
+      "sodium": 920,
+      "sugar": 9,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron",
+        "Contains B vitamins"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "chicken cutlet with scrambled egg sauce": {
+      "calories": 580,
+      "protein": 32,
+      "carbs": 38,
+      "fat": 32,
+      "sodium": 680,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Egg",
+        "Gluten",
+        "Soy",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vitamins"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in fat",
+        "High in saturated fat"
+      ]
+    },
+    "deep fried hiroshima oyster (4pcs)": {
+      "calories": 420,
+      "protein": 14,
+      "carbs": 32,
+      "fat": 26,
+      "sodium": 720,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Shellfish",
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of zinc",
+        "Contains iron",
+        "Contains vitamin B12"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in sodium"
+      ]
+    },
+    "grilled w chicken (spicy miso)": {
+      "calories": 440,
+      "protein": 38,
+      "carbs": 16,
+      "fat": 24,
+      "sodium": 780,
+      "sugar": 4,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains antioxidants from miso",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "Moderate sodium content",
+        "Moderate fat content"
+      ]
+    },
+    "french fries": {
+      "calories": 320,
+      "protein": 4,
+      "carbs": 42,
+      "fat": 14,
+      "sodium": 420,
+      "sugar": 0,
+      "fiber": 4,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains potassium",
+        "Good source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "Moderate fat content",
+        "Low in nutrients"
+      ]
+    },
+    "pork karubi rice bowl (spicy miso)": {
+      "calories": 700,
+      "protein": 36,
+      "carbs": 58,
+      "fat": 34,
+      "sodium": 980,
+      "sugar": 8,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron",
+        "Contains B vitamins"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "wafu pizza": {
+      "calories": 650,
+      "protein": 28,
+      "carbs": 62,
+      "fat": 30,
+      "sodium": 1100,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "grilled black cod with teriyaki sauce": {
+      "calories": 480,
+      "protein": 42,
+      "carbs": 12,
+      "fat": 28,
+      "sodium": 760,
+      "sugar": 4,
+      "fiber": 0,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Excellent source of omega-3",
+        "High in vitamin D"
+      ],
+      "healthWarnings": [
+        "Moderate fat content",
+        "May contain bones"
+      ]
+    },
+    "grilled w chicken (salted egg)": {
+      "calories": 460,
+      "protein": 38,
+      "carbs": 16,
+      "fat": 26,
+      "sodium": 820,
+      "sugar": 5,
+      "fiber": 0,
+      "allergens": [
+        "Egg",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of B vitamins",
+        "Contains minerals"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate saturated fat"
+      ]
+    },
+    "pork karubi rice bowl (black pepper sauce)": {
+      "calories": 670,
+      "protein": 36,
+      "carbs": 58,
+      "fat": 30,
+      "sodium": 900,
+      "sugar": 8,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron",
+        "Contains B vitamins"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "french fries (soy butter)": {
+      "calories": 380,
+      "protein": 4,
+      "carbs": 42,
+      "fat": 20,
+      "sodium": 580,
+      "sugar": 1,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains potassium",
+        "Good source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in fat",
+        "Moderate sodium"
+      ]
+    },
+    "tako wasabi": {
+      "calories": 140,
+      "protein": 18,
+      "carbs": 4,
+      "fat": 4,
+      "sodium": 520,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Shellfish",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Low in calories",
+        "Good source of minerals"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "french fries (mentai mayo)": {
+      "calories": 420,
+      "protein": 4,
+      "carbs": 42,
+      "fat": 26,
+      "sodium": 480,
+      "sugar": 2,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Contains potassium"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in fat",
+        "Low in nutrients"
+      ]
+    },
+    "chicken katsu curry rice": {
+      "calories": 850,
+      "protein": 32,
+      "carbs": 95,
+      "fat": 32,
+      "sodium": 1200,
+      "sugar": 12,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Soy",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains carbohydrates for energy"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "kimchi": {
+      "calories": 45,
+      "protein": 2,
+      "carbs": 8,
+      "fat": 1,
+      "sodium": 680,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains probiotics",
+        "Good source of fiber",
+        "Rich in vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Spicy"
+      ]
+    },
+    "teriyaki chicken curry rice": {
+      "calories": 820,
+      "protein": 35,
+      "carbs": 92,
+      "fat": 28,
+      "sodium": 1350,
+      "sugar": 18,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains carbohydrates for energy"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    }
+  }
+}

@@ -651,6 +651,7 @@ function parseRelatedBrands(value: string, locationNames: string[]): Record<stri
 
       const related: RelatedBrand = {
         name,
+        slug: "",
         location: fieldValue(flat, "Location") || currentLocationName,
         rating,
         reviewCount,
@@ -689,6 +690,7 @@ function parseRelatedBrands(value: string, locationNames: string[]): Record<stri
 
     const related: RelatedBrand = {
       name: fallbackName,
+      slug: "",
       location: locationPart || currentLocationName,
       rating,
       reviewCount,
@@ -910,7 +912,7 @@ function parseRow(
     googleReviewSummaries.length > 0
       ? googleReviewSummaries
       : buildReviewSummaries(locationsWithReviews);
-  const relatedBrands = parseRelatedBrands(getCell("More bakeries"), locationNames);
+  const relatedBrands = parseRelatedBrands(getCell("More bakeries") || getCell("More restaurants"), locationNames);
 
   return {
     name,

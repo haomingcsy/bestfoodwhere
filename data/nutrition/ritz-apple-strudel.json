@@ -1,0 +1,230 @@
+{
+  "brand": "ritz-apple-strudel",
+  "generatedAt": "2026-02-21T11:24:27.007Z",
+  "items": {
+    "classic apple strudel": {
+      "calories": 280,
+      "protein": 4,
+      "carbs": 38,
+      "fat": 12,
+      "sodium": 180,
+      "sugar": 18,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Tree Nut"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "matcha mille crepe cake": {
+      "calories": 420,
+      "protein": 6,
+      "carbs": 48,
+      "fat": 22,
+      "sodium": 240,
+      "sugar": 32,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from matcha"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "durian strudel": {
+      "calories": 320,
+      "protein": 5,
+      "carbs": 36,
+      "fat": 16,
+      "sodium": 200,
+      "sugar": 16,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Source of potassium",
+        "Contains vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "pistachio almond super mini strudel": {
+      "calories": 150,
+      "protein": 4,
+      "carbs": 14,
+      "fat": 8,
+      "sodium": 100,
+      "sugar": 6,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Tree Nut",
+        "Peanut"
+      ],
+      "healthBenefits": [
+        "Source of healthy fats",
+        "Contains fiber"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "Tree nut allergen"
+      ]
+    },
+    "heart shaped strudel": {
+      "calories": 1200,
+      "protein": 18,
+      "carbs": 140,
+      "fat": 60,
+      "sodium": 600,
+      "sugar": 70,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Tree Nut"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Very high in calories",
+        "Very high in sugar",
+        "Very high in saturated fat"
+      ]
+    },
+    "crispy puff (box of 16)": {
+      "calories": 1600,
+      "protein": 16,
+      "carbs": 160,
+      "fat": 80,
+      "sodium": 800,
+      "sugar": 48,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Very high in calories",
+        "Very high in fat",
+        "Very high in sodium"
+      ]
+    },
+    "handmade pineapple balls": {
+      "calories": 620,
+      "protein": 8,
+      "carbs": 78,
+      "fat": 28,
+      "sodium": 320,
+      "sugar": 36,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Source of vitamin C from pineapple"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "d24 durian mille crepe cake": {
+      "calories": 580,
+      "protein": 8,
+      "carbs": 62,
+      "fat": 32,
+      "sodium": 320,
+      "sugar": 42,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Source of potassium",
+        "Contains vitamin C"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "apple crumble pie": {
+      "calories": 1100,
+      "protein": 12,
+      "carbs": 128,
+      "fat": 56,
+      "sodium": 480,
+      "sugar": 68,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Source of fiber",
+        "Contains vitamin C from apple"
+      ],
+      "healthWarnings": [
+        "Very high in calories",
+        "Very high in sugar",
+        "Very high in saturated fat"
+      ]
+    },
+    "basque burnt cheesecake": {
+      "calories": 1050,
+      "protein": 16,
+      "carbs": 82,
+      "fat": 72,
+      "sodium": 520,
+      "sugar": 58,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains calcium"
+      ],
+      "healthWarnings": [
+        "Very high in calories",
+        "Very high in saturated fat",
+        "High in sugar"
+      ]
+    }
+  }
+}

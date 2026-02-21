@@ -1,0 +1,827 @@
+{
+  "brand": "the-club",
+  "generatedAt": "2026-02-21T12:03:45.362Z",
+  "items": {
+    "bundle for one": {
+      "calories": 520,
+      "protein": 8,
+      "carbs": 68,
+      "fat": 22,
+      "sodium": 680,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Coconut"
+      ],
+      "healthBenefits": [
+        "Source of carbohydrates",
+        "Contains fiber"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "brewlander xpa": {
+      "calories": 150,
+      "protein": 1,
+      "carbs": 11,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Contains alcohol",
+        "High in carbohydrates"
+      ]
+    },
+    "kueh pie ti": {
+      "calories": 280,
+      "protein": 12,
+      "carbs": 24,
+      "fat": 14,
+      "sodium": 520,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Shellfish",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "coconut rice": {
+      "calories": 380,
+      "protein": 6,
+      "carbs": 52,
+      "fat": 16,
+      "sodium": 560,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Coconut"
+      ],
+      "healthBenefits": [
+        "Source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "kueh sampler": {
+      "calories": 420,
+      "protein": 6,
+      "carbs": 68,
+      "fat": 12,
+      "sodium": 280,
+      "sugar": 42,
+      "fiber": 1,
+      "allergens": [
+        "Egg",
+        "Dairy",
+        "Gluten",
+        "Coconut"
+      ],
+      "healthBenefits": [
+        "Traditional desserts"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in fat"
+      ]
+    },
+    "signature fried chicken - ayam goreng berempah (3 pieces)": {
+      "calories": 580,
+      "protein": 48,
+      "carbs": 8,
+      "fat": 38,
+      "sodium": 720,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "coke zero": {
+      "calories": 3,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 35,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Zero calories",
+        "Zero sugar"
+      ],
+      "healthWarnings": [
+        "Contains artificial sweeteners"
+      ]
+    },
+    "signature ayam goreng berempah nasi lemak": {
+      "calories": 820,
+      "protein": 38,
+      "carbs": 78,
+      "fat": 38,
+      "sodium": 1240,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Coconut"
+      ],
+      "healthBenefits": [
+        "Source of protein",
+        "Source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "beef cheek rendang": {
+      "calories": 620,
+      "protein": 52,
+      "carbs": 12,
+      "fat": 38,
+      "sodium": 880,
+      "sugar": 4,
+      "fiber": 1,
+      "allergens": [
+        "Coconut"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "chicken satay": {
+      "calories": 420,
+      "protein": 38,
+      "carbs": 12,
+      "fat": 22,
+      "sodium": 640,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Peanut",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "brewlander freedom lager": {
+      "calories": 138,
+      "protein": 1,
+      "carbs": 10,
+      "fat": 0,
+      "sodium": 12,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Contains alcohol",
+        "High in carbohydrates"
+      ]
+    },
+    "beef rendang nasi lemak": {
+      "calories": 880,
+      "protein": 42,
+      "carbs": 78,
+      "fat": 42,
+      "sodium": 1320,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Coconut"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "lemak bundle for 2": {
+      "calories": 1840,
+      "protein": 72,
+      "carbs": 168,
+      "fat": 76,
+      "sodium": 2480,
+      "sugar": 32,
+      "fiber": 4,
+      "allergens": [
+        "Coconut",
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "Very high in saturated fat"
+      ]
+    },
+    "mango sago pomelo": {
+      "calories": 180,
+      "protein": 2,
+      "carbs": 36,
+      "fat": 4,
+      "sodium": 85,
+      "sugar": 28,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Coconut"
+      ],
+      "healthBenefits": [
+        "Source of vitamin C",
+        "Contains fruit"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "fried egg": {
+      "calories": 110,
+      "protein": 7,
+      "carbs": 1,
+      "fat": 9,
+      "sodium": 140,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains choline"
+      ],
+      "healthWarnings": [
+        "High in saturated fat"
+      ]
+    },
+    "fried chicken wing nasi lemak": {
+      "calories": 720,
+      "protein": 32,
+      "carbs": 72,
+      "fat": 34,
+      "sodium": 1160,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Coconut",
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "Source of protein",
+        "Source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "sambal sotong": {
+      "calories": 280,
+      "protein": 28,
+      "carbs": 12,
+      "fat": 12,
+      "sodium": 720,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Low in calories"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "kueh bingka (3 slices)": {
+      "calories": 380,
+      "protein": 4,
+      "carbs": 48,
+      "fat": 18,
+      "sodium": 220,
+      "sugar": 24,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Coconut"
+      ],
+      "healthBenefits": [
+        "Contains tapioca"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "brown rice": {
+      "calories": 220,
+      "protein": 5,
+      "carbs": 46,
+      "fat": 2,
+      "sodium": 8,
+      "sugar": 0,
+      "fiber": 4,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Good source of carbohydrates"
+      ],
+      "healthWarnings": []
+    },
+    "gado gado": {
+      "calories": 380,
+      "protein": 16,
+      "carbs": 32,
+      "fat": 22,
+      "sodium": 680,
+      "sugar": 6,
+      "fiber": 6,
+      "allergens": [
+        "Peanut",
+        "Sesame",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "Source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "family feast for 4": {
+      "calories": 2840,
+      "protein": 98,
+      "carbs": 285,
+      "fat": 128,
+      "sodium": 3420,
+      "sugar": 45,
+      "fiber": 18,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Shellfish",
+        "Egg",
+        "Peanut",
+        "Coconut"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables",
+        "Traditional ingredients"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "kueh kosui (6 pieces)": {
+      "calories": 420,
+      "protein": 4,
+      "carbs": 68,
+      "fat": 16,
+      "sodium": 180,
+      "sugar": 32,
+      "fiber": 1,
+      "allergens": [
+        "Coconut",
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "sambal (jar)": {
+      "calories": 85,
+      "protein": 3,
+      "carbs": 8,
+      "fat": 5,
+      "sodium": 1240,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Contains capsaicin"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "Spicy"
+      ]
+    },
+    "kampung spread for 8": {
+      "calories": 5680,
+      "protein": 196,
+      "carbs": 570,
+      "fat": 256,
+      "sodium": 6840,
+      "sugar": 90,
+      "fiber": 36,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Shellfish",
+        "Egg",
+        "Peanut",
+        "Coconut"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables",
+        "Traditional ingredients"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "Very high in saturated fat",
+        "Very high in calories"
+      ]
+    },
+    "sambal petai prawn": {
+      "calories": 285,
+      "protein": 28,
+      "carbs": 8,
+      "fat": 16,
+      "sodium": 1420,
+      "sugar": 2,
+      "fiber": 3,
+      "allergens": [
+        "Shellfish",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in omega-3",
+        "Contains iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in cholesterol"
+      ]
+    },
+    "cucur sayur": {
+      "calories": 380,
+      "protein": 6,
+      "carbs": 42,
+      "fat": 21,
+      "sodium": 520,
+      "sugar": 8,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains vegetables",
+        "Source of fiber"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in calories from frying"
+      ]
+    },
+    "traditional nasi lemak": {
+      "calories": 520,
+      "protein": 12,
+      "carbs": 58,
+      "fat": 26,
+      "sodium": 840,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Egg",
+        "Coconut"
+      ],
+      "healthBenefits": [
+        "Good source of carbohydrates",
+        "Contains protein"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "homemade otah": {
+      "calories": 240,
+      "protein": 22,
+      "carbs": 6,
+      "fat": 14,
+      "sodium": 620,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "kueh salat (3 slices)": {
+      "calories": 480,
+      "protein": 5,
+      "carbs": 72,
+      "fat": 18,
+      "sodium": 240,
+      "sugar": 42,
+      "fiber": 1,
+      "allergens": [
+        "Coconut",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "assam pedas": {
+      "calories": 380,
+      "protein": 38,
+      "carbs": 12,
+      "fat": 18,
+      "sodium": 1520,
+      "sugar": 5,
+      "fiber": 3,
+      "allergens": [
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains vegetables",
+        "Low in carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Spicy"
+      ]
+    },
+    "ikan bilis (jar)": {
+      "calories": 180,
+      "protein": 28,
+      "carbs": 2,
+      "fat": 8,
+      "sodium": 2140,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Very high in protein",
+        "Rich in calcium",
+        "Rich in omega-3"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in cholesterol"
+      ]
+    },
+    "singaporean seafood laksa - broth": {
+      "calories": 620,
+      "protein": 32,
+      "carbs": 68,
+      "fat": 26,
+      "sodium": 1840,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Fish",
+        "Shellfish",
+        "Egg",
+        "Coconut",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains seafood",
+        "Rich in omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "terung asam manis": {
+      "calories": 240,
+      "protein": 3,
+      "carbs": 28,
+      "fat": 12,
+      "sodium": 680,
+      "sugar": 14,
+      "fiber": 4,
+      "allergens": [
+        "Coconut"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in sodium"
+      ]
+    },
+    "peanuts (jar)": {
+      "calories": 420,
+      "protein": 16,
+      "carbs": 16,
+      "fat": 36,
+      "sodium": 380,
+      "sugar": 2,
+      "fiber": 4,
+      "allergens": [
+        "Peanut",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in healthy fats",
+        "Good source of fiber"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in fat"
+      ]
+    },
+    "singaporean seafood laksa - dry": {
+      "calories": 680,
+      "protein": 34,
+      "carbs": 72,
+      "fat": 28,
+      "sodium": 1920,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Fish",
+        "Shellfish",
+        "Egg",
+        "Coconut",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains seafood",
+        "Rich in omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "sambal (1 portion)": {
+      "calories": 17,
+      "protein": 1,
+      "carbs": 2,
+      "fat": 1,
+      "sodium": 248,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains capsaicin"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "vegetable curry rice": {
+      "calories": 480,
+      "protein": 14,
+      "carbs": 68,
+      "fat": 16,
+      "sodium": 920,
+      "sugar": 8,
+      "fiber": 6,
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains vegetables",
+        "Vegetarian"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "sambal goreng": {
+      "calories": 320,
+      "protein": 14,
+      "carbs": 18,
+      "fat": 22,
+      "sodium": 1080,
+      "sugar": 3,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "sambal hae bee ladies fingers": {
+      "calories": 280,
+      "protein": 18,
+      "carbs": 14,
+      "fat": 18,
+      "sodium": 1340,
+      "sugar": 3,
+      "fiber": 3,
+      "allergens": [
+        "Fish",
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "mushroom rendang": {
+      "calories": 380,
+      "protein": 12,
+      "carbs": 18,
+      "fat": 30,
+      "sodium": 1020,
+      "sugar": 6,
+      "fiber": 4,
+      "allergens": [
+        "Coconut"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Vegetarian",
+        "Contains mushrooms"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    }
+  }
+}

@@ -1,0 +1,641 @@
+{
+  "brand": "maki-san",
+  "generatedAt": "2026-02-21T10:58:23.837Z",
+  "items": {
+    "mega d.i.y spicy seaweed chicken wing meal - sushi": {
+      "calories": 820,
+      "protein": 32,
+      "carbs": 95,
+      "fat": 28,
+      "sodium": 1680,
+      "sugar": 8,
+      "fiber": 3,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Shellfish",
+        "Sesame",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3 from fish"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "High in fat"
+      ]
+    },
+    "mega d.i.y yasai croquettes meal - sushi": {
+      "calories": 680,
+      "protein": 18,
+      "carbs": 88,
+      "fat": 26,
+      "sodium": 1420,
+      "sugar": 5,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Sesame",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "High in fat"
+      ]
+    },
+    "ms mega san salad combo a": {
+      "calories": 620,
+      "protein": 28,
+      "carbs": 58,
+      "fat": 28,
+      "sodium": 1380,
+      "sugar": 16,
+      "fiber": 7,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Shellfish",
+        "Sesame",
+        "Egg",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "Good source of protein",
+        "High in vegetables",
+        "Includes beverage"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "High in fat"
+      ]
+    },
+    "chick flick": {
+      "calories": 480,
+      "protein": 38,
+      "carbs": 32,
+      "fat": 20,
+      "sodium": 1240,
+      "sugar": 4,
+      "fiber": 4,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Shellfish",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in vegetables",
+        "Good source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Contains fried components"
+      ]
+    },
+    "tuna mayo avocado": {
+      "calories": 320,
+      "protein": 18,
+      "carbs": 38,
+      "fat": 10,
+      "sodium": 480,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Sesame",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of omega-3",
+        "Good source of protein",
+        "Contains healthy fats from avocado"
+      ],
+      "healthWarnings": [
+        "Moderate in sodium"
+      ]
+    },
+    "smoked tunatastic": {
+      "calories": 320,
+      "protein": 32,
+      "carbs": 24,
+      "fat": 12,
+      "sodium": 1080,
+      "sugar": 5,
+      "fiber": 6,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "High in fiber",
+        "Rich in vegetables",
+        "Good source of omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "smoked salmon avocado": {
+      "calories": 380,
+      "protein": 22,
+      "carbs": 39,
+      "fat": 14,
+      "sodium": 520,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Sesame",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "Good source of protein",
+        "Contains healthy fats"
+      ],
+      "healthWarnings": [
+        "Moderate in sodium"
+      ]
+    },
+    "ms mega san salad combo b": {
+      "calories": 720,
+      "protein": 32,
+      "carbs": 64,
+      "fat": 34,
+      "sodium": 1520,
+      "sugar": 18,
+      "fiber": 7,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Shellfish",
+        "Sesame",
+        "Egg",
+        "Fish",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "Good source of protein",
+        "Includes vegetables",
+        "Includes beverage"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "mega d.i.y spicy seaweed chicken wing meal - salad": {
+      "calories": 740,
+      "protein": 36,
+      "carbs": 68,
+      "fat": 26,
+      "sodium": 1580,
+      "sugar": 7,
+      "fiber": 5,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Shellfish",
+        "Sesame",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Rich in vegetables",
+        "High in fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "High in fat"
+      ]
+    },
+    "mega d.i.y yasai croquettes meal - salad": {
+      "calories": 600,
+      "protein": 20,
+      "carbs": 62,
+      "fat": 24,
+      "sodium": 1320,
+      "sugar": 5,
+      "fiber": 6,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Sesame",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "Good source of vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "High in fat"
+      ]
+    },
+    "ms mega san sushi combo a": {
+      "calories": 580,
+      "protein": 26,
+      "carbs": 72,
+      "fat": 16,
+      "sodium": 1480,
+      "sugar": 14,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Shellfish",
+        "Sesame",
+        "Fish",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of carbs",
+        "Good source of protein",
+        "Includes beverage"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in carbs",
+        "Moderate calories"
+      ]
+    },
+    "sale 1 for 1 bundle": {
+      "calories": 1200,
+      "protein": 48,
+      "carbs": 140,
+      "fat": 40,
+      "sodium": 2400,
+      "sugar": 12,
+      "fiber": 6,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Shellfish",
+        "Sesame",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "Very high in calories",
+        "High in fat"
+      ]
+    },
+    "yakiniku firewoku": {
+      "calories": 420,
+      "protein": 40,
+      "carbs": 28,
+      "fat": 18,
+      "sodium": 1180,
+      "sugar": 4,
+      "fiber": 4,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Shellfish",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Spicy (contains wasabi)"
+      ]
+    },
+    "crispy chicken katsu cucumber": {
+      "calories": 340,
+      "protein": 20,
+      "carbs": 36,
+      "fat": 12,
+      "sodium": 520,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "Contains fried component",
+        "Moderate in sodium"
+      ]
+    },
+    "spicy teriyaki chicken avocado": {
+      "calories": 360,
+      "protein": 22,
+      "carbs": 38,
+      "fat": 12,
+      "sodium": 640,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Sesame",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains healthy fats from avocado"
+      ],
+      "healthWarnings": [
+        "Spicy",
+        "Moderate in sodium"
+      ]
+    },
+    "gone fishing": {
+      "calories": 380,
+      "protein": 36,
+      "carbs": 32,
+      "fat": 14,
+      "sodium": 1260,
+      "sugar": 4,
+      "fiber": 5,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Shellfish",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Very high in protein",
+        "High in omega-3",
+        "Rich in vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Spicy (contains sriracha)"
+      ]
+    },
+    "tasty twosome sushi combo": {
+      "calories": 1480,
+      "protein": 54,
+      "carbs": 168,
+      "fat": 48,
+      "sodium": 2840,
+      "sugar": 14,
+      "fiber": 5,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Shellfish",
+        "Sesame",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "Very high in calories",
+        "High in fat"
+      ]
+    },
+    "ms mega san sushi combo b": {
+      "calories": 680,
+      "protein": 30,
+      "carbs": 78,
+      "fat": 22,
+      "sodium": 1620,
+      "sugar": 16,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Shellfish",
+        "Sesame",
+        "Fish",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of carbs",
+        "Good source of protein",
+        "Includes beverage"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in carbs"
+      ]
+    },
+    "ebi fry avocado": {
+      "calories": 350,
+      "protein": 18,
+      "carbs": 38,
+      "fat": 14,
+      "sodium": 540,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Shellfish",
+        "Sesame",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains healthy fats from avocado"
+      ],
+      "healthWarnings": [
+        "Contains fried component",
+        "Moderate in sodium"
+      ]
+    },
+    "tasty twosome salad combo": {
+      "calories": 1320,
+      "protein": 58,
+      "carbs": 128,
+      "fat": 46,
+      "sodium": 2680,
+      "sugar": 12,
+      "fiber": 8,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Shellfish",
+        "Sesame",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "High in fiber",
+        "Rich in vegetables"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "Very high in calories",
+        "High in fat"
+      ]
+    },
+    "what a catch": {
+      "calories": 520,
+      "protein": 38,
+      "carbs": 28,
+      "fat": 28,
+      "sodium": 1240,
+      "sugar": 8,
+      "fiber": 4,
+      "allergens": [
+        "Fish",
+        "Shellfish",
+        "Egg",
+        "Soy",
+        "Gluten",
+        "Sesame",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "High in omega-3",
+        "Good source of vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "spicy chicken katsu avocado": {
+      "calories": 485,
+      "protein": 22,
+      "carbs": 48,
+      "fat": 22,
+      "sodium": 980,
+      "sugar": 6,
+      "fiber": 5,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Sesame",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains healthy fats from avocado",
+        "Good source of carbs"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "Moderate saturated fat"
+      ]
+    },
+    "udon teri-chick'n": {
+      "calories": 545,
+      "protein": 32,
+      "carbs": 62,
+      "fat": 14,
+      "sodium": 1380,
+      "sugar": 12,
+      "fiber": 5,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Shellfish",
+        "Sesame",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Good source of carbs",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in carbs",
+        "Contains added sugars"
+      ]
+    },
+    "donburi delight bundle": {
+      "calories": 780,
+      "protein": 42,
+      "carbs": 78,
+      "fat": 28,
+      "sodium": 1620,
+      "sugar": 18,
+      "fiber": 6,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Shellfish",
+        "Egg",
+        "Sesame",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Complete meal with protein and carbs",
+        "Includes beverage"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat",
+        "High in carbs"
+      ]
+    },
+    "onigirazu oishi": {
+      "calories": 520,
+      "protein": 24,
+      "carbs": 58,
+      "fat": 18,
+      "sodium": 1140,
+      "sugar": 14,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg",
+        "Sesame",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Portable meal format",
+        "Includes beverage"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "Moderate sugar content"
+      ]
+    }
+  }
+}

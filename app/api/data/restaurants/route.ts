@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from "next/server";
-import { fetchAllBrands } from "@/lib/google-sheets";
+import { fetchAllBrandsWithLocationsSupabase } from "@/lib/supabase-menu";
 import type { BrandData } from "@/types/brand";
 
 /**
@@ -90,8 +90,8 @@ export async function GET(request: NextRequest) {
   }
 
   try {
-    // Fetch all restaurants
-    const brands = await fetchAllBrands();
+    // Fetch all restaurants from Supabase
+    const brands = await fetchAllBrandsWithLocationsSupabase();
 
     // Apply filters
     let filtered = [...brands];

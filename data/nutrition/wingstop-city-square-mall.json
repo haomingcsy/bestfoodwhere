@@ -1,0 +1,746 @@
+{
+  "brand": "wingstop-city-square-mall",
+  "generatedAt": "2026-02-21T12:19:24.424Z",
+  "items": {
+    "6 pieces classic wings": {
+      "calories": 320,
+      "protein": 28,
+      "carbs": 0,
+      "fat": 24,
+      "sodium": 680,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of selenium"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "party pack (7-8 pax)": {
+      "calories": 3840,
+      "protein": 240,
+      "carbs": 240,
+      "fat": 200,
+      "sodium": 5200,
+      "sugar": 8,
+      "fiber": 4,
+      "allergens": [
+        "Soy",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories",
+        "High in cholesterol"
+      ]
+    },
+    "coca-cola® original taste can (320ml)": {
+      "calories": 143,
+      "protein": 0,
+      "carbs": 39,
+      "fat": 0,
+      "sodium": 57,
+      "sugar": 39,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "hot ranch": {
+      "calories": 140,
+      "protein": 2,
+      "carbs": 3,
+      "fat": 14,
+      "sodium": 280,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in fat",
+        "High in sodium"
+      ]
+    },
+    "mushroom fritters (large)": {
+      "calories": 380,
+      "protein": 6,
+      "carbs": 32,
+      "fat": 26,
+      "sodium": 520,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of fiber",
+        "Contains mushrooms"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in calories",
+        "High in sodium"
+      ]
+    },
+    "cheese": {
+      "calories": 380,
+      "protein": 6,
+      "carbs": 12,
+      "fat": 34,
+      "sodium": 890,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "curly fries (large)": {
+      "calories": 620,
+      "protein": 8,
+      "carbs": 72,
+      "fat": 32,
+      "sodium": 1250,
+      "sugar": 2,
+      "fiber": 6,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Source of fiber",
+        "Source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "pandan churros with gula melaka dip": {
+      "calories": 340,
+      "protein": 4,
+      "carbs": 44,
+      "fat": 16,
+      "sodium": 180,
+      "sugar": 28,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in fat"
+      ]
+    },
+    "8pc boneless wings ala carte": {
+      "calories": 380,
+      "protein": 28,
+      "carbs": 16,
+      "fat": 24,
+      "sodium": 920,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "6 piece boneless wings combo": {
+      "calories": 780,
+      "protein": 42,
+      "carbs": 72,
+      "fat": 36,
+      "sodium": 1480,
+      "sugar": 4,
+      "fiber": 6,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Soy",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "6 piece classic wings combo": {
+      "calories": 680,
+      "protein": 38,
+      "carbs": 56,
+      "fat": 34,
+      "sodium": 1320,
+      "sugar": 40,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories",
+        "High in sugar"
+      ]
+    },
+    "6 pieces boneless wings": {
+      "calories": 360,
+      "protein": 24,
+      "carbs": 8,
+      "fat": 26,
+      "sodium": 820,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "coca-cola® zero sugar can (320ml)": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 55,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Zero calories",
+        "Zero sugar"
+      ],
+      "healthWarnings": [
+        "Artificial sweeteners"
+      ]
+    },
+    "cajun fries (large)": {
+      "calories": 520,
+      "protein": 8,
+      "carbs": 68,
+      "fat": 24,
+      "sodium": 1280,
+      "sugar": 1,
+      "fiber": 6,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains fiber",
+        "Good source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "12 pieces classic wings": {
+      "calories": 572,
+      "protein": 56,
+      "carbs": 2,
+      "fat": 36,
+      "sodium": 1344,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "High in omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "dasani® drinking water (600ml)": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Hydrating",
+        "Zero calories"
+      ],
+      "healthWarnings": []
+    },
+    "8 piece classic wings combo": {
+      "calories": 820,
+      "protein": 56,
+      "carbs": 68,
+      "fat": 38,
+      "sodium": 1680,
+      "sugar": 2,
+      "fiber": 6,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "8 piece boneless wings combo": {
+      "calories": 800,
+      "protein": 48,
+      "carbs": 70,
+      "fat": 36,
+      "sodium": 1520,
+      "sugar": 3,
+      "fiber": 6,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Soy",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "hot ranch (large)": {
+      "calories": 380,
+      "protein": 2,
+      "carbs": 8,
+      "fat": 37,
+      "sodium": 920,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in calories",
+        "High in fat",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "12 pieces boneless wings": {
+      "calories": 570,
+      "protein": 42,
+      "carbs": 24,
+      "fat": 36,
+      "sodium": 1380,
+      "sugar": 3,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "50 pieces classic wings": {
+      "calories": 2680,
+      "protein": 165,
+      "carbs": 45,
+      "fat": 205,
+      "sodium": 4800,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "Very high in calories",
+        "Very high in sodium",
+        "Very high in saturated fat",
+        "High in cholesterol"
+      ]
+    },
+    "cajun fries (regular)": {
+      "calories": 340,
+      "protein": 5,
+      "carbs": 45,
+      "fat": 16,
+      "sodium": 850,
+      "sugar": 1,
+      "fiber": 4,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains fiber",
+        "Good source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "gula melaka dip": {
+      "calories": 90,
+      "protein": 0,
+      "carbs": 22,
+      "fat": 0,
+      "sodium": 80,
+      "sugar": 20,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "20 pieces classic wings": {
+      "calories": 952,
+      "protein": 93,
+      "carbs": 3,
+      "fat": 59,
+      "sodium": 2240,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "High in omega-3"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "Very high in saturated fat"
+      ]
+    },
+    "sprite® zero sugar can (320ml)": {
+      "calories": 4,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 76,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Zero sugar"
+      ],
+      "healthWarnings": [
+        "Contains artificial sweeteners"
+      ]
+    },
+    "20 pieces boneless wings": {
+      "calories": 880,
+      "protein": 64,
+      "carbs": 32,
+      "fat": 56,
+      "sodium": 1760,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "ranch (large)": {
+      "calories": 520,
+      "protein": 2,
+      "carbs": 8,
+      "fat": 54,
+      "sodium": 1080,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "voodoo fries (large)": {
+      "calories": 680,
+      "protein": 12,
+      "carbs": 72,
+      "fat": 38,
+      "sodium": 1450,
+      "sugar": 3,
+      "fiber": 6,
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Source of fiber",
+        "Source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "fuze tea™ ice lemon tea can (300ml)": {
+      "calories": 50,
+      "protein": 0,
+      "carbs": 13,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 12,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Contains sugar"
+      ]
+    },
+    "signature seasoned fries (large)": {
+      "calories": 480,
+      "protein": 7,
+      "carbs": 64,
+      "fat": 22,
+      "sodium": 950,
+      "sugar": 1,
+      "fiber": 6,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains fiber",
+        "Good source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "100 pieces classic wings": {
+      "calories": 5360,
+      "protein": 330,
+      "carbs": 90,
+      "fat": 410,
+      "sodium": 9600,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "Extremely high in calories",
+        "Extremely high in sodium",
+        "Extremely high in saturated fat",
+        "Extremely high in cholesterol"
+      ]
+    },
+    "30 pieces boneless wings": {
+      "calories": 1320,
+      "protein": 96,
+      "carbs": 48,
+      "fat": 84,
+      "sodium": 2640,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "30 pieces classic wings": {
+      "calories": 1044,
+      "protein": 96,
+      "carbs": 0,
+      "fat": 74,
+      "sodium": 2040,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "authentic tea house®™ ayataka can (300ml)": {
+      "calories": 65,
+      "protein": 0,
+      "carbs": 16,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 15,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Low in calories"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains caffeine"
+      ]
+    },
+    "signature seasoned fries (regular)": {
+      "calories": 380,
+      "protein": 5,
+      "carbs": 45,
+      "fat": 20,
+      "sodium": 800,
+      "sugar": 1,
+      "fiber": 4,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Source of fiber",
+        "Source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "50 pieces boneless wings": {
+      "calories": 2350,
+      "protein": 185,
+      "carbs": 95,
+      "fat": 135,
+      "sodium": 4200,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of lean meat"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat",
+        "High in cholesterol"
+      ]
+    },
+    "fuze tea™ jasmine green tea can (300ml)": {
+      "calories": 105,
+      "protein": 0,
+      "carbs": 26,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 25,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants from green tea",
+        "Low in calories"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains caffeine"
+      ]
+    }
+  }
+}

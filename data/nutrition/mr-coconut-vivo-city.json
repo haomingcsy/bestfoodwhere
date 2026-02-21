@@ -1,0 +1,143 @@
+{
+  "brand": "mr-coconut-vivo-city",
+  "generatedAt": "2026-02-21T11:01:21.133Z",
+  "items": {
+    "(m) coconut shake iced (gf)": {
+      "calories": 180,
+      "protein": 2,
+      "carbs": 32,
+      "fat": 6,
+      "sodium": 85,
+      "sugar": 28,
+      "fiber": 1,
+      "allergens": [
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Good source of electrolytes",
+        "Natural hydration",
+        "Contains medium-chain triglycerides"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Moderate saturated fat"
+      ]
+    },
+    "(m) coconut fresh juice (gf)": {
+      "calories": 95,
+      "protein": 1,
+      "carbs": 18,
+      "fat": 2,
+      "sodium": 110,
+      "sugar": 9,
+      "fiber": 0,
+      "allergens": [
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Low calorie",
+        "Good source of potassium",
+        "Natural electrolytes"
+      ],
+      "healthWarnings": []
+    },
+    "(m) peach gum coconut juice (gf)": {
+      "calories": 130,
+      "protein": 2,
+      "carbs": 28,
+      "fat": 2,
+      "sodium": 100,
+      "sugar": 22,
+      "fiber": 2,
+      "allergens": [
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Contains soluble fiber",
+        "Good source of electrolytes",
+        "Natural collagen support"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "(l) coconut shake iced (gf)": {
+      "calories": 240,
+      "protein": 3,
+      "carbs": 42,
+      "fat": 8,
+      "sodium": 110,
+      "sugar": 37,
+      "fiber": 1,
+      "allergens": [
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Good source of electrolytes",
+        "Natural hydration",
+        "Contains medium-chain triglycerides"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Moderate saturated fat"
+      ]
+    },
+    "(l) coconut fresh juice (gf)": {
+      "calories": 130,
+      "protein": 1,
+      "carbs": 24,
+      "fat": 3,
+      "sodium": 140,
+      "sugar": 12,
+      "fiber": 0,
+      "allergens": [
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Low calorie",
+        "Good source of potassium",
+        "Natural electrolytes"
+      ],
+      "healthWarnings": []
+    },
+    "(l) peach gum coconut juice (gf)": {
+      "calories": 175,
+      "protein": 3,
+      "carbs": 38,
+      "fat": 3,
+      "sodium": 130,
+      "sugar": 30,
+      "fiber": 3,
+      "allergens": [
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Contains soluble fiber",
+        "Good source of electrolytes",
+        "Natural collagen support"
+      ],
+      "healthWarnings": [
+        "Moderate to high sugar content"
+      ]
+    },
+    "(hot) coconut fresh juice (gf)": {
+      "calories": 95,
+      "protein": 1,
+      "carbs": 18,
+      "fat": 2,
+      "sodium": 110,
+      "sugar": 9,
+      "fiber": 0,
+      "allergens": [
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Low calorie",
+        "Good source of potassium",
+        "Natural electrolytes",
+        "Warming properties"
+      ],
+      "healthWarnings": []
+    }
+  }
+}

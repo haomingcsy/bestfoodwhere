@@ -1,0 +1,606 @@
+{
+  "brand": "eat",
+  "generatedAt": "2026-02-16T14:37:53.978Z",
+  "items": {
+    "minced meat noodle set (dry) 潮州肉脞面干套餐": {
+      "calories": 520,
+      "protein": 22,
+      "carbs": 58,
+      "fat": 18,
+      "sodium": 1240,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Fish",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "shrimp dumpling soup 手工虾饺汤": {
+      "calories": 280,
+      "protein": 16,
+      "carbs": 32,
+      "fat": 8,
+      "sodium": 980,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Shellfish",
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Light broth-based"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate cholesterol"
+      ]
+    },
+    "chicken cutlet curry rice 鸡扒咖喱饭": {
+      "calories": 680,
+      "protein": 28,
+      "carbs": 72,
+      "fat": 26,
+      "sodium": 1180,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Provides carbohydrates for energy"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "fishball noodle (dry) 潮州鱼圆面干": {
+      "calories": 480,
+      "protein": 16,
+      "carbs": 54,
+      "fat": 18,
+      "sodium": 1160,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "ice honey lemon": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 36,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 35,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Refreshing",
+        "Contains vitamin C from lemon"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Limited nutritional value"
+      ]
+    },
+    "fried shrimp dumpling 炸手工虾饺": {
+      "calories": 340,
+      "protein": 14,
+      "carbs": 28,
+      "fat": 18,
+      "sodium": 620,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Shellfish",
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories from deep frying",
+        "High in fat"
+      ]
+    },
+    "chicken cutlet curry rice set 鸡扒咖喱饭套餐": {
+      "calories": 780,
+      "protein": 30,
+      "carbs": 85,
+      "fat": 28,
+      "sodium": 1320,
+      "sugar": 12,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Includes beverage"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "lor mee 卤面": {
+      "calories": 520,
+      "protein": 18,
+      "carbs": 58,
+      "fat": 20,
+      "sodium": 1280,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "eat. duo delight curry rice set meal 双拼咖喱饭套餐": {
+      "calories": 920,
+      "protein": 38,
+      "carbs": 95,
+      "fat": 34,
+      "sodium": 1480,
+      "sugar": 14,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Dual protein options"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "ice lemon tea": {
+      "calories": 80,
+      "protein": 0,
+      "carbs": 18,
+      "fat": 0,
+      "sodium": 40,
+      "sugar": 16,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains antioxidants from tea"
+      ],
+      "healthWarnings": [
+        "Contains sugar",
+        "Caffeine content"
+      ]
+    },
+    "yellow tailed fishball soup 黄尾鱼圆汤": {
+      "calories": 220,
+      "protein": 18,
+      "carbs": 12,
+      "fat": 8,
+      "sodium": 920,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Low in sugar"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "minced meat noodle (dry) 潮州肉脞面干": {
+      "calories": 480,
+      "protein": 20,
+      "carbs": 54,
+      "fat": 16,
+      "sodium": 1200,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Fish",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate saturated fat"
+      ]
+    },
+    "crispy chicken wings (3pc) 香脆鸡翅": {
+      "calories": 420,
+      "protein": 24,
+      "carbs": 16,
+      "fat": 28,
+      "sodium": 680,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories from deep frying",
+        "High in saturated fat"
+      ]
+    },
+    "lor mee set meal 卤面套餐": {
+      "calories": 680,
+      "protein": 22,
+      "carbs": 62,
+      "fat": 28,
+      "sodium": 1480,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg",
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "laksa set meal 叻沙套餐": {
+      "calories": 620,
+      "protein": 18,
+      "carbs": 72,
+      "fat": 22,
+      "sodium": 1320,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Shellfish",
+        "Gluten",
+        "Soy",
+        "Fish",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables",
+        "Includes beverage"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat from coconut milk"
+      ]
+    },
+    "green tea 绿茶": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Zero calorie",
+        "May aid metabolism"
+      ],
+      "healthWarnings": [
+        "Caffeine content",
+        "May cause digestive issues on empty stomach"
+      ]
+    },
+    "pork belly curry rice set meal 卤肉咖喱饭套餐": {
+      "calories": 820,
+      "protein": 32,
+      "carbs": 80,
+      "fat": 32,
+      "sodium": 1400,
+      "sugar": 10,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Includes beverage"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "minced meat noodle soup 潮州肉脞面汤": {
+      "calories": 420,
+      "protein": 20,
+      "carbs": 48,
+      "fat": 14,
+      "sodium": 1120,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "handmade ngoh hiang (2pc) 手工五香": {
+      "calories": 240,
+      "protein": 12,
+      "carbs": 18,
+      "fat": 12,
+      "sodium": 560,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Traditional recipe"
+      ],
+      "healthWarnings": [
+        "Moderate in calories",
+        "Moderate saturated fat"
+      ]
+    },
+    "coke 可乐": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 39,
+      "fat": 0,
+      "sodium": 45,
+      "sugar": 39,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "chicken cutlet lor mee set meal 炸鸡排卤面套餐": {
+      "calories": 680,
+      "protein": 28,
+      "carbs": 68,
+      "fat": 28,
+      "sodium": 1420,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "crispy beancurd roll (2pc) 鱼肉豆支": {
+      "calories": 280,
+      "protein": 12,
+      "carbs": 18,
+      "fat": 18,
+      "sodium": 680,
+      "sugar": 1,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "handmade beancurd with fishpaste (1pc) 手工鱼肉豆干": {
+      "calories": 140,
+      "protein": 12,
+      "carbs": 4,
+      "fat": 8,
+      "sodium": 520,
+      "sugar": 0,
+      "fiber": 1,
+      "allergens": [
+        "Fish",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Low in carbs"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "shrimp dumpling noodle soup set meal 手工虾饺面汤套餐": {
+      "calories": 520,
+      "protein": 24,
+      "carbs": 62,
+      "fat": 14,
+      "sodium": 1340,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Gluten",
+        "Soy",
+        "Wheat"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "fishball noodle soup 潮州鱼圆面汤": {
+      "calories": 380,
+      "protein": 14,
+      "carbs": 50,
+      "fat": 10,
+      "sodium": 1080,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "laksa 叻沙": {
+      "calories": 580,
+      "protein": 16,
+      "carbs": 52,
+      "fat": 28,
+      "sodium": 1240,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Soy",
+        "Shellfish",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "shrimp dumpling noodle soup 手工虾饺面汤": {
+      "calories": 420,
+      "protein": 18,
+      "carbs": 52,
+      "fat": 12,
+      "sodium": 1180,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Gluten",
+        "Soy",
+        "Wheat"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "chicken cutlet lor mee 炸鸡排卤面": {
+      "calories": 520,
+      "protein": 22,
+      "carbs": 52,
+      "fat": 20,
+      "sodium": 1160,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    }
+  }
+}

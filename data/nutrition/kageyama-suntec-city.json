@@ -1,0 +1,552 @@
+{
+  "brand": "kageyama-suntec-city",
+  "generatedAt": "2026-02-21T10:37:33.550Z",
+  "items": {
+    "chicken nambam ala チキン南蛮": {
+      "calories": 520,
+      "protein": 28,
+      "carbs": 52,
+      "fat": 18,
+      "sodium": 1100,
+      "sugar": 8,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vitamin B6"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "chicken breast ramen (shoyu/ shio) 鶏白湯ラーメン": {
+      "calories": 620,
+      "protein": 32,
+      "carbs": 68,
+      "fat": 20,
+      "sodium": 1450,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains selenium"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "7 up  7 up": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 35,
+      "fat": 0,
+      "sodium": 75,
+      "sugar": 35,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "gyoza 餃子": {
+      "calories": 280,
+      "protein": 12,
+      "carbs": 28,
+      "fat": 14,
+      "sodium": 680,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Contains vegetables",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "karaage 唐揚げ": {
+      "calories": 380,
+      "protein": 24,
+      "carbs": 18,
+      "fat": 24,
+      "sodium": 720,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains iron"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "chicken nambam set チキン南蛮定食": {
+      "calories": 680,
+      "protein": 32,
+      "carbs": 72,
+      "fat": 22,
+      "sodium": 1200,
+      "sugar": 10,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "pepsi ペプシ": {
+      "calories": 150,
+      "protein": 0,
+      "carbs": 40,
+      "fat": 0,
+      "sodium": 50,
+      "sugar": 40,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "nankotsu ramen (shoyu/ shio) 軟骨ラーメン": {
+      "calories": 680,
+      "protein": 38,
+      "carbs": 72,
+      "fat": 22,
+      "sodium": 1550,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "High in collagen"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "mineral water ミネラルウォーター": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Hydrating",
+        "Zero calories"
+      ],
+      "healthWarnings": []
+    },
+    "pork chop ramen (shoyu / shio) ポークチョップラーメン": {
+      "calories": 750,
+      "protein": 42,
+      "carbs": 74,
+      "fat": 28,
+      "sodium": 1600,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains zinc"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "fried tofu 揚げ出し豆腐": {
+      "calories": 240,
+      "protein": 14,
+      "carbs": 16,
+      "fat": 14,
+      "sodium": 680,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "aburi chashu don 炙りチャーシュー丼": {
+      "calories": 620,
+      "protein": 36,
+      "carbs": 62,
+      "fat": 20,
+      "sodium": 1100,
+      "sugar": 8,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "yakibuta ramen (shoyu/ shio) 焼き豚ラーメン": {
+      "calories": 720,
+      "protein": 40,
+      "carbs": 74,
+      "fat": 26,
+      "sodium": 1550,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "cuttle fish いか下足唐揚げ": {
+      "calories": 320,
+      "protein": 28,
+      "carbs": 12,
+      "fat": 18,
+      "sodium": 740,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains selenium"
+      ],
+      "healthWarnings": [
+        "High in cholesterol",
+        "High in sodium"
+      ]
+    },
+    "iced lemon tea アイスレモンティー": {
+      "calories": 120,
+      "protein": 0,
+      "carbs": 28,
+      "fat": 0,
+      "sodium": 40,
+      "sugar": 25,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "salmon ala サーモン": {
+      "calories": 480,
+      "protein": 36,
+      "carbs": 48,
+      "fat": 16,
+      "sodium": 950,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "scallop ramen (shoyu/ shio) 帆立ラーメン": {
+      "calories": 650,
+      "protein": 36,
+      "carbs": 72,
+      "fat": 18,
+      "sodium": 1500,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Shellfish",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains selenium"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "salmon rice set サーモン定食": {
+      "calories": 580,
+      "protein": 42,
+      "carbs": 58,
+      "fat": 18,
+      "sodium": 1050,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "houji tea ( hot/cold) ほうじ茶": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Zero calories"
+      ],
+      "healthWarnings": []
+    },
+    "pork suki ramen (shoyu/ shio) ポークすきラーメン": {
+      "calories": 700,
+      "protein": 38,
+      "carbs": 72,
+      "fat": 24,
+      "sodium": 1550,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "pudding プリン": {
+      "calories": 280,
+      "protein": 4,
+      "carbs": 32,
+      "fat": 14,
+      "sodium": 85,
+      "sugar": 28,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "cha shu ramen 1pcs (shoyu/ shio) チャーシューラーメン1pc": {
+      "calories": 620,
+      "protein": 28,
+      "carbs": 68,
+      "fat": 24,
+      "sodium": 1480,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Fish",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains noodles"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "cha shu ramen 3 pcs (shoyu/ shio)チャーシューラーメン3pcs": {
+      "calories": 740,
+      "protein": 38,
+      "carbs": 70,
+      "fat": 32,
+      "sodium": 1520,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Fish",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "meatball ramen (shoyu/ shio) ミートボールラーメン": {
+      "calories": 680,
+      "protein": 32,
+      "carbs": 72,
+      "fat": 26,
+      "sodium": 1520,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Fish",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains noodles"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "original tan tan men 担々麺": {
+      "calories": 720,
+      "protein": 24,
+      "carbs": 68,
+      "fat": 36,
+      "sodium": 1580,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Fish",
+        "Sesame",
+        "Peanut",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Source of healthy fats from sesame"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat",
+        "High in calories"
+      ]
+    },
+    "pork chop tan tan men ポークチョップ担々麺": {
+      "calories": 800,
+      "protein": 36,
+      "carbs": 70,
+      "fat": 40,
+      "sodium": 1620,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Fish",
+        "Sesame",
+        "Peanut",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Source of healthy fats"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat",
+        "High in calories",
+        "High in saturated fat"
+      ]
+    }
+  }
+}

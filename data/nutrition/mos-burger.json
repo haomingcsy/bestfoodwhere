@@ -1,0 +1,1267 @@
+{
+  "brand": "mos-burger",
+  "generatedAt": "2026-02-21T11:00:31.873Z",
+  "items": {
+    "teriyaki truffle mayo fries": {
+      "calories": 420,
+      "protein": 5,
+      "carbs": 52,
+      "fat": 21,
+      "sodium": 580,
+      "sugar": 8,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Soy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "hokkaido croquette burger": {
+      "calories": 380,
+      "protein": 10,
+      "carbs": 42,
+      "fat": 18,
+      "sodium": 520,
+      "sugar": 6,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "iced tea": {
+      "calories": 5,
+      "protein": 0,
+      "carbs": 1,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in calories",
+        "Zero sugar"
+      ],
+      "healthWarnings": []
+    },
+    "egg cheese ham wholemeal sandwich": {
+      "calories": 420,
+      "protein": 20,
+      "carbs": 44,
+      "fat": 18,
+      "sodium": 850,
+      "sugar": 4,
+      "fiber": 6,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Good source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "xi har burger": {
+      "calories": 520,
+      "protein": 24,
+      "carbs": 46,
+      "fat": 26,
+      "sodium": 980,
+      "sugar": 7,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Shellfish",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "creamer": {
+      "calories": 35,
+      "protein": 0,
+      "carbs": 1,
+      "fat": 3,
+      "sodium": 15,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": []
+    },
+    "mayonnaise sauce": {
+      "calories": 180,
+      "protein": 0,
+      "carbs": 2,
+      "fat": 20,
+      "sodium": 120,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in saturated fat"
+      ]
+    },
+    "xi har rice burger": {
+      "calories": 580,
+      "protein": 26,
+      "carbs": 58,
+      "fat": 26,
+      "sodium": 1020,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Shellfish",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "tuna & egg wholemeal sandwich": {
+      "calories": 390,
+      "protein": 22,
+      "carbs": 42,
+      "fat": 16,
+      "sodium": 780,
+      "sugar": 3,
+      "fiber": 6,
+      "allergens": [
+        "Gluten",
+        "Fish",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Good source of fiber",
+        "High in omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "fish burger": {
+      "calories": 450,
+      "protein": 18,
+      "carbs": 44,
+      "fat": 22,
+      "sodium": 820,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Fish",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "corn soup": {
+      "calories": 280,
+      "protein": 8,
+      "carbs": 38,
+      "fat": 11,
+      "sodium": 620,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "ice lemon tea": {
+      "calories": 8,
+      "protein": 0,
+      "carbs": 2,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in calories",
+        "Zero sugar"
+      ],
+      "healthWarnings": []
+    },
+    "okonomiyaki rice burger meal": {
+      "calories": 650,
+      "protein": 20,
+      "carbs": 72,
+      "fat": 28,
+      "sodium": 1100,
+      "sugar": 12,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in sugar"
+      ]
+    },
+    "french fries (l)": {
+      "calories": 380,
+      "protein": 5,
+      "carbs": 48,
+      "fat": 18,
+      "sodium": 520,
+      "sugar": 0,
+      "fiber": 4,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "tuna cheese wholemeal sandwich": {
+      "calories": 420,
+      "protein": 24,
+      "carbs": 42,
+      "fat": 18,
+      "sodium": 820,
+      "sugar": 3,
+      "fiber": 6,
+      "allergens": [
+        "Gluten",
+        "Fish",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Good source of fiber",
+        "High in omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "barbeque sauce": {
+      "calories": 45,
+      "protein": 0,
+      "carbs": 11,
+      "fat": 0,
+      "sodium": 380,
+      "sugar": 9,
+      "fiber": 0,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium",
+        "High in sugar"
+      ]
+    },
+    "xi har burger combo": {
+      "calories": 1180,
+      "protein": 50,
+      "carbs": 120,
+      "fat": 52,
+      "sodium": 1980,
+      "sugar": 18,
+      "fiber": 6,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Shellfish",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "Very high in saturated fat",
+        "High in calories"
+      ]
+    },
+    "chicken burger": {
+      "calories": 460,
+      "protein": 20,
+      "carbs": 50,
+      "fat": 18,
+      "sodium": 780,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "hokkaido croquette pie": {
+      "calories": 280,
+      "protein": 6,
+      "carbs": 32,
+      "fat": 14,
+      "sodium": 380,
+      "sugar": 8,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "xi har rice burger combo": {
+      "calories": 580,
+      "protein": 28,
+      "carbs": 52,
+      "fat": 26,
+      "sodium": 920,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Gluten",
+        "Soy",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "mustard sauce": {
+      "calories": 35,
+      "protein": 1,
+      "carbs": 2,
+      "fat": 2,
+      "sodium": 420,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "yakiniku rice burger": {
+      "calories": 420,
+      "protein": 22,
+      "carbs": 44,
+      "fat": 16,
+      "sodium": 680,
+      "sugar": 4,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "yuan bao (golden ingot citrus pudding)": {
+      "calories": 240,
+      "protein": 4,
+      "carbs": 38,
+      "fat": 8,
+      "sodium": 85,
+      "sugar": 28,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "new mos chicken": {
+      "calories": 320,
+      "protein": 18,
+      "carbs": 28,
+      "fat": 14,
+      "sodium": 640,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "teriyaki chicken burger": {
+      "calories": 420,
+      "protein": 24,
+      "carbs": 46,
+      "fat": 14,
+      "sodium": 760,
+      "sugar": 8,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "fish burger meal": {
+      "calories": 480,
+      "protein": 18,
+      "carbs": 52,
+      "fat": 20,
+      "sodium": 840,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Soy",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "High in omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "nasubi matcha mochi": {
+      "calories": 220,
+      "protein": 3,
+      "carbs": 34,
+      "fat": 8,
+      "sodium": 75,
+      "sugar": 22,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "corn cup": {
+      "calories": 310,
+      "protein": 8,
+      "carbs": 35,
+      "fat": 15,
+      "sodium": 520,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Good source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "okonomiyaki rice burger": {
+      "calories": 520,
+      "protein": 18,
+      "carbs": 58,
+      "fat": 22,
+      "sodium": 920,
+      "sugar": 10,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy",
+        "Egg",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "deluxe mushroom wagyu burger": {
+      "calories": 620,
+      "protein": 32,
+      "carbs": 48,
+      "fat": 32,
+      "sodium": 1040,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "mentai mayo fries": {
+      "calories": 380,
+      "protein": 6,
+      "carbs": 42,
+      "fat": 20,
+      "sodium": 680,
+      "sugar": 2,
+      "fiber": 3,
+      "allergens": [
+        "Fish",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "yakiniku rice burger meal": {
+      "calories": 520,
+      "protein": 24,
+      "carbs": 54,
+      "fat": 20,
+      "sodium": 780,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "mantou with chilli crab dip": {
+      "calories": 320,
+      "protein": 8,
+      "carbs": 38,
+      "fat": 14,
+      "sodium": 620,
+      "sugar": 4,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Shellfish",
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "kakiage rice burger": {
+      "calories": 520,
+      "protein": 18,
+      "carbs": 66,
+      "fat": 18,
+      "sodium": 1040,
+      "sugar": 12,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy",
+        "Egg",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "chilli crab dip": {
+      "calories": 120,
+      "protein": 3,
+      "carbs": 8,
+      "fat": 8,
+      "sodium": 380,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Shellfish",
+        "Soy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "mentai mayo sauce": {
+      "calories": 140,
+      "protein": 1,
+      "carbs": 4,
+      "fat": 13,
+      "sodium": 320,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Fish",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "teriyaki chicken burger meal": {
+      "calories": 620,
+      "protein": 28,
+      "carbs": 72,
+      "fat": 22,
+      "sodium": 1240,
+      "sugar": 18,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains carbohydrates for energy"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in sugar"
+      ]
+    },
+    "teriyaki truffle wagyu burger": {
+      "calories": 680,
+      "protein": 32,
+      "carbs": 54,
+      "fat": 38,
+      "sodium": 1180,
+      "sugar": 12,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains iron"
+      ],
+      "healthWarnings": [
+        "Very high in saturated fat",
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "chicken nuggets (6pcs)": {
+      "calories": 280,
+      "protein": 16,
+      "carbs": 22,
+      "fat": 14,
+      "sodium": 520,
+      "sugar": 0,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "2 x halloween pudding": {
+      "calories": 320,
+      "protein": 4,
+      "carbs": 48,
+      "fat": 12,
+      "sodium": 140,
+      "sugar": 42,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "hot cocoa": {
+      "calories": 240,
+      "protein": 8,
+      "carbs": 32,
+      "fat": 8,
+      "sodium": 180,
+      "sugar": 28,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "yakitori rice burger": {
+      "calories": 540,
+      "protein": 24,
+      "carbs": 68,
+      "fat": 16,
+      "sodium": 980,
+      "sugar": 14,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "chicken nuggets (15pcs)": {
+      "calories": 700,
+      "protein": 40,
+      "carbs": 55,
+      "fat": 35,
+      "sodium": 1300,
+      "sugar": 0,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "Very high in saturated fat",
+        "Very high in sodium",
+        "High in calories"
+      ]
+    },
+    "iced cocoa": {
+      "calories": 240,
+      "protein": 8,
+      "carbs": 32,
+      "fat": 8,
+      "sodium": 180,
+      "sugar": 28,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "double fish burger": {
+      "calories": 620,
+      "protein": 28,
+      "carbs": 58,
+      "fat": 28,
+      "sodium": 1120,
+      "sugar": 10,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Soy",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3 fatty acids"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "fun dog": {
+      "calories": 340,
+      "protein": 14,
+      "carbs": 38,
+      "fat": 14,
+      "sodium": 680,
+      "sugar": 8,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "1 pax fun dog combo": {
+      "calories": 780,
+      "protein": 28,
+      "carbs": 96,
+      "fat": 28,
+      "sodium": 1320,
+      "sugar": 24,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in sugar"
+      ]
+    },
+    "2 pax fun dog combo": {
+      "calories": 1560,
+      "protein": 56,
+      "carbs": 192,
+      "fat": 56,
+      "sodium": 2640,
+      "sugar": 48,
+      "fiber": 8,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "Very high in saturated fat",
+        "Very high in sugar"
+      ]
+    },
+    "3 pax fun dog combo": {
+      "calories": 2340,
+      "protein": 84,
+      "carbs": 288,
+      "fat": 84,
+      "sodium": 3960,
+      "sugar": 72,
+      "fiber": 12,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "Very high in saturated fat",
+        "Very high in sugar"
+      ]
+    },
+    "2 pax sharing treats": {
+      "calories": 1480,
+      "protein": 42,
+      "carbs": 168,
+      "fat": 62,
+      "sodium": 2280,
+      "sugar": 68,
+      "fiber": 6,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "Very high in saturated fat",
+        "Very high in sugar"
+      ]
+    },
+    "3 pax sharing treats": {
+      "calories": 2220,
+      "protein": 63,
+      "carbs": 252,
+      "fat": 93,
+      "sodium": 3420,
+      "sugar": 102,
+      "fiber": 9,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "Very high in saturated fat",
+        "Very high in sugar"
+      ]
+    },
+    "teriyaki truffle wagyu burger (limited time offer)": {
+      "calories": 680,
+      "protein": 32,
+      "carbs": 54,
+      "fat": 38,
+      "sodium": 1180,
+      "sugar": 12,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains iron"
+      ],
+      "healthWarnings": [
+        "Very high in saturated fat",
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "yakitori rice burger (limited time offer)": {
+      "calories": 540,
+      "protein": 24,
+      "carbs": 68,
+      "fat": 16,
+      "sodium": 980,
+      "sugar": 14,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "yuletide glazed duck wrap": {
+      "calories": 580,
+      "protein": 26,
+      "carbs": 62,
+      "fat": 22,
+      "sodium": 1100,
+      "sugar": 16,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "spicy yuletide glazed duck wrap": {
+      "calories": 600,
+      "protein": 26,
+      "carbs": 62,
+      "fat": 24,
+      "sodium": 1160,
+      "sugar": 16,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "yuletide duck wrap combo (hot)": {
+      "calories": 1240,
+      "protein": 38,
+      "carbs": 128,
+      "fat": 58,
+      "sodium": 1680,
+      "sugar": 32,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains duck meat"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "spicy yuletide duck wrap combo (hot)": {
+      "calories": 1260,
+      "protein": 39,
+      "carbs": 128,
+      "fat": 60,
+      "sodium": 1720,
+      "sugar": 32,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains duck meat"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "yuletide duck wrap combo (iced)": {
+      "calories": 1220,
+      "protein": 38,
+      "carbs": 126,
+      "fat": 58,
+      "sodium": 1680,
+      "sugar": 28,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains duck meat"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "spicy yuletide duck wrap combo (iced)": {
+      "calories": 1240,
+      "protein": 39,
+      "carbs": 126,
+      "fat": 60,
+      "sodium": 1720,
+      "sugar": 28,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains duck meat"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "v-cut cajun fries": {
+      "calories": 420,
+      "protein": 5,
+      "carbs": 52,
+      "fat": 21,
+      "sodium": 680,
+      "sugar": 0,
+      "fiber": 4,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains potassium"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat",
+        "High in calories"
+      ]
+    }
+  }
+}

@@ -1,0 +1,640 @@
+{
+  "brand": "yakiniku-go",
+  "generatedAt": "2026-02-21T12:23:36.358Z",
+  "items": {
+    "double karubi jyu": {
+      "calories": 890,
+      "protein": 62,
+      "carbs": 58,
+      "fat": 48,
+      "sodium": 1280,
+      "sugar": 8,
+      "fiber": 4,
+      "allergens": [
+        "Soy",
+        "Sesame",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "bottled water": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Hydrating",
+        "Zero calories"
+      ],
+      "healthWarnings": []
+    },
+    "kimchi": {
+      "calories": 45,
+      "protein": 2,
+      "carbs": 8,
+      "fat": 1,
+      "sodium": 850,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Probiotic",
+        "Low calorie",
+        "Rich in vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Spicy"
+      ]
+    },
+    "misuji steak jyu": {
+      "calories": 740,
+      "protein": 58,
+      "carbs": 58,
+      "fat": 32,
+      "sodium": 1150,
+      "sugar": 7,
+      "fiber": 4,
+      "allergens": [
+        "Soy",
+        "Sesame",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron",
+        "Rich in B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate saturated fat"
+      ]
+    },
+    "coke": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 39,
+      "fat": 0,
+      "sodium": 55,
+      "sugar": 39,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in calories"
+      ]
+    },
+    "kimchi radish": {
+      "calories": 35,
+      "protein": 1,
+      "carbs": 7,
+      "fat": 0.5,
+      "sodium": 920,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Low calorie",
+        "Good fiber source",
+        "Probiotic"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "mini salad": {
+      "calories": 85,
+      "protein": 3,
+      "carbs": 12,
+      "fat": 3.5,
+      "sodium": 280,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Good fiber source",
+        "Rich in vitamins"
+      ],
+      "healthWarnings": []
+    },
+    "karubi jyu": {
+      "calories": 795,
+      "protein": 56,
+      "carbs": 58,
+      "fat": 38,
+      "sodium": 1200,
+      "sugar": 7,
+      "fiber": 4,
+      "allergens": [
+        "Soy",
+        "Sesame",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "coke zero sugar": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 75,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Zero sugar",
+        "Zero calories"
+      ],
+      "healthWarnings": [
+        "Contains artificial sweeteners"
+      ]
+    },
+    "negi shio chicken and kinshi tamago jyu": {
+      "calories": 625,
+      "protein": 48,
+      "carbs": 58,
+      "fat": 22,
+      "sodium": 1050,
+      "sugar": 6,
+      "fiber": 4,
+      "allergens": [
+        "Soy",
+        "Sesame",
+        "Gluten",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of choline",
+        "Moderate fat"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "pokka lychee tea": {
+      "calories": 110,
+      "protein": 0,
+      "carbs": 28,
+      "fat": 0,
+      "sodium": 45,
+      "sugar": 26,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "seaweed soup": {
+      "calories": 55,
+      "protein": 4,
+      "carbs": 8,
+      "fat": 1,
+      "sodium": 1200,
+      "sugar": 1,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Low calorie",
+        "Rich in iodine",
+        "Good source of minerals"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "chawanmushi": {
+      "calories": 95,
+      "protein": 8,
+      "carbs": 6,
+      "fat": 5,
+      "sodium": 650,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Egg",
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good protein source",
+        "Low carb"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "pokka honey yuzu": {
+      "calories": 115,
+      "protein": 0,
+      "carbs": 29,
+      "fat": 0,
+      "sodium": 40,
+      "sugar": 27,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains honey"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "pork kata rosu steak jyu": {
+      "calories": 785,
+      "protein": 55,
+      "carbs": 58,
+      "fat": 38,
+      "sodium": 1100,
+      "sugar": 7,
+      "fiber": 4,
+      "allergens": [
+        "Soy",
+        "Sesame",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of thiamine",
+        "Rich in B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "curry sauce": {
+      "calories": 85,
+      "protein": 1,
+      "carbs": 12,
+      "fat": 3.5,
+      "sodium": 680,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains turmeric"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "pork karubi jyu": {
+      "calories": 720,
+      "protein": 52,
+      "carbs": 58,
+      "fat": 32,
+      "sodium": 1050,
+      "sugar": 7,
+      "fiber": 4,
+      "allergens": [
+        "Soy",
+        "Sesame",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of zinc",
+        "Rich in B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "pokka kiyo kyoho grape juice": {
+      "calories": 135,
+      "protein": 0,
+      "carbs": 34,
+      "fat": 0,
+      "sodium": 50,
+      "sugar": 32,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "pokka lemon tea": {
+      "calories": 105,
+      "protein": 0,
+      "carbs": 26,
+      "fat": 0,
+      "sodium": 40,
+      "sugar": 25,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "angus ribeye steak jyu": {
+      "calories": 920,
+      "protein": 64,
+      "carbs": 58,
+      "fat": 52,
+      "sodium": 1280,
+      "sugar": 8,
+      "fiber": 4,
+      "allergens": [
+        "Soy",
+        "Sesame",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "pokka oolong tea": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "karubi and ribeye jyu": {
+      "calories": 880,
+      "protein": 52,
+      "carbs": 68,
+      "fat": 42,
+      "sodium": 1200,
+      "sugar": 8,
+      "fiber": 4,
+      "allergens": [
+        "Soy",
+        "Sesame",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron",
+        "Contains B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "kimchi gyu don": {
+      "calories": 720,
+      "protein": 38,
+      "carbs": 72,
+      "fat": 28,
+      "sodium": 1050,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains probiotics from kimchi",
+        "Rich in iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "pokka jasmine green tea": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains antioxidants",
+        "May aid digestion"
+      ],
+      "healthWarnings": []
+    },
+    "karubi and negi shio chicken jyu": {
+      "calories": 820,
+      "protein": 56,
+      "carbs": 66,
+      "fat": 36,
+      "sodium": 1180,
+      "sugar": 7,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Sesame",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Lean meat source",
+        "Contains B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate saturated fat"
+      ]
+    },
+    "pokka sparklin fuji apple": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 35,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 33,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "gyu don": {
+      "calories": 680,
+      "protein": 32,
+      "carbs": 70,
+      "fat": 26,
+      "sodium": 980,
+      "sugar": 5,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains iron",
+        "Rich in B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate saturated fat"
+      ]
+    },
+    "salmon butter yaki jyu": {
+      "calories": 840,
+      "protein": 48,
+      "carbs": 68,
+      "fat": 40,
+      "sodium": 1100,
+      "sugar": 7,
+      "fiber": 3,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Sesame",
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in omega-3 fatty acids",
+        "Excellent source of protein",
+        "Contains vitamin D"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "High in fat"
+      ]
+    },
+    "ribeye jyu": {
+      "calories": 820,
+      "protein": 48,
+      "carbs": 66,
+      "fat": 40,
+      "sodium": 1080,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Sesame",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Excellent source of iron",
+        "Contains B12"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "karubi and gyutan jyu": {
+      "calories": 900,
+      "protein": 58,
+      "carbs": 68,
+      "fat": 44,
+      "sodium": 1220,
+      "sugar": 8,
+      "fiber": 4,
+      "allergens": [
+        "Soy",
+        "Sesame",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron and B vitamins",
+        "Good source of collagen"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "karubi and tamago jyu": {
+      "calories": 740,
+      "protein": 40,
+      "carbs": 68,
+      "fat": 32,
+      "sodium": 1020,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Sesame",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains choline from egg",
+        "Rich in iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate saturated fat"
+      ]
+    }
+  }
+}

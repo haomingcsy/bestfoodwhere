@@ -1,0 +1,686 @@
+{
+  "brand": "tanuki-raw-jewel-changi-airport",
+  "generatedAt": "2026-02-21T11:59:28.946Z",
+  "items": {
+    "spider washi maki": {
+      "calories": 285,
+      "protein": 12,
+      "carbs": 28,
+      "fat": 14,
+      "sodium": 520,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Shellfish",
+        "Egg",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3 fatty acids"
+      ],
+      "healthWarnings": [
+        "Moderate sodium content",
+        "Fried preparation adds calories"
+      ]
+    },
+    "truffle beef yakiniku donburi": {
+      "calories": 620,
+      "protein": 38,
+      "carbs": 45,
+      "fat": 28,
+      "sodium": 680,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Iron-rich beef",
+        "Contains selenium"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "sashimi & maki combo": {
+      "calories": 480,
+      "protein": 28,
+      "carbs": 42,
+      "fat": 18,
+      "sodium": 720,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Shellfish",
+        "Soy",
+        "Gluten",
+        "Sesame",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in omega-3 fatty acids",
+        "Good variety of nutrients"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Contains raw fish"
+      ]
+    },
+    "sashimi platter - 3 slices each": {
+      "calories": 420,
+      "protein": 48,
+      "carbs": 8,
+      "fat": 18,
+      "sodium": 280,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Very high in protein",
+        "Excellent source of omega-3",
+        "Low carbohydrate",
+        "Rich in B vitamins"
+      ],
+      "healthWarnings": [
+        "Contains raw fish",
+        "May contain parasites if not properly handled"
+      ]
+    },
+    "truffle mushroom fries": {
+      "calories": 385,
+      "protein": 6,
+      "carbs": 38,
+      "fat": 22,
+      "sodium": 520,
+      "sugar": 2,
+      "fiber": 3,
+      "allergens": [
+        "Dairy",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Contains mushrooms with antioxidants",
+        "Source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in fat",
+        "High in sodium",
+        "Fried preparation"
+      ]
+    },
+    "lobster salad & salmon bao": {
+      "calories": 440,
+      "protein": 24,
+      "carbs": 32,
+      "fat": 22,
+      "sodium": 680,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Shellfish",
+        "Fish",
+        "Gluten",
+        "Egg",
+        "Dairy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3 fatty acids",
+        "Provides selenium"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in fat",
+        "High in sodium"
+      ]
+    },
+    "salmon sashimi": {
+      "calories": 210,
+      "protein": 28,
+      "carbs": 0,
+      "fat": 11,
+      "sodium": 75,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Very high in protein",
+        "Excellent omega-3 source",
+        "Low calorie option",
+        "Rich in astaxanthin"
+      ],
+      "healthWarnings": [
+        "Contains raw fish",
+        "May contain parasites"
+      ]
+    },
+    "tanuki aburi maki": {
+      "calories": 365,
+      "protein": 18,
+      "carbs": 32,
+      "fat": 16,
+      "sodium": 580,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Shellfish",
+        "Soy",
+        "Gluten",
+        "Sesame",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3 fatty acids",
+        "Provides iodine from seaweed"
+      ],
+      "healthWarnings": [
+        "Moderate to high sodium",
+        "Contains raw fish"
+      ]
+    },
+    "salmon kaisen donburi": {
+      "calories": 520,
+      "protein": 42,
+      "carbs": 48,
+      "fat": 14,
+      "sodium": 720,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Shellfish",
+        "Soy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in omega-3 fatty acids",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Contains raw fish"
+      ]
+    },
+    "spam fries": {
+      "calories": 445,
+      "protein": 12,
+      "carbs": 36,
+      "fat": 28,
+      "sodium": 1080,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Source of protein",
+        "Provides carbohydrates"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in calories",
+        "High in saturated fat",
+        "High in processed meat"
+      ]
+    },
+    "onion & mushroom miso soup": {
+      "calories": 85,
+      "protein": 6,
+      "carbs": 10,
+      "fat": 2,
+      "sodium": 820,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains probiotics from miso",
+        "Good source of protein",
+        "Contains iodine from seaweed"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Contains raw seafood components"
+      ]
+    },
+    "chirashi donburi": {
+      "calories": 580,
+      "protein": 48,
+      "carbs": 52,
+      "fat": 14,
+      "sodium": 760,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Shellfish",
+        "Soy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Very high in protein",
+        "Rich in omega-3 fatty acids",
+        "Excellent source of B vitamins",
+        "Variety of minerals"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate calories",
+        "Contains raw fish"
+      ]
+    },
+    "mentaiko beer cheese fries": {
+      "calories": 420,
+      "protein": 8,
+      "carbs": 40,
+      "fat": 24,
+      "sodium": 680,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Fish",
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Source of carbohydrates",
+        "Contains fish roe with iodine"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in fat",
+        "High in sodium",
+        "Fried preparation"
+      ]
+    },
+    "pork gyoza": {
+      "calories": 240,
+      "protein": 10,
+      "carbs": 22,
+      "fat": 12,
+      "sodium": 580,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Pork",
+        "Gluten",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "Moderate sodium",
+        "Fried preparation"
+      ]
+    },
+    "superstar roll": {
+      "calories": 375,
+      "protein": 16,
+      "carbs": 34,
+      "fat": 18,
+      "sodium": 620,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Sesame",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3 fatty acids"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "Moderate sodium",
+        "Cheese adds saturated fat"
+      ]
+    },
+    "mentaiko lobster salad fries": {
+      "calories": 460,
+      "protein": 10,
+      "carbs": 42,
+      "fat": 26,
+      "sodium": 720,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Dairy",
+        "Fish",
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains seafood",
+        "Source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in fat",
+        "High in sodium"
+      ]
+    },
+    "salmon katsu curry donburi": {
+      "calories": 640,
+      "protein": 36,
+      "carbs": 58,
+      "fat": 22,
+      "sodium": 720,
+      "sugar": 7,
+      "fiber": 3,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Egg",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains omega-3 fatty acids",
+        "Good source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "Fried preparation",
+        "High in fat"
+      ]
+    },
+    "truffle winter roll": {
+      "calories": 355,
+      "protein": 16,
+      "carbs": 36,
+      "fat": 14,
+      "sodium": 520,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Shellfish",
+        "Soy",
+        "Gluten",
+        "Sesame",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3 from fish",
+        "Provides iodine"
+      ],
+      "healthWarnings": [
+        "Moderate sodium",
+        "Contains raw fish"
+      ]
+    },
+    "oko gyoza": {
+      "calories": 275,
+      "protein": 11,
+      "carbs": 24,
+      "fat": 14,
+      "sodium": 680,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Pork",
+        "Gluten",
+        "Soy",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Fried preparation",
+        "High in fat"
+      ]
+    },
+    "garlic butter chicken donburi": {
+      "calories": 580,
+      "protein": 38,
+      "carbs": 50,
+      "fat": 20,
+      "sodium": 680,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of carbohydrates",
+        "Contains B vitamins"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in fat",
+        "High in sodium"
+      ]
+    },
+    "chili cheese gyoza": {
+      "calories": 380,
+      "protein": 14,
+      "carbs": 28,
+      "fat": 24,
+      "sodium": 820,
+      "sugar": 4,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "bbq chicken and bacon fries": {
+      "calories": 720,
+      "protein": 28,
+      "carbs": 68,
+      "fat": 38,
+      "sodium": 1420,
+      "sugar": 12,
+      "fiber": 4,
+      "allergens": [
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "revival roll": {
+      "calories": 280,
+      "protein": 8,
+      "carbs": 38,
+      "fat": 12,
+      "sodium": 540,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains fresh vegetables"
+      ],
+      "healthWarnings": [
+        "Moderate sodium content"
+      ]
+    },
+    "yasai tempura don (vegetarian)": {
+      "calories": 520,
+      "protein": 12,
+      "carbs": 62,
+      "fat": 24,
+      "sodium": 680,
+      "sugar": 18,
+      "fiber": 5,
+      "allergens": [
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of vegetables",
+        "Contains fiber"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in saturated fat"
+      ]
+    },
+    "pizza fries": {
+      "calories": 580,
+      "protein": 16,
+      "carbs": 54,
+      "fat": 32,
+      "sodium": 1080,
+      "sugar": 8,
+      "fiber": 3,
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "uncle hiro's chicken": {
+      "calories": 420,
+      "protein": 32,
+      "carbs": 16,
+      "fat": 26,
+      "sodium": 540,
+      "sugar": 5,
+      "fiber": 0,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in saturated fat"
+      ]
+    },
+    "vegetable kakiage curry don (vegetarian)": {
+      "calories": 580,
+      "protein": 10,
+      "carbs": 68,
+      "fat": 28,
+      "sodium": 920,
+      "sugar": 16,
+      "fiber": 6,
+      "allergens": [
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "snow crab bao": {
+      "calories": 380,
+      "protein": 16,
+      "carbs": 36,
+      "fat": 18,
+      "sodium": 680,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "Moderate sodium content"
+      ]
+    },
+    "mentaiko salmon bao": {
+      "calories": 360,
+      "protein": 18,
+      "carbs": 34,
+      "fat": 16,
+      "sodium": 720,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "Moderate sodium content"
+      ]
+    }
+  }
+}

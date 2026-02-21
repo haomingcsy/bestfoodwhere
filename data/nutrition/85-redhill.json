@@ -1,0 +1,140 @@
+{
+  "brand": "85-redhill",
+  "generatedAt": "2026-02-16T13:04:41.654Z",
+  "items": {
+    "fried kway teow": {
+      "calories": 450,
+      "protein": 12,
+      "carbs": 52,
+      "fat": 20,
+      "sodium": 1200,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Shellfish"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "yuan yang carrot cake": {
+      "calories": 520,
+      "protein": 14,
+      "carbs": 58,
+      "fat": 24,
+      "sodium": 1350,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "carrot cake black": {
+      "calories": 380,
+      "protein": 11,
+      "carbs": 45,
+      "fat": 17,
+      "sodium": 1100,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "carrot cake (white)": {
+      "calories": 400,
+      "protein": 12,
+      "carbs": 48,
+      "fat": 18,
+      "sodium": 1050,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "fried oyster (must try)": {
+      "calories": 520,
+      "protein": 18,
+      "carbs": 42,
+      "fat": 28,
+      "sodium": 1400,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Shellfish",
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of zinc",
+        "Contains omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in cholesterol"
+      ]
+    },
+    "fried oyster egg": {
+      "calories": 580,
+      "protein": 22,
+      "carbs": 45,
+      "fat": 32,
+      "sodium": 1450,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Shellfish",
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of zinc",
+        "Contains choline"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in cholesterol",
+        "High in calories"
+      ]
+    }
+  }
+}

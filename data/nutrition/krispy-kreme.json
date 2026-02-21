@@ -1,0 +1,808 @@
+{
+  "brand": "krispy-kreme",
+  "generatedAt": "2026-02-21T10:48:24.820Z",
+  "items": {
+    "da ji": {
+      "calories": 190,
+      "protein": 2,
+      "carbs": 24,
+      "fat": 9,
+      "sodium": 210,
+      "sugar": 12,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "coca-cola": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 39,
+      "fat": 0,
+      "sodium": 55,
+      "sugar": 39,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in sodium"
+      ]
+    },
+    "assorted varieties (box of 6)": {
+      "calories": 1140,
+      "protein": 12,
+      "carbs": 144,
+      "fat": 54,
+      "sodium": 1260,
+      "sugar": 72,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "choco fever": {
+      "calories": 200,
+      "protein": 2,
+      "carbs": 26,
+      "fat": 9,
+      "sodium": 200,
+      "sugar": 13,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "original glazed": {
+      "calories": 190,
+      "protein": 2,
+      "carbs": 21,
+      "fat": 11,
+      "sodium": 250,
+      "sugar": 10,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "coca-cola zero": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 75,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Zero calories",
+        "Zero sugar"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "original glazed (box of 6)": {
+      "calories": 1140,
+      "protein": 12,
+      "carbs": 126,
+      "fat": 66,
+      "sodium": 1500,
+      "sugar": 60,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "ong lai": {
+      "calories": 190,
+      "protein": 2,
+      "carbs": 25,
+      "fat": 9,
+      "sodium": 210,
+      "sugar": 13,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "boston cream pie": {
+      "calories": 210,
+      "protein": 3,
+      "carbs": 28,
+      "fat": 10,
+      "sodium": 220,
+      "sugar": 14,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "pink blossoms": {
+      "calories": 190,
+      "protein": 2,
+      "carbs": 25,
+      "fat": 9,
+      "sodium": 210,
+      "sugar": 13,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "heaven & earth lemon tea": {
+      "calories": 80,
+      "protein": 0,
+      "carbs": 20,
+      "fat": 0,
+      "sodium": 30,
+      "sugar": 18,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "original glazed (dozen)": {
+      "calories": 2280,
+      "protein": 24,
+      "carbs": 252,
+      "fat": 132,
+      "sodium": 3000,
+      "sugar": 120,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "chocolate iced glazed": {
+      "calories": 220,
+      "protein": 2,
+      "carbs": 28,
+      "fat": 11,
+      "sodium": 230,
+      "sugar": 15,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "original glazed (double dozen)": {
+      "calories": 4560,
+      "protein": 48,
+      "carbs": 504,
+      "fat": 264,
+      "sodium": 6000,
+      "sugar": 240,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "chocolate iced glazed with sprinkles": {
+      "calories": 230,
+      "protein": 2,
+      "carbs": 30,
+      "fat": 11,
+      "sodium": 240,
+      "sugar": 16,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "jun ma": {
+      "calories": 200,
+      "protein": 4,
+      "carbs": 23,
+      "fat": 10,
+      "sodium": 220,
+      "sugar": 12,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "minute maid pulpy": {
+      "calories": 110,
+      "protein": 1,
+      "carbs": 27,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 25,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "krispy kreme premium drinking water": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Hydrating",
+        "Zero calories"
+      ],
+      "healthWarnings": []
+    },
+    "matcha green tea": {
+      "calories": 200,
+      "protein": 2,
+      "carbs": 26,
+      "fat": 9,
+      "sodium": 210,
+      "sugar": 11,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "mini doughnuts (original glazed®)": {
+      "calories": 1100,
+      "protein": 10,
+      "carbs": 140,
+      "fat": 50,
+      "sodium": 1200,
+      "sugar": 65,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "heaven & earth jasmine green tea": {
+      "calories": 45,
+      "protein": 0,
+      "carbs": 11,
+      "fat": 0,
+      "sodium": 25,
+      "sugar": 10,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains antioxidants",
+        "Caffeine source"
+      ],
+      "healthWarnings": []
+    },
+    "hazelnut original glazed®": {
+      "calories": 350,
+      "protein": 4,
+      "carbs": 38,
+      "fat": 20,
+      "sodium": 180,
+      "sugar": 25,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Tree Nut"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in calories",
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "assorted varieties (dozen)": {
+      "calories": 4200,
+      "protein": 48,
+      "carbs": 456,
+      "fat": 240,
+      "sodium": 2160,
+      "sugar": 300,
+      "fiber": 12,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Peanut",
+        "Tree Nut",
+        "Sesame"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in calories",
+        "High in sugar",
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "chocolate kit kat": {
+      "calories": 340,
+      "protein": 3,
+      "carbs": 42,
+      "fat": 18,
+      "sodium": 160,
+      "sugar": 28,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Tree Nut"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in calories",
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "mini doughnuts (assorted varieties)": {
+      "calories": 1800,
+      "protein": 20,
+      "carbs": 210,
+      "fat": 95,
+      "sodium": 900,
+      "sugar": 130,
+      "fiber": 5,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Peanut",
+        "Tree Nut",
+        "Sesame"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in calories",
+        "High in sugar",
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "qoo white grape": {
+      "calories": 55,
+      "protein": 0,
+      "carbs": 14,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 13,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "british breakfast tea": {
+      "calories": 35,
+      "protein": 0,
+      "carbs": 8,
+      "fat": 0,
+      "sodium": 30,
+      "sugar": 7,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains antioxidants",
+        "Caffeine source"
+      ],
+      "healthWarnings": []
+    },
+    "chocolate oreo": {
+      "calories": 330,
+      "protein": 3,
+      "carbs": 40,
+      "fat": 17,
+      "sodium": 170,
+      "sugar": 26,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Sesame"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in calories",
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "strawberry snow": {
+      "calories": 280,
+      "protein": 3,
+      "carbs": 36,
+      "fat": 13,
+      "sodium": 150,
+      "sugar": 22,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in calories",
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "cinnamon ring": {
+      "calories": 310,
+      "protein": 3,
+      "carbs": 38,
+      "fat": 15,
+      "sodium": 220,
+      "sugar": 24,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in calories",
+        "High in sugar",
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "nutty buddy": {
+      "calories": 360,
+      "protein": 7,
+      "carbs": 36,
+      "fat": 21,
+      "sodium": 200,
+      "sugar": 23,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Peanut"
+      ],
+      "healthBenefits": [
+        "Source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "chocolate dream cake": {
+      "calories": 380,
+      "protein": 4,
+      "carbs": 42,
+      "fat": 22,
+      "sodium": 180,
+      "sugar": 30,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in calories",
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "cookie crunch": {
+      "calories": 320,
+      "protein": 3,
+      "carbs": 39,
+      "fat": 16,
+      "sodium": 180,
+      "sugar": 25,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Sesame"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in calories",
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "cookies & cream": {
+      "calories": 335,
+      "protein": 3,
+      "carbs": 40,
+      "fat": 17,
+      "sodium": 170,
+      "sugar": 26,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in calories",
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "ms messy": {
+      "calories": 345,
+      "protein": 3,
+      "carbs": 41,
+      "fat": 18,
+      "sodium": 160,
+      "sugar": 27,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Sesame"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in calories",
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "p for peanuts": {
+      "calories": 330,
+      "protein": 5,
+      "carbs": 37,
+      "fat": 17,
+      "sodium": 180,
+      "sugar": 24,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Peanut"
+      ],
+      "healthBenefits": [
+        "Source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "rocky road": {
+      "calories": 355,
+      "protein": 3,
+      "carbs": 43,
+      "fat": 18,
+      "sodium": 150,
+      "sugar": 28,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in calories",
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "coffee lover": {
+      "calories": 315,
+      "protein": 3,
+      "carbs": 38,
+      "fat": 16,
+      "sodium": 140,
+      "sugar": 24,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Caffeine source"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "candy paradise": {
+      "calories": 190,
+      "protein": 2,
+      "carbs": 24,
+      "fat": 9,
+      "sodium": 150,
+      "sugar": 16,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "sweet gems": {
+      "calories": 185,
+      "protein": 2,
+      "carbs": 23,
+      "fat": 9,
+      "sodium": 140,
+      "sugar": 15,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "speculoos cookie butter": {
+      "calories": 210,
+      "protein": 2,
+      "carbs": 26,
+      "fat": 11,
+      "sodium": 180,
+      "sugar": 17,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Tree Nut"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    }
+  }
+}

@@ -1,0 +1,793 @@
+{
+  "brand": "yaki-yaki-bo",
+  "generatedAt": "2026-02-21T12:22:42.497Z",
+  "items": {
+    "mineral water": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Hydrating",
+        "Zero calories"
+      ],
+      "healthWarnings": []
+    },
+    "teppan beef sirloin steak": {
+      "calories": 520,
+      "protein": 58,
+      "carbs": 8,
+      "fat": 28,
+      "sodium": 680,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "B vitamins"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "hotate (scallop) yakisoba": {
+      "calories": 420,
+      "protein": 24,
+      "carbs": 48,
+      "fat": 14,
+      "sodium": 850,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains selenium",
+        "Moderate calories"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Contains shellfish"
+      ]
+    },
+    "mentai okonomiyaki": {
+      "calories": 480,
+      "protein": 16,
+      "carbs": 52,
+      "fat": 22,
+      "sodium": 920,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Egg",
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of protein",
+        "Contains vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat",
+        "High in calories"
+      ]
+    },
+    "nori cheese mentai omelette": {
+      "calories": 280,
+      "protein": 18,
+      "carbs": 6,
+      "fat": 20,
+      "sodium": 580,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Egg",
+        "Fish",
+        "Dairy",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in choline"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "wagyu hamburg beef": {
+      "calories": 420,
+      "protein": 32,
+      "carbs": 8,
+      "fat": 30,
+      "sodium": 620,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "Contains conjugated linoleic acid"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "gindara (black cod) tsutsumi yaki": {
+      "calories": 380,
+      "protein": 42,
+      "carbs": 6,
+      "fat": 20,
+      "sodium": 720,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Fish",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "High in protein",
+        "Rich in vitamin D"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "hotate (scallop) yakimeshi": {
+      "calories": 360,
+      "protein": 16,
+      "carbs": 42,
+      "fat": 12,
+      "sodium": 780,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains selenium"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Contains shellfish"
+      ]
+    },
+    "sliced beef": {
+      "calories": 380,
+      "protein": 48,
+      "carbs": 2,
+      "fat": 20,
+      "sodium": 540,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Very high in protein",
+        "Rich in iron",
+        "B vitamins"
+      ],
+      "healthWarnings": [
+        "High in saturated fat"
+      ]
+    },
+    "mentai salmon": {
+      "calories": 420,
+      "protein": 38,
+      "carbs": 4,
+      "fat": 28,
+      "sodium": 650,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "High in protein",
+        "Rich in vitamin D"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in sodium"
+      ]
+    },
+    "kaisen okonomiyaki": {
+      "calories": 500,
+      "protein": 22,
+      "carbs": 50,
+      "fat": 24,
+      "sodium": 980,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Fish",
+        "Egg",
+        "Soy",
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of protein",
+        "Contains iodine"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat",
+        "High in calories"
+      ]
+    },
+    "moyashi": {
+      "calories": 85,
+      "protein": 4,
+      "carbs": 8,
+      "fat": 4,
+      "sodium": 420,
+      "sugar": 1,
+      "fiber": 2,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Low calorie",
+        "Good source of fiber",
+        "Contains vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sodium for portion size"
+      ]
+    },
+    "h&e ice lemon tea": {
+      "calories": 120,
+      "protein": 0,
+      "carbs": 30,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 28,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Hydrating"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "mentaiko takana fried rice": {
+      "calories": 280,
+      "protein": 8,
+      "carbs": 38,
+      "fat": 10,
+      "sodium": 720,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains vitamins from greens"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "kaisen (seafood) shio butter yakisoba": {
+      "calories": 440,
+      "protein": 26,
+      "carbs": 46,
+      "fat": 16,
+      "sodium": 920,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Shellfish",
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains selenium"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "teppan beef ribeye steak": {
+      "calories": 560,
+      "protein": 62,
+      "carbs": 8,
+      "fat": 31,
+      "sodium": 720,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "B vitamins"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "coke": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 39,
+      "fat": 0,
+      "sodium": 45,
+      "sugar": 39,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Very high in sugar",
+        "Contains caffeine"
+      ]
+    },
+    "teppan iberico chestnut pork collar": {
+      "calories": 510,
+      "protein": 56,
+      "carbs": 6,
+      "fat": 28,
+      "sodium": 680,
+      "sugar": 1,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in B vitamins",
+        "Source of iron"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "salmon okonomiyaki": {
+      "calories": 470,
+      "protein": 24,
+      "carbs": 48,
+      "fat": 22,
+      "sodium": 880,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Egg",
+        "Soy",
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "sliced pork": {
+      "calories": 340,
+      "protein": 42,
+      "carbs": 2,
+      "fat": 18,
+      "sodium": 500,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in B vitamins",
+        "Source of selenium"
+      ],
+      "healthWarnings": [
+        "High in saturated fat"
+      ]
+    },
+    "teppan ika ichiya (spicy or non spicy)": {
+      "calories": 280,
+      "protein": 32,
+      "carbs": 8,
+      "fat": 14,
+      "sodium": 890,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of selenium",
+        "Low in carbs"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Contains shellfish"
+      ]
+    },
+    "seafood yakisoba": {
+      "calories": 520,
+      "protein": 28,
+      "carbs": 62,
+      "fat": 18,
+      "sodium": 1250,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3 fatty acids"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "High in carbs"
+      ]
+    },
+    "teppan mixed mushrooms": {
+      "calories": 180,
+      "protein": 6,
+      "carbs": 12,
+      "fat": 13,
+      "sodium": 650,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Low in protein",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate fat content"
+      ]
+    },
+    "ebi yakimeshi": {
+      "calories": 380,
+      "protein": 18,
+      "carbs": 48,
+      "fat": 12,
+      "sodium": 920,
+      "sugar": 4,
+      "fiber": 1,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains iodine from shrimp"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in carbs",
+        "Contains shellfish"
+      ]
+    },
+    "bacon potato": {
+      "calories": 320,
+      "protein": 10,
+      "carbs": 38,
+      "fat": 15,
+      "sodium": 780,
+      "sugar": 3,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of potassium",
+        "Contains fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Moderate calorie density"
+      ]
+    },
+    "teppan ebi": {
+      "calories": 240,
+      "protein": 28,
+      "carbs": 6,
+      "fat": 12,
+      "sodium": 820,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iodine",
+        "Low in carbs"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Contains shellfish"
+      ]
+    },
+    "chicken steak": {
+      "calories": 380,
+      "protein": 42,
+      "carbs": 8,
+      "fat": 19,
+      "sodium": 890,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of B vitamins",
+        "Low in carbs"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate to high in fat"
+      ]
+    },
+    "salmon yakisoba": {
+      "calories": 540,
+      "protein": 32,
+      "carbs": 62,
+      "fat": 18,
+      "sodium": 1280,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "High in omega-3 fatty acids",
+        "Good source of vitamin D"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "Contains fish allergen"
+      ]
+    },
+    "butatama okonomiyaki": {
+      "calories": 480,
+      "protein": 22,
+      "carbs": 48,
+      "fat": 22,
+      "sodium": 1100,
+      "sugar": 8,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains choline from eggs"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "High in saturated fat"
+      ]
+    },
+    "salmon yakimeshi": {
+      "calories": 400,
+      "protein": 20,
+      "carbs": 48,
+      "fat": 14,
+      "sodium": 960,
+      "sugar": 4,
+      "fiber": 1,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3 fatty acids",
+        "Contains vitamin D"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in carbs",
+        "Contains fish allergen"
+      ]
+    },
+    "coke zero": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 75,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Zero calories",
+        "Zero sugar"
+      ],
+      "healthWarnings": [
+        "Contains artificial sweeteners",
+        "High in sodium"
+      ]
+    },
+    "teppan kaki": {
+      "calories": 200,
+      "protein": 24,
+      "carbs": 10,
+      "fat": 8,
+      "sodium": 750,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of zinc",
+        "Contains iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Contains shellfish allergen"
+      ]
+    },
+    "sprite": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 35,
+      "fat": 0,
+      "sodium": 65,
+      "sugar": 35,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories",
+        "No nutritional value"
+      ]
+    },
+    "butatama yakisoba": {
+      "calories": 530,
+      "protein": 28,
+      "carbs": 62,
+      "fat": 19,
+      "sodium": 1270,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "High in carbs"
+      ]
+    },
+    "tamago yakimeshi": {
+      "calories": 340,
+      "protein": 14,
+      "carbs": 42,
+      "fat": 13,
+      "sodium": 840,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of choline",
+        "Contains lutein for eye health"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in saturated fat"
+      ]
+    },
+    "teppanyaki garlic rice": {
+      "calories": 280,
+      "protein": 5,
+      "carbs": 42,
+      "fat": 10,
+      "sodium": 720,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of carbs for energy",
+        "Contains garlic"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in carbs",
+        "Low in protein"
+      ]
+    }
+  }
+}

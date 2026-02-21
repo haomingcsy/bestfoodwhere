@@ -6,7 +6,7 @@
  * listings (shopping malls, dining pages, cuisine pages, search results, etc.)
  */
 
-import { fetchAllBrands } from "./google-sheets";
+import { fetchAllBrandsSupabase } from "./supabase-menu";
 
 // Cache for menu page slugs
 let menuPageSlugsCache: Set<string> | null = null;
@@ -24,7 +24,7 @@ export async function getMenuPageSlugs(): Promise<Set<string>> {
   }
 
   try {
-    const brands = await fetchAllBrands();
+    const brands = await fetchAllBrandsSupabase();
     menuPageSlugsCache = new Set(brands.map((brand) => brand.slug));
     menuPageSlugsCacheTime = now;
     return menuPageSlugsCache;

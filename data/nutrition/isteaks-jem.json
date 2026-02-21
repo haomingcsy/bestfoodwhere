@@ -1,0 +1,2014 @@
+{
+  "brand": "isteaks-jem",
+  "generatedAt": "2026-02-16T15:32:41.287Z",
+  "items": {
+    "barbeque chicken": {
+      "calories": 520,
+      "protein": 48,
+      "carbs": 18,
+      "fat": 26,
+      "sodium": 720,
+      "sugar": 12,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate saturated fat"
+      ]
+    },
+    "beef & barley": {
+      "calories": 280,
+      "protein": 22,
+      "carbs": 28,
+      "fat": 8,
+      "sodium": 850,
+      "sugar": 2,
+      "fiber": 5,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Lean protein"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "(ta) iced kopi fresh brew": {
+      "calories": 180,
+      "protein": 4,
+      "carbs": 18,
+      "fat": 8,
+      "sodium": 120,
+      "sugar": 14,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Moderate in caffeine"
+      ]
+    },
+    "(ta) double bacon & cheese burger": {
+      "calories": 820,
+      "protein": 48,
+      "carbs": 52,
+      "fat": 48,
+      "sodium": 1420,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "Very high in calories",
+        "Very high in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "nw salmon fillet": {
+      "calories": 580,
+      "protein": 52,
+      "carbs": 8,
+      "fat": 36,
+      "sodium": 680,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "Excellent protein source",
+        "Rich in vitamin D"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "Moderate sodium"
+      ]
+    },
+    "apple & nut salad(ta)": {
+      "calories": 240,
+      "protein": 6,
+      "carbs": 24,
+      "fat": 14,
+      "sodium": 180,
+      "sugar": 16,
+      "fiber": 4,
+      "allergens": [
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "Moderate in sugar"
+      ]
+    },
+    "au lamb-shoulder": {
+      "calories": 620,
+      "protein": 56,
+      "carbs": 0,
+      "fat": 44,
+      "sodium": 740,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron and B12"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "(ta) minute maid (orange)": {
+      "calories": 110,
+      "protein": 1,
+      "carbs": 26,
+      "fat": 0,
+      "sodium": 25,
+      "sugar": 24,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains vitamin C"
+      ],
+      "healthWarnings": [
+        "Very high in sugar"
+      ]
+    },
+    "seafood aglio(ta)": {
+      "calories": 520,
+      "protein": 32,
+      "carbs": 48,
+      "fat": 22,
+      "sodium": 980,
+      "sugar": 3,
+      "fiber": 3,
+      "allergens": [
+        "Shellfish",
+        "Gluten",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains selenium"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in calories"
+      ]
+    },
+    "200gm nz ribeye": {
+      "calories": 680,
+      "protein": 62,
+      "carbs": 0,
+      "fat": 48,
+      "sodium": 820,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron and B vitamins"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in calories",
+        "High in sodium"
+      ]
+    },
+    "bacon steak(ta)": {
+      "calories": 420,
+      "protein": 38,
+      "carbs": 8,
+      "fat": 26,
+      "sodium": 920,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "seafood neapolitan(ta)": {
+      "calories": 540,
+      "protein": 34,
+      "carbs": 50,
+      "fat": 20,
+      "sodium": 1020,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Shellfish",
+        "Gluten",
+        "Fish",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in calories"
+      ]
+    },
+    "pepper chicken": {
+      "calories": 540,
+      "protein": 50,
+      "carbs": 12,
+      "fat": 30,
+      "sodium": 780,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "(ta) soft drinks (canned)": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 36,
+      "fat": 0,
+      "sodium": 40,
+      "sugar": 36,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Very high in sugar",
+        "Empty calories"
+      ]
+    },
+    "spinach & sesame salad(ta)": {
+      "calories": 180,
+      "protein": 8,
+      "carbs": 12,
+      "fat": 12,
+      "sodium": 240,
+      "sugar": 2,
+      "fiber": 3,
+      "allergens": [
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in iron",
+        "Good source of fiber",
+        "Rich in antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "(ta) beef burger": {
+      "calories": 680,
+      "protein": 42,
+      "carbs": 48,
+      "fat": 36,
+      "sodium": 1120,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "Very high in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "(ta) cream of mushroom": {
+      "calories": 240,
+      "protein": 8,
+      "carbs": 20,
+      "fat": 14,
+      "sodium": 720,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "gourmet sausage(ta)": {
+      "calories": 520,
+      "protein": 32,
+      "carbs": 28,
+      "fat": 32,
+      "sodium": 1280,
+      "sugar": 4,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "(ta) hot kopi fresh brew": {
+      "calories": 160,
+      "protein": 4,
+      "carbs": 12,
+      "fat": 8,
+      "sodium": 100,
+      "sugar": 8,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "Moderate in caffeine"
+      ]
+    },
+    "300gm nz ribeye": {
+      "calories": 1020,
+      "protein": 93,
+      "carbs": 0,
+      "fat": 72,
+      "sodium": 1230,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron and B vitamins"
+      ],
+      "healthWarnings": [
+        "Very high in calories",
+        "Very high in saturated fat",
+        "Very high in sodium"
+      ]
+    },
+    "au lamb-t-bone": {
+      "calories": 720,
+      "protein": 68,
+      "carbs": 0,
+      "fat": 52,
+      "sodium": 180,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "Source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "lemon & dill fish": {
+      "calories": 320,
+      "protein": 38,
+      "carbs": 8,
+      "fat": 14,
+      "sodium": 520,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "High in omega-3",
+        "Low in calories"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "curry chicken": {
+      "calories": 380,
+      "protein": 42,
+      "carbs": 12,
+      "fat": 18,
+      "sodium": 650,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains turmeric"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate saturated fat"
+      ]
+    },
+    "pepper fish fillet": {
+      "calories": 340,
+      "protein": 40,
+      "carbs": 6,
+      "fat": 16,
+      "sodium": 480,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "High in omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "(ta) natural beef burger": {
+      "calories": 550,
+      "protein": 38,
+      "carbs": 42,
+      "fat": 24,
+      "sodium": 820,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "(ta) iced teh fresh brew": {
+      "calories": 120,
+      "protein": 0,
+      "carbs": 28,
+      "fat": 0,
+      "sodium": 45,
+      "sugar": 24,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "eu baby back ribs": {
+      "calories": 580,
+      "protein": 52,
+      "carbs": 4,
+      "fat": 38,
+      "sodium": 720,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "cocktail sausage(ta)": {
+      "calories": 280,
+      "protein": 16,
+      "carbs": 2,
+      "fat": 22,
+      "sodium": 540,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "baked olive rice(ta)": {
+      "calories": 280,
+      "protein": 6,
+      "carbs": 38,
+      "fat": 10,
+      "sodium": 420,
+      "sugar": 1,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of carbs",
+        "Contains healthy fats"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "(ta) mineral water(bottled)": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Hydrating",
+        "Zero calories"
+      ],
+      "healthWarnings": []
+    },
+    "400gm nz ribeye": {
+      "calories": 1040,
+      "protein": 84,
+      "carbs": 0,
+      "fat": 78,
+      "sodium": 240,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "Source of B12"
+      ],
+      "healthWarnings": [
+        "Very high in calories",
+        "Very high in saturated fat"
+      ]
+    },
+    "bacon aglio(ta)": {
+      "calories": 480,
+      "protein": 18,
+      "carbs": 52,
+      "fat": 22,
+      "sodium": 680,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Source of protein",
+        "Contains garlic"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "prawn bisque": {
+      "calories": 240,
+      "protein": 14,
+      "carbs": 12,
+      "fat": 14,
+      "sodium": 580,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Shellfish",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains selenium"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "(ta) hot teh fresh brew": {
+      "calories": 80,
+      "protein": 0,
+      "carbs": 18,
+      "fat": 0,
+      "sodium": 35,
+      "sugar": 16,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "(ta) pork burger": {
+      "calories": 480,
+      "protein": 32,
+      "carbs": 40,
+      "fat": 20,
+      "sodium": 760,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "cream of asaparagus": {
+      "calories": 180,
+      "protein": 6,
+      "carbs": 14,
+      "fat": 10,
+      "sodium": 520,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Low in calories",
+        "Good source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "curly fries (ta)": {
+      "calories": 320,
+      "protein": 4,
+      "carbs": 42,
+      "fat": 14,
+      "sodium": 380,
+      "sugar": 0,
+      "fiber": 3,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of carbs"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in sodium"
+      ]
+    },
+    "honey ginger chicken": {
+      "calories": 360,
+      "protein": 40,
+      "carbs": 18,
+      "fat": 14,
+      "sodium": 520,
+      "sugar": 12,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein",
+        "Contains ginger"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "200gm nz striploin": {
+      "calories": 520,
+      "protein": 52,
+      "carbs": 0,
+      "fat": 32,
+      "sodium": 120,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "Source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in saturated fat"
+      ]
+    },
+    "bacon neapolitan(ta)": {
+      "calories": 520,
+      "protein": 20,
+      "carbs": 54,
+      "fat": 24,
+      "sodium": 720,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "calamari rings(ta)": {
+      "calories": 320,
+      "protein": 18,
+      "carbs": 28,
+      "fat": 14,
+      "sodium": 580,
+      "sugar": 0,
+      "fiber": 1,
+      "allergens": [
+        "Shellfish",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains selenium"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "(ta) eu pork collar": {
+      "calories": 480,
+      "protein": 52,
+      "carbs": 0,
+      "fat": 28,
+      "sodium": 620,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in B vitamins",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "fried fish fillet": {
+      "calories": 420,
+      "protein": 35,
+      "carbs": 22,
+      "fat": 18,
+      "sodium": 720,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains omega-3 fatty acids"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "lemon pepper chicken": {
+      "calories": 380,
+      "protein": 48,
+      "carbs": 8,
+      "fat": 16,
+      "sodium": 680,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Low in carbs",
+        "Good source of niacin"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "classic chicken noodles": {
+      "calories": 320,
+      "protein": 22,
+      "carbs": 35,
+      "fat": 8,
+      "sodium": 1040,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains carbohydrates for energy"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "300gm nz striploin": {
+      "calories": 650,
+      "protein": 72,
+      "carbs": 0,
+      "fat": 38,
+      "sodium": 520,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "Good source of B12",
+        "Contains creatine"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "fried mushroom(ta)": {
+      "calories": 240,
+      "protein": 6,
+      "carbs": 18,
+      "fat": 15,
+      "sodium": 420,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "(ta) crunchy fish burger": {
+      "calories": 480,
+      "protein": 28,
+      "carbs": 42,
+      "fat": 20,
+      "sodium": 880,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "baked potato(ta)": {
+      "calories": 180,
+      "protein": 4,
+      "carbs": 38,
+      "fat": 6,
+      "sodium": 280,
+      "sugar": 2,
+      "fiber": 3,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of potassium",
+        "Good source of fiber",
+        "Contains vitamin C"
+      ],
+      "healthWarnings": []
+    },
+    "salmon aglio(ta)": {
+      "calories": 420,
+      "protein": 38,
+      "carbs": 38,
+      "fat": 14,
+      "sodium": 680,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "High in omega-3 fatty acids",
+        "Good source of selenium"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "french onion": {
+      "calories": 260,
+      "protein": 12,
+      "carbs": 24,
+      "fat": 12,
+      "sodium": 1120,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains quercetin",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "Very high in sodium"
+      ]
+    },
+    "mushroom chicken": {
+      "calories": 390,
+      "protein": 46,
+      "carbs": 6,
+      "fat": 18,
+      "sodium": 720,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of B vitamins",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "(ta) chicken burger": {
+      "calories": 460,
+      "protein": 32,
+      "carbs": 40,
+      "fat": 18,
+      "sodium": 820,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "sauteed mushroom(ta)": {
+      "calories": 220,
+      "protein": 7,
+      "carbs": 12,
+      "fat": 16,
+      "sodium": 380,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains antioxidants",
+        "Low in calories"
+      ],
+      "healthWarnings": [
+        "High in saturated fat"
+      ]
+    },
+    "(ta) uruguay pul striploin 200gm": {
+      "calories": 520,
+      "protein": 58,
+      "carbs": 0,
+      "fat": 30,
+      "sodium": 420,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "Good source of B12",
+        "Contains creatine"
+      ],
+      "healthWarnings": [
+        "High in saturated fat"
+      ]
+    },
+    "400gm nz striploin": {
+      "calories": 860,
+      "protein": 96,
+      "carbs": 0,
+      "fat": 50,
+      "sodium": 680,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Very high in protein",
+        "Rich in iron",
+        "Good source of B12"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "Very high in calories"
+      ]
+    },
+    "salmon neapolitan(ta)": {
+      "calories": 440,
+      "protein": 40,
+      "carbs": 36,
+      "fat": 16,
+      "sodium": 720,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "High in omega-3 fatty acids",
+        "Good source of selenium"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "buttered corn kernel(ta)": {
+      "calories": 160,
+      "protein": 3,
+      "carbs": 22,
+      "fat": 7,
+      "sodium": 320,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of lutein",
+        "Contains antioxidants",
+        "Good source of fiber"
+      ],
+      "healthWarnings": []
+    },
+    "cauliflower cheese(ta)": {
+      "calories": 200,
+      "protein": 8,
+      "carbs": 14,
+      "fat": 12,
+      "sodium": 480,
+      "sugar": 3,
+      "fiber": 3,
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of vitamin C",
+        "Good source of fiber",
+        "Contains sulforaphane"
+      ],
+      "healthWarnings": [
+        "High in saturated fat"
+      ]
+    },
+    "fried chicken": {
+      "calories": 420,
+      "protein": 44,
+      "carbs": 18,
+      "fat": 18,
+      "sodium": 680,
+      "sugar": 0,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of niacin",
+        "Contains selenium"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "sauteed onion(ta)": {
+      "calories": 120,
+      "protein": 2,
+      "carbs": 18,
+      "fat": 5,
+      "sodium": 340,
+      "sugar": 8,
+      "fiber": 3,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "Moderate sodium content"
+      ]
+    },
+    "mushroom aglio(ta)": {
+      "calories": 480,
+      "protein": 16,
+      "carbs": 62,
+      "fat": 18,
+      "sodium": 680,
+      "sugar": 3,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "chopped green salad(ta)": {
+      "calories": 140,
+      "protein": 4,
+      "carbs": 12,
+      "fat": 8,
+      "sodium": 280,
+      "sugar": 2,
+      "fiber": 3,
+      "allergens": [],
+      "healthBenefits": [
+        "High in fiber",
+        "Rich in vitamins and minerals",
+        "Low calorie"
+      ],
+      "healthWarnings": []
+    },
+    "(ta) uruguay pul striploin 300gm": {
+      "calories": 650,
+      "protein": 65,
+      "carbs": 0,
+      "fat": 42,
+      "sodium": 520,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "High in B12"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in cholesterol",
+        "High in sodium"
+      ]
+    },
+    "mushroom neapolitan(ta)": {
+      "calories": 520,
+      "protein": 18,
+      "carbs": 65,
+      "fat": 20,
+      "sodium": 720,
+      "sugar": 4,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains tomato lycopene"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "baked shrimp(ta)": {
+      "calories": 380,
+      "protein": 32,
+      "carbs": 28,
+      "fat": 16,
+      "sodium": 580,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Shellfish",
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Low in carbs",
+        "Good source of selenium"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "(ta) uruguay pul striploin 400gm": {
+      "calories": 860,
+      "protein": 87,
+      "carbs": 0,
+      "fat": 56,
+      "sodium": 690,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "High in B12"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in cholesterol",
+        "High in sodium"
+      ]
+    },
+    "beef aglio(ta)": {
+      "calories": 560,
+      "protein": 42,
+      "carbs": 62,
+      "fat": 18,
+      "sodium": 750,
+      "sugar": 3,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "fried shrimps(ta)": {
+      "calories": 420,
+      "protein": 28,
+      "carbs": 32,
+      "fat": 22,
+      "sodium": 620,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Shellfish",
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of selenium"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat from deep frying"
+      ]
+    },
+    "cinnamon pumpkin(ta)": {
+      "calories": 160,
+      "protein": 1,
+      "carbs": 24,
+      "fat": 7,
+      "sodium": 420,
+      "sugar": 12,
+      "fiber": 2,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Rich in beta-carotene",
+        "Good source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in sodium"
+      ]
+    },
+    "(ta) argentina gorina gf ribeye 200gm": {
+      "calories": 520,
+      "protein": 52,
+      "carbs": 0,
+      "fat": 34,
+      "sodium": 480,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "High in B12"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in cholesterol"
+      ]
+    },
+    "beef neapolitan(ta)": {
+      "calories": 600,
+      "protein": 45,
+      "carbs": 65,
+      "fat": 20,
+      "sodium": 780,
+      "sugar": 4,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "chicken pop corn(ta)": {
+      "calories": 360,
+      "protein": 24,
+      "carbs": 28,
+      "fat": 18,
+      "sodium": 540,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat from deep frying"
+      ]
+    },
+    "coleslaw salad(ta)": {
+      "calories": 180,
+      "protein": 2,
+      "carbs": 14,
+      "fat": 14,
+      "sodium": 360,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains probiotics"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "Moderate sodium content"
+      ]
+    },
+    "country baked beans(ta)": {
+      "calories": 220,
+      "protein": 8,
+      "carbs": 32,
+      "fat": 6,
+      "sodium": 580,
+      "sugar": 8,
+      "fiber": 6,
+      "allergens": [],
+      "healthBenefits": [
+        "High in fiber",
+        "Good source of protein",
+        "Rich in folate"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate sugar content"
+      ]
+    },
+    "garlic toast(ta)": {
+      "calories": 280,
+      "protein": 6,
+      "carbs": 32,
+      "fat": 14,
+      "sodium": 520,
+      "sugar": 1,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "(ta) argentina gorina gf ribeye 400gm": {
+      "calories": 1040,
+      "protein": 104,
+      "carbs": 0,
+      "fat": 68,
+      "sodium": 960,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "High in B12"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in cholesterol",
+        "High in sodium"
+      ]
+    },
+    "chicken aglio(ta)": {
+      "calories": 480,
+      "protein": 38,
+      "carbs": 62,
+      "fat": 14,
+      "sodium": 720,
+      "sugar": 3,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "cream spinach(ta)": {
+      "calories": 140,
+      "protein": 4,
+      "carbs": 8,
+      "fat": 10,
+      "sodium": 480,
+      "sugar": 1,
+      "fiber": 2,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Rich in iron",
+        "High in vitamins A and K"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "chicken neapolitan(ta)": {
+      "calories": 520,
+      "protein": 40,
+      "carbs": 65,
+      "fat": 16,
+      "sodium": 760,
+      "sugar": 4,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "escargot(ta)": {
+      "calories": 180,
+      "protein": 12,
+      "carbs": 8,
+      "fat": 12,
+      "sodium": 380,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Shellfish",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Low in carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in cholesterol",
+        "Moderate sodium"
+      ]
+    },
+    "(ta) argentina gorina gf striploin 200gm": {
+      "calories": 520,
+      "protein": 48,
+      "carbs": 0,
+      "fat": 38,
+      "sodium": 95,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "Good source of B vitamins",
+        "Grass-fed beef"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "(ta) argentina gorina gf striploin 300gm": {
+      "calories": 780,
+      "protein": 72,
+      "carbs": 0,
+      "fat": 57,
+      "sodium": 140,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "Good source of B vitamins",
+        "Grass-fed beef"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "crunchy potato salad(ta)": {
+      "calories": 220,
+      "protein": 4,
+      "carbs": 24,
+      "fat": 12,
+      "sodium": 380,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains vegetables",
+        "Good source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "(ta) argentina gorina gf striploin 400gm": {
+      "calories": 1040,
+      "protein": 96,
+      "carbs": 0,
+      "fat": 76,
+      "sodium": 190,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "Good source of B vitamins",
+        "Grass-fed beef"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "Very high in calories"
+      ]
+    },
+    "french fries(ta)": {
+      "calories": 320,
+      "protein": 4,
+      "carbs": 42,
+      "fat": 15,
+      "sodium": 280,
+      "sugar": 0,
+      "fiber": 3,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains potassium",
+        "Source of vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat",
+        "High in calories"
+      ]
+    },
+    "garlic buttered eggplant(ta)": {
+      "calories": 180,
+      "protein": 2,
+      "carbs": 12,
+      "fat": 14,
+      "sodium": 320,
+      "sugar": 2,
+      "fiber": 3,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Low in calories",
+        "Good source of fiber",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "200gm au tenderloin": {
+      "calories": 540,
+      "protein": 52,
+      "carbs": 0,
+      "fat": 36,
+      "sodium": 85,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "Good source of B vitamins",
+        "Lean protein"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "macaroni & cheese(ta)": {
+      "calories": 420,
+      "protein": 14,
+      "carbs": 48,
+      "fat": 20,
+      "sodium": 580,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of calcium",
+        "Source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "300gm au tenderloin": {
+      "calories": 810,
+      "protein": 78,
+      "carbs": 0,
+      "fat": 54,
+      "sodium": 130,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "Good source of B vitamins",
+        "Lean protein"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "mashed potato(ta)": {
+      "calories": 240,
+      "protein": 4,
+      "carbs": 28,
+      "fat": 12,
+      "sodium": 360,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of potassium",
+        "Contains vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "400gm au t-bone": {
+      "calories": 1080,
+      "protein": 104,
+      "carbs": 0,
+      "fat": 72,
+      "sodium": 180,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "Good source of B vitamins",
+        "Lean protein"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "Very high in calories"
+      ]
+    },
+    "au ribeye 200gm - char grilled (wagyu ms4/5)": {
+      "calories": 580,
+      "protein": 44,
+      "carbs": 0,
+      "fat": 46,
+      "sodium": 90,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "Good source of B vitamins",
+        "Rich in omega-3"
+      ],
+      "healthWarnings": [
+        "Very high in saturated fat",
+        "High in calories"
+      ]
+    },
+    "onion rings(ta)": {
+      "calories": 360,
+      "protein": 5,
+      "carbs": 38,
+      "fat": 20,
+      "sodium": 420,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains quercetin"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat",
+        "High in calories"
+      ]
+    },
+    "(ta) uruguay pul ribeye 200gm": {
+      "calories": 480,
+      "protein": 44,
+      "carbs": 0,
+      "fat": 34,
+      "sodium": 80,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "parmesan asparagus(ta)": {
+      "calories": 140,
+      "protein": 6,
+      "carbs": 8,
+      "fat": 10,
+      "sodium": 320,
+      "sugar": 1,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of folate",
+        "Low in calories",
+        "Contains antioxidants",
+        "Good source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "cream broccoli(ta)": {
+      "calories": 160,
+      "protein": 5,
+      "carbs": 10,
+      "fat": 12,
+      "sodium": 340,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of vitamin C",
+        "Contains calcium",
+        "Low in calories",
+        "Contains sulforaphane"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "(ta) uruguay pul ribeye 300gm": {
+      "calories": 720,
+      "protein": 66,
+      "carbs": 0,
+      "fat": 51,
+      "sodium": 120,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "(ta) uruguay pul ribeye 400gm": {
+      "calories": 960,
+      "protein": 88,
+      "carbs": 0,
+      "fat": 68,
+      "sodium": 160,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "Very high in calories"
+      ]
+    },
+    "sauteed brussel(ta)": {
+      "calories": 130,
+      "protein": 4,
+      "carbs": 12,
+      "fat": 8,
+      "sodium": 300,
+      "sugar": 2,
+      "fiber": 3,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in vitamin C",
+        "Good source of fiber",
+        "Contains antioxidants",
+        "Low in calories"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "(ta) argentina gorina gf ribeye 300gm": {
+      "calories": 750,
+      "protein": 58,
+      "carbs": 0,
+      "fat": 59,
+      "sodium": 380,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "Good source of B vitamins",
+        "High in selenium"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in calories",
+        "High in cholesterol"
+      ]
+    }
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "brand": "don-don-donki",
+  "generatedAt": "2026-02-16T14:30:06.425Z",
+  "items": {
+    "double beef for you": {
+      "calories": 1240,
+      "protein": 52,
+      "carbs": 92,
+      "fat": 72,
+      "sodium": 1680,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains iron from beef"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "chicken pie": {
+      "calories": 620,
+      "protein": 26,
+      "carbs": 46,
+      "fat": 36,
+      "sodium": 840,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains B vitamins"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "black pepper chicken pie": {
+      "calories": 630,
+      "protein": 27,
+      "carbs": 46,
+      "fat": 37,
+      "sodium": 920,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains antioxidants from black pepper"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "chicken shepherd's pie": {
+      "calories": 580,
+      "protein": 24,
+      "carbs": 58,
+      "fat": 28,
+      "sodium": 860,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains potassium from mashed potato"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "apple pie": {
+      "calories": 480,
+      "protein": 6,
+      "carbs": 62,
+      "fat": 24,
+      "sodium": 280,
+      "sugar": 32,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains antioxidants from apples"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "curry pie": {
+      "calories": 620,
+      "protein": 25,
+      "carbs": 52,
+      "fat": 35,
+      "sodium": 950,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains turmeric with anti-inflammatory properties"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "beef pie": {
+      "calories": 640,
+      "protein": 30,
+      "carbs": 44,
+      "fat": 40,
+      "sodium": 880,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Good source of iron and zinc"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    }
+  }
+}

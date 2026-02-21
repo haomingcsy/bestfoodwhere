@@ -1,0 +1,2026 @@
+{
+  "brand": "food-republic",
+  "generatedAt": "2026-02-16T14:53:47.346Z",
+  "items": {
+    "hanoi style chicken pho 河内汤粉": {
+      "calories": 320,
+      "protein": 18,
+      "carbs": 42,
+      "fat": 6,
+      "sodium": 980,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Fish",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Low in fat",
+        "Contains herbs and spices with antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "chendol 珍多": {
+      "calories": 280,
+      "protein": 3,
+      "carbs": 48,
+      "fat": 9,
+      "sodium": 120,
+      "sugar": 42,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "watermelon juice 西瓜汁": {
+      "calories": 80,
+      "protein": 1,
+      "carbs": 20,
+      "fat": 0,
+      "sodium": 25,
+      "sugar": 18,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of vitamin C",
+        "Hydrating",
+        "Low in calories"
+      ],
+      "healthWarnings": [
+        "High in natural sugars"
+      ]
+    },
+    "fresh prawn fried rice 鲜虾炒饭": {
+      "calories": 520,
+      "protein": 16,
+      "carbs": 58,
+      "fat": 22,
+      "sodium": 1050,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3 from prawns"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat",
+        "High in calories"
+      ]
+    },
+    "chicken katsu don 炸鸡排井": {
+      "calories": 580,
+      "protein": 28,
+      "carbs": 52,
+      "fat": 28,
+      "sodium": 920,
+      "sugar": 8,
+      "fiber": 1,
+      "allergens": [
+        "Egg",
+        "Gluten",
+        "Soy",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in fat",
+        "High in sodium"
+      ]
+    },
+    "penang char kway teow (s) 槟城炒果条 (小)": {
+      "calories": 480,
+      "protein": 14,
+      "carbs": 48,
+      "fat": 26,
+      "sodium": 1120,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in fat",
+        "High in calories"
+      ]
+    },
+    "qoo white grape": {
+      "calories": 60,
+      "protein": 0,
+      "carbs": 15,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 14,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "Artificial sweeteners"
+      ]
+    },
+    "$9 deals": {
+      "calories": 450,
+      "protein": 14,
+      "carbs": 52,
+      "fat": 18,
+      "sodium": 850,
+      "sugar": 5,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "signature steamed chicken rice  海南白鸡饭": {
+      "calories": 520,
+      "protein": 32,
+      "carbs": 48,
+      "fat": 18,
+      "sodium": 680,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Excellent source of protein",
+        "Contains B vitamins"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "Moderate sodium"
+      ]
+    },
+    "lotus root pork ribs soup 莲藕排骨汤": {
+      "calories": 280,
+      "protein": 22,
+      "carbs": 18,
+      "fat": 14,
+      "sodium": 920,
+      "sugar": 2,
+      "fiber": 3,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Rich in minerals",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate saturated fat"
+      ]
+    },
+    "army hot pot  部队火锅": {
+      "calories": 680,
+      "protein": 38,
+      "carbs": 54,
+      "fat": 32,
+      "sodium": 1280,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Shellfish",
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in calories",
+        "High in fat"
+      ]
+    },
+    "seafood fried kway teow  / noodles 海鲜炒果条 / 面": {
+      "calories": 540,
+      "protein": 18,
+      "carbs": 52,
+      "fat": 28,
+      "sodium": 1180,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in fat",
+        "High in calories"
+      ]
+    },
+    "signature char siew wanton noodle (dry) 招牌叉烧云吞面 (干)": {
+      "calories": 480,
+      "protein": 22,
+      "carbs": 52,
+      "fat": 20,
+      "sodium": 1150,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Egg",
+        "Gluten",
+        "Soy",
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in fat",
+        "High in calories"
+      ]
+    },
+    "black fish fillet (s) 黑鱼片 (小)": {
+      "calories": 320,
+      "protein": 28,
+      "carbs": 22,
+      "fat": 14,
+      "sodium": 1040,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Excellent source of protein",
+        "Rich in omega-3",
+        "High in vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "og punched lemon 招牌手打柠檬茶": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 28,
+      "fat": 0.5,
+      "sodium": 15,
+      "sugar": 24,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "chicken kuning set 鸡肉黄姜饭套餐": {
+      "calories": 520,
+      "protein": 28,
+      "carbs": 52,
+      "fat": 20,
+      "sodium": 820,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains turmeric with anti-inflammatory properties"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "Moderate sodium"
+      ]
+    },
+    "kopi 咖啡": {
+      "calories": 80,
+      "protein": 2,
+      "carbs": 8,
+      "fat": 4,
+      "sodium": 60,
+      "sugar": 6,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of antioxidants",
+        "Low in calories"
+      ],
+      "healthWarnings": []
+    },
+    "chicken katsu omelette 炸鸡排蛋包饭": {
+      "calories": 620,
+      "protein": 26,
+      "carbs": 56,
+      "fat": 32,
+      "sodium": 980,
+      "sugar": 6,
+      "fiber": 1,
+      "allergens": [
+        "Egg",
+        "Gluten",
+        "Soy",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in fat",
+        "High in sodium"
+      ]
+    },
+    "bbq pork with rice vermicelli 越式烤猪肉米粉": {
+      "calories": 480,
+      "protein": 26,
+      "carbs": 48,
+      "fat": 20,
+      "sodium": 950,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Peanut"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains herbs with antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate fat"
+      ]
+    },
+    "traditional nasi lemak": {
+      "calories": 580,
+      "protein": 22,
+      "carbs": 52,
+      "fat": 30,
+      "sodium": 920,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Peanut",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Source of minerals"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in fat",
+        "High in sodium"
+      ]
+    },
+    "chicken fried kway teow / noodles 鸡肉炒果条 / 面": {
+      "calories": 520,
+      "protein": 18,
+      "carbs": 62,
+      "fat": 20,
+      "sodium": 1240,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "green apple juice w/sour plum 青苹果酸梅": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 34,
+      "fat": 0,
+      "sodium": 45,
+      "sugar": 28,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of vitamin C",
+        "Aids digestion"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Low in fiber"
+      ]
+    },
+    "char siew & roast pork rice 叉烧烧肉饭": {
+      "calories": 680,
+      "protein": 32,
+      "carbs": 68,
+      "fat": 28,
+      "sodium": 1480,
+      "sugar": 8,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "seabass fish fillet (s) 金目鲈鱼片 (小)": {
+      "calories": 320,
+      "protein": 42,
+      "carbs": 12,
+      "fat": 10,
+      "sodium": 880,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "High in omega-3 fatty acids",
+        "Low in carbs"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Contains fish allergen"
+      ]
+    },
+    "scallop wintermelon pork ribs soup 干贝冬瓜排骨汤": {
+      "calories": 280,
+      "protein": 28,
+      "carbs": 18,
+      "fat": 10,
+      "sodium": 1120,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of collagen",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Contains shellfish allergen"
+      ]
+    },
+    "pulut hitam 黑糯米": {
+      "calories": 220,
+      "protein": 4,
+      "carbs": 42,
+      "fat": 4,
+      "sodium": 85,
+      "sugar": 24,
+      "fiber": 3,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains dairy"
+      ]
+    },
+    "penang char kway teow (l) 槟城炒果条 (大)": {
+      "calories": 650,
+      "protein": 20,
+      "carbs": 68,
+      "fat": 32,
+      "sodium": 1380,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Shellfish",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "kopi o 咖啡乌": {
+      "calories": 15,
+      "protein": 1,
+      "carbs": 1,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "salted egg chicken rice 咸蛋鸡丁饭": {
+      "calories": 620,
+      "protein": 26,
+      "carbs": 70,
+      "fat": 22,
+      "sodium": 1540,
+      "sugar": 5,
+      "fiber": 1,
+      "allergens": [
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of choline"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "signature roasted chicken rice 海南烧鸡饭": {
+      "calories": 580,
+      "protein": 38,
+      "carbs": 62,
+      "fat": 16,
+      "sodium": 1240,
+      "sugar": 4,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains ginger"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in saturated fat"
+      ]
+    },
+    "osmanthus ooolong lemon punch 桂花乌龙手打柠檬茶": {
+      "calories": 85,
+      "protein": 0,
+      "carbs": 20,
+      "fat": 0,
+      "sodium": 25,
+      "sugar": 16,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants from tea",
+        "Contains vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "classic shin ramyun 经典辛拉面": {
+      "calories": 480,
+      "protein": 16,
+      "carbs": 64,
+      "fat": 16,
+      "sodium": 1680,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "Spicy",
+        "High in calories"
+      ]
+    },
+    "100 plus": {
+      "calories": 48,
+      "protein": 0,
+      "carbs": 12,
+      "fat": 0,
+      "sodium": 35,
+      "sugar": 12,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Provides electrolytes"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains caffeine"
+      ]
+    },
+    "set b - egg fried rice + chicken cutlet + tomyum soup(s) + mango salad": {
+      "calories": 850,
+      "protein": 35,
+      "carbs": 92,
+      "fat": 32,
+      "sodium": 1680,
+      "sugar": 12,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg",
+        "Shellfish",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains fresh vegetables",
+        "Contains fruit"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "gingko nut and pork tripe soup 白果猪肚汤": {
+      "calories": 240,
+      "protein": 26,
+      "carbs": 16,
+      "fat": 8,
+      "sodium": 1100,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Traditional tonic soup",
+        "Good source of collagen"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Contains tree nut allergen"
+      ]
+    },
+    "roast duck noodle 烧鸭面": {
+      "calories": 580,
+      "protein": 24,
+      "carbs": 66,
+      "fat": 20,
+      "sodium": 1320,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "a&w root beer": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 36,
+      "fat": 0,
+      "sodium": 55,
+      "sugar": 36,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Very high in sugar",
+        "Empty calories"
+      ]
+    },
+    "mint lemon punch 薄荷手打柠檬茶": {
+      "calories": 80,
+      "protein": 0,
+      "carbs": 19,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 15,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains vitamin C",
+        "Contains mint for digestion"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "steamed chicken drumstick rice 白鸡腿饭": {
+      "calories": 560,
+      "protein": 40,
+      "carbs": 64,
+      "fat": 12,
+      "sodium": 1140,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Lean protein source",
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "abc juice 苹果萝卜甜菜根果汁": {
+      "calories": 110,
+      "protein": 1,
+      "carbs": 26,
+      "fat": 0,
+      "sodium": 85,
+      "sugar": 18,
+      "fiber": 3,
+      "allergens": [],
+      "healthBenefits": [
+        "High in vitamin A",
+        "Contains antioxidants",
+        "Good source of fiber",
+        "Low in calories"
+      ],
+      "healthWarnings": [
+        "Moderate in sugar"
+      ]
+    },
+    "grouper fish fillet (s) 石斑鱼片 (小)": {
+      "calories": 280,
+      "protein": 32,
+      "carbs": 8,
+      "fat": 12,
+      "sodium": 820,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of selenium",
+        "Low in carbs"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "bbq beef bibimbap 烤肥石牛锅拌饭": {
+      "calories": 650,
+      "protein": 28,
+      "carbs": 72,
+      "fat": 28,
+      "sodium": 1100,
+      "sugar": 8,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Sesame",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "High in saturated fat"
+      ]
+    },
+    "mee soto 印尼面汤": {
+      "calories": 420,
+      "protein": 14,
+      "carbs": 52,
+      "fat": 16,
+      "sodium": 950,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "Good source of carbs",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate calories"
+      ]
+    },
+    "penang hokkien prawn noodle 槟城福建虾面 (s)": {
+      "calories": 520,
+      "protein": 18,
+      "carbs": 58,
+      "fat": 22,
+      "sodium": 1200,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Gluten",
+        "Soy",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "High in fat"
+      ]
+    },
+    "kopi c 淡奶咖啡": {
+      "calories": 120,
+      "protein": 3,
+      "carbs": 14,
+      "fat": 5,
+      "sodium": 80,
+      "sugar": 12,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Low in calories"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "beef don 牛肉井": {
+      "calories": 580,
+      "protein": 24,
+      "carbs": 65,
+      "fat": 20,
+      "sodium": 880,
+      "sugar": 6,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium"
+      ]
+    },
+    "red bean soup 红豆汤": {
+      "calories": 180,
+      "protein": 6,
+      "carbs": 32,
+      "fat": 2,
+      "sodium": 120,
+      "sugar": 18,
+      "fiber": 4,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "vietnamese pork belly bánh mì 越式三明治": {
+      "calories": 420,
+      "protein": 18,
+      "carbs": 45,
+      "fat": 18,
+      "sodium": 780,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Peanut"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "ginger & onion pork rice 姜葱猪肉饭": {
+      "calories": 560,
+      "protein": 26,
+      "carbs": 58,
+      "fat": 22,
+      "sodium": 1050,
+      "sugar": 4,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains ginger"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "set a - egg fried rice + fried egg + tomyum soup(s) + mango salad": {
+      "calories": 580,
+      "protein": 16,
+      "carbs": 68,
+      "fat": 24,
+      "sodium": 1100,
+      "sugar": 14,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Shellfish",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of carbs",
+        "Contains vegetables and fruit"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "roasted chicken drumstick rice 烧鸡腿饭": {
+      "calories": 520,
+      "protein": 28,
+      "carbs": 54,
+      "fat": 18,
+      "sodium": 920,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains B vitamins"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium"
+      ]
+    },
+    "char siew & roast duck noodle 叉烧烧鸭面": {
+      "calories": 600,
+      "protein": 26,
+      "carbs": 62,
+      "fat": 24,
+      "sodium": 1250,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "green bean soup 绿豆汤": {
+      "calories": 160,
+      "protein": 5,
+      "carbs": 28,
+      "fat": 2,
+      "sodium": 100,
+      "sugar": 16,
+      "fiber": 3,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "penang hokkien prawn noodle 槟城福建虾面 (l)": {
+      "calories": 680,
+      "protein": 22,
+      "carbs": 76,
+      "fat": 28,
+      "sodium": 1400,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Shellfish",
+        "Gluten",
+        "Soy",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "High in fat"
+      ]
+    },
+    "cucumber lemon punch 黄瓜手打柠檬茶": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 34,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 28,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains vitamin C",
+        "Refreshing"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "kimchi and pork belly bibimbap 五花肉辣白菜牛锅拌饭": {
+      "calories": 620,
+      "protein": 26,
+      "carbs": 70,
+      "fat": 26,
+      "sodium": 1150,
+      "sugar": 7,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Sesame",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains probiotics from kimchi"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "ayataka japanese green tea (no sugar)": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "black fish fillet (l) 黑鱼片 (大)": {
+      "calories": 380,
+      "protein": 44,
+      "carbs": 12,
+      "fat": 16,
+      "sodium": 1050,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of omega-3",
+        "Low in carbs"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "beef kuning set 牛肉黄姜饭套餐": {
+      "calories": 640,
+      "protein": 22,
+      "carbs": 72,
+      "fat": 24,
+      "sodium": 1100,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains turmeric"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "avocado gula melaka smoothie 鳄梨椰糖冰沙": {
+      "calories": 380,
+      "protein": 6,
+      "carbs": 42,
+      "fat": 22,
+      "sodium": 85,
+      "sugar": 28,
+      "fiber": 8,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of healthy fats",
+        "Rich in potassium",
+        "High in fiber"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "hanoi style beef pho 越式牛肉面": {
+      "calories": 420,
+      "protein": 28,
+      "carbs": 48,
+      "fat": 12,
+      "sodium": 1150,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains herbs and spices"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "salmon tama don 三文鱼井": {
+      "calories": 520,
+      "protein": 32,
+      "carbs": 56,
+      "fat": 16,
+      "sodium": 680,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in omega-3 fatty acids",
+        "Good source of protein",
+        "Contains selenium"
+      ],
+      "healthWarnings": [
+        "Moderate sodium content"
+      ]
+    },
+    "iced kopi 冰咖啡 (16oz)": {
+      "calories": 95,
+      "protein": 3,
+      "carbs": 12,
+      "fat": 4,
+      "sodium": 65,
+      "sugar": 8,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Low calorie beverage"
+      ],
+      "healthWarnings": [
+        "Contains caffeine",
+        "Added sugar"
+      ]
+    },
+    "ten tonic emperor chicken soup 十全大补黑鸡汤": {
+      "calories": 320,
+      "protein": 38,
+      "carbs": 8,
+      "fat": 14,
+      "sodium": 920,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Traditional tonic soup",
+        "Contains ginseng and medicinal herbs"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in cholesterol"
+      ]
+    },
+    "premium duo style chicken rice 鸳鸯鸡饭": {
+      "calories": 680,
+      "protein": 52,
+      "carbs": 62,
+      "fat": 22,
+      "sodium": 1080,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "High in saturated fat"
+      ]
+    },
+    "char siew and roast duck rice 叉烧烧鸭饭": {
+      "calories": 710,
+      "protein": 48,
+      "carbs": 64,
+      "fat": 26,
+      "sodium": 1240,
+      "sugar": 8,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "High in saturated fat"
+      ]
+    },
+    "lor mee (s) 卤面 (小)": {
+      "calories": 480,
+      "protein": 16,
+      "carbs": 58,
+      "fat": 18,
+      "sodium": 1380,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Egg",
+        "Soy",
+        "Gluten",
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "Contains egg",
+        "Comfort food"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in calories"
+      ]
+    },
+    "coke zero sugar": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 65,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Zero sugar",
+        "Zero calories"
+      ],
+      "healthWarnings": [
+        "Contains artificial sweeteners",
+        "Contains caffeine"
+      ]
+    },
+    "classic bibimbap 传统石锅拌饭": {
+      "calories": 580,
+      "protein": 22,
+      "carbs": 68,
+      "fat": 22,
+      "sodium": 980,
+      "sugar": 5,
+      "fiber": 4,
+      "allergens": [
+        "Egg",
+        "Soy",
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of vegetables",
+        "Contains egg protein",
+        "High in fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "mutton kuning set 羊肉黄姜饭套餐": {
+      "calories": 620,
+      "protein": 42,
+      "carbs": 58,
+      "fat": 24,
+      "sodium": 1100,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron",
+        "Contains turmeric"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "High in saturated fat"
+      ]
+    },
+    "ebi fry+chicken katsu bento 炸虾+炸鸡排盒饭": {
+      "calories": 560,
+      "protein": 32,
+      "carbs": 52,
+      "fat": 24,
+      "sodium": 920,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Egg",
+        "Wheat",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains fresh vegetables"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in saturated fat",
+        "Deep fried"
+      ]
+    },
+    "chicken chop fried rice 鸡扒炒饭": {
+      "calories": 620,
+      "protein": 36,
+      "carbs": 66,
+      "fat": 20,
+      "sodium": 1040,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Egg",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains egg"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "High in saturated fat"
+      ]
+    },
+    "red apple juice with yakult 红苹果益多": {
+      "calories": 240,
+      "protein": 2,
+      "carbs": 54,
+      "fat": 1,
+      "sodium": 48,
+      "sugar": 42,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains probiotics",
+        "Good source of vitamin C"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in calories"
+      ]
+    },
+    "cheng tng 清汤": {
+      "calories": 180,
+      "protein": 2,
+      "carbs": 42,
+      "fat": 1,
+      "sodium": 120,
+      "sugar": 28,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "Traditional herbal dessert",
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "seabass fish fillet (l) 金目鲈鱼片 (大)": {
+      "calories": 420,
+      "protein": 52,
+      "carbs": 12,
+      "fat": 18,
+      "sodium": 1280,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Fish",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Very high in protein",
+        "High in omega-3 fatty acids",
+        "Low in carbs"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "iced kopi o 冰咖啡乌 (16oz)": {
+      "calories": 45,
+      "protein": 1,
+      "carbs": 5,
+      "fat": 2,
+      "sodium": 55,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Very low calorie",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "Contains caffeine"
+      ]
+    },
+    "vegetarian banh mi 越式蔬菜三明治": {
+      "calories": 320,
+      "protein": 11,
+      "carbs": 48,
+      "fat": 10,
+      "sodium": 640,
+      "sugar": 8,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of vegetables",
+        "High in fiber"
+      ],
+      "healthWarnings": [
+        "Moderate sodium content"
+      ]
+    },
+    "grouper fish fillet (l) 石斑鱼片 (大)": {
+      "calories": 480,
+      "protein": 58,
+      "carbs": 12,
+      "fat": 22,
+      "sodium": 1420,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Fish",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Very high in protein",
+        "Good source of selenium",
+        "Low in carbs"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "chicken cutlet rice 鸡扒饭": {
+      "calories": 540,
+      "protein": 38,
+      "carbs": 56,
+      "fat": 16,
+      "sodium": 880,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Egg",
+        "Wheat",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Crispy and juicy"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "Deep fried"
+      ]
+    },
+    "iced kopi c 冰淡奶咖啡 (16oz)": {
+      "calories": 120,
+      "protein": 3,
+      "carbs": 12,
+      "fat": 6,
+      "sodium": 85,
+      "sugar": 10,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "lor mee (l) 卤面 (大)": {
+      "calories": 580,
+      "protein": 18,
+      "carbs": 68,
+      "fat": 22,
+      "sodium": 1480,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Fish",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "roast duck rice 烧鸭饭": {
+      "calories": 620,
+      "protein": 28,
+      "carbs": 52,
+      "fat": 28,
+      "sodium": 1250,
+      "sugar": 4,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Rich in iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "orange juice 鲜橙汁": {
+      "calories": 140,
+      "protein": 2,
+      "carbs": 33,
+      "fat": 0.5,
+      "sodium": 8,
+      "sugar": 26,
+      "fiber": 0.5,
+      "allergens": [],
+      "healthBenefits": [
+        "High in Vitamin C",
+        "Good source of potassium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "No fiber from whole fruit"
+      ]
+    },
+    "teh 茶": {
+      "calories": 25,
+      "protein": 0,
+      "carbs": 4,
+      "fat": 0,
+      "sodium": 40,
+      "sugar": 3,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Source of antioxidants",
+        "Low calorie"
+      ],
+      "healthWarnings": []
+    },
+    "signature ban mian (soup or dry)  招牌板面 （汤 / 干）": {
+      "calories": 520,
+      "protein": 16,
+      "carbs": 62,
+      "fat": 18,
+      "sodium": 1350,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Fish",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "boneless chicken 无骨鸡": {
+      "calories": 820,
+      "protein": 92,
+      "carbs": 0,
+      "fat": 47,
+      "sodium": 680,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Excellent source of protein",
+        "Rich in B vitamins"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "chilli ban mian (dry) 辣椒板面 （干）": {
+      "calories": 540,
+      "protein": 16,
+      "carbs": 64,
+      "fat": 20,
+      "sodium": 1420,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Fish",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Spicy"
+      ]
+    },
+    "curry chicken noodle 咖喱鸡面": {
+      "calories": 620,
+      "protein": 32,
+      "carbs": 58,
+      "fat": 24,
+      "sodium": 1280,
+      "sugar": 8,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Fish",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "teh o 茶乌": {
+      "calories": 10,
+      "protein": 0,
+      "carbs": 1,
+      "fat": 0,
+      "sodium": 35,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Source of antioxidants",
+        "Very low calorie"
+      ],
+      "healthWarnings": []
+    },
+    "teh c 淡奶茶": {
+      "calories": 65,
+      "protein": 1,
+      "carbs": 7,
+      "fat": 3,
+      "sodium": 50,
+      "sugar": 6,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of antioxidants"
+      ],
+      "healthWarnings": [
+        "Contains sugar",
+        "Contains saturated fat"
+      ]
+    },
+    "iced teh 冰奶茶 (16oz)": {
+      "calories": 110,
+      "protein": 2,
+      "carbs": 14,
+      "fat": 5,
+      "sodium": 70,
+      "sugar": 12,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "iced teh o 冰茶乌 (16oz)": {
+      "calories": 30,
+      "protein": 0,
+      "carbs": 4,
+      "fat": 0,
+      "sodium": 50,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Source of antioxidants",
+        "Low calorie"
+      ],
+      "healthWarnings": []
+    },
+    "iced teh c 冰淡奶茶 (16oz)": {
+      "calories": 85,
+      "protein": 1,
+      "carbs": 11,
+      "fat": 4,
+      "sodium": 60,
+      "sugar": 9,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of antioxidants"
+      ],
+      "healthWarnings": [
+        "Contains sugar",
+        "Contains saturated fat"
+      ]
+    },
+    "iced grass jelly milk tea 仙草冰奶茶": {
+      "calories": 145,
+      "protein": 2,
+      "carbs": 24,
+      "fat": 4,
+      "sodium": 80,
+      "sugar": 20,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of antioxidants",
+        "Contains fiber"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "lime juice 酸柑水": {
+      "calories": 80,
+      "protein": 1,
+      "carbs": 18,
+      "fat": 0.5,
+      "sodium": 20,
+      "sugar": 14,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "High in Vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "iced lemon tea 冰柠檬茶": {
+      "calories": 95,
+      "protein": 1,
+      "carbs": 20,
+      "fat": 0,
+      "sodium": 45,
+      "sugar": 16,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Source of Vitamin C",
+        "Source of antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "iced homemade barley 自制薏米水": {
+      "calories": 110,
+      "protein": 1,
+      "carbs": 26,
+      "fat": 0,
+      "sodium": 35,
+      "sugar": 18,
+      "fiber": 1,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Traditional cooling drink",
+        "Contains fiber"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "traditional toast set  面包套餐": {
+      "calories": 380,
+      "protein": 14,
+      "carbs": 38,
+      "fat": 16,
+      "sodium": 520,
+      "sugar": 12,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains carbohydrates for energy"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "Contains sugar"
+      ]
+    }
+  }
+}

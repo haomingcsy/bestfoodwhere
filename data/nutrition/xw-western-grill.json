@@ -1,0 +1,653 @@
+{
+  "brand": "xw-western-grill",
+  "generatedAt": "2026-02-21T12:22:24.084Z",
+  "items": {
+    "w101d chargrilled chicken and chicken sa": {
+      "calories": 1050,
+      "protein": 72,
+      "carbs": 45,
+      "fat": 58,
+      "sodium": 1850,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "w504d pineapple pudding": {
+      "calories": 320,
+      "protein": 3,
+      "carbs": 52,
+      "fat": 12,
+      "sodium": 180,
+      "sugar": 38,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "w251d golden fish fry with tartar sauce": {
+      "calories": 680,
+      "protein": 48,
+      "carbs": 52,
+      "fat": 32,
+      "sodium": 1420,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Source of omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "w151d chargrilled chicken with creamy mu": {
+      "calories": 620,
+      "protein": 65,
+      "carbs": 18,
+      "fat": 32,
+      "sodium": 1580,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "w301d spicy seafood capellini": {
+      "calories": 720,
+      "protein": 52,
+      "carbs": 68,
+      "fat": 28,
+      "sodium": 1680,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Shellfish",
+        "Fish",
+        "Gluten",
+        "Dairy",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "w201d chargrilled sirloin with creamy mu": {
+      "calories": 780,
+      "protein": 72,
+      "carbs": 16,
+      "fat": 48,
+      "sodium": 1620,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Very high in saturated fat"
+      ]
+    },
+    "w603d coca-cola orginal less sugar": {
+      "calories": 65,
+      "protein": 0,
+      "carbs": 18,
+      "fat": 0,
+      "sodium": 35,
+      "sugar": 16,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "w152d chargrilled chicken with tom yum s": {
+      "calories": 580,
+      "protein": 62,
+      "carbs": 22,
+      "fat": 28,
+      "sodium": 1720,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Shellfish",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "w102d chargrilled chicken and fish": {
+      "calories": 920,
+      "protein": 78,
+      "carbs": 38,
+      "fat": 48,
+      "sodium": 1890,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Soy",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "w604d coca-cola zero sugar": {
+      "calories": 2,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 40,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Contains artificial sweeteners"
+      ]
+    },
+    "w202d chargrilled sirloin with black pep": {
+      "calories": 760,
+      "protein": 70,
+      "carbs": 14,
+      "fat": 46,
+      "sodium": 1540,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Very high in saturated fat"
+      ]
+    },
+    "w302d chicken aglio olio capellini": {
+      "calories": 640,
+      "protein": 48,
+      "carbs": 64,
+      "fat": 22,
+      "sodium": 1240,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "w252d chargrilled salmon steak": {
+      "calories": 680,
+      "protein": 58,
+      "carbs": 12,
+      "fat": 42,
+      "sodium": 1320,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "High in omega-3",
+        "Good source of vitamin D"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "w303d creamy chicken and mushroom spaghe": {
+      "calories": 680,
+      "protein": 52,
+      "carbs": 62,
+      "fat": 28,
+      "sodium": 1480,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "w605d sprite": {
+      "calories": 120,
+      "protein": 0,
+      "carbs": 30,
+      "fat": 0,
+      "sodium": 75,
+      "sugar": 28,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "w253d chargrilled fish with black pepper": {
+      "calories": 520,
+      "protein": 52,
+      "carbs": 14,
+      "fat": 28,
+      "sodium": 1380,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "w153d chargrilled chicken with black pep": {
+      "calories": 600,
+      "protein": 64,
+      "carbs": 16,
+      "fat": 30,
+      "sodium": 1560,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "w203d chargrilled ribeye with creamy mus": {
+      "calories": 840,
+      "protein": 76,
+      "carbs": 18,
+      "fat": 52,
+      "sodium": 1680,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Very high in saturated fat"
+      ]
+    },
+    "w103d chargrilled chicken and tiger praw": {
+      "calories": 1180,
+      "protein": 92,
+      "carbs": 42,
+      "fat": 62,
+      "sodium": 2120,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Gluten",
+        "Soy",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Very high in protein",
+        "Good source of selenium"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "w154d fried chicken with honey mustard s": {
+      "calories": 720,
+      "protein": 58,
+      "carbs": 48,
+      "fat": 34,
+      "sodium": 1620,
+      "sugar": 12,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Moderate sugar content"
+      ]
+    },
+    "w304d spicy carbonara spaghetti": {
+      "calories": 820,
+      "protein": 32,
+      "carbs": 78,
+      "fat": 38,
+      "sodium": 1240,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "w606d a w sarsaparilla": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 36,
+      "fat": 0,
+      "sodium": 45,
+      "sugar": 35,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "Empty calories"
+      ]
+    },
+    "w104d chargrilled sirloin steak and chic": {
+      "calories": 1050,
+      "protein": 68,
+      "carbs": 42,
+      "fat": 58,
+      "sodium": 1180,
+      "sugar": 3,
+      "fiber": 4,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "w204d chargrilled ribeye with black pepp": {
+      "calories": 950,
+      "protein": 62,
+      "carbs": 8,
+      "fat": 72,
+      "sodium": 980,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "w254d chargrilled fish with lemon butter": {
+      "calories": 580,
+      "protein": 48,
+      "carbs": 12,
+      "fat": 38,
+      "sodium": 720,
+      "sugar": 1,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "High in omega-3",
+        "Good source of selenium"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "Moderate sodium"
+      ]
+    },
+    "w305d tomato bolognese spaghetti": {
+      "calories": 780,
+      "protein": 28,
+      "carbs": 92,
+      "fat": 28,
+      "sodium": 1360,
+      "sugar": 8,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains lycopene"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in carbs"
+      ]
+    },
+    "w205d chargrilled lamb cutlet with black": {
+      "calories": 720,
+      "protein": 58,
+      "carbs": 6,
+      "fat": 52,
+      "sodium": 890,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron",
+        "Good source of zinc"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in saturated fat",
+        "Moderate sodium"
+      ]
+    },
+    "w155d fried chicken with korean spicy sa": {
+      "calories": 850,
+      "protein": 52,
+      "carbs": 48,
+      "fat": 48,
+      "sodium": 1520,
+      "sugar": 12,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in saturated fat",
+        "High in sodium",
+        "High in sugar"
+      ]
+    },
+    "w105d chargrilled sirloin steak and tige": {
+      "calories": 980,
+      "protein": 66,
+      "carbs": 38,
+      "fat": 60,
+      "sodium": 1140,
+      "sugar": 2,
+      "fiber": 3,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "w607d bottled water": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Hydrating",
+        "Zero calories"
+      ],
+      "healthWarnings": []
+    },
+    "w306d salmon chunk and creamy corn spagh": {
+      "calories": 840,
+      "protein": 36,
+      "carbs": 84,
+      "fat": 36,
+      "sodium": 1280,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Fish",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "High in omega-3",
+        "Good source of selenium"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "Moderate saturated fat"
+      ]
+    }
+  }
+}

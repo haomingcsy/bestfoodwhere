@@ -1,0 +1,4920 @@
+{
+  "brand": "barossa-steak-and-grill",
+  "generatedAt": "2026-02-16T13:38:41.681Z",
+  "items": {
+    "johnnie walker black label": {
+      "calories": 110,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in alcohol",
+        "Empty calories"
+      ]
+    },
+    "spanish flan": {
+      "calories": 280,
+      "protein": 4,
+      "carbs": 35,
+      "fat": 12,
+      "sodium": 120,
+      "sugar": 28,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "cookies & cream milkshake": {
+      "calories": 520,
+      "protein": 12,
+      "carbs": 68,
+      "fat": 20,
+      "sodium": 280,
+      "sugar": 58,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of calcium",
+        "Source of protein"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in calories",
+        "High in saturated fat"
+      ]
+    },
+    "smirnoff": {
+      "calories": 100,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in alcohol",
+        "Empty calories"
+      ]
+    },
+    "mushroom cream spaghetti": {
+      "calories": 580,
+      "protein": 16,
+      "carbs": 72,
+      "fat": 22,
+      "sodium": 680,
+      "sugar": 12,
+      "fiber": 4,
+      "allergens": [
+        "Dairy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Source of protein",
+        "Source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "High in saturated fat"
+      ]
+    },
+    "classic mojito": {
+      "calories": 180,
+      "protein": 0,
+      "carbs": 18,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 16,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low fat"
+      ],
+      "healthWarnings": [
+        "High in alcohol",
+        "High in sugar"
+      ]
+    },
+    "barossa charcuterie platter": {
+      "calories": 1240,
+      "protein": 48,
+      "carbs": 52,
+      "fat": 92,
+      "sodium": 2840,
+      "sugar": 24,
+      "fiber": 6,
+      "allergens": [
+        "Dairy",
+        "Gluten",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Source of antioxidants"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "Very high in calories",
+        "High in saturated fat"
+      ]
+    },
+    "ispahan pavlova": {
+      "calories": 420,
+      "protein": 6,
+      "carbs": 52,
+      "fat": 18,
+      "sodium": 95,
+      "sugar": 44,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Source of antioxidants",
+        "Low sodium"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in calories"
+      ]
+    },
+    "cold seafood platter": {
+      "calories": 420,
+      "protein": 54,
+      "carbs": 18,
+      "fat": 12,
+      "sodium": 1680,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "High in omega-3",
+        "Low carb"
+      ],
+      "healthWarnings": [
+        "Very high in sodium"
+      ]
+    },
+    "peter zemmer - gewürztraminer alto adige doc": {
+      "calories": 120,
+      "protein": 0,
+      "carbs": 4,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Source of antioxidants"
+      ],
+      "healthWarnings": [
+        "High in alcohol"
+      ]
+    },
+    "apple wood smoked st louis pork ribs": {
+      "calories": 680,
+      "protein": 42,
+      "carbs": 28,
+      "fat": 44,
+      "sodium": 1240,
+      "sugar": 8,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "digiorgio montepulciano": {
+      "calories": 125,
+      "protein": 0.12,
+      "carbs": 3.5,
+      "fat": 0,
+      "sodium": 12,
+      "sugar": 1.2,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Contains resveratrol"
+      ],
+      "healthWarnings": [
+        "Contains alcohol"
+      ]
+    },
+    "grand cru breakfast (black tea)": {
+      "calories": 5,
+      "protein": 0,
+      "carbs": 1,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Source of antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "australia angus grass-fed beef striploin (220g)": {
+      "calories": 580,
+      "protein": 68,
+      "carbs": 0,
+      "fat": 32,
+      "sodium": 120,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Very high in protein",
+        "High in iron",
+        "Source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "fruit punch": {
+      "calories": 140,
+      "protein": 1,
+      "carbs": 34,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 28,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Source of vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "sartori prosecco brut \"love story\" doc": {
+      "calories": 105,
+      "protein": 0,
+      "carbs": 3,
+      "fat": 0,
+      "sodium": 8,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Source of antioxidants"
+      ],
+      "healthWarnings": [
+        "High in alcohol"
+      ]
+    },
+    "jose cuervo": {
+      "calories": 105,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in alcohol",
+        "Empty calories"
+      ]
+    },
+    "pepsi": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 39,
+      "fat": 0,
+      "sodium": 45,
+      "sugar": 39,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Very high in sugar"
+      ]
+    },
+    "australia black angus porterhouse (1kg)": {
+      "calories": 2680,
+      "protein": 272,
+      "carbs": 0,
+      "fat": 168,
+      "sodium": 480,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Very high in protein",
+        "High in iron",
+        "High in zinc",
+        "Source of B vitamins"
+      ],
+      "healthWarnings": [
+        "Very high in saturated fat",
+        "Very high in calories"
+      ]
+    },
+    "duval-leroy brut reserve": {
+      "calories": 120,
+      "protein": 0,
+      "carbs": 2,
+      "fat": 0,
+      "sodium": 12,
+      "sugar": 0.5,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low carb",
+        "Source of antioxidants"
+      ],
+      "healthWarnings": [
+        "High in alcohol"
+      ]
+    },
+    "bombay sapphire": {
+      "calories": 97,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in alcohol",
+        "Empty calories"
+      ]
+    },
+    "iced peach tea": {
+      "calories": 120,
+      "protein": 0,
+      "carbs": 30,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 28,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "double whiskey mustard": {
+      "calories": 45,
+      "protein": 1,
+      "carbs": 2,
+      "fat": 1,
+      "sodium": 280,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Mustard"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "white/red": {
+      "calories": 120,
+      "protein": 0,
+      "carbs": 4,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Sulfites"
+      ],
+      "healthBenefits": [
+        "Contains polyphenols"
+      ],
+      "healthWarnings": [
+        "High in alcohol"
+      ]
+    },
+    "myer's dark": {
+      "calories": 105,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in alcohol",
+        "Empty calories"
+      ]
+    },
+    "apple juice": {
+      "calories": 105,
+      "protein": 0,
+      "carbs": 26,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 24,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Source of vitamin C",
+        "Contains polyphenols"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Low fiber"
+      ]
+    },
+    "carlsberg": {
+      "calories": 140,
+      "protein": 1,
+      "carbs": 11,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Barley"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in alcohol",
+        "Contains gluten"
+      ]
+    },
+    "cornerstone brandy vsop": {
+      "calories": 120,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in alcohol",
+        "Empty calories"
+      ]
+    },
+    "field mushroom aglio olio (v)": {
+      "calories": 380,
+      "protein": 12,
+      "carbs": 48,
+      "fat": 16,
+      "sodium": 420,
+      "sugar": 2,
+      "fiber": 3,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains fiber",
+        "Rich in antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "porcini mushroom soup": {
+      "calories": 180,
+      "protein": 8,
+      "carbs": 18,
+      "fat": 8,
+      "sodium": 550,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains umami"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "barossa lobster bisque": {
+      "calories": 320,
+      "protein": 14,
+      "carbs": 22,
+      "fat": 20,
+      "sodium": 780,
+      "sugar": 4,
+      "fiber": 1,
+      "allergens": [
+        "Shellfish",
+        "Dairy",
+        "Gluten",
+        "Alcohol"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains selenium"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "corona extra": {
+      "calories": 148,
+      "protein": 1,
+      "carbs": 13,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Barley"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in alcohol",
+        "Contains gluten"
+      ]
+    },
+    "single espresso": {
+      "calories": 5,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 2,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Source of antioxidants",
+        "Contains caffeine"
+      ],
+      "healthWarnings": []
+    },
+    "kujukushima bay oyster platter": {
+      "calories": 180,
+      "protein": 28,
+      "carbs": 8,
+      "fat": 6,
+      "sodium": 380,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Shellfish",
+        "Seaweed"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in zinc",
+        "Low in calories",
+        "Good source of omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "vanilla milkshake": {
+      "calories": 380,
+      "protein": 10,
+      "carbs": 52,
+      "fat": 14,
+      "sodium": 180,
+      "sugar": 48,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of calcium",
+        "Contains protein"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "sparkling brut": {
+      "calories": 110,
+      "protein": 0,
+      "carbs": 2,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Sulfites"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in alcohol"
+      ]
+    },
+    "orange juice": {
+      "calories": 110,
+      "protein": 1,
+      "carbs": 26,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 21,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in vitamin C",
+        "Contains folate"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Low fiber"
+      ]
+    },
+    "36hrs slow cooked australia angus beef cheek": {
+      "calories": 480,
+      "protein": 52,
+      "carbs": 18,
+      "fat": 20,
+      "sodium": 620,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "Source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "field mushroom soup (v)": {
+      "calories": 200,
+      "protein": 6,
+      "carbs": 16,
+      "fat": 12,
+      "sodium": 480,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Gluten",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains umami",
+        "Low in calories"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "sticky date pudding (v)": {
+      "calories": 520,
+      "protein": 8,
+      "carbs": 68,
+      "fat": 24,
+      "sodium": 320,
+      "sugar": 52,
+      "fiber": 3,
+      "allergens": [
+        "Dairy",
+        "Gluten",
+        "Tree Nut",
+        "Alcohol"
+      ],
+      "healthBenefits": [
+        "Contains fiber",
+        "Source of energy"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "grilled pineapple": {
+      "calories": 180,
+      "protein": 1,
+      "carbs": 45,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 35,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "Rich in vitamin C",
+        "Good source of fiber",
+        "Contains bromelain enzyme"
+      ],
+      "healthWarnings": [
+        "High in natural sugars"
+      ]
+    },
+    "kronenbourg": {
+      "calories": 145,
+      "protein": 1,
+      "carbs": 3,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in alcohol",
+        "Empty calories"
+      ]
+    },
+    "chamomile dream (herbal tisane)": {
+      "calories": 5,
+      "protein": 0,
+      "carbs": 1,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Calming properties",
+        "May aid sleep",
+        "Low calorie"
+      ],
+      "healthWarnings": []
+    },
+    "passionfruit & lemon cooler": {
+      "calories": 95,
+      "protein": 0,
+      "carbs": 24,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 20,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Rich in vitamin C",
+        "Natural fruit juice"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in natural sugars"
+      ]
+    },
+    "absolut blue": {
+      "calories": 96,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in alcohol",
+        "Empty calories",
+        "Liver stress"
+      ]
+    },
+    "australia angus grass-fed beef ribeye (250g)": {
+      "calories": 620,
+      "protein": 58,
+      "carbs": 0,
+      "fat": 43,
+      "sodium": 85,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Excellent protein source",
+        "Rich in iron",
+        "Contains B vitamins",
+        "High in omega-3 from grass-fed beef"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "cold cut platter": {
+      "calories": 520,
+      "protein": 38,
+      "carbs": 28,
+      "fat": 32,
+      "sodium": 1240,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good protein source"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in processed meats",
+        "High in saturated fat"
+      ]
+    },
+    "combo tapas": {
+      "calories": 1280,
+      "protein": 65,
+      "carbs": 85,
+      "fat": 62,
+      "sodium": 1680,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Shellfish",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good protein source"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "monkey shoulder": {
+      "calories": 110,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in alcohol",
+        "Empty calories",
+        "Liver stress"
+      ]
+    },
+    "fontanafredda le fronde moscato d'asti": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 12,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 8,
+      "fiber": 0,
+      "allergens": [
+        "Sulfites"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "Moderate alcohol content",
+        "Contains sulfites"
+      ]
+    },
+    "battered fish and chips": {
+      "calories": 485,
+      "protein": 28,
+      "carbs": 52,
+      "fat": 18,
+      "sodium": 680,
+      "sugar": 1,
+      "fiber": 3,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good protein source",
+        "Contains omega-3 from fish"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Deep fried"
+      ]
+    },
+    "patron anejo": {
+      "calories": 110,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in alcohol",
+        "Empty calories",
+        "Liver stress"
+      ]
+    },
+    "tait \"the wild ride\"": {
+      "calories": 135,
+      "protein": 0,
+      "carbs": 4,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Sulfites"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Resveratrol content"
+      ],
+      "healthWarnings": [
+        "Contains sulfites",
+        "Moderate to high alcohol content"
+      ]
+    },
+    "digiorgio \"coonawarra\" chardonnay": {
+      "calories": 125,
+      "protein": 0,
+      "carbs": 3,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Sulfites"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "Contains sulfites",
+        "Moderate alcohol content"
+      ]
+    },
+    "pepsi black": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 35,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Zero calories"
+      ],
+      "healthWarnings": [
+        "Contains artificial sweeteners",
+        "Contains caffeine"
+      ]
+    },
+    "australia black angus tomahawk (1.2kg)": {
+      "calories": 2980,
+      "protein": 276,
+      "carbs": 0,
+      "fat": 206,
+      "sodium": 408,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Excellent protein source",
+        "Rich in iron",
+        "Contains B vitamins"
+      ],
+      "healthWarnings": [
+        "Very high in saturated fat",
+        "Very high in calories",
+        "For sharing"
+      ]
+    },
+    "laurent perrier la cuvee brut": {
+      "calories": 160,
+      "protein": 0,
+      "carbs": 5,
+      "fat": 0,
+      "sodium": 8,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Sulfites"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "Contains sulfites",
+        "Moderate alcohol content"
+      ]
+    },
+    "classic margarita": {
+      "calories": 280,
+      "protein": 0,
+      "carbs": 24,
+      "fat": 0,
+      "sodium": 8,
+      "sugar": 20,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains vitamin C from lime juice"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in alcohol",
+        "Empty calories"
+      ]
+    },
+    "never never triple juniper": {
+      "calories": 105,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in alcohol",
+        "Empty calories",
+        "Liver stress"
+      ]
+    },
+    "coeur de lion, drouin calvados": {
+      "calories": 110,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in alcohol",
+        "Empty calories",
+        "Liver stress"
+      ]
+    },
+    "iced lemon tea": {
+      "calories": 120,
+      "protein": 0,
+      "carbs": 32,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 30,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Hydrating",
+        "Contains vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "somersby apple cider": {
+      "calories": 210,
+      "protein": 0,
+      "carbs": 18,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 16,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "Alcoholic beverage",
+        "Contains alcohol"
+      ]
+    },
+    "chimichurri": {
+      "calories": 150,
+      "protein": 1,
+      "carbs": 2,
+      "fat": 16,
+      "sodium": 280,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains herbs"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in sodium"
+      ]
+    },
+    "chicken parmigiana": {
+      "calories": 480,
+      "protein": 32,
+      "carbs": 45,
+      "fat": 18,
+      "sodium": 620,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in carbs"
+      ]
+    },
+    "french onion soup": {
+      "calories": 280,
+      "protein": 14,
+      "carbs": 18,
+      "fat": 18,
+      "sodium": 850,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains onions"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "bacardi white": {
+      "calories": 110,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Alcoholic beverage",
+        "Contains alcohol"
+      ]
+    },
+    "long black": {
+      "calories": 5,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains caffeine",
+        "Very low calorie"
+      ],
+      "healthWarnings": []
+    },
+    "ipa": {
+      "calories": 180,
+      "protein": 2,
+      "carbs": 12,
+      "fat": 0,
+      "sodium": 50,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Alcoholic beverage",
+        "Contains alcohol"
+      ]
+    },
+    "hardys the riddle brut reserve": {
+      "calories": 95,
+      "protein": 0,
+      "carbs": 3,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Alcoholic beverage",
+        "Contains alcohol"
+      ]
+    },
+    "wagyu beef bolognese pasta": {
+      "calories": 520,
+      "protein": 36,
+      "carbs": 48,
+      "fat": 22,
+      "sodium": 580,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in fat"
+      ]
+    },
+    "somersby passion fruit orange": {
+      "calories": 210,
+      "protein": 0,
+      "carbs": 20,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 18,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "Alcoholic beverage",
+        "Contains alcohol"
+      ]
+    },
+    "pineapple juice": {
+      "calories": 130,
+      "protein": 1,
+      "carbs": 32,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 28,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains vitamin C",
+        "Contains bromelain"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "No fiber"
+      ]
+    },
+    "champagne gerbaux extra brut, l'authentique, l'empreinte de raymond": {
+      "calories": 100,
+      "protein": 0,
+      "carbs": 2,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low sugar champagne"
+      ],
+      "healthWarnings": [
+        "Alcoholic beverage",
+        "Contains alcohol"
+      ]
+    },
+    "patron reposado": {
+      "calories": 110,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Alcoholic beverage",
+        "Contains alcohol"
+      ]
+    },
+    "tarragon bearnaise": {
+      "calories": 160,
+      "protein": 2,
+      "carbs": 1,
+      "fat": 17,
+      "sodium": 320,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in fat",
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "chocolate fondant lava cake": {
+      "calories": 420,
+      "protein": 6,
+      "carbs": 52,
+      "fat": 21,
+      "sodium": 140,
+      "sugar": 42,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in fat",
+        "High in saturated fat"
+      ]
+    },
+    "supreme earl grey (black tea)": {
+      "calories": 5,
+      "protein": 0,
+      "carbs": 1,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Contains caffeine",
+        "Very low calorie"
+      ],
+      "healthWarnings": []
+    },
+    "iced lychee melon tea": {
+      "calories": 125,
+      "protein": 0,
+      "carbs": 32,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 30,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "hendrick's gin": {
+      "calories": 110,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Alcoholic beverage",
+        "Contains alcohol"
+      ]
+    },
+    "7-up": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 35,
+      "fat": 0,
+      "sodium": 65,
+      "sugar": 35,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "strawberry milkshake": {
+      "calories": 420,
+      "protein": 12,
+      "carbs": 68,
+      "fat": 12,
+      "sodium": 180,
+      "sugar": 55,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of calcium",
+        "Contains probiotics"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "tait \"basket pressed\" shiraz": {
+      "calories": 145,
+      "protein": 0.2,
+      "carbs": 4,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Sulfites"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "May support heart health"
+      ],
+      "healthWarnings": [
+        "Contains alcohol",
+        "High in sugar per serving"
+      ]
+    },
+    "café latte": {
+      "calories": 180,
+      "protein": 10,
+      "carbs": 14,
+      "fat": 8,
+      "sodium": 140,
+      "sugar": 12,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of calcium",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "beef bolognese pasta": {
+      "calories": 520,
+      "protein": 32,
+      "carbs": 58,
+      "fat": 18,
+      "sodium": 850,
+      "sugar": 8,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "belvedere": {
+      "calories": 110,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Contains alcohol",
+        "High in calories"
+      ]
+    },
+    "whisky highball": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 3,
+      "fat": 0,
+      "sodium": 25,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Contains alcohol",
+        "High in empty calories"
+      ]
+    },
+    "charcoal grilled spatchcock chicken (half)": {
+      "calories": 480,
+      "protein": 52,
+      "carbs": 28,
+      "fat": 18,
+      "sodium": 720,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Excellent source of protein",
+        "Rich in B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "steak tartare (2pcs)": {
+      "calories": 280,
+      "protein": 32,
+      "carbs": 2,
+      "fat": 16,
+      "sodium": 380,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Excellent source of protein",
+        "High in iron and B12"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "Food safety risk"
+      ]
+    },
+    "australia angus grass-fed beef tenderloin (200g)": {
+      "calories": 420,
+      "protein": 54,
+      "carbs": 0,
+      "fat": 22,
+      "sodium": 95,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Excellent source of protein",
+        "Rich in iron and zinc",
+        "Contains omega-3"
+      ],
+      "healthWarnings": [
+        "High in saturated fat"
+      ]
+    },
+    "hennessy vsop": {
+      "calories": 105,
+      "protein": 0,
+      "carbs": 0.5,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Contains alcohol",
+        "High in empty calories"
+      ]
+    },
+    "cheese platter": {
+      "calories": 580,
+      "protein": 28,
+      "carbs": 42,
+      "fat": 36,
+      "sodium": 1200,
+      "sugar": 18,
+      "fiber": 3,
+      "allergens": [
+        "Dairy",
+        "Tree Nut",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of calcium",
+        "Contains probiotics"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "seafood appetizer platter": {
+      "calories": 680,
+      "protein": 68,
+      "carbs": 32,
+      "fat": 28,
+      "sodium": 1400,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Fish",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Excellent source of protein",
+        "Rich in omega-3",
+        "Good source of selenium"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Shellfish allergen risk"
+      ]
+    },
+    "amicale bianco veneto igt": {
+      "calories": 120,
+      "protein": 0.1,
+      "carbs": 3,
+      "fat": 0,
+      "sodium": 12,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Sulfites"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "Contains alcohol"
+      ]
+    },
+    "signature calamari": {
+      "calories": 320,
+      "protein": 28,
+      "carbs": 16,
+      "fat": 16,
+      "sodium": 680,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Shellfish",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Rich in selenium"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "summer berries fizz": {
+      "calories": 95,
+      "protein": 0.5,
+      "carbs": 24,
+      "fat": 0,
+      "sodium": 35,
+      "sugar": 20,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Good source of vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "trio cuts of australia grass-fed beef": {
+      "calories": 1240,
+      "protein": 158,
+      "carbs": 0,
+      "fat": 66,
+      "sodium": 280,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Excellent source of protein",
+        "Rich in iron and B12",
+        "Contains omega-3"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "Very high in calories"
+      ]
+    },
+    "chivas regal 12 years": {
+      "calories": 105,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Contains alcohol",
+        "High in empty calories"
+      ]
+    },
+    "queensland coast spanner crab cakes": {
+      "calories": 340,
+      "protein": 24,
+      "carbs": 28,
+      "fat": 16,
+      "sodium": 920,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains zinc"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Shellfish allergen risk"
+      ]
+    },
+    "blackened tasmanian salmon - dry aged for 14 days": {
+      "calories": 420,
+      "protein": 48,
+      "carbs": 18,
+      "fat": 18,
+      "sodium": 580,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Excellent source of protein",
+        "Rich in omega-3",
+        "Good source of vitamin D"
+      ],
+      "healthWarnings": [
+        "Moderate sodium content"
+      ]
+    },
+    "lindsay estate barossa shiraz the sumit": {
+      "calories": 135,
+      "protein": 0.16,
+      "carbs": 4.5,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains resveratrol",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "Contains alcohol",
+        "Higher sugar content",
+        "Premium wine with higher alcohol"
+      ]
+    },
+    "strawberry cream (herbal tisane)": {
+      "calories": 120,
+      "protein": 0.5,
+      "carbs": 28,
+      "fat": 0.5,
+      "sodium": 25,
+      "sugar": 24,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains herbal antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains dairy"
+      ]
+    },
+    "josper roast chicken leg": {
+      "calories": 520,
+      "protein": 48,
+      "carbs": 32,
+      "fat": 18,
+      "sodium": 680,
+      "sugar": 8,
+      "fiber": 4,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "sanchoku f1 australia wagyu coulotte steak mb 4-5 (200g)": {
+      "calories": 620,
+      "protein": 52,
+      "carbs": 0,
+      "fat": 48,
+      "sodium": 480,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "Good source of B12"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in cholesterol"
+      ]
+    },
+    "petite ceasar salad": {
+      "calories": 320,
+      "protein": 18,
+      "carbs": 12,
+      "fat": 22,
+      "sodium": 520,
+      "sugar": 2,
+      "fiber": 3,
+      "allergens": [
+        "Dairy",
+        "Fish",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of vegetables",
+        "Contains fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "somersby mango & lime": {
+      "calories": 180,
+      "protein": 0.2,
+      "carbs": 16,
+      "fat": 0,
+      "sodium": 18,
+      "sugar": 14,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in alcohol"
+      ]
+    },
+    "granmonte sparkling rosé méthode traditionelle brut": {
+      "calories": 120,
+      "protein": 0.2,
+      "carbs": 2.5,
+      "fat": 0,
+      "sodium": 8,
+      "sugar": 1.5,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low sugar sparkling wine"
+      ],
+      "healthWarnings": [
+        "Contains alcohol",
+        "Contains sulfites"
+      ]
+    },
+    "patron silver": {
+      "calories": 110,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in alcohol"
+      ]
+    },
+    "mug root beer": {
+      "calories": 160,
+      "protein": 0,
+      "carbs": 44,
+      "fat": 0,
+      "sodium": 75,
+      "sugar": 42,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Very high in sugar"
+      ]
+    },
+    "logan weemala sauvignon blanc": {
+      "calories": 120,
+      "protein": 0.2,
+      "carbs": 3,
+      "fat": 0,
+      "sodium": 8,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "Contains alcohol",
+        "Contains sulfites"
+      ]
+    },
+    "monkey 47 gin": {
+      "calories": 110,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in alcohol"
+      ]
+    },
+    "iced strawberry tea": {
+      "calories": 140,
+      "protein": 0.5,
+      "carbs": 32,
+      "fat": 0,
+      "sodium": 30,
+      "sugar": 28,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants from tea"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "black pepper butter sauce": {
+      "calories": 180,
+      "protein": 0.5,
+      "carbs": 2,
+      "fat": 18,
+      "sodium": 340,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "nikka from the barrel": {
+      "calories": 105,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in alcohol"
+      ]
+    },
+    "cappuccino": {
+      "calories": 140,
+      "protein": 8,
+      "carbs": 10,
+      "fat": 6,
+      "sodium": 115,
+      "sugar": 8,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "Contains caffeine"
+      ]
+    },
+    "lime juice": {
+      "calories": 50,
+      "protein": 0.5,
+      "carbs": 12,
+      "fat": 0,
+      "sodium": 8,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Rich in vitamin C",
+        "Low calorie"
+      ],
+      "healthWarnings": []
+    },
+    "signature bombe alaska": {
+      "calories": 480,
+      "protein": 8,
+      "carbs": 58,
+      "fat": 22,
+      "sodium": 180,
+      "sugar": 48,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in saturated fat",
+        "Contains alcohol"
+      ]
+    },
+    "chocolate milkshake": {
+      "calories": 380,
+      "protein": 12,
+      "carbs": 54,
+      "fat": 12,
+      "sodium": 180,
+      "sugar": 48,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "Very high in sugar"
+      ]
+    },
+    "grey goose": {
+      "calories": 110,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in alcohol"
+      ]
+    },
+    "battered fish & chips": {
+      "calories": 580,
+      "protein": 28,
+      "carbs": 52,
+      "fat": 24,
+      "sodium": 720,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Fish",
+        "Dairy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "sapporo": {
+      "calories": 140,
+      "protein": 1.2,
+      "carbs": 3.5,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in alcohol",
+        "Empty calories"
+      ]
+    },
+    "barossa punch": {
+      "calories": 160,
+      "protein": 0,
+      "carbs": 12,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 10,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in alcohol",
+        "High in sugar"
+      ]
+    },
+    "seafood bouillabaisse": {
+      "calories": 680,
+      "protein": 58,
+      "carbs": 32,
+      "fat": 28,
+      "sodium": 1200,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Shellfish",
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "High in omega-3",
+        "Good source of selenium"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in saturated fat"
+      ]
+    },
+    "sparkling peach sunrise": {
+      "calories": 120,
+      "protein": 0.5,
+      "carbs": 28,
+      "fat": 0,
+      "sodium": 25,
+      "sugar": 26,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "yumbah mussel in a pot": {
+      "calories": 280,
+      "protein": 22,
+      "carbs": 18,
+      "fat": 12,
+      "sodium": 850,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Shellfish",
+        "Dairy",
+        "Gluten",
+        "Alcohol"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron",
+        "High in selenium"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Contains alcohol"
+      ]
+    },
+    "mini wagyu beef burger (3pcs)": {
+      "calories": 420,
+      "protein": 24,
+      "carbs": 34,
+      "fat": 18,
+      "sodium": 680,
+      "sugar": 8,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Beef"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "Moderate sodium"
+      ]
+    },
+    "adelaide river humpty doo barramundi fish & chips": {
+      "calories": 620,
+      "protein": 38,
+      "carbs": 48,
+      "fat": 26,
+      "sodium": 950,
+      "sugar": 2,
+      "fiber": 3,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "High in omega-3",
+        "Good source of selenium"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "corte giara pinot grigio delle venezie doc": {
+      "calories": 128,
+      "protein": 0.1,
+      "carbs": 3,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 1.5,
+      "fiber": 0,
+      "allergens": [
+        "Alcohol",
+        "Sulfites"
+      ],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in alcohol"
+      ]
+    },
+    "mountain dew": {
+      "calories": 110,
+      "protein": 0,
+      "carbs": 29,
+      "fat": 0,
+      "sodium": 65,
+      "sugar": 28,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in sodium"
+      ]
+    },
+    "duo of duck taco (1/2 duck)": {
+      "calories": 720,
+      "protein": 52,
+      "carbs": 28,
+      "fat": 42,
+      "sodium": 1100,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Sesame",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron",
+        "High in B vitamins"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "old fashioned": {
+      "calories": 180,
+      "protein": 0,
+      "carbs": 8,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 7,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in alcohol",
+        "High in sugar"
+      ]
+    },
+    "carlsberg alcohol free pilsner": {
+      "calories": 65,
+      "protein": 0.5,
+      "carbs": 3,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Low alcohol",
+        "Low calorie"
+      ],
+      "healthWarnings": []
+    },
+    "ginger lemonade": {
+      "calories": 95,
+      "protein": 0,
+      "carbs": 24,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 20,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "May aid digestion",
+        "Good source of vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "connors": {
+      "calories": 155,
+      "protein": 1.5,
+      "carbs": 4,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in alcohol",
+        "Empty calories"
+      ]
+    },
+    "sanchoku wagyu beef burger": {
+      "calories": 680,
+      "protein": 52,
+      "carbs": 42,
+      "fat": 32,
+      "sodium": 920,
+      "sugar": 8,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains iron"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in sodium",
+        "High in calories",
+        "High in saturated fat"
+      ]
+    },
+    "australia wagyu tri tip mb6-7 (200g)": {
+      "calories": 480,
+      "protein": 52,
+      "carbs": 0,
+      "fat": 28,
+      "sodium": 95,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Beef"
+      ],
+      "healthBenefits": [
+        "Very high in protein",
+        "Good source of iron",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in cholesterol"
+      ]
+    },
+    "lemongrass detox (herbal tisane)": {
+      "calories": 5,
+      "protein": 0,
+      "carbs": 1,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Very low calorie",
+        "May aid digestion"
+      ],
+      "healthWarnings": []
+    },
+    "digiorgio \"coonawarra\" shiraz": {
+      "calories": 127,
+      "protein": 0.12,
+      "carbs": 3.7,
+      "fat": 0,
+      "sodium": 13,
+      "sugar": 1.4,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains resveratrol",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "Contains alcohol",
+        "Moderate sugar content"
+      ]
+    },
+    "aburi brulee cheesecake": {
+      "calories": 420,
+      "protein": 8,
+      "carbs": 42,
+      "fat": 22,
+      "sodium": 280,
+      "sugar": 35,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of calcium"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "cranberry juice": {
+      "calories": 60,
+      "protein": 0,
+      "carbs": 14,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 12,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of vitamin C",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "iced black": {
+      "calories": 5,
+      "protein": 0,
+      "carbs": 1,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "kombu truffle butter": {
+      "calories": 180,
+      "protein": 0,
+      "carbs": 2,
+      "fat": 20,
+      "sodium": 200,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "chivas regal 18 years": {
+      "calories": 105,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Contains alcohol",
+        "High in calories per serving"
+      ]
+    },
+    "hibiki harmony": {
+      "calories": 105,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Contains alcohol",
+        "High in calories per serving"
+      ]
+    },
+    "josper grilled abrolhos island octopus": {
+      "calories": 320,
+      "protein": 38,
+      "carbs": 12,
+      "fat": 13,
+      "sodium": 580,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in minerals",
+        "Low in saturated fat"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "singapore sling": {
+      "calories": 280,
+      "protein": 0,
+      "carbs": 24,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 22,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains alcohol",
+        "High in calories"
+      ]
+    },
+    "carnivore platter": {
+      "calories": 1850,
+      "protein": 156,
+      "carbs": 28,
+      "fat": 108,
+      "sodium": 2400,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Pork",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "Very high in fat",
+        "Very high in sodium",
+        "Very high in calories",
+        "High in saturated fat"
+      ]
+    },
+    "blue pyrenees richardson reserve shiraz": {
+      "calories": 142,
+      "protein": 0.2,
+      "carbs": 4.2,
+      "fat": 0,
+      "sodium": 13,
+      "sugar": 1.3,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Contains resveratrol"
+      ],
+      "healthWarnings": [
+        "High in alcohol",
+        "Contains sulfites"
+      ]
+    },
+    "tasmania grass-fed lamb rump cap (200g)": {
+      "calories": 420,
+      "protein": 52,
+      "carbs": 0,
+      "fat": 22,
+      "sodium": 95,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Excellent source of protein",
+        "Rich in iron",
+        "Rich in B12",
+        "Contains omega-3 fatty acids"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "ginger ale": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 36,
+      "fat": 0,
+      "sodium": 40,
+      "sugar": 35,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "May aid digestion"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "bordelaise red wine sauce": {
+      "calories": 85,
+      "protein": 2,
+      "carbs": 6,
+      "fat": 5,
+      "sodium": 420,
+      "sugar": 3,
+      "fiber": 0,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "blackened tasmanian salmon": {
+      "calories": 420,
+      "protein": 45,
+      "carbs": 24,
+      "fat": 16,
+      "sodium": 680,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Fish",
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "Excellent source of protein",
+        "Rich in omega-3 fatty acids",
+        "Good source of vitamin D"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "grant burge benchmark": {
+      "calories": 155,
+      "protein": 0,
+      "carbs": 5,
+      "fat": 0,
+      "sodium": 25,
+      "sugar": 3,
+      "fiber": 0,
+      "allergens": [
+        "Sulfites"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "Contains alcohol",
+        "High in calories"
+      ]
+    },
+    "iced latte": {
+      "calories": 120,
+      "protein": 6,
+      "carbs": 11,
+      "fat": 4,
+      "sodium": 75,
+      "sugar": 9,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of calcium",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "Contains caffeine"
+      ]
+    },
+    "bucket of 4": {
+      "calories": 480,
+      "protein": 4,
+      "carbs": 16,
+      "fat": 0,
+      "sodium": 80,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in calories",
+        "Contains alcohol"
+      ]
+    },
+    "pu-erh with pear (pu-erh)": {
+      "calories": 35,
+      "protein": 0,
+      "carbs": 8,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 7,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "May aid digestion"
+      ],
+      "healthWarnings": [
+        "Contains caffeine"
+      ]
+    },
+    "strawberry cream soda": {
+      "calories": 280,
+      "protein": 3,
+      "carbs": 42,
+      "fat": 10,
+      "sodium": 85,
+      "sugar": 38,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in calories",
+        "High in fat"
+      ]
+    },
+    "sanchoku wagyu classic steak tartare": {
+      "calories": 380,
+      "protein": 42,
+      "carbs": 8,
+      "fat": 18,
+      "sodium": 520,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Egg",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Excellent source of protein",
+        "Rich in iron",
+        "Rich in B vitamins"
+      ],
+      "healthWarnings": [
+        "Raw meat consumption risk",
+        "High in cholesterol",
+        "High in sodium"
+      ]
+    },
+    "cucumber fizz lemonade": {
+      "calories": 85,
+      "protein": 0,
+      "carbs": 22,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 18,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Hydrating"
+      ],
+      "healthWarnings": [
+        "Contains sugar"
+      ]
+    },
+    "angus grass fed sirloin": {
+      "calories": 520,
+      "protein": 52,
+      "carbs": 8,
+      "fat": 28,
+      "sodium": 680,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein",
+        "High in iron",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "Moderate sodium"
+      ]
+    },
+    "iced cappuccino": {
+      "calories": 180,
+      "protein": 7,
+      "carbs": 16,
+      "fat": 8,
+      "sodium": 140,
+      "sugar": 14,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of calcium",
+        "Contains caffeine"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains dairy"
+      ]
+    },
+    "australia pork rack shio koji dry age": {
+      "calories": 620,
+      "protein": 58,
+      "carbs": 5,
+      "fat": 38,
+      "sodium": 890,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of selenium"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "white ginger pear (white tea)": {
+      "calories": 45,
+      "protein": 0,
+      "carbs": 11,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 10,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "Contains sugar"
+      ]
+    },
+    "blue pyrenees richardson cabernet sauvignon": {
+      "calories": 130,
+      "protein": 0,
+      "carbs": 4,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 3,
+      "fiber": 0,
+      "allergens": [
+        "Sulfites"
+      ],
+      "healthBenefits": [
+        "Contains resveratrol",
+        "Low in calories"
+      ],
+      "healthWarnings": [
+        "Contains alcohol",
+        "Contains sulfites"
+      ]
+    },
+    "meat platters": {
+      "calories": 2280,
+      "protein": 168,
+      "carbs": 92,
+      "fat": 138,
+      "sodium": 2240,
+      "sugar": 8,
+      "fiber": 4,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "Very high in saturated fat",
+        "Very high in sodium",
+        "High in calories"
+      ]
+    },
+    "long island tea": {
+      "calories": 280,
+      "protein": 0,
+      "carbs": 28,
+      "fat": 0,
+      "sodium": 25,
+      "sugar": 26,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in alcohol",
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "digiorgio \"coonawarra\"": {
+      "calories": 130,
+      "protein": 0,
+      "carbs": 5,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 4,
+      "fiber": 0,
+      "allergens": [
+        "Sulfites",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "Contains alcohol",
+        "Contains sulfites"
+      ]
+    },
+    "rockwines 10 things": {
+      "calories": 125,
+      "protein": 0,
+      "carbs": 6,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 5,
+      "fiber": 0,
+      "allergens": [
+        "Sulfites"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Low calorie"
+      ],
+      "healthWarnings": [
+        "Contains alcohol",
+        "Contains sulfites"
+      ]
+    },
+    "australia beef bone marrow": {
+      "calories": 520,
+      "protein": 24,
+      "carbs": 18,
+      "fat": 38,
+      "sodium": 620,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of collagen",
+        "Contains healthy fats"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in calories",
+        "Moderate sodium"
+      ]
+    },
+    "virgin cosmo": {
+      "calories": 95,
+      "protein": 0,
+      "carbs": 22,
+      "fat": 0,
+      "sodium": 35,
+      "sugar": 20,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "japan a5 wagyu striploin (per 100g)": {
+      "calories": 320,
+      "protein": 28,
+      "carbs": 0,
+      "fat": 24,
+      "sodium": 60,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in omega-9 fatty acids"
+      ],
+      "healthWarnings": [
+        "Very high in saturated fat",
+        "High in calories"
+      ]
+    },
+    "raspberry martini": {
+      "calories": 190,
+      "protein": 0,
+      "carbs": 18,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 16,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in alcohol",
+        "High in sugar"
+      ]
+    },
+    "black tea cocoa (black tea)": {
+      "calories": 140,
+      "protein": 4,
+      "carbs": 18,
+      "fat": 4,
+      "sodium": 85,
+      "sugar": 16,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "Contains sugar",
+        "High in sodium"
+      ]
+    },
+    "peter zemmer pinot noir alto aldige doc": {
+      "calories": 128,
+      "protein": 0,
+      "carbs": 4,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 3,
+      "fiber": 0,
+      "allergens": [
+        "Sulfites"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Low calorie"
+      ],
+      "healthWarnings": [
+        "Contains alcohol",
+        "Contains sulfites"
+      ]
+    },
+    "grilled australia rock lobster (per 100g)": {
+      "calories": 95,
+      "protein": 20,
+      "carbs": 0,
+      "fat": 1,
+      "sodium": 280,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Shellfish",
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Low in fat",
+        "Good source of selenium"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "lychee martini": {
+      "calories": 185,
+      "protein": 0,
+      "carbs": 16,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 14,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in alcohol",
+        "High in sugar"
+      ]
+    },
+    "moroccan mint (green tea)": {
+      "calories": 35,
+      "protein": 0,
+      "carbs": 8,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 7,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "Contains sugar"
+      ]
+    },
+    "stone bay pinot noir": {
+      "calories": 128,
+      "protein": 0,
+      "carbs": 4,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 3,
+      "fiber": 0,
+      "allergens": [
+        "Sulfites"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Low calorie"
+      ],
+      "healthWarnings": [
+        "Contains alcohol",
+        "Contains sulfites"
+      ]
+    },
+    "bikini de jamon (8pcs)": {
+      "calories": 320,
+      "protein": 18,
+      "carbs": 16,
+      "fat": 20,
+      "sodium": 740,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "chablis begue mathiot": {
+      "calories": 121,
+      "protein": 0.1,
+      "carbs": 2.5,
+      "fat": 0,
+      "sodium": 8,
+      "sugar": 1.2,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in calories",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "Contains alcohol"
+      ]
+    },
+    "bread basket": {
+      "calories": 385,
+      "protein": 9.2,
+      "carbs": 58.3,
+      "fat": 12.8,
+      "sodium": 625,
+      "sugar": 1.5,
+      "fiber": 2.4,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat",
+        "Contains gluten"
+      ]
+    },
+    "toi toi central otago pinot noir": {
+      "calories": 128,
+      "protein": 0.1,
+      "carbs": 3.8,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 2.1,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains resveratrol",
+        "Low in calories"
+      ],
+      "healthWarnings": [
+        "Contains alcohol",
+        "High in sugar"
+      ]
+    },
+    "never never classic g&t": {
+      "calories": 98,
+      "protein": 0,
+      "carbs": 2.5,
+      "fat": 0,
+      "sodium": 35,
+      "sugar": 0.5,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in calories",
+        "Low in sugar"
+      ],
+      "healthWarnings": [
+        "Contains alcohol"
+      ]
+    },
+    "allan scott \"marlborough\"": {
+      "calories": 119,
+      "protein": 0.1,
+      "carbs": 2.2,
+      "fat": 0,
+      "sodium": 9,
+      "sugar": 1.1,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Low in calories"
+      ],
+      "healthWarnings": [
+        "Contains alcohol"
+      ]
+    },
+    "kies \"chaff mill\" cabernet sauvignon": {
+      "calories": 135,
+      "protein": 0.1,
+      "carbs": 4.2,
+      "fat": 0,
+      "sodium": 12,
+      "sugar": 2.8,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains polyphenols",
+        "Low in calories"
+      ],
+      "healthWarnings": [
+        "Contains alcohol",
+        "High in sugar"
+      ]
+    },
+    "aperol spritz": {
+      "calories": 112,
+      "protein": 0,
+      "carbs": 8.5,
+      "fat": 0,
+      "sodium": 42,
+      "sugar": 7.2,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in calories"
+      ],
+      "healthWarnings": [
+        "Contains alcohol",
+        "High in sugar"
+      ]
+    },
+    "pouilly fume jean pabiot les fines caillottes": {
+      "calories": 122,
+      "protein": 0.1,
+      "carbs": 2.8,
+      "fat": 0,
+      "sodium": 8,
+      "sugar": 1.3,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Low in calories"
+      ],
+      "healthWarnings": [
+        "Contains alcohol"
+      ]
+    },
+    "negroni": {
+      "calories": 165,
+      "protein": 0,
+      "carbs": 4.8,
+      "fat": 0,
+      "sodium": 8,
+      "sugar": 1.5,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Contains alcohol",
+        "High in calories"
+      ]
+    },
+    "kies \"monkey nut tree\" merlot": {
+      "calories": 130,
+      "protein": 0.1,
+      "carbs": 3.5,
+      "fat": 0,
+      "sodium": 11,
+      "sugar": 2.4,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "Contains alcohol",
+        "High in sugar"
+      ]
+    },
+    "soave doc classico bassanella poderi": {
+      "calories": 118,
+      "protein": 0.1,
+      "carbs": 2.1,
+      "fat": 0,
+      "sodium": 7,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Low in calories"
+      ],
+      "healthWarnings": [
+        "Contains alcohol"
+      ]
+    },
+    "de bortoli the estate vineyard": {
+      "calories": 117,
+      "protein": 0.1,
+      "carbs": 2,
+      "fat": 0,
+      "sodium": 7,
+      "sugar": 0.9,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Low in calories"
+      ],
+      "healthWarnings": [
+        "Contains alcohol"
+      ]
+    },
+    "lindsay cabernet sauvignon shanty on the rise": {
+      "calories": 132,
+      "protein": 0.1,
+      "carbs": 3.9,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 2.6,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains resveratrol"
+      ],
+      "healthWarnings": [
+        "Contains alcohol",
+        "High in sugar"
+      ]
+    },
+    "limoncello martini": {
+      "calories": 142,
+      "protein": 0,
+      "carbs": 9.2,
+      "fat": 0,
+      "sodium": 12,
+      "sugar": 8.1,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Contains alcohol",
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "lindsay merlot boundary rider": {
+      "calories": 129,
+      "protein": 0.1,
+      "carbs": 3.6,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 2.3,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "Contains alcohol",
+        "High in sugar"
+      ]
+    },
+    "yihu chardonnay": {
+      "calories": 125,
+      "protein": 0.1,
+      "carbs": 2.9,
+      "fat": 0,
+      "sodium": 8,
+      "sugar": 1.4,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Low in calories"
+      ],
+      "healthWarnings": [
+        "Contains alcohol"
+      ]
+    },
+    "hugo": {
+      "calories": 108,
+      "protein": 0,
+      "carbs": 7.8,
+      "fat": 0,
+      "sodium": 38,
+      "sugar": 6.5,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in calories"
+      ],
+      "healthWarnings": [
+        "Contains alcohol",
+        "High in sugar"
+      ]
+    },
+    "granmonte verdelho": {
+      "calories": 126,
+      "protein": 0.1,
+      "carbs": 2.5,
+      "fat": 0,
+      "sodium": 8,
+      "sugar": 1.2,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Low in calories"
+      ],
+      "healthWarnings": [
+        "Contains alcohol"
+      ]
+    },
+    "cantine volpi - barbera d'asti superiore doc": {
+      "calories": 138,
+      "protein": 0.1,
+      "carbs": 4.5,
+      "fat": 0,
+      "sodium": 11,
+      "sugar": 3.2,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Contains resveratrol"
+      ],
+      "healthWarnings": [
+        "Contains alcohol",
+        "High in sugar"
+      ]
+    },
+    "orient viognier": {
+      "calories": 128,
+      "protein": 0.1,
+      "carbs": 3.1,
+      "fat": 0,
+      "sodium": 9,
+      "sugar": 1.6,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Low in calories"
+      ],
+      "healthWarnings": [
+        "Contains alcohol"
+      ]
+    },
+    "murari - amarone della valpolicella docg": {
+      "calories": 125,
+      "protein": 0.1,
+      "carbs": 3.5,
+      "fat": 0,
+      "sodium": 8,
+      "sugar": 2.8,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "May support heart health"
+      ],
+      "healthWarnings": [
+        "High in alcohol",
+        "Contains sulfites"
+      ]
+    },
+    "spring chenin blanc": {
+      "calories": 120,
+      "protein": 0.1,
+      "carbs": 3.2,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 2.5,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Low in sodium"
+      ],
+      "healthWarnings": [
+        "High in alcohol",
+        "Contains sulfites"
+      ]
+    },
+    "chateau cap leon veyrin cru bourgeois superieur aoc listrac medoc": {
+      "calories": 128,
+      "protein": 0.1,
+      "carbs": 4.1,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 3.2,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Rich in polyphenols",
+        "May support cardiovascular health"
+      ],
+      "healthWarnings": [
+        "High in alcohol",
+        "Contains sulfites"
+      ]
+    },
+    "château tour de bossuet lalande de pomerol": {
+      "calories": 126,
+      "protein": 0.1,
+      "carbs": 3.8,
+      "fat": 0,
+      "sodium": 7,
+      "sugar": 3,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains resveratrol",
+        "Rich in antioxidants"
+      ],
+      "healthWarnings": [
+        "High in alcohol",
+        "Contains sulfites"
+      ]
+    },
+    "villa maria wairau reserve": {
+      "calories": 118,
+      "protein": 0.1,
+      "carbs": 2.9,
+      "fat": 0,
+      "sodium": 4,
+      "sugar": 2.3,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie option",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in alcohol",
+        "Contains sulfites"
+      ]
+    },
+    "chateau plince pomerol": {
+      "calories": 130,
+      "protein": 0.1,
+      "carbs": 4.5,
+      "fat": 0,
+      "sodium": 12,
+      "sugar": 3.5,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in tannins",
+        "Contains polyphenols"
+      ],
+      "healthWarnings": [
+        "High in alcohol",
+        "Contains sulfites"
+      ]
+    },
+    "ramon bilbao rueda verdejo": {
+      "calories": 115,
+      "protein": 0.1,
+      "carbs": 2.8,
+      "fat": 0,
+      "sodium": 3,
+      "sugar": 2.1,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in alcohol",
+        "Contains sulfites"
+      ]
+    },
+    "rozier beekeeper chenin blanc reserve": {
+      "calories": 119,
+      "protein": 0.1,
+      "carbs": 3.1,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 2.4,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Lively acidity",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in alcohol",
+        "Contains sulfites"
+      ]
+    },
+    "flavabom vine dried shiraz": {
+      "calories": 127,
+      "protein": 0.1,
+      "carbs": 4,
+      "fat": 0,
+      "sodium": 9,
+      "sugar": 3.1,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Rich in antioxidants",
+        "Contains resveratrol"
+      ],
+      "healthWarnings": [
+        "High in alcohol",
+        "Contains sulfites"
+      ]
+    },
+    "daou bodyguard": {
+      "calories": 122,
+      "protein": 0.1,
+      "carbs": 3.5,
+      "fat": 0,
+      "sodium": 6,
+      "sugar": 2.7,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Low in sodium"
+      ],
+      "healthWarnings": [
+        "High in alcohol",
+        "Contains sulfites"
+      ]
+    },
+    "lindsay barossa shiraz the selector": {
+      "calories": 129,
+      "protein": 0.1,
+      "carbs": 4.2,
+      "fat": 0,
+      "sodium": 11,
+      "sugar": 3.3,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in polyphenols",
+        "May support heart health"
+      ],
+      "healthWarnings": [
+        "High in alcohol",
+        "Contains sulfites"
+      ]
+    },
+    "la boheme syrah gamay": {
+      "calories": 124,
+      "protein": 0.1,
+      "carbs": 3.7,
+      "fat": 0,
+      "sodium": 8,
+      "sugar": 2.9,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Rich in tannins"
+      ],
+      "healthWarnings": [
+        "High in alcohol",
+        "Contains sulfites"
+      ]
+    },
+    "alain & adrien gautherin petit chablis": {
+      "calories": 121,
+      "protein": 0.1,
+      "carbs": 3.2,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 2.5,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Mineral-rich",
+        "Vibrant acidity"
+      ],
+      "healthWarnings": [
+        "High in alcohol",
+        "Contains sulfites",
+        "Contains minerals"
+      ]
+    },
+    "journey's end huntsman smg": {
+      "calories": 116,
+      "protein": 0.1,
+      "carbs": 2.9,
+      "fat": 0,
+      "sodium": 4,
+      "sugar": 2.2,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in alcohol",
+        "Contains sulfites"
+      ]
+    },
+    "toi toi marlborough sauvignon blanc": {
+      "calories": 120,
+      "protein": 0.1,
+      "carbs": 3.3,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 2.6,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Fresh and lively",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in alcohol",
+        "Contains sulfites"
+      ]
+    },
+    "hahn founders": {
+      "calories": 123,
+      "protein": 0.1,
+      "carbs": 3.4,
+      "fat": 0,
+      "sodium": 6,
+      "sugar": 2.7,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Low sodium"
+      ],
+      "healthWarnings": [
+        "High in alcohol",
+        "Contains sulfites"
+      ]
+    },
+    "cvne imperial reserva": {
+      "calories": 131,
+      "protein": 0.1,
+      "carbs": 4.6,
+      "fat": 0,
+      "sodium": 13,
+      "sugar": 3.6,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in tannins",
+        "Rich in polyphenols"
+      ],
+      "healthWarnings": [
+        "High in alcohol",
+        "Contains sulfites"
+      ]
+    },
+    "grant burge 5th generation": {
+      "calories": 118,
+      "protein": 0.1,
+      "carbs": 2.3,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 0.5,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Rich in polyphenols"
+      ],
+      "healthWarnings": [
+        "High alcohol content",
+        "Contains sulfites"
+      ]
+    },
+    "siglo tempranillo \"sack\"": {
+      "calories": 114,
+      "protein": 0.1,
+      "carbs": 2.7,
+      "fat": 0,
+      "sodium": 3,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in alcohol",
+        "Contains sulfites"
+      ]
+    },
+    "trivento reserve": {
+      "calories": 119,
+      "protein": 0.1,
+      "carbs": 3.2,
+      "fat": 0,
+      "sodium": 7,
+      "sugar": 2.5,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Low sodium"
+      ],
+      "healthWarnings": [
+        "High in alcohol",
+        "Contains sulfites"
+      ]
+    },
+    "arzuaga vinedos y bodegas la planta": {
+      "calories": 120,
+      "protein": 0.1,
+      "carbs": 2.5,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 0.5,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains resveratrol",
+        "Rich in antioxidants"
+      ],
+      "healthWarnings": [
+        "High alcohol content",
+        "Contains sulfites"
+      ]
+    },
+    "urban riesling": {
+      "calories": 110,
+      "protein": 0.1,
+      "carbs": 3,
+      "fat": 0,
+      "sodium": 8,
+      "sugar": 1.2,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Low alcohol option"
+      ],
+      "healthWarnings": [
+        "High alcohol content",
+        "Contains sulfites"
+      ]
+    },
+    "yihu dry": {
+      "calories": 125,
+      "protein": 0.1,
+      "carbs": 2,
+      "fat": 0,
+      "sodium": 12,
+      "sugar": 0.3,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Rich in polyphenols",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High alcohol content",
+        "Contains sulfites"
+      ]
+    },
+    "kalleske elenore sémillon": {
+      "calories": 115,
+      "protein": 0.1,
+      "carbs": 2.8,
+      "fat": 0,
+      "sodium": 9,
+      "sugar": 0.8,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Good acidity balance"
+      ],
+      "healthWarnings": [
+        "High alcohol content",
+        "Contains sulfites"
+      ]
+    },
+    "les allees de cantemerle": {
+      "calories": 122,
+      "protein": 0.1,
+      "carbs": 2.2,
+      "fat": 0,
+      "sodium": 11,
+      "sugar": 0.4,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Rich in tannins",
+        "Contains resveratrol"
+      ],
+      "healthWarnings": [
+        "High alcohol content",
+        "Contains sulfites"
+      ]
+    },
+    "flavabom field white": {
+      "calories": 108,
+      "protein": 0.1,
+      "carbs": 2.5,
+      "fat": 0,
+      "sodium": 8,
+      "sugar": 0.6,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low alcohol content",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "Contains sulfites"
+      ]
+    },
+    "passonero rosso doc arcole": {
+      "calories": 124,
+      "protein": 0.1,
+      "carbs": 2.3,
+      "fat": 0,
+      "sodium": 11,
+      "sugar": 0.5,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Rich in antioxidants",
+        "Contains polyphenols"
+      ],
+      "healthWarnings": [
+        "High alcohol content",
+        "Contains sulfites"
+      ]
+    },
+    "omina romana - rosso \"diana nemorensis i\" igt": {
+      "calories": 118,
+      "protein": 0.1,
+      "carbs": 2.1,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 0.3,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Rich in tannins",
+        "Contains resveratrol"
+      ],
+      "healthWarnings": [
+        "High alcohol content",
+        "Contains sulfites"
+      ]
+    },
+    "b vintners haarlem to hope": {
+      "calories": 112,
+      "protein": 0.1,
+      "carbs": 2.6,
+      "fat": 0,
+      "sodium": 9,
+      "sugar": 0.7,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Good minerality",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High alcohol content",
+        "Contains sulfites"
+      ]
+    },
+    "tait \"ball buster\" shiraz/cabernet/merlot": {
+      "calories": 126,
+      "protein": 0.1,
+      "carbs": 2,
+      "fat": 0,
+      "sodium": 12,
+      "sugar": 0.2,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Rich in antioxidants",
+        "Contains polyphenols"
+      ],
+      "healthWarnings": [
+        "High alcohol content",
+        "Contains sulfites"
+      ]
+    },
+    "von hovel saar riesling kabinett": {
+      "calories": 105,
+      "protein": 0.1,
+      "carbs": 3.2,
+      "fat": 0,
+      "sodium": 8,
+      "sugar": 1.5,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low alcohol content",
+        "Balanced acidity"
+      ],
+      "healthWarnings": [
+        "Contains sulfites"
+      ]
+    },
+    "lindsay estate barossa merlot old mac": {
+      "calories": 120,
+      "protein": 0.1,
+      "carbs": 2.2,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 0.4,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Rich in antioxidants",
+        "Contains tannins"
+      ],
+      "healthWarnings": [
+        "High alcohol content",
+        "Contains sulfites"
+      ]
+    },
+    "mas de sainte croix delicatesse cotes du rhone blanc": {
+      "calories": 110,
+      "protein": 0.1,
+      "carbs": 2.7,
+      "fat": 0,
+      "sodium": 9,
+      "sugar": 0.9,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Floral complexity"
+      ],
+      "healthWarnings": [
+        "Contains sulfites"
+      ]
+    },
+    "sartori - rosso delle venezie \"l'appassione\" igt": {
+      "calories": 119,
+      "protein": 0.1,
+      "carbs": 2.3,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 0.5,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Rich in antioxidants",
+        "Contains polyphenols"
+      ],
+      "healthWarnings": [
+        "High alcohol content",
+        "Contains sulfites"
+      ]
+    },
+    "hardys the riddle cabernet merlot": {
+      "calories": 115,
+      "protein": 0.1,
+      "carbs": 2.4,
+      "fat": 0,
+      "sodium": 9,
+      "sugar": 0.6,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Good value"
+      ],
+      "healthWarnings": [
+        "High alcohol content",
+        "Contains sulfites"
+      ]
+    },
+    "toi toi merlot": {
+      "calories": 121,
+      "protein": 0.1,
+      "carbs": 2.1,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 0.4,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Rich in antioxidants",
+        "Contains tannins"
+      ],
+      "healthWarnings": [
+        "High alcohol content",
+        "Contains sulfites"
+      ]
+    },
+    "argiano brunello di montalcino": {
+      "calories": 128,
+      "protein": 0.1,
+      "carbs": 1.9,
+      "fat": 0,
+      "sodium": 12,
+      "sugar": 0.2,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Rich in tannins",
+        "Contains resveratrol"
+      ],
+      "healthWarnings": [
+        "High alcohol content",
+        "Contains sulfites"
+      ]
+    },
+    "bindi sergardi - chianti classico \"la ghirlanda\"": {
+      "calories": 120,
+      "protein": 0.1,
+      "carbs": 2.2,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 0.4,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Rich in antioxidants",
+        "Contains polyphenols"
+      ],
+      "healthWarnings": [
+        "High alcohol content",
+        "Contains sulfites"
+      ]
+    },
+    "arpa chianti doc": {
+      "calories": 119,
+      "protein": 0.1,
+      "carbs": 2.3,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 0.5,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Rich in tannins"
+      ],
+      "healthWarnings": [
+        "High alcohol content",
+        "Contains sulfites"
+      ]
+    },
+    "daou bodyguard red blend": {
+      "calories": 125,
+      "protein": 0.1,
+      "carbs": 3.5,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 1.2,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains resveratrol",
+        "Contains antioxidants",
+        "May support heart health"
+      ],
+      "healthWarnings": [
+        "Contains alcohol",
+        "High in sugar content for wine"
+      ]
+    },
+    "digiorgio \"coonawarra\" cabernet sauvignon": {
+      "calories": 128,
+      "protein": 0.1,
+      "carbs": 3.8,
+      "fat": 0,
+      "sodium": 12,
+      "sugar": 1.5,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains resveratrol",
+        "Contains antioxidants",
+        "May support cardiovascular health"
+      ],
+      "healthWarnings": [
+        "Contains alcohol",
+        "High in sugar content for wine"
+      ]
+    },
+    "asoke cabernet sauvignon syrah": {
+      "calories": 132,
+      "protein": 0.15,
+      "carbs": 4.2,
+      "fat": 0,
+      "sodium": 14,
+      "sugar": 1.8,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains resveratrol",
+        "Contains polyphenols",
+        "Rich in antioxidants"
+      ],
+      "healthWarnings": [
+        "Contains alcohol",
+        "Higher sugar content",
+        "Higher alcohol content"
+      ]
+    },
+    "trivento organic": {
+      "calories": 122,
+      "protein": 0.1,
+      "carbs": 3.2,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 0.9,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Organic certification",
+        "Contains antioxidants",
+        "Lower residual sugar"
+      ],
+      "healthWarnings": [
+        "Contains alcohol"
+      ]
+    },
+    "movable feast": {
+      "calories": 129,
+      "protein": 0.12,
+      "carbs": 3.9,
+      "fat": 0,
+      "sodium": 13,
+      "sugar": 1.6,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Contains resveratrol"
+      ],
+      "healthWarnings": [
+        "Contains alcohol",
+        "High in sugar content for wine"
+      ]
+    },
+    "durif": {
+      "calories": 130,
+      "protein": 0.14,
+      "carbs": 4,
+      "fat": 0,
+      "sodium": 13,
+      "sugar": 1.7,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Contains polyphenols"
+      ],
+      "healthWarnings": [
+        "Contains alcohol",
+        "Moderate sugar content"
+      ]
+    },
+    "mitolo jester shiraz": {
+      "calories": 126,
+      "protein": 0.12,
+      "carbs": 3.6,
+      "fat": 0,
+      "sodium": 12,
+      "sugar": 1.3,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains resveratrol",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "Contains alcohol"
+      ]
+    },
+    "st. hallett faith": {
+      "calories": 124,
+      "protein": 0.11,
+      "carbs": 3.4,
+      "fat": 0,
+      "sodium": 11,
+      "sugar": 1.1,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "May support heart health"
+      ],
+      "healthWarnings": [
+        "Contains alcohol"
+      ]
+    },
+    "richard hamilton little road shiraz": {
+      "calories": 128,
+      "protein": 0.13,
+      "carbs": 3.8,
+      "fat": 0,
+      "sodium": 12,
+      "sugar": 1.5,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Contains polyphenols"
+      ],
+      "healthWarnings": [
+        "Contains alcohol"
+      ]
+    },
+    "elderton barossa shiraz": {
+      "calories": 129,
+      "protein": 0.13,
+      "carbs": 3.9,
+      "fat": 0,
+      "sodium": 13,
+      "sugar": 1.6,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Contains polyphenols"
+      ],
+      "healthWarnings": [
+        "Contains alcohol",
+        "Moderate sugar content"
+      ]
+    },
+    "chateau mont perat bordeaux": {
+      "calories": 130,
+      "protein": 0.14,
+      "carbs": 4.1,
+      "fat": 0,
+      "sodium": 14,
+      "sugar": 1.7,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains resveratrol",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "Contains alcohol",
+        "Moderate sugar content"
+      ]
+    },
+    "chateau greysac medoc cru bourgeois": {
+      "calories": 127,
+      "protein": 0.12,
+      "carbs": 3.8,
+      "fat": 0,
+      "sodium": 13,
+      "sugar": 1.5,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Contains polyphenols"
+      ],
+      "healthWarnings": [
+        "Contains alcohol"
+      ]
+    },
+    "colomba bianca - nero d'avola pass-one doc": {
+      "calories": 124,
+      "protein": 0.11,
+      "carbs": 3.3,
+      "fat": 0,
+      "sodium": 11,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Lower residual sugar"
+      ],
+      "healthWarnings": [
+        "Contains alcohol"
+      ]
+    },
+    "hardys tintara core gsm": {
+      "calories": 123,
+      "protein": 0.1,
+      "carbs": 3.2,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 0.8,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Blend of multiple grapes"
+      ],
+      "healthWarnings": [
+        "Contains alcohol"
+      ]
+    },
+    "errazuriz estate res carménère": {
+      "calories": 122,
+      "protein": 0.1,
+      "carbs": 3.1,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 0.9,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Lower sugar content"
+      ],
+      "healthWarnings": [
+        "Contains alcohol"
+      ]
+    },
+    "boroli barolo docg": {
+      "calories": 131,
+      "protein": 0.15,
+      "carbs": 4.3,
+      "fat": 0,
+      "sodium": 14,
+      "sugar": 1.8,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains resveratrol",
+        "Contains antioxidants",
+        "Complex tannins"
+      ],
+      "healthWarnings": [
+        "Contains alcohol",
+        "Premium wine with higher complexity"
+      ]
+    },
+    "pepe mendoza casa agricola el veneno": {
+      "calories": 128,
+      "protein": 0.13,
+      "carbs": 3.7,
+      "fat": 0,
+      "sodium": 12,
+      "sugar": 1.4,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Contains polyphenols"
+      ],
+      "healthWarnings": [
+        "Contains alcohol"
+      ]
+    },
+    "pepe mendoza casa agricola giro de abargues": {
+      "calories": 125,
+      "protein": 0.1,
+      "carbs": 3.7,
+      "fat": 0,
+      "sodium": 12,
+      "sugar": 1.2,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Contains polyphenols"
+      ],
+      "healthWarnings": [
+        "High in alcohol",
+        "Contains sulfites"
+      ]
+    },
+    "brigaldara amarone cavolo": {
+      "calories": 152,
+      "protein": 0.1,
+      "carbs": 5.8,
+      "fat": 0,
+      "sodium": 14,
+      "sugar": 2.1,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Contains resveratrol"
+      ],
+      "healthWarnings": [
+        "High in alcohol",
+        "Contains sulfites",
+        "High sugar content for wine"
+      ]
+    },
+    "rockwines have a dream sangiovese": {
+      "calories": 128,
+      "protein": 0.1,
+      "carbs": 3.2,
+      "fat": 0,
+      "sodium": 11,
+      "sugar": 0.9,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Contains polyphenols"
+      ],
+      "healthWarnings": [
+        "High in alcohol",
+        "Contains sulfites"
+      ]
+    },
+    "feudi bizantini il rabdomante montepulciano d'abruzzo": {
+      "calories": 138,
+      "protein": 0.2,
+      "carbs": 4.1,
+      "fat": 0,
+      "sodium": 13,
+      "sugar": 1.3,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Contains polyphenols"
+      ],
+      "healthWarnings": [
+        "High in alcohol",
+        "Contains sulfites"
+      ]
+    },
+    "feudi bizantini 8 limited edition": {
+      "calories": 145,
+      "protein": 0.2,
+      "carbs": 4.9,
+      "fat": 0,
+      "sodium": 14,
+      "sugar": 1.8,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Contains resveratrol"
+      ],
+      "healthWarnings": [
+        "High in alcohol",
+        "Contains sulfites",
+        "High sugar content for wine"
+      ]
+    },
+    "gergenti il vero siciliano terre siciliane igt": {
+      "calories": 132,
+      "protein": 0.1,
+      "carbs": 3.8,
+      "fat": 0,
+      "sodium": 12,
+      "sugar": 1.1,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Contains polyphenols"
+      ],
+      "healthWarnings": [
+        "High in alcohol",
+        "Contains sulfites"
+      ]
+    },
+    "amicale corvina igt (limited edition)": {
+      "calories": 130,
+      "protein": 0.1,
+      "carbs": 3.5,
+      "fat": 0,
+      "sodium": 12,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Contains polyphenols"
+      ],
+      "healthWarnings": [
+        "High in alcohol",
+        "Contains sulfites"
+      ]
+    },
+    "amarone della valpolicella docg poderi bronze": {
+      "calories": 155,
+      "protein": 0.2,
+      "carbs": 5.2,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 1.9,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Contains resveratrol"
+      ],
+      "healthWarnings": [
+        "High in alcohol",
+        "Contains sulfites",
+        "High sugar content for wine"
+      ]
+    },
+    "yihu petit verdot reserve": {
+      "calories": 140,
+      "protein": 0.2,
+      "carbs": 4.3,
+      "fat": 0,
+      "sodium": 13,
+      "sugar": 1.4,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Contains polyphenols"
+      ],
+      "healthWarnings": [
+        "High in alcohol",
+        "Contains sulfites"
+      ]
+    },
+    "marques de casa concha": {
+      "calories": 135,
+      "protein": 0.2,
+      "carbs": 3.9,
+      "fat": 0,
+      "sodium": 13,
+      "sugar": 1.2,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Contains polyphenols"
+      ],
+      "healthWarnings": [
+        "High in alcohol",
+        "Contains sulfites"
+      ]
+    },
+    "cantele - primitivo puglia \"cantele\" igp": {
+      "calories": 128,
+      "protein": 0.1,
+      "carbs": 3.6,
+      "fat": 0,
+      "sodium": 12,
+      "sugar": 1.1,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Contains polyphenols"
+      ],
+      "healthWarnings": [
+        "High in alcohol",
+        "Contains sulfites"
+      ]
+    },
+    "mas de sainte croix douceur de fruit bio cotes du rhone rouge": {
+      "calories": 126,
+      "protein": 0.1,
+      "carbs": 3.3,
+      "fat": 0,
+      "sodium": 11,
+      "sugar": 0.8,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Organic",
+        "Contains polyphenols"
+      ],
+      "healthWarnings": [
+        "High in alcohol",
+        "Contains sulfites"
+      ]
+    },
+    "rockwines bad boy": {
+      "calories": 129,
+      "protein": 0.1,
+      "carbs": 3.4,
+      "fat": 0,
+      "sodium": 12,
+      "sugar": 0.95,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Contains polyphenols"
+      ],
+      "healthWarnings": [
+        "High in alcohol",
+        "Contains sulfites"
+      ]
+    },
+    "zuccardi apelacion malbec": {
+      "calories": 132,
+      "protein": 0.1,
+      "carbs": 3.7,
+      "fat": 0,
+      "sodium": 12,
+      "sugar": 1.05,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Contains polyphenols"
+      ],
+      "healthWarnings": [
+        "High in alcohol",
+        "Contains sulfites"
+      ]
+    },
+    "montes alpha carmenere": {
+      "calories": 131,
+      "protein": 0.1,
+      "carbs": 3.5,
+      "fat": 0,
+      "sodium": 12,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Contains polyphenols"
+      ],
+      "healthWarnings": [
+        "High in alcohol",
+        "Contains sulfites"
+      ]
+    },
+    "zenato ripassa valpolicella doc superiore": {
+      "calories": 136,
+      "protein": 0.2,
+      "carbs": 4,
+      "fat": 0,
+      "sodium": 13,
+      "sugar": 1.15,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Contains polyphenols"
+      ],
+      "healthWarnings": [
+        "High in alcohol",
+        "Contains sulfites"
+      ]
+    },
+    "castello di ama purple rose": {
+      "calories": 124,
+      "protein": 0.1,
+      "carbs": 3.1,
+      "fat": 0,
+      "sodium": 11,
+      "sugar": 0.85,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Contains polyphenols"
+      ],
+      "healthWarnings": [
+        "High in alcohol",
+        "Contains sulfites"
+      ]
+    }
+  }
+}

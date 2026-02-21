@@ -1,0 +1,732 @@
+{
+  "brand": "hoshino-coffee-vivocity",
+  "generatedAt": "2026-02-16T15:26:08.274Z",
+  "items": {
+    "matcha soda": {
+      "calories": 180,
+      "protein": 2,
+      "carbs": 42,
+      "fat": 0,
+      "sodium": 80,
+      "sugar": 38,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from matcha"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High calorie beverage"
+      ]
+    },
+    "mango french toast_whipped cream": {
+      "calories": 520,
+      "protein": 12,
+      "carbs": 68,
+      "fat": 22,
+      "sodium": 420,
+      "sugar": 45,
+      "fiber": 2,
+      "allergens": [
+        "Egg",
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains vitamin C from mango"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "teriyaki chicken spaghetti": {
+      "calories": 620,
+      "protein": 38,
+      "carbs": 72,
+      "fat": 18,
+      "sodium": 1240,
+      "sugar": 12,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains chicken"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "kids set (omu rice)": {
+      "calories": 380,
+      "protein": 14,
+      "carbs": 52,
+      "fat": 14,
+      "sodium": 580,
+      "sugar": 8,
+      "fiber": 1,
+      "allergens": [
+        "Egg",
+        "Dairy",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Age-appropriate portion",
+        "Contains protein"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "fruit tea (iced)": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 35,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 32,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants from tea"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "stew beef omu plate": {
+      "calories": 680,
+      "protein": 42,
+      "carbs": 58,
+      "fat": 28,
+      "sodium": 1120,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Egg",
+        "Dairy",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains iron from beef"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "salad plate": {
+      "calories": 280,
+      "protein": 12,
+      "carbs": 24,
+      "fat": 16,
+      "sodium": 420,
+      "sugar": 4,
+      "fiber": 5,
+      "allergens": [
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "Low in calories",
+        "Good source of vegetables"
+      ],
+      "healthWarnings": []
+    },
+    "matcha mont blanc": {
+      "calories": 420,
+      "protein": 8,
+      "carbs": 52,
+      "fat": 20,
+      "sodium": 220,
+      "sugar": 42,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Tree Nut",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from matcha"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "sparkling lemonade": {
+      "calories": 150,
+      "protein": 0,
+      "carbs": 38,
+      "fat": 0,
+      "sodium": 40,
+      "sugar": 35,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains some vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High calorie beverage"
+      ]
+    },
+    "crab & shrimp & mushroom cream sauce spaghetti": {
+      "calories": 680,
+      "protein": 36,
+      "carbs": 70,
+      "fat": 26,
+      "sodium": 1180,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Dairy",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3 from seafood"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "kids set (carbonara)": {
+      "calories": 420,
+      "protein": 16,
+      "carbs": 48,
+      "fat": 18,
+      "sodium": 620,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Egg",
+        "Dairy",
+        "Gluten",
+        "Pork"
+      ],
+      "healthBenefits": [
+        "Age-appropriate portion",
+        "Contains protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "fruit tea (hot)": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 35,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 32,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants from tea"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "orange juice": {
+      "calories": 120,
+      "protein": 2,
+      "carbs": 28,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 24,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of vitamin C",
+        "Contains natural sugars"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Lacks fiber compared to whole fruit"
+      ]
+    },
+    "mushroom potage": {
+      "calories": 220,
+      "protein": 6,
+      "carbs": 18,
+      "fat": 14,
+      "sodium": 680,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains mushrooms with antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "green tea (iced)": {
+      "calories": 80,
+      "protein": 1,
+      "carbs": 18,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 15,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in antioxidants",
+        "Low calorie"
+      ],
+      "healthWarnings": [
+        "Contains sugar"
+      ]
+    },
+    "stew beef & hamburg rice plate": {
+      "calories": 720,
+      "protein": 48,
+      "carbs": 64,
+      "fat": 30,
+      "sodium": 1240,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains iron from beef"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "french toast_whipped cream": {
+      "calories": 480,
+      "protein": 10,
+      "carbs": 58,
+      "fat": 20,
+      "sodium": 380,
+      "sugar": 35,
+      "fiber": 1,
+      "allergens": [
+        "Egg",
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "paris brest": {
+      "calories": 440,
+      "protein": 10,
+      "carbs": 48,
+      "fat": 22,
+      "sodium": 240,
+      "sugar": 38,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Tree Nut",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains some protein from cream and nuts"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "iced tea": {
+      "calories": 100,
+      "protein": 0,
+      "carbs": 24,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 22,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants from tea"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "seafood aglio oglio": {
+      "calories": 620,
+      "protein": 34,
+      "carbs": 68,
+      "fat": 22,
+      "sodium": 1160,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3 from seafood"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "french fries": {
+      "calories": 380,
+      "protein": 4,
+      "carbs": 48,
+      "fat": 18,
+      "sodium": 520,
+      "sugar": 0,
+      "fiber": 4,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "seafood curry": {
+      "calories": 520,
+      "protein": 28,
+      "carbs": 52,
+      "fat": 18,
+      "sodium": 1240,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Fish",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "new york cheese cake": {
+      "calories": 420,
+      "protein": 8,
+      "carbs": 42,
+      "fat": 24,
+      "sodium": 380,
+      "sugar": 28,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "double pancake": {
+      "calories": 580,
+      "protein": 12,
+      "carbs": 68,
+      "fat": 26,
+      "sodium": 640,
+      "sugar": 24,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "green tea (hot)": {
+      "calories": 5,
+      "protein": 0,
+      "carbs": 1,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Rich in antioxidants",
+        "Low calorie"
+      ],
+      "healthWarnings": []
+    },
+    "single pancake": {
+      "calories": 360,
+      "protein": 8,
+      "carbs": 42,
+      "fat": 16,
+      "sodium": 420,
+      "sugar": 14,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "sakura matcha latte": {
+      "calories": 240,
+      "protein": 8,
+      "carbs": 32,
+      "fat": 8,
+      "sodium": 120,
+      "sugar": 24,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Rich in antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "tiramis": {
+      "calories": 410,
+      "protein": 7,
+      "carbs": 40,
+      "fat": 24,
+      "sodium": 320,
+      "sugar": 26,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "shrimp & mozzarella tomato cream": {
+      "calories": 480,
+      "protein": 24,
+      "carbs": 48,
+      "fat": 20,
+      "sodium": 980,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Shellfish",
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "earl grey tea": {
+      "calories": 5,
+      "protein": 0,
+      "carbs": 1,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "May aid digestion"
+      ],
+      "healthWarnings": []
+    },
+    "darjeeling tea": {
+      "calories": 5,
+      "protein": 0,
+      "carbs": 1,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Rich in antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "shrimp & egg fried rice": {
+      "calories": 520,
+      "protein": 24,
+      "carbs": 56,
+      "fat": 18,
+      "sodium": 1120,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "mentaiko & salmon carbonara": {
+      "calories": 540,
+      "protein": 26,
+      "carbs": 46,
+      "fat": 26,
+      "sodium": 1080,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Dairy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "matcha latte (iced)": {
+      "calories": 220,
+      "protein": 8,
+      "carbs": 28,
+      "fat": 8,
+      "sodium": 110,
+      "sugar": 22,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Rich in antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "matcha latte (hot)": {
+      "calories": 220,
+      "protein": 8,
+      "carbs": 28,
+      "fat": 8,
+      "sodium": 110,
+      "sugar": 22,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Rich in antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "morning tea": {
+      "calories": 5,
+      "protein": 0,
+      "carbs": 1,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Rich in antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "hoshino spaghetti": {
+      "calories": 420,
+      "protein": 16,
+      "carbs": 50,
+      "fat": 16,
+      "sodium": 840,
+      "sugar": 5,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "hoshino blend tea": {
+      "calories": 5,
+      "protein": 0,
+      "carbs": 1,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Rich in antioxidants"
+      ],
+      "healthWarnings": []
+    }
+  }
+}

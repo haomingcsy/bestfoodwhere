@@ -47,6 +47,7 @@ export interface ReviewSummary {
 
 export interface RelatedBrand {
   name: string;
+  slug: string;
   location: string;
   rating: number;
   reviewCount: number;

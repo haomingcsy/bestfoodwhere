@@ -1,0 +1,2237 @@
+{
+  "brand": "yoshinoya-causeway-point",
+  "generatedAt": "2026-02-21T12:27:39.248Z",
+  "items": {
+    "unabeef don & coke": {
+      "calories": 850,
+      "protein": 35,
+      "carbs": 95,
+      "fat": 28,
+      "sodium": 1680,
+      "sugar": 32,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3 from unagi"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "shoyu beef ramen": {
+      "calories": 720,
+      "protein": 32,
+      "carbs": 85,
+      "fat": 22,
+      "sodium": 1890,
+      "sugar": 8,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Egg",
+        "Wheat"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "coke (can)": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 39,
+      "fat": 0,
+      "sodium": 55,
+      "sugar": 39,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "sambal gyudon": {
+      "calories": 580,
+      "protein": 28,
+      "carbs": 68,
+      "fat": 16,
+      "sodium": 1420,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains capsaicin from sambal"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "chicken katsu bowl": {
+      "calories": 580,
+      "protein": 32,
+      "carbs": 52,
+      "fat": 20,
+      "sodium": 920,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains rice and vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in carbohydrates"
+      ]
+    },
+    "beef bibimbap": {
+      "calories": 720,
+      "protein": 34,
+      "carbs": 78,
+      "fat": 24,
+      "sodium": 1480,
+      "sugar": 8,
+      "fiber": 4,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Egg",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains probiotics from kimchi",
+        "Good fiber content"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "salad": {
+      "calories": 180,
+      "protein": 6,
+      "carbs": 12,
+      "fat": 12,
+      "sodium": 480,
+      "sugar": 2,
+      "fiber": 3,
+      "allergens": [
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Low in calories",
+        "Good source of fiber",
+        "Contains vegetables"
+      ],
+      "healthWarnings": []
+    },
+    "unabeef don": {
+      "calories": 720,
+      "protein": 48,
+      "carbs": 62,
+      "fat": 28,
+      "sodium": 1380,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "Good source of protein",
+        "Contains mixed greens"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in cholesterol"
+      ]
+    },
+    "gyudon beef (regular) - lower in calories": {
+      "calories": 520,
+      "protein": 26,
+      "carbs": 62,
+      "fat": 14,
+      "sodium": 1240,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Lower in calories"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "american cheesecake": {
+      "calories": 420,
+      "protein": 8,
+      "carbs": 42,
+      "fat": 24,
+      "sodium": 320,
+      "sugar": 32,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Wheat",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories",
+        "High in saturated fat"
+      ]
+    },
+    "beef curry": {
+      "calories": 680,
+      "protein": 28,
+      "carbs": 75,
+      "fat": 22,
+      "sodium": 1360,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains turmeric"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "beef & chicken karaage": {
+      "calories": 820,
+      "protein": 42,
+      "carbs": 68,
+      "fat": 32,
+      "sodium": 1580,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Wheat",
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "High in saturated fat"
+      ]
+    },
+    "kimchi gyudon beef (large)": {
+      "calories": 820,
+      "protein": 36,
+      "carbs": 78,
+      "fat": 32,
+      "sodium": 1580,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains probiotics from kimchi",
+        "Iron-rich"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "cheese gyudon beef (large)": {
+      "calories": 840,
+      "protein": 38,
+      "carbs": 76,
+      "fat": 36,
+      "sodium": 1420,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Iron-rich"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in saturated fat",
+        "Moderate sodium"
+      ]
+    },
+    "double beef gyudon (beef)": {
+      "calories": 720,
+      "protein": 42,
+      "carbs": 65,
+      "fat": 24,
+      "sodium": 1480,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "coke zero (can)": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 55,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Zero calories",
+        "Zero sugar"
+      ],
+      "healthWarnings": [
+        "Contains artificial sweeteners"
+      ]
+    },
+    "unasalmon don & coke": {
+      "calories": 880,
+      "protein": 32,
+      "carbs": 98,
+      "fat": 28,
+      "sodium": 1340,
+      "sugar": 28,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in sugar"
+      ]
+    },
+    "karaage (chicken) bibimbap": {
+      "calories": 760,
+      "protein": 36,
+      "carbs": 76,
+      "fat": 28,
+      "sodium": 1520,
+      "sugar": 8,
+      "fiber": 4,
+      "allergens": [
+        "Wheat",
+        "Soy",
+        "Gluten",
+        "Egg",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains probiotics from kimchi",
+        "Good fiber content"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "High in saturated fat"
+      ]
+    },
+    "cheese beef curry": {
+      "calories": 1080,
+      "protein": 46,
+      "carbs": 86,
+      "fat": 52,
+      "sodium": 1720,
+      "sugar": 13,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "ontama kimchi gyudon beef": {
+      "calories": 880,
+      "protein": 38,
+      "carbs": 74,
+      "fat": 38,
+      "sodium": 1620,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains probiotics",
+        "Iron-rich"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "beef only": {
+      "calories": 180,
+      "protein": 24,
+      "carbs": 2,
+      "fat": 9,
+      "sodium": 640,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron and B vitamins"
+      ],
+      "healthWarnings": [
+        "Moderate sodium"
+      ]
+    },
+    "shoyu chicken karaage ramen": {
+      "calories": 720,
+      "protein": 32,
+      "carbs": 72,
+      "fat": 28,
+      "sodium": 1520,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "sambal karaage (chicken) bowl": {
+      "calories": 680,
+      "protein": 28,
+      "carbs": 62,
+      "fat": 30,
+      "sodium": 1100,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "chicken karaage curry": {
+      "calories": 720,
+      "protein": 26,
+      "carbs": 68,
+      "fat": 32,
+      "sodium": 980,
+      "sugar": 12,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "Moderate to high sodium"
+      ]
+    },
+    "ontama gyudon beef (regular) - lower in calories": {
+      "calories": 560,
+      "protein": 26,
+      "carbs": 62,
+      "fat": 18,
+      "sodium": 1180,
+      "sugar": 6,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Lower calorie option"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "black oreo cheesecake": {
+      "calories": 420,
+      "protein": 6,
+      "carbs": 44,
+      "fat": 24,
+      "sodium": 280,
+      "sugar": 32,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "double beef ontama gyudon (beef)": {
+      "calories": 780,
+      "protein": 40,
+      "carbs": 62,
+      "fat": 32,
+      "sodium": 1420,
+      "sugar": 6,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "unasalmon don": {
+      "calories": 710,
+      "protein": 45,
+      "carbs": 62,
+      "fat": 26,
+      "sodium": 1320,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Shellfish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "Good source of protein",
+        "Contains mixed greens"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "beef & salmon": {
+      "calories": 680,
+      "protein": 36,
+      "carbs": 52,
+      "fat": 28,
+      "sodium": 1080,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "High in omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "cheese chicken katsu": {
+      "calories": 620,
+      "protein": 36,
+      "carbs": 48,
+      "fat": 28,
+      "sodium": 1040,
+      "sugar": 10,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Soy",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "double beef cheese gyudon (beef)": {
+      "calories": 820,
+      "protein": 42,
+      "carbs": 62,
+      "fat": 36,
+      "sodium": 1480,
+      "sugar": 6,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "double unagi don & coke": {
+      "calories": 1020,
+      "protein": 36,
+      "carbs": 120,
+      "fat": 28,
+      "sodium": 1560,
+      "sugar": 32,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in sugar",
+        "Very high in calories"
+      ]
+    },
+    "cheese kimchi gyudon beef": {
+      "calories": 880,
+      "protein": 38,
+      "carbs": 76,
+      "fat": 38,
+      "sodium": 1580,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Dairy",
+        "Gluten",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains probiotics",
+        "Iron-rich"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "salted salmon bibimbap": {
+      "calories": 640,
+      "protein": 30,
+      "carbs": 66,
+      "fat": 22,
+      "sodium": 1280,
+      "sugar": 8,
+      "fiber": 3,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "Good source of protein",
+        "Good fiber content"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "sprite (can)": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 36,
+      "fat": 0,
+      "sodium": 60,
+      "sugar": 36,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Very high in sugar"
+      ]
+    },
+    "gyudon veg (regular) - lower in calories": {
+      "calories": 480,
+      "protein": 8,
+      "carbs": 68,
+      "fat": 14,
+      "sodium": 1040,
+      "sugar": 8,
+      "fiber": 4,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Lower calorie option",
+        "Good fiber content"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "chicken katsu and beef": {
+      "calories": 680,
+      "protein": 50,
+      "carbs": 40,
+      "fat": 32,
+      "sodium": 1160,
+      "sugar": 5,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Excellent protein source",
+        "Contains iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat",
+        "High in calories"
+      ]
+    },
+    "salmon curry": {
+      "calories": 520,
+      "protein": 28,
+      "carbs": 52,
+      "fat": 18,
+      "sodium": 980,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "sambal salmon bowl": {
+      "calories": 510,
+      "protein": 26,
+      "carbs": 48,
+      "fat": 19,
+      "sodium": 950,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Spicy preparation"
+      ]
+    },
+    "chicken karaage only": {
+      "calories": 280,
+      "protein": 18,
+      "carbs": 12,
+      "fat": 16,
+      "sodium": 520,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "Deep fried"
+      ]
+    },
+    "double unagi don": {
+      "calories": 780,
+      "protein": 52,
+      "carbs": 62,
+      "fat": 32,
+      "sodium": 1420,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "Good source of protein",
+        "Contains mixed greens"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in cholesterol"
+      ]
+    },
+    "cheese chicken karaage curry": {
+      "calories": 1040,
+      "protein": 42,
+      "carbs": 84,
+      "fat": 50,
+      "sodium": 1680,
+      "sugar": 12,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "tori paitan beef ramen": {
+      "calories": 550,
+      "protein": 34,
+      "carbs": 58,
+      "fat": 14,
+      "sodium": 1450,
+      "sugar": 4,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "Very high in sodium"
+      ]
+    },
+    "beef & ebi": {
+      "calories": 480,
+      "protein": 32,
+      "carbs": 42,
+      "fat": 16,
+      "sodium": 920,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "unagi don": {
+      "calories": 620,
+      "protein": 38,
+      "carbs": 62,
+      "fat": 20,
+      "sodium": 1280,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "Good source of protein",
+        "Contains mixed greens"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "double beef kimchi gyudon (beef)": {
+      "calories": 580,
+      "protein": 40,
+      "carbs": 48,
+      "fat": 18,
+      "sodium": 1100,
+      "sugar": 7,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains probiotics from kimchi"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "veggie bibimbap": {
+      "calories": 420,
+      "protein": 14,
+      "carbs": 52,
+      "fat": 14,
+      "sodium": 680,
+      "sugar": 8,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Rich in vegetables",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "Moderate sodium"
+      ]
+    },
+    "cheese salmon curry": {
+      "calories": 620,
+      "protein": 38,
+      "carbs": 48,
+      "fat": 28,
+      "sodium": 1240,
+      "sugar": 14,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Soy",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "High in omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat",
+        "High in sugar"
+      ]
+    },
+    "gyudon beef (large)": {
+      "calories": 480,
+      "protein": 32,
+      "carbs": 48,
+      "fat": 14,
+      "sodium": 920,
+      "sugar": 6,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "tori paitan chicken karaage ramen": {
+      "calories": 580,
+      "protein": 36,
+      "carbs": 58,
+      "fat": 16,
+      "sodium": 1480,
+      "sugar": 4,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "Deep fried"
+      ]
+    },
+    "beef & teri salmon": {
+      "calories": 520,
+      "protein": 36,
+      "carbs": 42,
+      "fat": 18,
+      "sodium": 1000,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "cheese chicken katsu with beef": {
+      "calories": 1150,
+      "protein": 58,
+      "carbs": 84,
+      "fat": 48,
+      "sodium": 1960,
+      "sugar": 10,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Very high in protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "Very high in calories",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "sambal ebi bowl": {
+      "calories": 440,
+      "protein": 22,
+      "carbs": 48,
+      "fat": 14,
+      "sodium": 920,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Spicy preparation"
+      ]
+    },
+    "ontama cheese kimchi gyudon (beef)": {
+      "calories": 680,
+      "protein": 42,
+      "carbs": 68,
+      "fat": 22,
+      "sodium": 1240,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains probiotics from kimchi"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "minute maid orange (can)": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 35,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 32,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Source of vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "spicy karaage (chicken)": {
+      "calories": 380,
+      "protein": 22,
+      "carbs": 18,
+      "fat": 26,
+      "sodium": 680,
+      "sugar": 4,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "ebi curry": {
+      "calories": 480,
+      "protein": 24,
+      "carbs": 52,
+      "fat": 14,
+      "sodium": 960,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "chicken katsu curry": {
+      "calories": 640,
+      "protein": 36,
+      "carbs": 54,
+      "fat": 28,
+      "sodium": 1180,
+      "sugar": 16,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat",
+        "High in sugar"
+      ]
+    },
+    "ontama gyudon beef (large)": {
+      "calories": 880,
+      "protein": 42,
+      "carbs": 78,
+      "fat": 38,
+      "sodium": 1520,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "salmon & chicken karaage": {
+      "calories": 920,
+      "protein": 48,
+      "carbs": 45,
+      "fat": 56,
+      "sodium": 1420,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Soy",
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "Excellent source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "chicken katsu paitan ramen": {
+      "calories": 880,
+      "protein": 44,
+      "carbs": 88,
+      "fat": 32,
+      "sodium": 1920,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains noodles for energy"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "High in saturated fat"
+      ]
+    },
+    "milo": {
+      "calories": 180,
+      "protein": 4,
+      "carbs": 32,
+      "fat": 4,
+      "sodium": 120,
+      "sugar": 28,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "sambal mix bowl": {
+      "calories": 950,
+      "protein": 52,
+      "carbs": 68,
+      "fat": 48,
+      "sodium": 1540,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Soy",
+        "Shellfish",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "High in omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "ontama beef curry": {
+      "calories": 1020,
+      "protein": 45,
+      "carbs": 88,
+      "fat": 48,
+      "sodium": 1680,
+      "sugar": 14,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "salmon only": {
+      "calories": 240,
+      "protein": 18,
+      "carbs": 8,
+      "fat": 15,
+      "sodium": 380,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "Good source of protein"
+      ],
+      "healthWarnings": []
+    },
+    "chicken katsu shoyu ramen": {
+      "calories": 820,
+      "protein": 42,
+      "carbs": 86,
+      "fat": 28,
+      "sodium": 1860,
+      "sugar": 7,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "cheese chicken katsu curry": {
+      "calories": 1020,
+      "protein": 42,
+      "carbs": 98,
+      "fat": 42,
+      "sodium": 1850,
+      "sugar": 12,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains carbohydrates for energy"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "chicken karaage bowl": {
+      "calories": 820,
+      "protein": 36,
+      "carbs": 72,
+      "fat": 40,
+      "sodium": 1320,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "dasani bottled water": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Hydrating"
+      ],
+      "healthWarnings": []
+    },
+    "salmon & ebi": {
+      "calories": 880,
+      "protein": 48,
+      "carbs": 42,
+      "fat": 54,
+      "sodium": 1480,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Soy",
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "Excellent source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "sambal sauce": {
+      "calories": 28,
+      "protein": 0.8,
+      "carbs": 2.5,
+      "fat": 2,
+      "sodium": 420,
+      "sugar": 0.5,
+      "fiber": 0.5,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains capsaicin for metabolism boost",
+        "Low calorie condiment"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "ebi only": {
+      "calories": 220,
+      "protein": 16,
+      "carbs": 10,
+      "fat": 13,
+      "sodium": 420,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": []
+    },
+    "salmon bowl": {
+      "calories": 820,
+      "protein": 34,
+      "carbs": 72,
+      "fat": 42,
+      "sodium": 1280,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "chicken katsu and teriyaki salmon": {
+      "calories": 1210,
+      "protein": 64,
+      "carbs": 78,
+      "fat": 54,
+      "sodium": 1820,
+      "sugar": 12,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Fish",
+        "Egg",
+        "Soy",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Very high in protein",
+        "High in omega-3 fatty acids"
+      ],
+      "healthWarnings": [
+        "Very high in calories",
+        "High in saturated fat",
+        "High in sodium",
+        "High in sugar"
+      ]
+    },
+    "chicken katsu only": {
+      "calories": 420,
+      "protein": 28,
+      "carbs": 32,
+      "fat": 18,
+      "sodium": 680,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains B vitamins"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in sodium"
+      ]
+    },
+    "teri salmon & chicken karaage": {
+      "calories": 580,
+      "protein": 42,
+      "carbs": 28,
+      "fat": 32,
+      "sodium": 1020,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "tori paitan negitama ramen": {
+      "calories": 520,
+      "protein": 26,
+      "carbs": 62,
+      "fat": 16,
+      "sodium": 1420,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains noodles for energy"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in carbohydrates"
+      ]
+    },
+    "teri salmon & salmon": {
+      "calories": 640,
+      "protein": 48,
+      "carbs": 24,
+      "fat": 38,
+      "sodium": 1140,
+      "sugar": 9,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "Excellent protein source"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "salted salmon only": {
+      "calories": 280,
+      "protein": 32,
+      "carbs": 0,
+      "fat": 16,
+      "sodium": 720,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "Excellent protein source",
+        "Low carb"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "gyudon veg (large)": {
+      "calories": 520,
+      "protein": 32,
+      "carbs": 58,
+      "fat": 14,
+      "sodium": 980,
+      "sugar": 12,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables",
+        "Good fiber content"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate sugar content"
+      ]
+    },
+    "chicken katsu and salmon": {
+      "calories": 1180,
+      "protein": 62,
+      "carbs": 76,
+      "fat": 52,
+      "sodium": 1740,
+      "sugar": 9,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Fish",
+        "Egg",
+        "Soy",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Very high in protein",
+        "High in omega-3 fatty acids",
+        "Good source of vitamin D"
+      ],
+      "healthWarnings": [
+        "Very high in calories",
+        "High in saturated fat"
+      ]
+    },
+    "shoyu negitama ramen": {
+      "calories": 480,
+      "protein": 24,
+      "carbs": 58,
+      "fat": 14,
+      "sodium": 1380,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains noodles for energy"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in carbohydrates"
+      ]
+    },
+    "chicken katsu and ebi": {
+      "calories": 1020,
+      "protein": 52,
+      "carbs": 80,
+      "fat": 40,
+      "sodium": 1680,
+      "sugar": 9,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Shellfish",
+        "Egg",
+        "Soy",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Very high in protein",
+        "Contains omega-3 fatty acids"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in saturated fat"
+      ]
+    },
+    "tori paitan negitama ramen with beef": {
+      "calories": 600,
+      "protein": 38,
+      "carbs": 64,
+      "fat": 18,
+      "sodium": 1480,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Excellent protein source",
+        "Contains iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in carbohydrates"
+      ]
+    },
+    "teriyaki salmon only": {
+      "calories": 320,
+      "protein": 34,
+      "carbs": 8,
+      "fat": 16,
+      "sodium": 820,
+      "sugar": 6,
+      "fiber": 0,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "Excellent protein source"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "teri salmon & ebi": {
+      "calories": 520,
+      "protein": 38,
+      "carbs": 26,
+      "fat": 28,
+      "sodium": 1060,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Shellfish",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "unagi only": {
+      "calories": 340,
+      "protein": 28,
+      "carbs": 12,
+      "fat": 18,
+      "sodium": 880,
+      "sugar": 8,
+      "fiber": 0,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vitamin A"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in sugar content"
+      ]
+    },
+    "tori paitan negitama ramen with karaage (chicken)": {
+      "calories": 620,
+      "protein": 34,
+      "carbs": 64,
+      "fat": 22,
+      "sodium": 1440,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains noodles for energy"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in carbohydrates"
+      ]
+    },
+    "beef & chicken karaage curry": {
+      "calories": 950,
+      "protein": 48,
+      "carbs": 92,
+      "fat": 38,
+      "sodium": 1780,
+      "sugar": 11,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains iron"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "smiley potato": {
+      "calories": 280,
+      "protein": 4,
+      "carbs": 38,
+      "fat": 12,
+      "sodium": 420,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in calories from fat",
+        "Fried food"
+      ]
+    },
+    "shoyu negitama ramen with beef": {
+      "calories": 820,
+      "protein": 42,
+      "carbs": 82,
+      "fat": 28,
+      "sodium": 1880,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains iron from beef"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "shoyu negitama ramen with karaage (chicken)": {
+      "calories": 880,
+      "protein": 44,
+      "carbs": 80,
+      "fat": 34,
+      "sodium": 1900,
+      "sugar": 7,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of energy"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "High in saturated fat"
+      ]
+    },
+    "onsen egg": {
+      "calories": 70,
+      "protein": 6,
+      "carbs": 1,
+      "fat": 5,
+      "sodium": 140,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains choline"
+      ],
+      "healthWarnings": []
+    },
+    "ajitama": {
+      "calories": 90,
+      "protein": 8,
+      "carbs": 2,
+      "fat": 6,
+      "sodium": 580,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Egg",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in choline"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "negitama gyudon beef (large)": {
+      "calories": 850,
+      "protein": 38,
+      "carbs": 76,
+      "fat": 36,
+      "sodium": 1480,
+      "sugar": 7,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Iron-rich",
+        "Contains antioxidants from scallions"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in saturated fat",
+        "Moderate sodium"
+      ]
+    },
+    "corn": {
+      "calories": 95,
+      "protein": 3,
+      "carbs": 18,
+      "fat": 1,
+      "sodium": 180,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of carbohydrates",
+        "Contains antioxidants",
+        "Low in fat"
+      ],
+      "healthWarnings": []
+    },
+    "miso soup": {
+      "calories": 85,
+      "protein": 6,
+      "carbs": 8,
+      "fat": 3,
+      "sodium": 920,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains probiotics",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "quattro cheese": {
+      "calories": 180,
+      "protein": 12,
+      "carbs": 2,
+      "fat": 14,
+      "sodium": 520,
+      "sugar": 0.5,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "High in calcium"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "rice only": {
+      "calories": 210,
+      "protein": 4,
+      "carbs": 46,
+      "fat": 0.5,
+      "sodium": 10,
+      "sugar": 0,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of carbohydrates",
+        "Low fat"
+      ],
+      "healthWarnings": []
+    },
+    "curry only half portion": {
+      "calories": 240,
+      "protein": 4,
+      "carbs": 18,
+      "fat": 16,
+      "sodium": 680,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains spices with anti-inflammatory properties"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "curry only full portion": {
+      "calories": 480,
+      "protein": 8,
+      "carbs": 36,
+      "fat": 32,
+      "sodium": 1360,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains spices with anti-inflammatory properties"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "negi": {
+      "calories": 12,
+      "protein": 0.8,
+      "carbs": 2.5,
+      "fat": 0.1,
+      "sodium": 8,
+      "sugar": 0.5,
+      "fiber": 0.8,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains antioxidants",
+        "Good source of vitamin C"
+      ],
+      "healthWarnings": []
+    },
+    "16 grain rice only": {
+      "calories": 240,
+      "protein": 6,
+      "carbs": 48,
+      "fat": 1,
+      "sodium": 15,
+      "sugar": 1,
+      "fiber": 4,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "Good source of whole grains",
+        "Contains micronutrients"
+      ],
+      "healthWarnings": []
+    },
+    "red ginger": {
+      "calories": 3,
+      "protein": 0.1,
+      "carbs": 0.7,
+      "fat": 0,
+      "sodium": 2,
+      "sugar": 0.1,
+      "fiber": 0.1,
+      "allergens": [],
+      "healthBenefits": [
+        "Very low calorie",
+        "Contains antioxidants",
+        "May aid digestion"
+      ],
+      "healthWarnings": []
+    },
+    "kimchi": {
+      "calories": 28,
+      "protein": 1,
+      "carbs": 5,
+      "fat": 0.2,
+      "sodium": 580,
+      "sugar": 2,
+      "fiber": 1.2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains probiotics",
+        "Good source of vitamin C",
+        "Low calorie"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    }
+  }
+}

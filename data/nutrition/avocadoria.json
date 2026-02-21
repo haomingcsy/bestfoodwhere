@@ -1,0 +1,529 @@
+{
+  "brand": "avocadoria",
+  "generatedAt": "2026-02-16T13:29:57.688Z",
+  "items": {
+    "avocado senyorita milk": {
+      "calories": 285,
+      "protein": 5.2,
+      "carbs": 28,
+      "fat": 17,
+      "sodium": 95,
+      "sugar": 22,
+      "fiber": 2.1,
+      "allergens": [
+        "Dairy",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Source of healthy fats",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "avocado lover 8oz": {
+      "calories": 320,
+      "protein": 8.5,
+      "carbs": 35,
+      "fat": 16,
+      "sodium": 120,
+      "sugar": 18,
+      "fiber": 4.2,
+      "allergens": [
+        "Dairy",
+        "Tree Nut",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "Source of healthy fats",
+        "Contains omega-3"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Moderate calorie density"
+      ]
+    },
+    "add crushed biscuits": {
+      "calories": 65,
+      "protein": 1,
+      "carbs": 9,
+      "fat": 3,
+      "sodium": 85,
+      "sugar": 4,
+      "fiber": 0.3,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "avocado shake 16oz": {
+      "calories": 385,
+      "protein": 9.8,
+      "carbs": 42,
+      "fat": 18,
+      "sodium": 135,
+      "sugar": 24,
+      "fiber": 5.1,
+      "allergens": [
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "Source of healthy fats",
+        "Contains omega-3"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Calorie dense"
+      ]
+    },
+    "avocado ice cream cheesecake": {
+      "calories": 2180,
+      "protein": 32,
+      "carbs": 165,
+      "fat": 155,
+      "sodium": 520,
+      "sugar": 128,
+      "fiber": 8,
+      "allergens": [
+        "Dairy",
+        "Tree Nut",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Source of healthy fats",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "Very high in calories",
+        "Very high in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "avocado lover 12oz": {
+      "calories": 420,
+      "protein": 10.2,
+      "carbs": 44,
+      "fat": 21,
+      "sodium": 145,
+      "sugar": 22,
+      "fiber": 5.8,
+      "allergens": [
+        "Dairy",
+        "Tree Nut",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "Source of healthy fats",
+        "Contains omega-3"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Calorie dense"
+      ]
+    },
+    "avocado shake jackfruit 16oz": {
+      "calories": 395,
+      "protein": 9.5,
+      "carbs": 48,
+      "fat": 18,
+      "sodium": 140,
+      "sugar": 28,
+      "fiber": 5.2,
+      "allergens": [
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "Source of healthy fats",
+        "Contains vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Calorie dense"
+      ]
+    },
+    "avocado senyorita white": {
+      "calories": 295,
+      "protein": 5.4,
+      "carbs": 30,
+      "fat": 17.5,
+      "sodium": 100,
+      "sugar": 24,
+      "fiber": 2.1,
+      "allergens": [
+        "Dairy",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Source of healthy fats",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "avocado sansrival": {
+      "calories": 2420,
+      "protein": 38,
+      "carbs": 158,
+      "fat": 182,
+      "sodium": 480,
+      "sugar": 118,
+      "fiber": 7.5,
+      "allergens": [
+        "Dairy",
+        "Tree Nut",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Source of healthy fats",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "Very high in calories",
+        "Very high in sugar",
+        "Very high in fat"
+      ]
+    },
+    "add mixed seeds": {
+      "calories": 85,
+      "protein": 3.2,
+      "carbs": 7,
+      "fat": 5.5,
+      "sodium": 50,
+      "sugar": 1,
+      "fiber": 3.1,
+      "allergens": [
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "High in omega-3",
+        "Good source of protein"
+      ],
+      "healthWarnings": []
+    },
+    "avocado dream": {
+      "calories": 310,
+      "protein": 6.8,
+      "carbs": 32,
+      "fat": 17,
+      "sodium": 110,
+      "sugar": 20,
+      "fiber": 2.5,
+      "allergens": [
+        "Dairy",
+        "Tree Nut",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Source of healthy fats",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "dark mocha avocado praline": {
+      "calories": 2560,
+      "protein": 35,
+      "carbs": 188,
+      "fat": 175,
+      "sodium": 520,
+      "sugar": 135,
+      "fiber": 6.2,
+      "allergens": [
+        "Dairy",
+        "Tree Nut",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "Very high in calories",
+        "Very high in sugar",
+        "Very high in fat"
+      ]
+    },
+    "avocado senyorita dark": {
+      "calories": 305,
+      "protein": 5.6,
+      "carbs": 29,
+      "fat": 18,
+      "sodium": 105,
+      "sugar": 21,
+      "fiber": 2.2,
+      "allergens": [
+        "Dairy",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Source of healthy fats",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "naked avocado light ice cream": {
+      "calories": 185,
+      "protein": 5.2,
+      "carbs": 18,
+      "fat": 10,
+      "sodium": 85,
+      "sugar": 12,
+      "fiber": 2.1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of healthy fats",
+        "Lower sugar option"
+      ],
+      "healthWarnings": [
+        "Moderate saturated fat"
+      ]
+    },
+    "avocado keto shake": {
+      "calories": 320,
+      "protein": 12,
+      "carbs": 8,
+      "fat": 25,
+      "sodium": 125,
+      "sugar": 2,
+      "fiber": 4.2,
+      "allergens": [
+        "Tree Nut",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Low carb",
+        "High in healthy fats",
+        "High protein",
+        "High in fiber"
+      ],
+      "healthWarnings": [
+        "High in saturated fat"
+      ]
+    },
+    "petite avocado cheesecake": {
+      "calories": 1090,
+      "protein": 16,
+      "carbs": 82,
+      "fat": 78,
+      "sodium": 260,
+      "sugar": 64,
+      "fiber": 4,
+      "allergens": [
+        "Dairy",
+        "Tree Nut",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Source of healthy fats",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "add pearls": {
+      "calories": 55,
+      "protein": 0.2,
+      "carbs": 14,
+      "fat": 0.1,
+      "sodium": 15,
+      "sugar": 12,
+      "fiber": 0.1,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "avocado keto ice cream": {
+      "calories": 285,
+      "protein": 8.5,
+      "carbs": 6,
+      "fat": 24,
+      "sodium": 95,
+      "sugar": 1.5,
+      "fiber": 2.8,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Low carb",
+        "High in healthy fats",
+        "High protein",
+        "High in fiber"
+      ],
+      "healthWarnings": [
+        "High in saturated fat"
+      ]
+    },
+    "add almonds": {
+      "calories": 95,
+      "protein": 3.5,
+      "carbs": 4,
+      "fat": 8,
+      "sodium": 40,
+      "sugar": 1,
+      "fiber": 2.3,
+      "allergens": [
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "High in healthy fats",
+        "Good source of protein",
+        "High in fiber"
+      ],
+      "healthWarnings": []
+    },
+    "petite avocado sansrival": {
+      "calories": 520,
+      "protein": 8,
+      "carbs": 42,
+      "fat": 38,
+      "sodium": 180,
+      "sugar": 32,
+      "fiber": 4,
+      "allergens": [
+        "Dairy",
+        "Tree Nut",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of healthy fats",
+        "Contains antioxidants from nuts"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "add on avocado bits": {
+      "calories": 85,
+      "protein": 1.5,
+      "carbs": 6,
+      "fat": 7,
+      "sodium": 45,
+      "sugar": 0.5,
+      "fiber": 1.5,
+      "allergens": [
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Good source of healthy fats",
+        "Contains fiber"
+      ],
+      "healthWarnings": [
+        "High in fat"
+      ]
+    },
+    "avocado shake soursop 16oz": {
+      "calories": 380,
+      "protein": 6,
+      "carbs": 48,
+      "fat": 18,
+      "sodium": 95,
+      "sugar": 38,
+      "fiber": 5,
+      "allergens": [
+        "Dairy",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "Good source of fiber",
+        "Contains probiotics"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in fat"
+      ]
+    },
+    "avocado shake dark choco 16oz": {
+      "calories": 420,
+      "protein": 7,
+      "carbs": 52,
+      "fat": 20,
+      "sodium": 110,
+      "sugar": 42,
+      "fiber": 5,
+      "allergens": [
+        "Dairy",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "Good source of fiber",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in fat",
+        "High in calories"
+      ]
+    },
+    "petite dark mocha ice cream cake": {
+      "calories": 545,
+      "protein": 7,
+      "carbs": 55,
+      "fat": 32,
+      "sodium": 165,
+      "sugar": 44,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from chocolate"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "inipit": {
+      "calories": 280,
+      "protein": 4,
+      "carbs": 28,
+      "fat": 16,
+      "sodium": 120,
+      "sugar": 20,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains healthy fats from avocado"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in fat"
+      ]
+    }
+  }
+}

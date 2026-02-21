@@ -1,0 +1,197 @@
+{
+  "brand": "pepper-lunch-jem",
+  "generatedAt": "2026-02-21T11:15:27.204Z",
+  "items": {
+    "comes with rice": {
+      "calories": 680,
+      "protein": 48,
+      "carbs": 52,
+      "fat": 28,
+      "sodium": 1200,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "choice of teriyaki sauce or brown sauce": {
+      "calories": 620,
+      "protein": 44,
+      "carbs": 48,
+      "fat": 24,
+      "sodium": 1100,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of selenium"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "comes with choice of 1 dipping sauce": {
+      "calories": 550,
+      "protein": 42,
+      "carbs": 18,
+      "fat": 32,
+      "sodium": 950,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of zinc"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "available in 120g": {
+      "calories": 280,
+      "protein": 28,
+      "carbs": 8,
+      "fat": 14,
+      "sodium": 480,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "Moderate in saturated fat"
+      ]
+    },
+    "scallops and prawns": {
+      "calories": 420,
+      "protein": 38,
+      "carbs": 28,
+      "fat": 16,
+      "sodium": 1050,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Low in saturated fat",
+        "Good source of selenium"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Contains shellfish allergen"
+      ]
+    },
+    "comes with signature brown sauce": {
+      "calories": 640,
+      "protein": 52,
+      "carbs": 22,
+      "fat": 36,
+      "sodium": 1300,
+      "sugar": 4,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "come with choice of 1 dipping sauce": {
+      "calories": 680,
+      "protein": 48,
+      "carbs": 42,
+      "fat": 28,
+      "sodium": 1250,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "available in 160g": {
+      "calories": 370,
+      "protein": 37,
+      "carbs": 10,
+      "fat": 18,
+      "sodium": 620,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "Moderate in saturated fat"
+      ]
+    },
+    "available in 200g": {
+      "calories": 460,
+      "protein": 46,
+      "carbs": 12,
+      "fat": 23,
+      "sodium": 780,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron",
+        "Good source of zinc"
+      ],
+      "healthWarnings": [
+        "Moderate in saturated fat"
+      ]
+    }
+  }
+}

@@ -1,0 +1,624 @@
+{
+  "brand": "deli-turk-by-chef-celal-at-suntec-city-mall",
+  "generatedAt": "2026-02-16T14:28:04.190Z",
+  "items": {
+    "eggplant dolma": {
+      "calories": 240,
+      "protein": 8,
+      "carbs": 32,
+      "fat": 9,
+      "sodium": 520,
+      "sugar": 6,
+      "fiber": 6,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Low in calories",
+        "Rich in antioxidants"
+      ],
+      "healthWarnings": [
+        "Moderate sodium content"
+      ]
+    },
+    "meze platter": {
+      "calories": 480,
+      "protein": 16,
+      "carbs": 52,
+      "fat": 22,
+      "sodium": 1080,
+      "sugar": 8,
+      "fiber": 8,
+      "allergens": [
+        "Dairy",
+        "Sesame",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Variety of vegetables",
+        "Good source of healthy fats",
+        "Rich in fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "lamb pide": {
+      "calories": 520,
+      "protein": 28,
+      "carbs": 48,
+      "fat": 22,
+      "sodium": 1200,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "cauliflower salad": {
+      "calories": 180,
+      "protein": 12,
+      "carbs": 16,
+      "fat": 8,
+      "sodium": 480,
+      "sugar": 4,
+      "fiber": 4,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in vitamin C",
+        "Good source of fiber",
+        "Low in calories"
+      ],
+      "healthWarnings": []
+    },
+    "lentil soup": {
+      "calories": 200,
+      "protein": 14,
+      "carbs": 28,
+      "fat": 3,
+      "sodium": 680,
+      "sugar": 3,
+      "fiber": 7,
+      "allergens": [],
+      "healthBenefits": [
+        "Excellent source of protein",
+        "High in fiber",
+        "Rich in iron"
+      ],
+      "healthWarnings": [
+        "Moderate sodium content"
+      ]
+    },
+    "sigara boregi": {
+      "calories": 280,
+      "protein": 10,
+      "carbs": 24,
+      "fat": 16,
+      "sodium": 520,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in saturated fat",
+        "Moderate sodium content"
+      ]
+    },
+    "muhammara": {
+      "calories": 240,
+      "protein": 6,
+      "carbs": 20,
+      "fat": 16,
+      "sodium": 380,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Tree Nut",
+        "Sesame",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of healthy fats",
+        "Rich in antioxidants"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in fat"
+      ]
+    },
+    "greek salad": {
+      "calories": 300,
+      "protein": 12,
+      "carbs": 18,
+      "fat": 20,
+      "sodium": 820,
+      "sugar": 6,
+      "fiber": 4,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Rich in antioxidants",
+        "Good source of healthy fats",
+        "High in vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "sucuk pide": {
+      "calories": 540,
+      "protein": 30,
+      "carbs": 48,
+      "fat": 24,
+      "sodium": 1320,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "zukkuni dip": {
+      "calories": 160,
+      "protein": 8,
+      "carbs": 14,
+      "fat": 8,
+      "sodium": 420,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Low in calories",
+        "Good source of protein"
+      ],
+      "healthWarnings": []
+    },
+    "falafel plate": {
+      "calories": 320,
+      "protein": 12,
+      "carbs": 36,
+      "fat": 14,
+      "sodium": 640,
+      "sugar": 4,
+      "fiber": 6,
+      "allergens": [
+        "Sesame",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Excellent source of fiber",
+        "Good source of plant-based protein"
+      ],
+      "healthWarnings": [
+        "Moderate sodium content",
+        "Moderate fat content"
+      ]
+    },
+    "baba ganoush": {
+      "calories": 180,
+      "protein": 4,
+      "carbs": 14,
+      "fat": 13,
+      "sodium": 360,
+      "sugar": 3,
+      "fiber": 4,
+      "allergens": [
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in antioxidants",
+        "Good source of healthy fats"
+      ],
+      "healthWarnings": [
+        "High in fat"
+      ]
+    },
+    "yaprak sarma": {
+      "calories": 200,
+      "protein": 6,
+      "carbs": 28,
+      "fat": 7,
+      "sodium": 560,
+      "sugar": 4,
+      "fiber": 4,
+      "allergens": [],
+      "healthBenefits": [
+        "High in fiber",
+        "Good source of vitamins"
+      ],
+      "healthWarnings": [
+        "Moderate sodium content"
+      ]
+    },
+    "coban salad": {
+      "calories": 160,
+      "protein": 4,
+      "carbs": 16,
+      "fat": 9,
+      "sodium": 340,
+      "sugar": 5,
+      "fiber": 3,
+      "allergens": [],
+      "healthBenefits": [
+        "Rich in vitamins",
+        "High in fiber",
+        "Low in calories"
+      ],
+      "healthWarnings": []
+    },
+    "samsun pide": {
+      "calories": 520,
+      "protein": 32,
+      "carbs": 46,
+      "fat": 20,
+      "sodium": 1240,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "shakashuka": {
+      "calories": 140,
+      "protein": 6,
+      "carbs": 18,
+      "fat": 5,
+      "sodium": 480,
+      "sugar": 5,
+      "fiber": 4,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in calories",
+        "High in fiber",
+        "Rich in vitamins"
+      ],
+      "healthWarnings": [
+        "Moderate sodium content"
+      ]
+    },
+    "mutabbal": {
+      "calories": 220,
+      "protein": 6,
+      "carbs": 18,
+      "fat": 14,
+      "sodium": 340,
+      "sugar": 3,
+      "fiber": 4,
+      "allergens": [
+        "Sesame",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of healthy fats",
+        "Rich in antioxidants"
+      ],
+      "healthWarnings": [
+        "High in fat"
+      ]
+    },
+    "menemen egg": {
+      "calories": 280,
+      "protein": 16,
+      "carbs": 20,
+      "fat": 14,
+      "sodium": 640,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Excellent source of protein",
+        "Rich in choline"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate fat content"
+      ]
+    },
+    "gavurdagi salad": {
+      "calories": 200,
+      "protein": 6,
+      "carbs": 16,
+      "fat": 13,
+      "sodium": 320,
+      "sugar": 5,
+      "fiber": 3,
+      "allergens": [
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Rich in antioxidants",
+        "Good source of healthy fats"
+      ],
+      "healthWarnings": [
+        "High in fat"
+      ]
+    },
+    "cheese pide": {
+      "calories": 400,
+      "protein": 15,
+      "carbs": 46,
+      "fat": 18,
+      "sodium": 680,
+      "sugar": 2,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "barbun ya plaki": {
+      "calories": 180,
+      "protein": 8,
+      "carbs": 22,
+      "fat": 7,
+      "sodium": 580,
+      "sugar": 5,
+      "fiber": 5,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Rich in potassium",
+        "Low in saturated fat"
+      ],
+      "healthWarnings": [
+        "Moderate sodium content"
+      ]
+    },
+    "taze fasulye": {
+      "calories": 220,
+      "protein": 10,
+      "carbs": 26,
+      "fat": 9,
+      "sodium": 620,
+      "sugar": 6,
+      "fiber": 6,
+      "allergens": [],
+      "healthBenefits": [
+        "High in fiber",
+        "Good source of vitamins",
+        "Plant-based protein"
+      ],
+      "healthWarnings": [
+        "Moderate sodium content"
+      ]
+    },
+    "spinach pide": {
+      "calories": 420,
+      "protein": 16,
+      "carbs": 48,
+      "fat": 18,
+      "sodium": 720,
+      "sugar": 3,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of iron",
+        "Rich in calcium",
+        "Contains spinach nutrients"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "vegetarian musakka": {
+      "calories": 380,
+      "protein": 14,
+      "carbs": 32,
+      "fat": 22,
+      "sodium": 650,
+      "sugar": 8,
+      "fiber": 5,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of potassium",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "Moderate sodium content"
+      ]
+    },
+    "hummus": {
+      "calories": 320,
+      "protein": 12,
+      "carbs": 28,
+      "fat": 18,
+      "sodium": 480,
+      "sugar": 2,
+      "fiber": 7,
+      "allergens": [
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "Good source of plant protein",
+        "Rich in healthy fats"
+      ],
+      "healthWarnings": []
+    },
+    "vegetarian pide": {
+      "calories": 520,
+      "protein": 18,
+      "carbs": 54,
+      "fat": 24,
+      "sodium": 840,
+      "sugar": 4,
+      "fiber": 6,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "potato fries": {
+      "calories": 280,
+      "protein": 4,
+      "carbs": 36,
+      "fat": 14,
+      "sodium": 420,
+      "sugar": 0,
+      "fiber": 3,
+      "allergens": [],
+      "healthBenefits": [
+        "Source of potassium"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "butter rice": {
+      "calories": 240,
+      "protein": 5,
+      "carbs": 32,
+      "fat": 10,
+      "sodium": 380,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in saturated fat"
+      ]
+    },
+    "submarine bread": {
+      "calories": 380,
+      "protein": 12,
+      "carbs": 62,
+      "fat": 8,
+      "sodium": 720,
+      "sugar": 3,
+      "fiber": 3,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "pita bread": {
+      "calories": 160,
+      "protein": 5,
+      "carbs": 32,
+      "fat": 2,
+      "sodium": 380,
+      "sugar": 1,
+      "fiber": 2,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "Moderate sodium content"
+      ]
+    },
+    "lavas bread": {
+      "calories": 140,
+      "protein": 4,
+      "carbs": 28,
+      "fat": 1,
+      "sodium": 340,
+      "sugar": 1,
+      "fiber": 2,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Low in fat"
+      ],
+      "healthWarnings": []
+    },
+    "chickpea stew": {
+      "calories": 380,
+      "protein": 16,
+      "carbs": 48,
+      "fat": 12,
+      "sodium": 640,
+      "sugar": 8,
+      "fiber": 10,
+      "allergens": [],
+      "healthBenefits": [
+        "High in fiber",
+        "Good source of plant protein",
+        "Rich in iron"
+      ],
+      "healthWarnings": [
+        "Moderate sodium content"
+      ]
+    }
+  }
+}

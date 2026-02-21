@@ -554,7 +554,7 @@ async function processRecipe(
     })),
     equipment: equipment,
     substitutions: parsed.substitutions || [],
-    nutrition: parsed.nutrition || null,
+    nutrition: parsed.nutrition || undefined,
     doneness_tips: parsed.doneness_tips || "",
     storage_tips: parsed.storage_tips || "",
     pro_tips: parsed.pro_tips || [],

@@ -1,0 +1,139 @@
+{
+  "brand": "hi-hot-pot-city-square-mall",
+  "generatedAt": "2026-02-16T15:22:35.654Z",
+  "items": {
+    "花胶鸡浓汤双人套餐(外卖) golden chicken soup with fish maw set meal for two (delivery)": {
+      "calories": 1280,
+      "protein": 78,
+      "carbs": 92,
+      "fat": 58,
+      "sodium": 2840,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of collagen",
+        "Rich in minerals"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "酸菜鱼双人套餐(外卖) suancai fish set meal for two (delivery)": {
+      "calories": 1180,
+      "protein": 72,
+      "carbs": 88,
+      "fat": 52,
+      "sodium": 3020,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of omega-3",
+        "Contains probiotics from fermented vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Spicy may irritate digestive system"
+      ]
+    },
+    "番茄鱼双人套餐(外卖) tomato fish set meal for two (delivery)": {
+      "calories": 1150,
+      "protein": 70,
+      "carbs": 90,
+      "fat": 48,
+      "sodium": 2720,
+      "sugar": 12,
+      "fiber": 3,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of omega-3",
+        "Rich in lycopene from tomato"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "药膳猪蹄双人套餐(外卖) herbal pork trotters set meal for two (delivery)": {
+      "calories": 1320,
+      "protein": 68,
+      "carbs": 88,
+      "fat": 68,
+      "sodium": 2560,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in collagen",
+        "Good source of protein",
+        "Contains traditional herbs"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "咖喱鸡双人套餐(外卖) curry chicken set meal for two (delivery)": {
+      "calories": 1240,
+      "protein": 74,
+      "carbs": 90,
+      "fat": 56,
+      "sodium": 2680,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains turmeric with anti-inflammatory properties"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "药膳鸡双人套餐(外卖) herbal chicken set meal for two (delivery)": {
+      "calories": 1200,
+      "protein": 76,
+      "carbs": 88,
+      "fat": 50,
+      "sodium": 2480,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains traditional Chinese herbs",
+        "Good for immune support"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    }
+  }
+}

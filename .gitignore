@@ -3,3 +3,13 @@ node_modules/
 .env*.local
 dev-server.log
 .vercel
+client_secret*.json
+genial-retina-*.json
+*.tsbuildinfo
+scripts/.vision-screenshots/
+scripts/.vision-progress.json*
+scripts/.grabfood-progress.json
+scripts/.grabfood-output.log
+scripts/.deliveroo-progress.json
+scripts/.website-progress.json
+sb-test.js

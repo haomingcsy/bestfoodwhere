@@ -1,0 +1,947 @@
+{
+  "brand": "kaeden",
+  "generatedAt": "2026-02-21T10:37:15.347Z",
+  "items": {
+    "turmeric fried chicken, spicy ranch, side salad": {
+      "calories": 720,
+      "protein": 42,
+      "carbs": 58,
+      "fat": 32,
+      "sodium": 1280,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains turmeric with anti-inflammatory properties"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "pommes puree, grilled vegetables, rendang beef sauce": {
+      "calories": 680,
+      "protein": 48,
+      "carbs": 42,
+      "fat": 36,
+      "sodium": 1120,
+      "sugar": 6,
+      "fiber": 4,
+      "allergens": [
+        "Dairy",
+        "Coconut"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains vegetables",
+        "Rich in iron"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "assam curry spaghetti, crispy skin sea bass": {
+      "calories": 620,
+      "protein": 52,
+      "carbs": 52,
+      "fat": 22,
+      "sodium": 1040,
+      "sugar": 5,
+      "fiber": 3,
+      "allergens": [
+        "Fish",
+        "Shellfish",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "Good source of protein",
+        "Contains fish with heart-healthy fats"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Contains shellfish"
+      ]
+    },
+    "shio kombu, persillade, spaghetti (vegan 1)": {
+      "calories": 420,
+      "protein": 14,
+      "carbs": 68,
+      "fat": 8,
+      "sodium": 680,
+      "sugar": 2,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Vegan",
+        "Lower in calories",
+        "Good source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "Moderate sodium",
+        "Limited protein"
+      ]
+    },
+    "honey mustard dressing (vegan)": {
+      "calories": 180,
+      "protein": 2,
+      "carbs": 8,
+      "fat": 16,
+      "sodium": 420,
+      "sugar": 6,
+      "fiber": 0,
+      "allergens": [
+        "Mustard"
+      ],
+      "healthBenefits": [
+        "Vegan"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in sugar"
+      ]
+    },
+    "romesco sauce, mixed grilled vegetables, brussel sprouts": {
+      "calories": 340,
+      "protein": 12,
+      "carbs": 38,
+      "fat": 16,
+      "sodium": 480,
+      "sugar": 8,
+      "fiber": 8,
+      "allergens": [
+        "Tree Nut",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "High in vitamins",
+        "Good source of antioxidants"
+      ],
+      "healthWarnings": [
+        "Moderate sodium"
+      ]
+    },
+    "shio kombu, persillade, spaghetti (vegan 2)": {
+      "calories": 420,
+      "protein": 14,
+      "carbs": 68,
+      "fat": 8,
+      "sodium": 680,
+      "sugar": 2,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Vegan",
+        "Lower in calories",
+        "Good source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "Moderate sodium",
+        "Limited protein"
+      ]
+    },
+    "fragrant spicy shrimp sauce, soft shell crab tempura, spaghetti": {
+      "calories": 680,
+      "protein": 48,
+      "carbs": 58,
+      "fat": 26,
+      "sodium": 1200,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Shellfish",
+        "Gluten",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains shellfish with minerals"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "Contains shellfish"
+      ]
+    },
+    "assam curry spaghetti, crispy skin sea bass (duplicate)": {
+      "calories": 620,
+      "protein": 52,
+      "carbs": 52,
+      "fat": 22,
+      "sodium": 1040,
+      "sugar": 5,
+      "fiber": 3,
+      "allergens": [
+        "Fish",
+        "Shellfish",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "Good source of protein",
+        "Contains fish with heart-healthy fats"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Contains shellfish"
+      ]
+    },
+    "miso cream sauce, bacon & shio kombu, sou-vide egg, spaghetti, furikake": {
+      "calories": 720,
+      "protein": 42,
+      "carbs": 58,
+      "fat": 34,
+      "sodium": 1360,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains umami flavors"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "mixed seafood, marinara sauce, spaghetti": {
+      "calories": 640,
+      "protein": 52,
+      "carbs": 56,
+      "fat": 20,
+      "sodium": 1080,
+      "sugar": 8,
+      "fiber": 3,
+      "allergens": [
+        "Fish",
+        "Shellfish",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of omega-3",
+        "Contains multiple seafood nutrients"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Contains shellfish and fish"
+      ]
+    },
+    "braised beef short rib, red wine tomato sauce, tagliatelle": {
+      "calories": 780,
+      "protein": 56,
+      "carbs": 52,
+      "fat": 38,
+      "sodium": 1200,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "pommes puree, fried brussels sprout, salsa roja": {
+      "calories": 580,
+      "protein": 32,
+      "carbs": 42,
+      "fat": 32,
+      "sodium": 720,
+      "sugar": 6,
+      "fiber": 5,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains fiber"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in sodium"
+      ]
+    },
+    "blended wagyu patty, remoulade sauce, caramelised onions, side salad": {
+      "calories": 780,
+      "protein": 52,
+      "carbs": 48,
+      "fat": 42,
+      "sodium": 1240,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains wagyu beef with conjugated linoleic acid"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "sauce mornay, honey baked ham, sourdough, side salad": {
+      "calories": 680,
+      "protein": 38,
+      "carbs": 52,
+      "fat": 34,
+      "sodium": 1480,
+      "sugar": 8,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains ham with iron"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "sauce gribiche, charsiu pulled pork, sourdough, gruyere cheese, side salad": {
+      "calories": 720,
+      "protein": 44,
+      "carbs": 50,
+      "fat": 38,
+      "sodium": 1520,
+      "sugar": 12,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains pulled pork"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "cheesy portobello patty, potato bun, sauce gibriche, side salad": {
+      "calories": 580,
+      "protein": 22,
+      "carbs": 58,
+      "fat": 26,
+      "sodium": 1100,
+      "sugar": 6,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains vegetables",
+        "Vegetarian"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "marinated fried chicken | chili crisp | side salad |": {
+      "calories": 700,
+      "protein": 40,
+      "carbs": 56,
+      "fat": 30,
+      "sodium": 1220,
+      "sugar": 3,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains chili with capsaicin"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "garlic butter crust, parsnip puree, sauce vierge": {
+      "calories": 480,
+      "protein": 18,
+      "carbs": 45,
+      "fat": 24,
+      "sodium": 680,
+      "sugar": 8,
+      "fiber": 8,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "Good source of vegetables",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "Moderate in calories"
+      ]
+    },
+    "pommes puree, grilled vegetables, rendang beef sauce (duplicate)": {
+      "calories": 680,
+      "protein": 48,
+      "carbs": 42,
+      "fat": 36,
+      "sodium": 1120,
+      "sugar": 6,
+      "fiber": 4,
+      "allergens": [
+        "Dairy",
+        "Coconut"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains vegetables",
+        "Rich in iron"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "parsnip puree, salsa roja, sautéed mushrooms": {
+      "calories": 520,
+      "protein": 28,
+      "carbs": 35,
+      "fat": 28,
+      "sodium": 680,
+      "sugar": 8,
+      "fiber": 6,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vitamins and minerals"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in sodium"
+      ]
+    },
+    "paprika marinated chicken, fries, side salad, shaoxing cream sauce": {
+      "calories": 650,
+      "protein": 38,
+      "carbs": 48,
+      "fat": 32,
+      "sodium": 850,
+      "sugar": 4,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "homemade pesto, mixed mushrooms": {
+      "calories": 620,
+      "protein": 22,
+      "carbs": 58,
+      "fat": 32,
+      "sodium": 760,
+      "sugar": 3,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Good source of carbohydrates",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in sodium"
+      ]
+    },
+    "smashed avocado, piperade, fried egg, tomatoes & radish salad": {
+      "calories": 480,
+      "protein": 16,
+      "carbs": 32,
+      "fat": 32,
+      "sodium": 520,
+      "sugar": 6,
+      "fiber": 8,
+      "allergens": [
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "High in healthy fats",
+        "Good source of potassium"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "Moderate sodium"
+      ]
+    },
+    "leavened waffles, spicy fried chicken, honey butter syrup": {
+      "calories": 780,
+      "protein": 32,
+      "carbs": 72,
+      "fat": 38,
+      "sodium": 920,
+      "sugar": 28,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "crispy fried potatoes, avocado, chorizo, fried eggs, salsa verde": {
+      "calories": 720,
+      "protein": 28,
+      "carbs": 48,
+      "fat": 44,
+      "sodium": 980,
+      "sugar": 5,
+      "fiber": 6,
+      "allergens": [
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains healthy fats"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "poached eggs, hollandaise sauce, english muffin, side salad, choice of honey bake": {
+      "calories": 560,
+      "protein": 20,
+      "carbs": 42,
+      "fat": 32,
+      "sodium": 780,
+      "sugar": 12,
+      "fiber": 3,
+      "allergens": [
+        "Egg",
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains choline"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in sodium"
+      ]
+    },
+    "spicy chilli crisp | taiwanese style fried chicken |": {
+      "calories": 520,
+      "protein": 36,
+      "carbs": 28,
+      "fat": 28,
+      "sodium": 680,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains spices with anti-inflammatory properties"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "*vegan*": {
+      "calories": 320,
+      "protein": 4,
+      "carbs": 38,
+      "fat": 16,
+      "sodium": 380,
+      "sugar": 1,
+      "fiber": 3,
+      "allergens": [],
+      "healthBenefits": [
+        "Vegan",
+        "Lower in protein"
+      ],
+      "healthWarnings": [
+        "High in fat"
+      ]
+    },
+    "homemade tartare sauce": {
+      "calories": 480,
+      "protein": 12,
+      "carbs": 24,
+      "fat": 28,
+      "sodium": 560,
+      "sugar": 3,
+      "fiber": 3,
+      "allergens": [
+        "Fish",
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of minerals"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in sodium"
+      ]
+    },
+    "squid ink aioli": {
+      "calories": 420,
+      "protein": 18,
+      "carbs": 22,
+      "fat": 28,
+      "sodium": 640,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains minerals"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in sodium"
+      ]
+    },
+    "heirloom tomatoes, burrata raisin vinegrette": {
+      "calories": 380,
+      "protein": 16,
+      "carbs": 24,
+      "fat": 26,
+      "sodium": 420,
+      "sugar": 12,
+      "fiber": 4,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in vitamins",
+        "Good source of antioxidants",
+        "Contains healthy fats"
+      ],
+      "healthWarnings": [
+        "Moderate fat content"
+      ]
+    },
+    "mentaiko sauce, furikake": {
+      "calories": 400,
+      "protein": 6,
+      "carbs": 42,
+      "fat": 22,
+      "sodium": 520,
+      "sugar": 2,
+      "fiber": 3,
+      "allergens": [
+        "Fish",
+        "Sesame",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains iodine"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "gryuyere cheese sauce, bacon bits": {
+      "calories": 480,
+      "protein": 14,
+      "carbs": 36,
+      "fat": 32,
+      "sodium": 780,
+      "sugar": 2,
+      "fiber": 3,
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat",
+        "High in saturated fat"
+      ]
+    },
+    "hot expresso": {
+      "calories": 5,
+      "protein": 0.5,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "matcha latte": {
+      "calories": 170,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 5,
+      "sodium": 80,
+      "sugar": 18,
+      "fiber": 0.5,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of calcium",
+        "Rich in antioxidants",
+        "Source of L-theanine"
+      ],
+      "healthWarnings": [
+        "Moderate caffeine content",
+        "High in sugar"
+      ]
+    },
+    "hot chocolate": {
+      "calories": 220,
+      "protein": 8,
+      "carbs": 24,
+      "fat": 10,
+      "sodium": 120,
+      "sugar": 18,
+      "fiber": 2,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "Moderate sugar",
+        "Moderate fat"
+      ]
+    },
+    "long black": {
+      "calories": 5,
+      "protein": 0.3,
+      "carbs": 0,
+      "fat": 0.1,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Source of antioxidants",
+        "May improve alertness"
+      ],
+      "healthWarnings": [
+        "High in caffeine"
+      ]
+    },
+    "cappuccino": {
+      "calories": 150,
+      "protein": 5.5,
+      "carbs": 11,
+      "fat": 5,
+      "sodium": 75,
+      "sugar": 10,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of calcium",
+        "Source of antioxidants"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "Moderate caffeine content"
+      ]
+    },
+    "chai tea latte": {
+      "calories": 160,
+      "protein": 5,
+      "carbs": 22,
+      "fat": 4.5,
+      "sodium": 120,
+      "sugar": 20,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of calcium",
+        "Contains warming spices"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Moderate caffeine content"
+      ]
+    },
+    "flat white": {
+      "calories": 140,
+      "protein": 5,
+      "carbs": 9,
+      "fat": 5,
+      "sodium": 70,
+      "sugar": 8,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of calcium",
+        "Source of antioxidants"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "Moderate caffeine content"
+      ]
+    },
+    "latte": {
+      "calories": 180,
+      "protein": 6,
+      "carbs": 16,
+      "fat": 6,
+      "sodium": 85,
+      "sugar": 15,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of calcium",
+        "Source of antioxidants"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "Moderate caffeine content"
+      ]
+    },
+    "mocha": {
+      "calories": 230,
+      "protein": 6,
+      "carbs": 28,
+      "fat": 8,
+      "sodium": 95,
+      "sugar": 26,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of calcium",
+        "Source of antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "Moderate caffeine content"
+      ]
+    },
+    "chocolate": {
+      "calories": 240,
+      "protein": 6.5,
+      "carbs": 32,
+      "fat": 8.5,
+      "sodium": 100,
+      "sugar": 28,
+      "fiber": 1.5,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of calcium",
+        "Contains antioxidants from cocoa"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    }
+  }
+}

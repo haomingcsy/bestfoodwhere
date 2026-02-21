@@ -1,0 +1,1218 @@
+{
+  "brand": "go-noodle-house-vivocity",
+  "generatedAt": "2026-02-16T15:16:46.988Z",
+  "items": {
+    "superior soup noodles": {
+      "calories": 520,
+      "protein": 18,
+      "carbs": 68,
+      "fat": 16,
+      "sodium": 1480,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Fish",
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in carbohydrates"
+      ]
+    },
+    "604 fu zhou fishball": {
+      "calories": 380,
+      "protein": 22,
+      "carbs": 18,
+      "fat": 24,
+      "sodium": 1120,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Fish",
+        "Shellfish",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains seafood"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "100 signature bursting meatball noodles": {
+      "calories": 580,
+      "protein": 24,
+      "carbs": 65,
+      "fat": 20,
+      "sodium": 1540,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Pork"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in carbohydrates",
+        "High in fat"
+      ]
+    },
+    "century egg with ginger pickle": {
+      "calories": 140,
+      "protein": 12,
+      "carbs": 8,
+      "fat": 6,
+      "sodium": 680,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "sprite": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 35,
+      "fat": 0,
+      "sodium": 65,
+      "sugar": 35,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in carbohydrates"
+      ]
+    },
+    "hakka sauce with century egg noodles": {
+      "calories": 510,
+      "protein": 16,
+      "carbs": 62,
+      "fat": 18,
+      "sodium": 1420,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in carbohydrates"
+      ]
+    },
+    "fried fish cake": {
+      "calories": 220,
+      "protein": 10,
+      "carbs": 16,
+      "fat": 13,
+      "sodium": 520,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "snow pear": {
+      "calories": 110,
+      "protein": 0,
+      "carbs": 28,
+      "fat": 0,
+      "sodium": 25,
+      "sugar": 24,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains vitamin C",
+        "Hydrating"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "605 pork ball": {
+      "calories": 340,
+      "protein": 20,
+      "carbs": 12,
+      "fat": 22,
+      "sodium": 980,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Pork"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "homemade spicy soup noodle": {
+      "calories": 480,
+      "protein": 16,
+      "carbs": 64,
+      "fat": 14,
+      "sodium": 1360,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in carbohydrates"
+      ]
+    },
+    "spicy hakka sauce with century egg noodles": {
+      "calories": 540,
+      "protein": 17,
+      "carbs": 63,
+      "fat": 20,
+      "sodium": 1480,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in carbohydrates"
+      ]
+    },
+    "101 pork ball noodles": {
+      "calories": 560,
+      "protein": 22,
+      "carbs": 64,
+      "fat": 18,
+      "sodium": 1500,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Pork"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in carbohydrates"
+      ]
+    },
+    "special dark sauce with onsen egg pan mee": {
+      "calories": 490,
+      "protein": 15,
+      "carbs": 60,
+      "fat": 16,
+      "sodium": 1380,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in carbohydrates"
+      ]
+    },
+    "102 spain pork belly slice noodles": {
+      "calories": 620,
+      "protein": 26,
+      "carbs": 62,
+      "fat": 26,
+      "sodium": 1520,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Pork"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in carbohydrates",
+        "High in saturated fat"
+      ]
+    },
+    "kum quat": {
+      "calories": 100,
+      "protein": 0,
+      "carbs": 26,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 22,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains vitamin C",
+        "Hydrating"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "608 fresh west saury fishball": {
+      "calories": 360,
+      "protein": 20,
+      "carbs": 14,
+      "fat": 24,
+      "sodium": 1100,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Fish",
+        "Shellfish",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "crispy fu chuk": {
+      "calories": 180,
+      "protein": 14,
+      "carbs": 8,
+      "fat": 10,
+      "sodium": 420,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains minerals"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "607 squid ball": {
+      "calories": 380,
+      "protein": 24,
+      "carbs": 16,
+      "fat": 22,
+      "sodium": 1140,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Shellfish",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains seafood"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "passionfruit": {
+      "calories": 95,
+      "protein": 0,
+      "carbs": 24,
+      "fat": 0,
+      "sodium": 30,
+      "sugar": 20,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains vitamin C",
+        "Hydrating",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "special spicy dark sauce with onsen egg pan mee": {
+      "calories": 520,
+      "protein": 16,
+      "carbs": 61,
+      "fat": 18,
+      "sodium": 1420,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in carbohydrates"
+      ]
+    },
+    "gold coin (pork)": {
+      "calories": 280,
+      "protein": 12,
+      "carbs": 18,
+      "fat": 18,
+      "sodium": 520,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Pork"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "103 fu zhou fish ball noodles": {
+      "calories": 420,
+      "protein": 22,
+      "carbs": 48,
+      "fat": 14,
+      "sodium": 1240,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Soy",
+        "Pork",
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3 from fish"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate saturated fat"
+      ]
+    },
+    "you tiao": {
+      "calories": 240,
+      "protein": 6,
+      "carbs": 28,
+      "fat": 12,
+      "sodium": 380,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "soy bean milk": {
+      "calories": 110,
+      "protein": 8,
+      "carbs": 6,
+      "fat": 5,
+      "sodium": 95,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of plant-based protein",
+        "Contains isoflavones"
+      ],
+      "healthWarnings": []
+    },
+    "606 signature bursting meatball": {
+      "calories": 320,
+      "protein": 18,
+      "carbs": 12,
+      "fat": 22,
+      "sodium": 680,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Pork",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "104 double beef combo noodles": {
+      "calories": 480,
+      "protein": 28,
+      "carbs": 52,
+      "fat": 16,
+      "sodium": 1380,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Beef"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate saturated fat"
+      ]
+    },
+    "bottled water": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Hydrating"
+      ],
+      "healthWarnings": []
+    },
+    "105 premium beef slice noodles": {
+      "calories": 440,
+      "protein": 26,
+      "carbs": 50,
+      "fat": 14,
+      "sodium": 1320,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Beef"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate saturated fat"
+      ]
+    },
+    "609 handmade fish paste": {
+      "calories": 180,
+      "protein": 20,
+      "carbs": 8,
+      "fat": 8,
+      "sodium": 560,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Fish",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "five spice meat roll": {
+      "calories": 290,
+      "protein": 14,
+      "carbs": 20,
+      "fat": 16,
+      "sodium": 580,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Fish",
+        "Pork",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "611 spain pork belly slice": {
+      "calories": 380,
+      "protein": 24,
+      "carbs": 8,
+      "fat": 28,
+      "sodium": 720,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Pork",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "trio platter": {
+      "calories": 420,
+      "protein": 18,
+      "carbs": 40,
+      "fat": 20,
+      "sodium": 680,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Pork",
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "106 premium beef ball noodles": {
+      "calories": 410,
+      "protein": 24,
+      "carbs": 48,
+      "fat": 12,
+      "sodium": 1280,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Beef"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "coca cola (no sugar)": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 45,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Contains artificial sweeteners"
+      ]
+    },
+    "fried golden pillow": {
+      "calories": 260,
+      "protein": 14,
+      "carbs": 16,
+      "fat": 16,
+      "sodium": 480,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "107 trio beef combo noodles": {
+      "calories": 520,
+      "protein": 32,
+      "carbs": 54,
+      "fat": 18,
+      "sodium": 1420,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Beef"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron",
+        "Contains collagen from tendon"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate saturated fat"
+      ]
+    },
+    "coca cola": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 39,
+      "fat": 0,
+      "sodium": 55,
+      "sugar": 39,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "612 premium beef slice": {
+      "calories": 320,
+      "protein": 28,
+      "carbs": 6,
+      "fat": 20,
+      "sodium": 680,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Beef",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "fanta orange": {
+      "calories": 150,
+      "protein": 0,
+      "carbs": 39,
+      "fat": 0,
+      "sodium": 45,
+      "sugar": 39,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "109 fresh fish slice noodles": {
+      "calories": 400,
+      "protein": 28,
+      "carbs": 48,
+      "fat": 10,
+      "sodium": 1300,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of omega-3",
+        "Low in saturated fat"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "603 premium beef ball": {
+      "calories": 280,
+      "protein": 22,
+      "carbs": 12,
+      "fat": 16,
+      "sodium": 980,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "110 fresh prawn noodles": {
+      "calories": 420,
+      "protein": 24,
+      "carbs": 48,
+      "fat": 12,
+      "sodium": 1240,
+      "sugar": 3,
+      "fiber": 3,
+      "allergens": [
+        "Shellfish",
+        "Fish",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of omega-3",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in carbohydrates"
+      ]
+    },
+    "614 fresh fish slice": {
+      "calories": 320,
+      "protein": 28,
+      "carbs": 10,
+      "fat": 14,
+      "sodium": 1100,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of omega-3",
+        "Low in carbs"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "fanta grape": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 35,
+      "fat": 0,
+      "sodium": 45,
+      "sugar": 35,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in carbohydrates",
+        "No nutritional value"
+      ]
+    },
+    "615 white clam": {
+      "calories": 240,
+      "protein": 20,
+      "carbs": 8,
+      "fat": 12,
+      "sodium": 1050,
+      "sugar": 1,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron",
+        "Low in carbs"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in cholesterol"
+      ]
+    },
+    "111 white clam noodles": {
+      "calories": 380,
+      "protein": 18,
+      "carbs": 46,
+      "fat": 10,
+      "sodium": 1180,
+      "sugar": 2,
+      "fiber": 3,
+      "allergens": [
+        "Shellfish",
+        "Fish",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains vegetables",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in carbohydrates"
+      ]
+    },
+    "616 fresh prawn": {
+      "calories": 310,
+      "protein": 26,
+      "carbs": 9,
+      "fat": 14,
+      "sodium": 1120,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of omega-3",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "112 trio seafood combo noodles": {
+      "calories": 520,
+      "protein": 32,
+      "carbs": 54,
+      "fat": 16,
+      "sodium": 1380,
+      "sugar": 3,
+      "fiber": 4,
+      "allergens": [
+        "Shellfish",
+        "Fish",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of omega-3",
+        "Contains multiple seafood proteins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in fat",
+        "High in carbohydrates"
+      ]
+    },
+    "113 fresh west saury fishball noodle": {
+      "calories": 380,
+      "protein": 20,
+      "carbs": 44,
+      "fat": 11,
+      "sodium": 1150,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in carbohydrates"
+      ]
+    },
+    "602a chinese dumpling (superior soup)": {
+      "calories": 320,
+      "protein": 12,
+      "carbs": 38,
+      "fat": 12,
+      "sodium": 820,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in carbohydrates",
+        "Moderate in fat"
+      ]
+    },
+    "602b chinese dumpling (chilli paste oil)": {
+      "calories": 340,
+      "protein": 12,
+      "carbs": 38,
+      "fat": 14,
+      "sodium": 920,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Contains chili peppers"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Spicy",
+        "Moderate in carbohydrates",
+        "Moderate in fat"
+      ]
+    },
+    "114 bitter gourd&handmade fish paste noodles": {
+      "calories": 400,
+      "protein": 22,
+      "carbs": 46,
+      "fat": 12,
+      "sodium": 1200,
+      "sugar": 2,
+      "fiber": 4,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "High in fiber",
+        "Contains bitter gourd antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in carbohydrates"
+      ]
+    },
+    "115 handmade fish paste noodles": {
+      "calories": 390,
+      "protein": 20,
+      "carbs": 45,
+      "fat": 11,
+      "sodium": 1170,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in carbohydrates"
+      ]
+    },
+    "116 squid ball noodles": {
+      "calories": 400,
+      "protein": 22,
+      "carbs": 46,
+      "fat": 11,
+      "sodium": 1190,
+      "sugar": 2,
+      "fiber": 3,
+      "allergens": [
+        "Shellfish",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in carbohydrates"
+      ]
+    },
+    "610a golden pillow": {
+      "calories": 280,
+      "protein": 14,
+      "carbs": 28,
+      "fat": 12,
+      "sodium": 760,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Contains protein",
+        "Low in sugar"
+      ],
+      "healthWarnings": [
+        "Moderate in sodium",
+        "Moderate in carbohydrates"
+      ]
+    },
+    "108 braised abalone noodles": {
+      "calories": 580,
+      "protein": 34,
+      "carbs": 52,
+      "fat": 18,
+      "sodium": 1420,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Shellfish",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Very high in protein",
+        "Premium ingredient",
+        "Good source of minerals"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat",
+        "High in cholesterol",
+        "High in calories"
+      ]
+    },
+    "117 golden pillow noodles": {
+      "calories": 420,
+      "protein": 18,
+      "carbs": 48,
+      "fat": 14,
+      "sodium": 1160,
+      "sugar": 3,
+      "fiber": 3,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Contains protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in carbohydrates"
+      ]
+    },
+    "601 superior soup chinese spinach with century egg": {
+      "calories": 240,
+      "protein": 14,
+      "carbs": 16,
+      "fat": 12,
+      "sodium": 900,
+      "sugar": 2,
+      "fiber": 3,
+      "allergens": [
+        "Egg",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "High in fiber",
+        "Good source of iron and calcium"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Contains high cholesterol egg"
+      ]
+    }
+  }
+}

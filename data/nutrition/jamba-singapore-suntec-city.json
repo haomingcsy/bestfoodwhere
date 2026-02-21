@@ -1,0 +1,3543 @@
+{
+  "brand": "jamba-singapore-suntec-city",
+  "generatedAt": "2026-02-16T15:43:40.776Z",
+  "items": {
+    "acai primo, regular": {
+      "calories": 280,
+      "protein": 9,
+      "carbs": 52,
+      "fat": 5,
+      "sodium": 85,
+      "sugar": 38,
+      "fiber": 8,
+      "allergens": [
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "High in antioxidants",
+        "Good source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "chocolate covered strawberry, large": {
+      "calories": 410,
+      "protein": 11,
+      "carbs": 68,
+      "fat": 12,
+      "sodium": 95,
+      "sugar": 52,
+      "fiber": 4,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "buzzin' mocha moo'd blended coffee, large, 2 % milk": {
+      "calories": 380,
+      "protein": 13,
+      "carbs": 54,
+      "fat": 10,
+      "sodium": 160,
+      "sugar": 42,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains caffeine"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in caffeine"
+      ]
+    },
+    "strawberry blueberry greek yogurt, regular": {
+      "calories": 320,
+      "protein": 14,
+      "carbs": 48,
+      "fat": 6,
+      "sodium": 75,
+      "sugar": 35,
+      "fiber": 6,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of probiotics"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "3g energy™ + green caffeine® boost": {
+      "calories": 35,
+      "protein": 7,
+      "carbs": 1,
+      "fat": 0,
+      "sodium": 40,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein",
+        "Contains energy-boosting ingredients"
+      ],
+      "healthWarnings": []
+    },
+    "fat free vanilla frozen yogurt, large": {
+      "calories": 240,
+      "protein": 16,
+      "carbs": 42,
+      "fat": 0,
+      "sodium": 140,
+      "sugar": 32,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "oatmeal": {
+      "calories": 220,
+      "protein": 7,
+      "carbs": 38,
+      "fat": 4,
+      "sodium": 140,
+      "sugar": 2,
+      "fiber": 6,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "Good source of whole grains"
+      ],
+      "healthWarnings": []
+    },
+    "banana, fresh, topping": {
+      "calories": 53,
+      "protein": 0.6,
+      "carbs": 13,
+      "fat": 0.2,
+      "sodium": 1,
+      "sugar": 9,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of potassium",
+        "Contains natural carbohydrates"
+      ],
+      "healthWarnings": []
+    },
+    "berry fresh fruit cup": {
+      "calories": 140,
+      "protein": 2,
+      "carbs": 34,
+      "fat": 0.5,
+      "sodium": 15,
+      "sugar": 26,
+      "fiber": 4,
+      "allergens": [],
+      "healthBenefits": [
+        "High in vitamin C",
+        "Good source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "2% milk, 8 fl oz": {
+      "calories": 130,
+      "protein": 8,
+      "carbs": 12,
+      "fat": 5,
+      "sodium": 170,
+      "sugar": 12,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Good source of calcium"
+      ],
+      "healthWarnings": []
+    },
+    "lemon ginger cayenne shot": {
+      "calories": 45,
+      "protein": 0.5,
+      "carbs": 10,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 6,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains ginger",
+        "May aid digestion"
+      ],
+      "healthWarnings": []
+    },
+    "apple cinnamon pretzel": {
+      "calories": 380,
+      "protein": 8,
+      "carbs": 62,
+      "fat": 11,
+      "sodium": 720,
+      "sugar": 22,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Contains fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "acai super-antioxidant™ smoothie, large": {
+      "calories": 360,
+      "protein": 11,
+      "carbs": 64,
+      "fat": 7,
+      "sodium": 100,
+      "sugar": 48,
+      "fiber": 9,
+      "allergens": [
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "High in antioxidants",
+        "Good source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "blue lava, large": {
+      "calories": 320,
+      "protein": 8,
+      "carbs": 58,
+      "fat": 6,
+      "sodium": 120,
+      "sugar": 44,
+      "fiber": 3,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "dip cup, marinara": {
+      "calories": 70,
+      "protein": 2,
+      "carbs": 10,
+      "fat": 2,
+      "sodium": 480,
+      "sugar": 6,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains lycopene"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "blueberry, fresh, topping": {
+      "calories": 44,
+      "protein": 0.5,
+      "carbs": 11,
+      "fat": 0.2,
+      "sodium": 2,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "High in antioxidants",
+        "Good source of fiber"
+      ],
+      "healthWarnings": []
+    },
+    "chocolate covered strawberry, medium": {
+      "calories": 310,
+      "protein": 8,
+      "carbs": 50,
+      "fat": 9,
+      "sodium": 75,
+      "sugar": 38,
+      "fiber": 3,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "blue lava, medium": {
+      "calories": 240,
+      "protein": 6,
+      "carbs": 44,
+      "fat": 4.5,
+      "sodium": 90,
+      "sugar": 33,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "dip cup, nutella": {
+      "calories": 180,
+      "protein": 4,
+      "carbs": 18,
+      "fat": 10,
+      "sodium": 45,
+      "sugar": 16,
+      "fiber": 1,
+      "allergens": [
+        "Tree Nut",
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "berry brown sugar": {
+      "calories": 310,
+      "protein": 8,
+      "carbs": 56,
+      "fat": 5,
+      "sodium": 150,
+      "sugar": 28,
+      "fiber": 7,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "Good source of whole grains"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "buzzin' mocha moo'd blended coffee, medium 2 % milk": {
+      "calories": 240,
+      "protein": 9,
+      "carbs": 38,
+      "fat": 5,
+      "sodium": 180,
+      "sugar": 32,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of protein",
+        "Contains antioxidants from coffee"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains caffeine"
+      ]
+    },
+    "acai super-antioxidant™ smoothie, medium": {
+      "calories": 280,
+      "protein": 6,
+      "carbs": 64,
+      "fat": 2,
+      "sodium": 95,
+      "sugar": 48,
+      "fiber": 4,
+      "allergens": [],
+      "healthBenefits": [
+        "High in antioxidants",
+        "Good source of vitamin C",
+        "Contains fiber"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "acai primo, large": {
+      "calories": 380,
+      "protein": 14,
+      "carbs": 58,
+      "fat": 8,
+      "sodium": 120,
+      "sugar": 38,
+      "fiber": 7,
+      "allergens": [
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "High in antioxidants",
+        "Good source of protein",
+        "Contains healthy fats"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "strawberry blueberry greek yogurt, large": {
+      "calories": 420,
+      "protein": 18,
+      "carbs": 62,
+      "fat": 7,
+      "sodium": 140,
+      "sugar": 42,
+      "fiber": 5,
+      "allergens": [
+        "Dairy",
+        "Tree Nut",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of probiotics",
+        "Contains fiber"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "blue spirulina boost": {
+      "calories": 35,
+      "protein": 7,
+      "carbs": 2,
+      "fat": 0,
+      "sodium": 250,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in minerals",
+        "High in iron"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "berry greek yogurt granola parfait": {
+      "calories": 320,
+      "protein": 16,
+      "carbs": 48,
+      "fat": 6,
+      "sodium": 130,
+      "sugar": 28,
+      "fiber": 4,
+      "allergens": [
+        "Dairy",
+        "Tree Nut",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains probiotics",
+        "Contains fiber"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "cheddar tomato twist": {
+      "calories": 280,
+      "protein": 12,
+      "carbs": 32,
+      "fat": 11,
+      "sodium": 620,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains calcium"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "fat free vanilla frozen yogurt, medium": {
+      "calories": 180,
+      "protein": 8,
+      "carbs": 38,
+      "fat": 0,
+      "sodium": 120,
+      "sugar": 32,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Low in fat",
+        "Good source of protein",
+        "Contains probiotics"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "orange carrot twist™ juice, large": {
+      "calories": 220,
+      "protein": 3,
+      "carbs": 54,
+      "fat": 1,
+      "sodium": 85,
+      "sugar": 38,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "High in vitamin A",
+        "Good source of vitamin C",
+        "Contains beta-carotene"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "almondmilk, 8 fl oz": {
+      "calories": 40,
+      "protein": 1,
+      "carbs": 1,
+      "fat": 3,
+      "sodium": 180,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Low calorie",
+        "Dairy-free"
+      ],
+      "healthWarnings": [
+        "High in sodium for serving size"
+      ]
+    },
+    "strawberry blueberry, cocowhip, regular": {
+      "calories": 320,
+      "protein": 12,
+      "carbs": 50,
+      "fat": 6,
+      "sodium": 110,
+      "sugar": 32,
+      "fiber": 5,
+      "allergens": [
+        "Dairy",
+        "Gluten",
+        "Tree Nut",
+        "Coconut"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains fiber",
+        "Rich in antioxidants"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "oatmilk, 8 fl oz": {
+      "calories": 100,
+      "protein": 3,
+      "carbs": 10,
+      "fat": 5,
+      "sodium": 170,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Dairy-free",
+        "Low sugar"
+      ],
+      "healthWarnings": []
+    },
+    "coconut flakes, topping": {
+      "calories": 70,
+      "protein": 1,
+      "carbs": 6,
+      "fat": 5,
+      "sodium": 85,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Coconut",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Contains fiber",
+        "Source of healthy fats"
+      ],
+      "healthWarnings": [
+        "High in saturated fat"
+      ]
+    },
+    "orange carrot twist™ juice, medium": {
+      "calories": 150,
+      "protein": 2,
+      "carbs": 36,
+      "fat": 1,
+      "sodium": 60,
+      "sugar": 26,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "High in vitamin A",
+        "Good source of vitamin C",
+        "Contains beta-carotene"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "blue lava, small": {
+      "calories": 180,
+      "protein": 0,
+      "carbs": 44,
+      "fat": 0,
+      "sodium": 75,
+      "sugar": 42,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "No protein"
+      ]
+    },
+    "chocolate covered strawberry, small": {
+      "calories": 220,
+      "protein": 4,
+      "carbs": 42,
+      "fat": 5,
+      "sodium": 70,
+      "sugar": 36,
+      "fiber": 2,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains vitamin C",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "buzzin' mocha moo'd blended coffee, small 2 % milk": {
+      "calories": 160,
+      "protein": 6,
+      "carbs": 26,
+      "fat": 3,
+      "sodium": 120,
+      "sugar": 22,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of protein",
+        "Contains antioxidants from coffee"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains caffeine"
+      ]
+    },
+    "dip cup, peanut butter": {
+      "calories": 210,
+      "protein": 8,
+      "carbs": 8,
+      "fat": 17,
+      "sodium": 190,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Peanut"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains healthy fats"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in calories"
+      ]
+    },
+    "classic sausage , egg + cheese handwich": {
+      "calories": 380,
+      "protein": 18,
+      "carbs": 28,
+      "fat": 22,
+      "sodium": 780,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "tropical greek yogurt granola parfait": {
+      "calories": 340,
+      "protein": 16,
+      "carbs": 52,
+      "fat": 6,
+      "sodium": 140,
+      "sugar": 32,
+      "fiber": 4,
+      "allergens": [
+        "Dairy",
+        "Tree Nut",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains probiotics",
+        "Contains fiber"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "strawberry + nutella & coconut": {
+      "calories": 420,
+      "protein": 12,
+      "carbs": 58,
+      "fat": 15,
+      "sodium": 180,
+      "sugar": 28,
+      "fiber": 5,
+      "allergens": [
+        "Dairy",
+        "Tree Nut",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "fat free vanilla frozen yogurt, small": {
+      "calories": 140,
+      "protein": 20,
+      "carbs": 22,
+      "fat": 0,
+      "sodium": 85,
+      "sugar": 18,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Probiotics",
+        "Fat-free"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in sodium"
+      ]
+    },
+    "chocolate moo'd powder": {
+      "calories": 70,
+      "protein": 3,
+      "carbs": 15,
+      "fat": 1,
+      "sodium": 140,
+      "sugar": 12,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Adds flavor variety"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in sodium"
+      ]
+    },
+    "acai super-antioxidant™ smoothie, small": {
+      "calories": 280,
+      "protein": 8,
+      "carbs": 54,
+      "fat": 4,
+      "sodium": 120,
+      "sugar": 42,
+      "fiber": 4,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in antioxidants",
+        "Good source of fiber",
+        "Contains vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "acai primo bowl, mini": {
+      "calories": 260,
+      "protein": 10,
+      "carbs": 45,
+      "fat": 6,
+      "sodium": 110,
+      "sugar": 28,
+      "fiber": 5,
+      "allergens": [
+        "Dairy",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "High in antioxidants",
+        "Good source of fiber",
+        "Contains healthy fats"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Moderate in calories"
+      ]
+    },
+    "impossible handwich": {
+      "calories": 380,
+      "protein": 16,
+      "carbs": 42,
+      "fat": 18,
+      "sodium": 620,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Plant-based"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat",
+        "High in calories"
+      ]
+    },
+    "orange carrot twist™ juice, small": {
+      "calories": 180,
+      "protein": 2,
+      "carbs": 42,
+      "fat": 1,
+      "sodium": 95,
+      "sugar": 36,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "High in vitamin A",
+        "Contains vitamin C",
+        "Good source of antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Low in protein",
+        "High in natural sugars"
+      ]
+    },
+    "peanut butter banana crunch": {
+      "calories": 480,
+      "protein": 16,
+      "carbs": 62,
+      "fat": 18,
+      "sodium": 280,
+      "sugar": 32,
+      "fiber": 6,
+      "allergens": [
+        "Dairy",
+        "Peanut",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Good source of fiber",
+        "Contains potassium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in fat",
+        "High in calories"
+      ]
+    },
+    "aloha pineapple® smoothie, large": {
+      "calories": 420,
+      "protein": 10,
+      "carbs": 88,
+      "fat": 5,
+      "sodium": 140,
+      "sugar": 68,
+      "fiber": 3,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains bromelain",
+        "Good source of vitamin C"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in calories"
+      ]
+    },
+    "cocowhip, topping": {
+      "calories": 80,
+      "protein": 0,
+      "carbs": 8,
+      "fat": 5,
+      "sodium": 20,
+      "sugar": 8,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sugar"
+      ]
+    },
+    "sherbet, lime, large": {
+      "calories": 280,
+      "protein": 0,
+      "carbs": 68,
+      "fat": 0,
+      "sodium": 45,
+      "sugar": 62,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Fat-free",
+        "Contains vitamin C"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "Low in nutrients"
+      ]
+    },
+    "acai peanut butter plus nutella, regular": {
+      "calories": 520,
+      "protein": 14,
+      "carbs": 62,
+      "fat": 22,
+      "sodium": 240,
+      "sugar": 38,
+      "fiber": 6,
+      "allergens": [
+        "Dairy",
+        "Peanut",
+        "Tree Nut",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Good source of fiber",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in fat",
+        "High in calories"
+      ]
+    },
+    "ginger puree boost": {
+      "calories": 50,
+      "protein": 1,
+      "carbs": 12,
+      "fat": 0,
+      "sodium": 80,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Anti-inflammatory",
+        "Aids digestion",
+        "Boosts immunity"
+      ],
+      "healthWarnings": []
+    },
+    "strawberry blueberry, cocowhip, large": {
+      "calories": 520,
+      "protein": 12,
+      "carbs": 78,
+      "fat": 16,
+      "sodium": 320,
+      "sugar": 45,
+      "fiber": 6,
+      "allergens": [
+        "Dairy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in antioxidants",
+        "Good source of fiber",
+        "Contains vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories",
+        "High in saturated fat"
+      ]
+    },
+    "soymilk, 8 fl oz": {
+      "calories": 100,
+      "protein": 8,
+      "carbs": 8,
+      "fat": 4,
+      "sodium": 140,
+      "sugar": 4,
+      "fiber": 1,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Dairy-free",
+        "Contains isoflavones"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "coffee dream machine blended coffee, large, 2% milk": {
+      "calories": 380,
+      "protein": 12,
+      "carbs": 52,
+      "fat": 12,
+      "sodium": 220,
+      "sugar": 42,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains caffeine",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in caffeine",
+        "High in calories"
+      ]
+    },
+    "smoothie, orange moo'd, large": {
+      "calories": 420,
+      "protein": 12,
+      "carbs": 82,
+      "fat": 6,
+      "sodium": 160,
+      "sugar": 64,
+      "fiber": 3,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains vitamin C",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in calories"
+      ]
+    },
+    "electric ice, large": {
+      "calories": 320,
+      "protein": 0,
+      "carbs": 78,
+      "fat": 0,
+      "sodium": 60,
+      "sugar": 72,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Fat-free"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "Low in nutrients"
+      ]
+    },
+    "granola, topping": {
+      "calories": 140,
+      "protein": 3,
+      "carbs": 22,
+      "fat": 5,
+      "sodium": 120,
+      "sugar": 10,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Tree Nut",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains whole grains"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in sodium"
+      ]
+    },
+    "sherbet, lime, medium": {
+      "calories": 200,
+      "protein": 0,
+      "carbs": 48,
+      "fat": 0,
+      "sodium": 35,
+      "sugar": 44,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Fat-free",
+        "Contains vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Low in nutrients"
+      ]
+    },
+    "acai peanut butter plus nutella, large": {
+      "calories": 520,
+      "protein": 16,
+      "carbs": 62,
+      "fat": 22,
+      "sodium": 180,
+      "sugar": 38,
+      "fiber": 8,
+      "allergens": [
+        "Peanut",
+        "Tree Nut",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in antioxidants",
+        "Good source of protein",
+        "Contains healthy fats"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "vanilla coconutmilk, 8 fl oz": {
+      "calories": 80,
+      "protein": 1,
+      "carbs": 8,
+      "fat": 5,
+      "sodium": 150,
+      "sugar": 6,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Dairy-free",
+        "Low calorie"
+      ],
+      "healthWarnings": [
+        "High in saturated fat"
+      ]
+    },
+    "kale boost": {
+      "calories": 25,
+      "protein": 2,
+      "carbs": 3,
+      "fat": 0.5,
+      "sodium": 120,
+      "sugar": 0,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "High in vitamins K and C",
+        "Low calorie",
+        "Rich in antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "peanut butter banana nutella, greek yogurt, regular": {
+      "calories": 420,
+      "protein": 18,
+      "carbs": 48,
+      "fat": 18,
+      "sodium": 220,
+      "sugar": 28,
+      "fiber": 4,
+      "allergens": [
+        "Peanut",
+        "Tree Nut",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains probiotics",
+        "Provides energy"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "electric ice, medium": {
+      "calories": 240,
+      "protein": 0,
+      "carbs": 60,
+      "fat": 0,
+      "sodium": 95,
+      "sugar": 58,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Refreshing",
+        "Contains vitamins"
+      ],
+      "healthWarnings": [
+        "Very high in sugar"
+      ]
+    },
+    "aloha pineapple® smoothie, medium": {
+      "calories": 280,
+      "protein": 3,
+      "carbs": 68,
+      "fat": 0.5,
+      "sodium": 85,
+      "sugar": 54,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "High in vitamin C",
+        "Contains bromelain",
+        "Supports digestion"
+      ],
+      "healthWarnings": [
+        "Very high in sugar"
+      ]
+    },
+    "orange ginger cayenne shot": {
+      "calories": 45,
+      "protein": 1,
+      "carbs": 10,
+      "fat": 0,
+      "sodium": 40,
+      "sugar": 8,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in vitamin C",
+        "Anti-inflammatory",
+        "Boosts metabolism"
+      ],
+      "healthWarnings": []
+    },
+    "smoothie, orange moo'd, medium": {
+      "calories": 320,
+      "protein": 8,
+      "carbs": 72,
+      "fat": 2,
+      "sodium": 140,
+      "sugar": 56,
+      "fiber": 2,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in vitamin C",
+        "Good source of calcium",
+        "Supports immune health"
+      ],
+      "healthWarnings": [
+        "Very high in sugar"
+      ]
+    },
+    "spring veggie egg bake": {
+      "calories": 210,
+      "protein": 16,
+      "carbs": 18,
+      "fat": 9,
+      "sodium": 420,
+      "sugar": 2,
+      "fiber": 3,
+      "allergens": [
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of vegetables",
+        "Low in sugar"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "coffee dream machine blended coffee, medium 2% milk": {
+      "calories": 290,
+      "protein": 9,
+      "carbs": 42,
+      "fat": 7,
+      "sodium": 180,
+      "sugar": 35,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains caffeine",
+        "Provides energy"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains caffeine"
+      ]
+    },
+    "honey, topping": {
+      "calories": 65,
+      "protein": 0,
+      "carbs": 17,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 16,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Natural sweetener",
+        "Contains trace minerals"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "belgian style waffle": {
+      "calories": 380,
+      "protein": 10,
+      "carbs": 52,
+      "fat": 15,
+      "sodium": 480,
+      "sugar": 18,
+      "fiber": 2,
+      "allergens": [
+        "Wheat",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "sherbet, lime, small": {
+      "calories": 120,
+      "protein": 0,
+      "carbs": 30,
+      "fat": 0,
+      "sodium": 40,
+      "sugar": 28,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low fat",
+        "Refreshing"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "electric ice, small": {
+      "calories": 160,
+      "protein": 0,
+      "carbs": 40,
+      "fat": 0,
+      "sodium": 65,
+      "sugar": 38,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Refreshing"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "smoothie, orange moo'd, small": {
+      "calories": 220,
+      "protein": 6,
+      "carbs": 48,
+      "fat": 1.5,
+      "sodium": 100,
+      "sugar": 38,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in vitamin C",
+        "Good source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "coffee dream machine blended coffee, small, 2% milk": {
+      "calories": 210,
+      "protein": 6,
+      "carbs": 28,
+      "fat": 5,
+      "sodium": 120,
+      "sugar": 24,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains caffeine"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains caffeine"
+      ]
+    },
+    "multivitamins (daily vitamin + zinc boost)": {
+      "calories": 10,
+      "protein": 0,
+      "carbs": 2,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Supports immune health",
+        "Provides essential vitamins and minerals"
+      ],
+      "healthWarnings": []
+    },
+    "chunky strawberry™, regular": {
+      "calories": 380,
+      "protein": 14,
+      "carbs": 56,
+      "fat": 9,
+      "sodium": 160,
+      "sugar": 32,
+      "fiber": 6,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in vitamin C",
+        "Good source of protein",
+        "High in fiber"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "peanut butter banana nutella, greek yogurt, large": {
+      "calories": 580,
+      "protein": 25,
+      "carbs": 68,
+      "fat": 24,
+      "sodium": 320,
+      "sugar": 42,
+      "fiber": 6,
+      "allergens": [
+        "Peanut",
+        "Tree Nut",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of potassium",
+        "Contains probiotics"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories",
+        "High in fat"
+      ]
+    },
+    "purely carrot™ juice, large": {
+      "calories": 180,
+      "protein": 2,
+      "carbs": 42,
+      "fat": 0.5,
+      "sodium": 140,
+      "sugar": 28,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "High in beta-carotene",
+        "High in vitamin A",
+        "Supports eye health"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "aloha pineapple® smoothie, small": {
+      "calories": 280,
+      "protein": 2,
+      "carbs": 68,
+      "fat": 0.5,
+      "sodium": 85,
+      "sugar": 52,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "High in vitamin C",
+        "Good source of manganese"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Low in protein"
+      ]
+    },
+    "sourdough parmesan pretzel": {
+      "calories": 320,
+      "protein": 9,
+      "carbs": 52,
+      "fat": 7,
+      "sodium": 680,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Contains gluten"
+      ]
+    },
+    "apple 'n greens™ smoothie, large": {
+      "calories": 380,
+      "protein": 3,
+      "carbs": 92,
+      "fat": 1,
+      "sodium": 120,
+      "sugar": 68,
+      "fiber": 3,
+      "allergens": [],
+      "healthBenefits": [
+        "High in vitamin A",
+        "High in vitamin C",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Low in protein"
+      ]
+    },
+    "non-fat greek yogurt boost": {
+      "calories": 90,
+      "protein": 18,
+      "carbs": 8,
+      "fat": 0,
+      "sodium": 75,
+      "sugar": 6,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "High in probiotics"
+      ],
+      "healthWarnings": []
+    },
+    "chunky strawberry™, large": {
+      "calories": 420,
+      "protein": 4,
+      "carbs": 98,
+      "fat": 2,
+      "sodium": 95,
+      "sugar": 72,
+      "fiber": 4,
+      "allergens": [],
+      "healthBenefits": [
+        "High in vitamin C",
+        "Contains fiber",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "peanut butter banana plus nutella, cocowhip, regular": {
+      "calories": 580,
+      "protein": 16,
+      "carbs": 68,
+      "fat": 26,
+      "sodium": 210,
+      "sugar": 48,
+      "fiber": 3,
+      "allergens": [
+        "Peanut",
+        "Tree Nut",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains potassium"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "lemonberry twist, large": {
+      "calories": 340,
+      "protein": 1,
+      "carbs": 84,
+      "fat": 0.5,
+      "sodium": 45,
+      "sugar": 78,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "High in vitamin C"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "Low in protein"
+      ]
+    },
+    "purely carrot™ juice, medium": {
+      "calories": 180,
+      "protein": 2,
+      "carbs": 42,
+      "fat": 0.5,
+      "sodium": 140,
+      "sugar": 32,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "High in beta-carotene",
+        "High in vitamin A"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Low in fiber"
+      ]
+    },
+    "agave, topping": {
+      "calories": 60,
+      "protein": 0,
+      "carbs": 16,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 15,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Lower glycemic index than sugar"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Calorie dense"
+      ]
+    },
+    "sherbet, orange, large": {
+      "calories": 120,
+      "protein": 1,
+      "carbs": 28,
+      "fat": 0.5,
+      "sodium": 35,
+      "sugar": 26,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "smoothie, rasp moo'd, large": {
+      "calories": 480,
+      "protein": 6,
+      "carbs": 108,
+      "fat": 3,
+      "sodium": 150,
+      "sugar": 82,
+      "fiber": 4,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in vitamin C",
+        "Contains fiber"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in calories"
+      ]
+    },
+    "sherbet, orange, medium": {
+      "calories": 85,
+      "protein": 0.5,
+      "carbs": 20,
+      "fat": 0.3,
+      "sodium": 25,
+      "sugar": 18,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "smoothie, rasp moo'd, medium": {
+      "calories": 340,
+      "protein": 4,
+      "carbs": 76,
+      "fat": 2,
+      "sodium": 110,
+      "sugar": 58,
+      "fiber": 3,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in vitamin C",
+        "Contains fiber"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "peanut butter banana plus nutella, cocowhip, large": {
+      "calories": 720,
+      "protein": 18,
+      "carbs": 85,
+      "fat": 33,
+      "sodium": 270,
+      "sugar": 60,
+      "fiber": 4,
+      "allergens": [
+        "Peanut",
+        "Tree Nut",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains potassium"
+      ],
+      "healthWarnings": [
+        "Very high in calories",
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "southwest turkey sausage wrap": {
+      "calories": 410,
+      "protein": 18,
+      "carbs": 45,
+      "fat": 16,
+      "sodium": 920,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "vanilla blue sky, regular": {
+      "calories": 320,
+      "protein": 5,
+      "carbs": 72,
+      "fat": 2,
+      "sodium": 140,
+      "sugar": 52,
+      "fiber": 2,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains calcium",
+        "Good source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "strawberry, fresh, topping": {
+      "calories": 25,
+      "protein": 0.5,
+      "carbs": 6,
+      "fat": 0.2,
+      "sodium": 2,
+      "sugar": 4,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "High in vitamin C",
+        "Low in calories",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "lemonberry twist, medium": {
+      "calories": 240,
+      "protein": 0.5,
+      "carbs": 60,
+      "fat": 0.3,
+      "sodium": 35,
+      "sugar": 56,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "High in vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Low in protein"
+      ]
+    },
+    "purely carrot™ juice, small": {
+      "calories": 120,
+      "protein": 1.5,
+      "carbs": 28,
+      "fat": 0.3,
+      "sodium": 95,
+      "sugar": 22,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "High in beta-carotene",
+        "High in vitamin A"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Low in fiber"
+      ]
+    },
+    "apple 'n greens™ smoothie, medium": {
+      "calories": 290,
+      "protein": 2.5,
+      "carbs": 70,
+      "fat": 0.8,
+      "sodium": 95,
+      "sugar": 52,
+      "fiber": 2.5,
+      "allergens": [],
+      "healthBenefits": [
+        "High in vitamin A",
+        "High in vitamin C",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Low in protein"
+      ]
+    },
+    "peanut butter boost": {
+      "calories": 210,
+      "protein": 10,
+      "carbs": 22,
+      "fat": 9,
+      "sodium": 180,
+      "sugar": 12,
+      "fiber": 2,
+      "allergens": [
+        "Peanut",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains healthy fats"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "vanilla blue sky, large": {
+      "calories": 380,
+      "protein": 12,
+      "carbs": 68,
+      "fat": 6,
+      "sodium": 220,
+      "sugar": 48,
+      "fiber": 3,
+      "allergens": [
+        "Dairy",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains probiotics"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "smoothie, rasp moo'd, small": {
+      "calories": 220,
+      "protein": 10,
+      "carbs": 36,
+      "fat": 3,
+      "sodium": 150,
+      "sugar": 28,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "chicken empanada - 1 count": {
+      "calories": 280,
+      "protein": 12,
+      "carbs": 28,
+      "fat": 14,
+      "sodium": 520,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "soy protein boost": {
+      "calories": 160,
+      "protein": 14,
+      "carbs": 18,
+      "fat": 2,
+      "sodium": 200,
+      "sugar": 10,
+      "fiber": 1,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Low in fat"
+      ],
+      "healthWarnings": []
+    },
+    "nutella, topping": {
+      "calories": 180,
+      "protein": 3,
+      "carbs": 20,
+      "fat": 10,
+      "sodium": 35,
+      "sugar": 17,
+      "fiber": 1,
+      "allergens": [
+        "Tree Nut",
+        "Soy",
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "apple 'n greens™ smoothie, small": {
+      "calories": 210,
+      "protein": 8,
+      "carbs": 42,
+      "fat": 1,
+      "sodium": 120,
+      "sugar": 28,
+      "fiber": 3,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains antioxidants",
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "purely orange™ juice, large": {
+      "calories": 280,
+      "protein": 4,
+      "carbs": 66,
+      "fat": 1,
+      "sodium": 5,
+      "sugar": 56,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of vitamin C",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Low in fiber"
+      ]
+    },
+    "lemonberry twist, small": {
+      "calories": 190,
+      "protein": 1,
+      "carbs": 48,
+      "fat": 0,
+      "sodium": 45,
+      "sugar": 42,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "sherbet, orange, small": {
+      "calories": 140,
+      "protein": 2,
+      "carbs": 32,
+      "fat": 0,
+      "sodium": 35,
+      "sugar": 28,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "spinach boost": {
+      "calories": 140,
+      "protein": 8,
+      "carbs": 16,
+      "fat": 2,
+      "sodium": 240,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of iron",
+        "Good source of protein",
+        "Contains vitamins"
+      ],
+      "healthWarnings": []
+    },
+    "purely orange™ juice, medium": {
+      "calories": 210,
+      "protein": 3,
+      "carbs": 50,
+      "fat": 1,
+      "sodium": 5,
+      "sugar": 42,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of vitamin C",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Low in fiber"
+      ]
+    },
+    "peachberry blast, large": {
+      "calories": 320,
+      "protein": 2,
+      "carbs": 78,
+      "fat": 0,
+      "sodium": 60,
+      "sugar": 68,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "dragon fruit delight, regular": {
+      "calories": 320,
+      "protein": 10,
+      "carbs": 62,
+      "fat": 4,
+      "sodium": 180,
+      "sugar": 45,
+      "fiber": 4,
+      "allergens": [
+        "Dairy",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Good source of protein",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "sherbet, pineapple, large": {
+      "calories": 220,
+      "protein": 3,
+      "carbs": 52,
+      "fat": 0,
+      "sodium": 50,
+      "sugar": 46,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "caribbean passion® smoothie, large": {
+      "calories": 410,
+      "protein": 12,
+      "carbs": 76,
+      "fat": 5,
+      "sodium": 240,
+      "sugar": 58,
+      "fiber": 3,
+      "allergens": [
+        "Dairy",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains antioxidants",
+        "Good source of vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "topping, peanut butter": {
+      "calories": 190,
+      "protein": 8,
+      "carbs": 12,
+      "fat": 14,
+      "sodium": 200,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Peanut"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains healthy fats"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "chicken empanada - 2 count": {
+      "calories": 560,
+      "protein": 24,
+      "carbs": 56,
+      "fat": 28,
+      "sodium": 1040,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "mozzarella and herb bites - 6 count": {
+      "calories": 420,
+      "protein": 18,
+      "carbs": 32,
+      "fat": 24,
+      "sodium": 680,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Good source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "purely orange™ juice, small": {
+      "calories": 140,
+      "protein": 2,
+      "carbs": 33,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 28,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of vitamin C",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Low in fiber"
+      ]
+    },
+    "sherbet, pineapple, medium": {
+      "calories": 120,
+      "protein": 0,
+      "carbs": 30,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 28,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low fat",
+        "Vitamin C source"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "tajin® large": {
+      "calories": 45,
+      "protein": 0,
+      "carbs": 11,
+      "fat": 0,
+      "sodium": 480,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains lime and chili"
+      ],
+      "healthWarnings": [
+        "Very high in sodium"
+      ]
+    },
+    "dragon fruit delight, large": {
+      "calories": 310,
+      "protein": 8,
+      "carbs": 62,
+      "fat": 2,
+      "sodium": 95,
+      "sugar": 45,
+      "fiber": 6,
+      "allergens": [],
+      "healthBenefits": [
+        "High in fiber",
+        "Good source of protein",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "peachberry blast, medium": {
+      "calories": 200,
+      "protein": 1,
+      "carbs": 50,
+      "fat": 0,
+      "sodium": 35,
+      "sugar": 46,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of Vitamin C",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "caribbean passion® smoothie, medium": {
+      "calories": 230,
+      "protein": 5,
+      "carbs": 55,
+      "fat": 1,
+      "sodium": 75,
+      "sugar": 48,
+      "fiber": 3,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of protein",
+        "High in Vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "mozzarella and herb bites - 12 count": {
+      "calories": 480,
+      "protein": 18,
+      "carbs": 45,
+      "fat": 22,
+      "sodium": 720,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains calcium"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "sherbet, pineapple, small": {
+      "calories": 80,
+      "protein": 0,
+      "carbs": 20,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 18,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low fat",
+        "Vitamin C source"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "caribbean passion® smoothie, small": {
+      "calories": 150,
+      "protein": 3,
+      "carbs": 36,
+      "fat": 0,
+      "sodium": 50,
+      "sugar": 32,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of protein",
+        "High in Vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "wheatgrass juice shot": {
+      "calories": 35,
+      "protein": 1,
+      "carbs": 7,
+      "fat": 0,
+      "sodium": 25,
+      "sugar": 0,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Very low calorie",
+        "Contains chlorophyll",
+        "Detoxifying properties"
+      ],
+      "healthWarnings": []
+    },
+    "tajin® medium": {
+      "calories": 30,
+      "protein": 0,
+      "carbs": 8,
+      "fat": 0,
+      "sodium": 320,
+      "sugar": 5,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains lime and chili"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "peachberry blast, small": {
+      "calories": 130,
+      "protein": 0,
+      "carbs": 32,
+      "fat": 0,
+      "sodium": 25,
+      "sugar": 30,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of Vitamin C",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "turkey sausage 'n cheese breakfast wrap": {
+      "calories": 310,
+      "protein": 22,
+      "carbs": 32,
+      "fat": 11,
+      "sodium": 580,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "sherbet, raspberry, large": {
+      "calories": 150,
+      "protein": 0,
+      "carbs": 38,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 35,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Low fat",
+        "Vitamin C source"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "greens 'n ginger™ smoothie, large": {
+      "calories": 280,
+      "protein": 9,
+      "carbs": 52,
+      "fat": 4,
+      "sodium": 110,
+      "sugar": 38,
+      "fiber": 5,
+      "allergens": [],
+      "healthBenefits": [
+        "High in fiber",
+        "Good source of protein",
+        "Contains ginger"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "tajin® small": {
+      "calories": 20,
+      "protein": 0,
+      "carbs": 5,
+      "fat": 0,
+      "sodium": 210,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Very low calorie",
+        "Contains lime and chili"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "greens 'n ginger™ smoothie, medium": {
+      "calories": 200,
+      "protein": 6,
+      "carbs": 38,
+      "fat": 3,
+      "sodium": 85,
+      "sugar": 28,
+      "fiber": 4,
+      "allergens": [],
+      "healthBenefits": [
+        "High in fiber",
+        "Good source of protein",
+        "Contains ginger"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "whey protein boost": {
+      "calories": 120,
+      "protein": 24,
+      "carbs": 3,
+      "fat": 1,
+      "sodium": 150,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Very high in protein",
+        "Low in carbs",
+        "Low in sugar"
+      ],
+      "healthWarnings": []
+    },
+    "sherbet, raspberry, medium": {
+      "calories": 110,
+      "protein": 0,
+      "carbs": 28,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 25,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Low fat",
+        "Vitamin C source"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "greens 'n ginger™ smoothie, small": {
+      "calories": 140,
+      "protein": 4,
+      "carbs": 26,
+      "fat": 2,
+      "sodium": 60,
+      "sugar": 19,
+      "fiber": 3,
+      "allergens": [],
+      "healthBenefits": [
+        "High in fiber",
+        "Good source of protein",
+        "Contains ginger"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "sherbet, raspberry, small": {
+      "calories": 75,
+      "protein": 0,
+      "carbs": 19,
+      "fat": 0,
+      "sodium": 8,
+      "sugar": 17,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low fat",
+        "Vitamin C source"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "mango-a-go-go® smoothie, large": {
+      "calories": 290,
+      "protein": 1,
+      "carbs": 72,
+      "fat": 0.5,
+      "sodium": 15,
+      "sugar": 68,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "Rich in vitamin C",
+        "Good source of antioxidants",
+        "Natural energy boost"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in natural sugars"
+      ]
+    },
+    "mango-a-go-go® smoothie, medium": {
+      "calories": 220,
+      "protein": 1,
+      "carbs": 54,
+      "fat": 0.5,
+      "sodium": 12,
+      "sugar": 51,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Rich in vitamin C",
+        "Good source of antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "mango-a-go-go® smoothie, small": {
+      "calories": 140,
+      "protein": 1,
+      "carbs": 35,
+      "fat": 0.3,
+      "sodium": 8,
+      "sugar": 33,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Rich in vitamin C",
+        "Good source of antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "mega mango™ smoothie, large": {
+      "calories": 320,
+      "protein": 1,
+      "carbs": 79,
+      "fat": 0.5,
+      "sodium": 18,
+      "sugar": 75,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "Rich in vitamin C",
+        "High in antioxidants",
+        "Natural energy"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Very high in natural sugars"
+      ]
+    },
+    "mega mango™ smoothie, medium": {
+      "calories": 245,
+      "protein": 1,
+      "carbs": 60,
+      "fat": 0.5,
+      "sodium": 14,
+      "sugar": 57,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "Rich in vitamin C",
+        "High in antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "mega mango™ smoothie, small": {
+      "calories": 155,
+      "protein": 1,
+      "carbs": 38,
+      "fat": 0.3,
+      "sodium": 9,
+      "sugar": 36,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Rich in vitamin C",
+        "Good source of antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "orange c-booster™ smoothie, large": {
+      "calories": 280,
+      "protein": 2,
+      "carbs": 68,
+      "fat": 0.5,
+      "sodium": 160,
+      "sugar": 64,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "Excellent source of vitamin C",
+        "Immune system support",
+        "High in antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Moderate sodium"
+      ]
+    },
+    "orange c-booster™ smoothie, medium": {
+      "calories": 210,
+      "protein": 1,
+      "carbs": 51,
+      "fat": 0.5,
+      "sodium": 120,
+      "sugar": 48,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "Excellent source of vitamin C",
+        "Immune support"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Moderate sodium"
+      ]
+    },
+    "orange c-booster™ smoothie, small": {
+      "calories": 140,
+      "protein": 1,
+      "carbs": 34,
+      "fat": 0.3,
+      "sodium": 80,
+      "sugar": 32,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of vitamin C",
+        "Immune support"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "orange dream machine® smoothie, large": {
+      "calories": 320,
+      "protein": 5,
+      "carbs": 64,
+      "fat": 4,
+      "sodium": 180,
+      "sugar": 60,
+      "fiber": 2,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Rich in vitamin C",
+        "Good protein source",
+        "Calcium source"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Moderate sodium",
+        "Contains dairy"
+      ]
+    },
+    "orange dream machine® smoothie, medium": {
+      "calories": 245,
+      "protein": 4,
+      "carbs": 48,
+      "fat": 3,
+      "sodium": 135,
+      "sugar": 45,
+      "fiber": 2,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Rich in vitamin C",
+        "Good protein source"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains dairy"
+      ]
+    },
+    "orange dream machine® smoothie, small": {
+      "calories": 160,
+      "protein": 3,
+      "carbs": 32,
+      "fat": 2,
+      "sodium": 90,
+      "sugar": 30,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good vitamin C source",
+        "Protein source"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains dairy"
+      ]
+    },
+    "pb + banana protein (soy) smoothie, large": {
+      "calories": 380,
+      "protein": 18,
+      "carbs": 42,
+      "fat": 12,
+      "sodium": 220,
+      "sugar": 32,
+      "fiber": 3,
+      "allergens": [
+        "Peanut",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of healthy fats",
+        "Rich in potassium"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "Contains peanut and soy allergens",
+        "Moderate sodium"
+      ]
+    },
+    "pb + banana protein (soy) smoothie, medium": {
+      "calories": 290,
+      "protein": 14,
+      "carbs": 32,
+      "fat": 9,
+      "sodium": 165,
+      "sugar": 24,
+      "fiber": 2,
+      "allergens": [
+        "Peanut",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of healthy fats"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "Contains peanut and soy allergens"
+      ]
+    },
+    "pb + banana protein (soy) smoothie, small": {
+      "calories": 195,
+      "protein": 10,
+      "carbs": 22,
+      "fat": 6,
+      "sodium": 110,
+      "sugar": 16,
+      "fiber": 2,
+      "allergens": [
+        "Peanut",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good protein source",
+        "Source of healthy fats"
+      ],
+      "healthWarnings": [
+        "Contains peanut and soy allergens"
+      ]
+    },
+    "pb + banana protein (whey) smoothie, large": {
+      "calories": 390,
+      "protein": 20,
+      "carbs": 40,
+      "fat": 12,
+      "sodium": 240,
+      "sugar": 30,
+      "fiber": 3,
+      "allergens": [
+        "Peanut",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of healthy fats",
+        "Muscle building support"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "Contains peanut allergen",
+        "Moderate sodium"
+      ]
+    },
+    "pb + banana protein (whey) smoothie, medium": {
+      "calories": 300,
+      "protein": 15,
+      "carbs": 30,
+      "fat": 9,
+      "sodium": 180,
+      "sugar": 23,
+      "fiber": 2,
+      "allergens": [
+        "Peanut",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of healthy fats"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "Contains peanut allergen"
+      ]
+    },
+    "pb + banana protein (whey) smoothie, small": {
+      "calories": 205,
+      "protein": 11,
+      "carbs": 20,
+      "fat": 6,
+      "sodium": 120,
+      "sugar": 15,
+      "fiber": 2,
+      "allergens": [
+        "Peanut",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good protein source",
+        "Source of healthy fats"
+      ],
+      "healthWarnings": [
+        "Contains peanut allergen"
+      ]
+    },
+    "peach perfection™ smoothie, large": {
+      "calories": 310,
+      "protein": 2,
+      "carbs": 76,
+      "fat": 0.5,
+      "sodium": 20,
+      "sugar": 72,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "Rich in vitamin C",
+        "Good source of antioxidants",
+        "Natural energy"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Very high in natural sugars"
+      ]
+    },
+    "peach perfection™ smoothie, medium": {
+      "calories": 235,
+      "protein": 1,
+      "carbs": 57,
+      "fat": 0.5,
+      "sodium": 15,
+      "sugar": 54,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "Rich in vitamin C",
+        "Good source of antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "peach perfection™ smoothie, small": {
+      "calories": 280,
+      "protein": 1,
+      "carbs": 68,
+      "fat": 0,
+      "sodium": 25,
+      "sugar": 58,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of vitamin C",
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Low in protein"
+      ]
+    },
+    "peanut butter moo'd® smoothie, large": {
+      "calories": 580,
+      "protein": 18,
+      "carbs": 68,
+      "fat": 22,
+      "sodium": 380,
+      "sugar": 48,
+      "fiber": 3,
+      "allergens": [
+        "Dairy",
+        "Peanut"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains healthy fats"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories",
+        "Contains allergens"
+      ]
+    },
+    "peanut butter moo'd® smoothie, medium": {
+      "calories": 420,
+      "protein": 13,
+      "carbs": 50,
+      "fat": 16,
+      "sodium": 280,
+      "sugar": 35,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Peanut"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains healthy fats"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains allergens"
+      ]
+    },
+    "peanut butter moo'd® smoothie, small": {
+      "calories": 310,
+      "protein": 10,
+      "carbs": 36,
+      "fat": 12,
+      "sodium": 200,
+      "sugar": 25,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Peanut"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains healthy fats"
+      ],
+      "healthWarnings": [
+        "Contains allergens"
+      ]
+    },
+    "protein berry workout™ (soy) smoothie, large": {
+      "calories": 420,
+      "protein": 25,
+      "carbs": 58,
+      "fat": 4,
+      "sodium": 220,
+      "sugar": 35,
+      "fiber": 4,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of antioxidants",
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content",
+        "Contains soy allergen"
+      ]
+    },
+    "protein berry workout™ (soy) smoothie, medium": {
+      "calories": 310,
+      "protein": 18,
+      "carbs": 42,
+      "fat": 3,
+      "sodium": 160,
+      "sugar": 25,
+      "fiber": 3,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of antioxidants",
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "Contains soy allergen"
+      ]
+    },
+    "protein berry workout™ (soy) smoothie, small": {
+      "calories": 220,
+      "protein": 13,
+      "carbs": 30,
+      "fat": 2,
+      "sodium": 120,
+      "sugar": 18,
+      "fiber": 2,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Good source of antioxidants",
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "Contains soy allergen"
+      ]
+    },
+    "protein berry workout™ (whey) smoothie, large": {
+      "calories": 440,
+      "protein": 27,
+      "carbs": 58,
+      "fat": 5,
+      "sodium": 240,
+      "sugar": 35,
+      "fiber": 4,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of antioxidants",
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content",
+        "Contains dairy allergen"
+      ]
+    },
+    "protein berry workout™ (whey) smoothie, medium": {
+      "calories": 330,
+      "protein": 20,
+      "carbs": 42,
+      "fat": 4,
+      "sodium": 180,
+      "sugar": 25,
+      "fiber": 3,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of antioxidants",
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "Contains dairy allergen"
+      ]
+    },
+    "protein berry workout™ (whey) smoothie, small": {
+      "calories": 240,
+      "protein": 14,
+      "carbs": 30,
+      "fat": 3,
+      "sodium": 135,
+      "sugar": 18,
+      "fiber": 2,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Good source of antioxidants",
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "Contains dairy allergen"
+      ]
+    },
+    "razzmatazz® smoothie, large": {
+      "calories": 520,
+      "protein": 2,
+      "carbs": 128,
+      "fat": 1,
+      "sodium": 40,
+      "sugar": 108,
+      "fiber": 3,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of vitamin C",
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "Low in protein",
+        "High in calories"
+      ]
+    },
+    "razzmatazz® smoothie, medium": {
+      "calories": 380,
+      "protein": 1,
+      "carbs": 94,
+      "fat": 1,
+      "sodium": 30,
+      "sugar": 80,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of vitamin C",
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "Low in protein"
+      ]
+    },
+    "razzmatazz® smoothie, small": {
+      "calories": 270,
+      "protein": 1,
+      "carbs": 66,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 56,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of vitamin C",
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Low in protein"
+      ]
+    },
+    "strawberries wild® smoothie, large": {
+      "calories": 460,
+      "protein": 1,
+      "carbs": 112,
+      "fat": 1,
+      "sodium": 35,
+      "sugar": 92,
+      "fiber": 3,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of vitamin C",
+        "Low in fat",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "Low in protein"
+      ]
+    },
+    "strawberries wild® smoothie, medium": {
+      "calories": 340,
+      "protein": 1,
+      "carbs": 82,
+      "fat": 1,
+      "sodium": 25,
+      "sugar": 68,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of vitamin C",
+        "Low in fat",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Low in protein"
+      ]
+    },
+    "strawberries wild® smoothie, small": {
+      "calories": 240,
+      "protein": 1,
+      "carbs": 58,
+      "fat": 0,
+      "sodium": 18,
+      "sugar": 48,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of vitamin C",
+        "Low in fat",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Low in protein"
+      ]
+    },
+    "strawberry surf rider™ smoothie, large": {
+      "calories": 550,
+      "protein": 3,
+      "carbs": 130,
+      "fat": 2,
+      "sodium": 45,
+      "sugar": 108,
+      "fiber": 3,
+      "allergens": [
+        "Coconut"
+      ],
+      "healthBenefits": [
+        "Good source of vitamin C",
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "Low in protein",
+        "High in calories"
+      ]
+    },
+    "strawberry surf rider™ smoothie, medium": {
+      "calories": 400,
+      "protein": 2,
+      "carbs": 95,
+      "fat": 1,
+      "sodium": 33,
+      "sugar": 80,
+      "fiber": 2,
+      "allergens": [
+        "Coconut"
+      ],
+      "healthBenefits": [
+        "Good source of vitamin C",
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "Low in protein"
+      ]
+    },
+    "strawberry surf rider™ smoothie, small": {
+      "calories": 285,
+      "protein": 1,
+      "carbs": 68,
+      "fat": 1,
+      "sodium": 23,
+      "sugar": 58,
+      "fiber": 2,
+      "allergens": [
+        "Coconut"
+      ],
+      "healthBenefits": [
+        "Good source of vitamin C",
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Low in protein"
+      ]
+    },
+    "strawberry whirl™ smoothie, large": {
+      "calories": 500,
+      "protein": 16,
+      "carbs": 78,
+      "fat": 8,
+      "sodium": 320,
+      "sugar": 58,
+      "fiber": 3,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains probiotics",
+        "Good source of calcium"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content",
+        "Contains dairy allergen"
+      ]
+    },
+    "strawberry whirl™ smoothie, medium": {
+      "calories": 280,
+      "protein": 1,
+      "carbs": 68,
+      "fat": 0.5,
+      "sodium": 95,
+      "sugar": 52,
+      "fiber": 2,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of vitamin C",
+        "Contains antioxidants from strawberries"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in carbohydrates"
+      ]
+    },
+    "strawberry whirl™ smoothie, small": {
+      "calories": 210,
+      "protein": 1,
+      "carbs": 51,
+      "fat": 0.5,
+      "sodium": 70,
+      "sugar": 39,
+      "fiber": 1.5,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of vitamin C",
+        "Contains antioxidants from strawberries"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in carbohydrates"
+      ]
+    },
+    "white gummi smoothie, large": {
+      "calories": 380,
+      "protein": 2,
+      "carbs": 92,
+      "fat": 1,
+      "sodium": 120,
+      "sugar": 68,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Good source of calcium",
+        "Contains vanilla flavoring"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in carbohydrates"
+      ]
+    },
+    "white gummi smoothie, medium": {
+      "calories": 310,
+      "protein": 2,
+      "carbs": 75,
+      "fat": 0.5,
+      "sodium": 95,
+      "sugar": 55,
+      "fiber": 1.5,
+      "allergens": [
+        "Dairy",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Good source of calcium",
+        "Contains vanilla flavoring"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in carbohydrates"
+      ]
+    },
+    "white gummi smoothie, small": {
+      "calories": 230,
+      "protein": 1.5,
+      "carbs": 56,
+      "fat": 0.5,
+      "sodium": 70,
+      "sugar": 41,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Good source of calcium",
+        "Contains vanilla flavoring"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in carbohydrates"
+      ]
+    }
+  }
+}

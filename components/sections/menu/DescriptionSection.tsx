@@ -16,7 +16,7 @@ export function DescriptionSection({ description, isMissing }: Props) {
         <p className="text-[15px] leading-7 text-gray-700 whitespace-pre-line">{trimmed}</p>
       ) : isMissing ? (
         <p className="text-[15px] leading-7 text-gray-500">
-          Description not provided yet. Add content in the `Description` column in the sheet.
+          Description coming soon.
         </p>
       ) : null}
     </section>

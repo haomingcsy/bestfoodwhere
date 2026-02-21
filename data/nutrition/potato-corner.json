@@ -1,0 +1,669 @@
+{
+  "brand": "potato-corner",
+  "generatedAt": "2026-02-21T11:20:30.982Z",
+  "items": {
+    "mega loopys": {
+      "calories": 420,
+      "protein": 5,
+      "carbs": 52,
+      "fat": 21,
+      "sodium": 680,
+      "sugar": 0,
+      "fiber": 4,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "jumbo onion rings": {
+      "calories": 380,
+      "protein": 4,
+      "carbs": 48,
+      "fat": 19,
+      "sodium": 720,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "jumbo mozza cheese sticks (6 pcs)": {
+      "calories": 360,
+      "protein": 14,
+      "carbs": 28,
+      "fat": 22,
+      "sodium": 640,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains calcium"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "jumbo fries": {
+      "calories": 320,
+      "protein": 4,
+      "carbs": 42,
+      "fat": 15,
+      "sodium": 580,
+      "sugar": 0,
+      "fiber": 4,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "jumbo prawn pops": {
+      "calories": 340,
+      "protein": 16,
+      "carbs": 32,
+      "fat": 16,
+      "sodium": 720,
+      "sugar": 1,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Shellfish",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "mega chicken pops combo": {
+      "calories": 580,
+      "protein": 18,
+      "carbs": 62,
+      "fat": 28,
+      "sodium": 1080,
+      "sugar": 1,
+      "fiber": 5,
+      "allergens": [
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Very high in calories"
+      ]
+    },
+    "jumbo chicken pops": {
+      "calories": 380,
+      "protein": 18,
+      "carbs": 32,
+      "fat": 18,
+      "sodium": 680,
+      "sugar": 1,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "tera loopys": {
+      "calories": 840,
+      "protein": 10,
+      "carbs": 104,
+      "fat": 42,
+      "sodium": 1360,
+      "sugar": 0,
+      "fiber": 8,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Very high in calories"
+      ]
+    },
+    "mega onion rings": {
+      "calories": 760,
+      "protein": 8,
+      "carbs": 96,
+      "fat": 38,
+      "sodium": 1440,
+      "sugar": 4,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Very high in calories"
+      ]
+    },
+    "tera chicken pops combo": {
+      "calories": 920,
+      "protein": 28,
+      "carbs": 100,
+      "fat": 44,
+      "sodium": 1680,
+      "sugar": 2,
+      "fiber": 7,
+      "allergens": [
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Very high in calories"
+      ]
+    },
+    "mega mozza cheese sticks (12 pcs)": {
+      "calories": 720,
+      "protein": 28,
+      "carbs": 56,
+      "fat": 44,
+      "sodium": 1280,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains calcium"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Very high in calories"
+      ]
+    },
+    "mega fries": {
+      "calories": 480,
+      "protein": 6,
+      "carbs": 62,
+      "fat": 23,
+      "sodium": 840,
+      "sugar": 0,
+      "fiber": 6,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "mega prawn pops": {
+      "calories": 420,
+      "protein": 20,
+      "carbs": 40,
+      "fat": 20,
+      "sodium": 880,
+      "sugar": 1,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Shellfish",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "jumbo onion rings combo (onion rings & fries)": {
+      "calories": 700,
+      "protein": 8,
+      "carbs": 90,
+      "fat": 34,
+      "sodium": 1300,
+      "sugar": 2,
+      "fiber": 6,
+      "allergens": [
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Very high in calories"
+      ]
+    },
+    "giga fries": {
+      "calories": 720,
+      "protein": 9,
+      "carbs": 94,
+      "fat": 35,
+      "sodium": 1260,
+      "sugar": 0,
+      "fiber": 9,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Very high in calories"
+      ]
+    },
+    "mega prawn pops combo": {
+      "calories": 620,
+      "protein": 22,
+      "carbs": 66,
+      "fat": 28,
+      "sodium": 1240,
+      "sugar": 1,
+      "fiber": 5,
+      "allergens": [
+        "Gluten",
+        "Shellfish",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Very high in calories"
+      ]
+    },
+    "mega waffle fries": {
+      "calories": 440,
+      "protein": 5,
+      "carbs": 56,
+      "fat": 21,
+      "sodium": 720,
+      "sugar": 0,
+      "fiber": 5,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "jumbo chicken nuggets (6 pcs)": {
+      "calories": 320,
+      "protein": 16,
+      "carbs": 24,
+      "fat": 16,
+      "sodium": 600,
+      "sugar": 0,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "tera waffle fries": {
+      "calories": 880,
+      "protein": 10,
+      "carbs": 112,
+      "fat": 42,
+      "sodium": 1440,
+      "sugar": 0,
+      "fiber": 10,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Very high in calories"
+      ]
+    },
+    "tera fries": {
+      "calories": 520,
+      "protein": 6,
+      "carbs": 68,
+      "fat": 24,
+      "sodium": 680,
+      "sugar": 2,
+      "fiber": 5,
+      "allergens": [
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in fat",
+        "High in sodium"
+      ]
+    },
+    "mega onion rings combo (onion rings & fries)": {
+      "calories": 890,
+      "protein": 10,
+      "carbs": 110,
+      "fat": 42,
+      "sodium": 1200,
+      "sugar": 3,
+      "fiber": 8,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Sesame"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in calories",
+        "High in fat",
+        "High in sodium"
+      ]
+    },
+    "tera prawn pops combo": {
+      "calories": 650,
+      "protein": 18,
+      "carbs": 72,
+      "fat": 28,
+      "sodium": 950,
+      "sugar": 2,
+      "fiber": 5,
+      "allergens": [
+        "Gluten",
+        "Shellfish",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in fat",
+        "High in sodium"
+      ]
+    },
+    "mega chicken nuggets (12 pcs)": {
+      "calories": 480,
+      "protein": 28,
+      "carbs": 36,
+      "fat": 24,
+      "sodium": 840,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in fat",
+        "High in sodium"
+      ]
+    },
+    "mega tater tots": {
+      "calories": 340,
+      "protein": 4,
+      "carbs": 42,
+      "fat": 16,
+      "sodium": 520,
+      "sugar": 1,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in fat",
+        "High in sodium"
+      ]
+    },
+    "jumbo sweet potato balls (12 pcs)": {
+      "calories": 280,
+      "protein": 3,
+      "carbs": 38,
+      "fat": 12,
+      "sodium": 420,
+      "sugar": 8,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of carbohydrates",
+        "Contains sweet potato"
+      ],
+      "healthWarnings": [
+        "Moderate in sodium",
+        "Contains added sugar"
+      ]
+    },
+    "mega - mala & tomato hotpot fries": {
+      "calories": 380,
+      "protein": 5,
+      "carbs": 50,
+      "fat": 17,
+      "sodium": 820,
+      "sugar": 2,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "tera tater tots": {
+      "calories": 620,
+      "protein": 7,
+      "carbs": 78,
+      "fat": 30,
+      "sodium": 940,
+      "sugar": 2,
+      "fiber": 6,
+      "allergens": [
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in fat",
+        "High in sodium"
+      ]
+    },
+    "mega sweet potato balls (24 pcs)": {
+      "calories": 520,
+      "protein": 6,
+      "carbs": 72,
+      "fat": 22,
+      "sodium": 780,
+      "sugar": 16,
+      "fiber": 5,
+      "allergens": [
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of carbohydrates",
+        "Contains sweet potato"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "Moderate in sodium",
+        "Contains added sugar"
+      ]
+    },
+    "mix & munch party box": {
+      "calories": 850,
+      "protein": 20,
+      "carbs": 95,
+      "fat": 38,
+      "sodium": 1100,
+      "sugar": 4,
+      "fiber": 7,
+      "allergens": [
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Variety of items"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in fat",
+        "High in sodium"
+      ]
+    },
+    "spicy wow wings (5pcs)": {
+      "calories": 310,
+      "protein": 26,
+      "carbs": 8,
+      "fat": 18,
+      "sodium": 680,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in sodium"
+      ]
+    },
+    "spicy wow wings (10pcs)": {
+      "calories": 620,
+      "protein": 52,
+      "carbs": 16,
+      "fat": 36,
+      "sodium": 1360,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in fat",
+        "High in sodium"
+      ]
+    },
+    "spicy wow wings (20pcs)": {
+      "calories": 1240,
+      "protein": 104,
+      "carbs": 32,
+      "fat": 72,
+      "sodium": 2720,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "Very high in calories",
+        "Very high in fat",
+        "Very high in sodium"
+      ]
+    }
+  }
+}

@@ -1,0 +1,1491 @@
+{
+  "brand": "white-restaurant",
+  "generatedAt": "2026-02-21T12:18:29.097Z",
+  "items": {
+    "coke": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 39,
+      "fat": 0,
+      "sodium": 55,
+      "sugar": 39,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in sodium"
+      ]
+    },
+    "(s) the original white beehoon (serves 1)": {
+      "calories": 420,
+      "protein": 28,
+      "carbs": 48,
+      "fat": 12,
+      "sodium": 1200,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains seafood"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "(hot) yam paste": {
+      "calories": 280,
+      "protein": 4,
+      "carbs": 42,
+      "fat": 11,
+      "sodium": 320,
+      "sugar": 28,
+      "fiber": 3,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of carbohydrates",
+        "Contains potassium"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "(s) signature meat and seafood roll": {
+      "calories": 520,
+      "protein": 32,
+      "carbs": 35,
+      "fat": 32,
+      "sodium": 980,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Fish",
+        "Shellfish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "(s) stir fried fish slices with ginger & onion": {
+      "calories": 380,
+      "protein": 42,
+      "carbs": 12,
+      "fat": 18,
+      "sodium": 1100,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "(s) claypot yu-shiang eggplant": {
+      "calories": 320,
+      "protein": 8,
+      "carbs": 32,
+      "fat": 18,
+      "sodium": 1050,
+      "sugar": 8,
+      "fiber": 4,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "prawn omelette": {
+      "calories": 480,
+      "protein": 38,
+      "carbs": 8,
+      "fat": 32,
+      "sodium": 920,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Egg",
+        "Shellfish",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of choline"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in sodium",
+        "High in cholesterol"
+      ]
+    },
+    "fortune mongolian pork ribs w/ pork floss": {
+      "calories": 620,
+      "protein": 48,
+      "carbs": 28,
+      "fat": 36,
+      "sodium": 1280,
+      "sugar": 12,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in sodium",
+        "High in saturated fat",
+        "High in sugar"
+      ]
+    },
+    "pork floss salted egg crispy shimeiji": {
+      "calories": 380,
+      "protein": 18,
+      "carbs": 24,
+      "fat": 24,
+      "sodium": 1100,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Egg",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of B vitamins",
+        "Contains mushrooms"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "green tea": {
+      "calories": 5,
+      "protein": 0,
+      "carbs": 1,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in antioxidants",
+        "Low calorie"
+      ],
+      "healthWarnings": []
+    },
+    "(m) the original white beehoon (serves 2)": {
+      "calories": 780,
+      "protein": 52,
+      "carbs": 88,
+      "fat": 22,
+      "sodium": 2200,
+      "sugar": 8,
+      "fiber": 4,
+      "allergens": [
+        "Shellfish",
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains seafood"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "(cold) aiyu jelly": {
+      "calories": 85,
+      "protein": 0,
+      "carbs": 21,
+      "fat": 0,
+      "sodium": 25,
+      "sugar": 16,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in fat",
+        "Contains citrus"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "chinese sausage omelette": {
+      "calories": 450,
+      "protein": 32,
+      "carbs": 12,
+      "fat": 32,
+      "sodium": 1050,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Egg",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "(m) stir fried fish slices with ginger & onion": {
+      "calories": 680,
+      "protein": 76,
+      "carbs": 22,
+      "fat": 32,
+      "sodium": 1950,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "(m) signature meat and seafood roll": {
+      "calories": 920,
+      "protein": 56,
+      "carbs": 62,
+      "fat": 56,
+      "sodium": 1720,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Shellfish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "hong kong-style steamed halibut fillet": {
+      "calories": 380,
+      "protein": 56,
+      "carbs": 6,
+      "fat": 14,
+      "sodium": 1150,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of omega-3",
+        "Low in carbs"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "(s) signature fried wings": {
+      "calories": 480,
+      "protein": 42,
+      "carbs": 16,
+      "fat": 26,
+      "sodium": 1080,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "signature beancurd with minced meat": {
+      "calories": 420,
+      "protein": 36,
+      "carbs": 18,
+      "fat": 24,
+      "sodium": 1020,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "(l) the original white beehoon  (serves 3 - 4)": {
+      "calories": 1140,
+      "protein": 78,
+      "carbs": 132,
+      "fat": 32,
+      "sodium": 3300,
+      "sugar": 12,
+      "fiber": 6,
+      "allergens": [
+        "Shellfish",
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains seafood"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "(s) stir fried broccoli with assorted mushrooms": {
+      "calories": 180,
+      "protein": 8,
+      "carbs": 16,
+      "fat": 10,
+      "sodium": 680,
+      "sugar": 3,
+      "fiber": 4,
+      "allergens": [
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "Good source of vitamins",
+        "Low calorie"
+      ],
+      "healthWarnings": [
+        "Moderate sodium"
+      ]
+    },
+    "* (cold) nourishing peach gum cheng tng": {
+      "calories": 120,
+      "protein": 1,
+      "carbs": 30,
+      "fat": 0,
+      "sodium": 85,
+      "sugar": 28,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Traditional herbal wellness",
+        "Low fat",
+        "Hydrating"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "golden crabmeat fish maw soup": {
+      "calories": 220,
+      "protein": 18,
+      "carbs": 12,
+      "fat": 11,
+      "sodium": 920,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Shellfish",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Collagen-rich",
+        "Traditional wellness"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate fat"
+      ]
+    },
+    "* (s) asari clams with dried shrimp chilli": {
+      "calories": 240,
+      "protein": 22,
+      "carbs": 8,
+      "fat": 13,
+      "sodium": 1120,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Excellent protein source",
+        "Rich in iron",
+        "Good selenium content"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "Spicy"
+      ]
+    },
+    "* (s) prawn & chinese sausage fried rice (serves 1)": {
+      "calories": 420,
+      "protein": 16,
+      "carbs": 48,
+      "fat": 18,
+      "sodium": 1040,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Sesame",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good protein source",
+        "Energy dense"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat",
+        "High in calories"
+      ]
+    },
+    "*green dragon vegetable and bean sprout (s)": {
+      "calories": 160,
+      "protein": 6,
+      "carbs": 14,
+      "fat": 9,
+      "sodium": 650,
+      "sugar": 2,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "Rich in vitamins",
+        "Low calorie"
+      ],
+      "healthWarnings": [
+        "Moderate sodium"
+      ]
+    },
+    "prosperity emperor chicken": {
+      "calories": 480,
+      "protein": 52,
+      "carbs": 8,
+      "fat": 26,
+      "sodium": 890,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Excellent protein source",
+        "Herbal infusion benefits",
+        "Rich flavor"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "Moderate sodium"
+      ]
+    },
+    "* (m) signature fried wings": {
+      "calories": 520,
+      "protein": 38,
+      "carbs": 12,
+      "fat": 36,
+      "sodium": 1020,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Source of B vitamins"
+      ],
+      "healthWarnings": [
+        "Very high in fat",
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "* homemade tofu with conpoy and mushroom": {
+      "calories": 280,
+      "protein": 24,
+      "carbs": 10,
+      "fat": 16,
+      "sodium": 780,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Shellfish",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron",
+        "Plant-based"
+      ],
+      "healthWarnings": [
+        "Moderate sodium",
+        "Moderate fat"
+      ]
+    },
+    "* (m) prawn & chinese sausage fried rice (serves 2)": {
+      "calories": 840,
+      "protein": 32,
+      "carbs": 96,
+      "fat": 36,
+      "sodium": 2080,
+      "sugar": 8,
+      "fiber": 4,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Sesame",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good protein source",
+        "Energy dense"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in fat",
+        "High in calories"
+      ]
+    },
+    "sea cucumber braised duck": {
+      "calories": 620,
+      "protein": 58,
+      "carbs": 16,
+      "fat": 34,
+      "sodium": 1240,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Excellent protein source",
+        "Traditional wellness ingredient",
+        "Rich in collagen"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "Very high in sodium"
+      ]
+    },
+    "* (s) asari clams with ginger & onion": {
+      "calories": 200,
+      "protein": 20,
+      "carbs": 6,
+      "fat": 10,
+      "sodium": 980,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Shellfish",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "Good zinc source"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "* (s) french beans with minced meat": {
+      "calories": 240,
+      "protein": 18,
+      "carbs": 10,
+      "fat": 15,
+      "sodium": 820,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good protein source",
+        "High in fiber",
+        "Rich in vitamins"
+      ],
+      "healthWarnings": [
+        "Moderate sodium",
+        "Moderate fat"
+      ]
+    },
+    "* (s) wok fried pork with ginger & onion": {
+      "calories": 280,
+      "protein": 32,
+      "carbs": 6,
+      "fat": 14,
+      "sodium": 820,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in B vitamins",
+        "Good zinc source"
+      ],
+      "healthWarnings": [
+        "Moderate sodium",
+        "Moderate fat"
+      ]
+    },
+    "* (s) xo twin scallop fried rice (serves 1)": {
+      "calories": 380,
+      "protein": 14,
+      "carbs": 44,
+      "fat": 16,
+      "sodium": 1100,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Sesame",
+        "Egg",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good protein source",
+        "Energy dense"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate fat",
+        "High in calories"
+      ]
+    },
+    "* (m) wok fried pork with ginger & onion": {
+      "calories": 420,
+      "protein": 48,
+      "carbs": 9,
+      "fat": 21,
+      "sodium": 1230,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Excellent protein source",
+        "Rich in B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate saturated fat"
+      ]
+    },
+    "* (s) cereal prawns": {
+      "calories": 420,
+      "protein": 24,
+      "carbs": 28,
+      "fat": 24,
+      "sodium": 1180,
+      "sugar": 8,
+      "fiber": 1,
+      "allergens": [
+        "Shellfish",
+        "Sesame",
+        "Soy",
+        "Egg",
+        "Peanut"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in sodium",
+        "High in sugar"
+      ]
+    },
+    "* (m) french beans with minced meat": {
+      "calories": 360,
+      "protein": 27,
+      "carbs": 15,
+      "fat": 22,
+      "sodium": 1230,
+      "sugar": 3,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good protein source",
+        "High in fiber",
+        "Rich in vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate fat"
+      ]
+    },
+    "deep fried grouper": {
+      "calories": 680,
+      "protein": 62,
+      "carbs": 20,
+      "fat": 38,
+      "sodium": 1420,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Excellent protein source",
+        "Rich in omega-3",
+        "Good selenium source"
+      ],
+      "healthWarnings": [
+        "Very high in fat",
+        "Very high in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "* (s) traditional sweet & sour pork": {
+      "calories": 320,
+      "protein": 22,
+      "carbs": 26,
+      "fat": 16,
+      "sodium": 840,
+      "sugar": 12,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good protein source"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Moderate sodium",
+        "Moderate fat"
+      ]
+    },
+    "* (m) xo twin scallop fried rice (serves 2)": {
+      "calories": 520,
+      "protein": 18,
+      "carbs": 62,
+      "fat": 20,
+      "sodium": 1280,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains selenium from scallops"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "fatt choy lettuce with abalone and mushroom": {
+      "calories": 280,
+      "protein": 16,
+      "carbs": 18,
+      "fat": 16,
+      "sodium": 1120,
+      "sugar": 3,
+      "fiber": 3,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "High in fiber",
+        "Rich in minerals"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "* (m) cereal prawns": {
+      "calories": 480,
+      "protein": 24,
+      "carbs": 38,
+      "fat": 24,
+      "sodium": 1040,
+      "sugar": 8,
+      "fiber": 1,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3 fatty acids"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in sugar"
+      ]
+    },
+    "* (m) stir-fried broccoli with assorted mushrooms": {
+      "calories": 240,
+      "protein": 12,
+      "carbs": 20,
+      "fat": 12,
+      "sodium": 920,
+      "sugar": 4,
+      "fiber": 4,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "Rich in vitamin C",
+        "Good source of antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "* braised crab meat and fish maw thick soup (1 pax)": {
+      "calories": 180,
+      "protein": 14,
+      "carbs": 12,
+      "fat": 8,
+      "sodium": 1200,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Shellfish",
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Rich in minerals",
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "asparagus lettuce with scallop": {
+      "calories": 260,
+      "protein": 18,
+      "carbs": 16,
+      "fat": 12,
+      "sodium": 840,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Rich in vitamins",
+        "Low in calories"
+      ],
+      "healthWarnings": [
+        "Moderate sodium"
+      ]
+    },
+    "* (s) golden salted egg prawns": {
+      "calories": 360,
+      "protein": 20,
+      "carbs": 28,
+      "fat": 18,
+      "sodium": 920,
+      "sugar": 6,
+      "fiber": 1,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3 fatty acids"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in cholesterol"
+      ]
+    },
+    "* (m) traditional sweet & sour pork": {
+      "calories": 420,
+      "protein": 22,
+      "carbs": 44,
+      "fat": 16,
+      "sodium": 1080,
+      "sugar": 18,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "* (s) baby white with assorted mushrooms": {
+      "calories": 160,
+      "protein": 8,
+      "carbs": 14,
+      "fat": 8,
+      "sodium": 760,
+      "sugar": 3,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "Rich in vitamins",
+        "Low in calories"
+      ],
+      "healthWarnings": [
+        "Moderate sodium"
+      ]
+    },
+    "* (m) golden salted egg prawns": {
+      "calories": 540,
+      "protein": 32,
+      "carbs": 42,
+      "fat": 26,
+      "sodium": 1360,
+      "sugar": 9,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3 fatty acids"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in cholesterol"
+      ]
+    },
+    "* (s) pork ribs in chef's special sauce": {
+      "calories": 320,
+      "protein": 24,
+      "carbs": 16,
+      "fat": 16,
+      "sodium": 1040,
+      "sugar": 8,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "fragrant taro lava coconut ball": {
+      "calories": 240,
+      "protein": 3,
+      "carbs": 28,
+      "fat": 12,
+      "sodium": 120,
+      "sugar": 14,
+      "fiber": 2,
+      "allergens": [
+        "Egg",
+        "Dairy",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Contains resistant starch"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "* (m) baby white with assorted mushrooms": {
+      "calories": 240,
+      "protein": 12,
+      "carbs": 20,
+      "fat": 12,
+      "sodium": 920,
+      "sugar": 4,
+      "fiber": 4,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "Rich in vitamins",
+        "Good source of antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "* (s) mala white beehoon (serves 1)": {
+      "calories": 320,
+      "protein": 10,
+      "carbs": 38,
+      "fat": 12,
+      "sodium": 1120,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Contains numbing spices with anti-inflammatory properties"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "* (m) mala white beehoon (serves 2)": {
+      "calories": 520,
+      "protein": 16,
+      "carbs": 62,
+      "fat": 20,
+      "sodium": 1840,
+      "sugar": 5,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Contains numbing spices with anti-inflammatory properties"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "* (m) pork ribs in chef's special sauce": {
+      "calories": 480,
+      "protein": 36,
+      "carbs": 24,
+      "fat": 24,
+      "sodium": 1560,
+      "sugar": 12,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "*green dragon vegetable and bean sprout (m)": {
+      "calories": 220,
+      "protein": 10,
+      "carbs": 18,
+      "fat": 12,
+      "sodium": 880,
+      "sugar": 3,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "Rich in vitamins",
+        "Good source of antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "* (s) golden salted egg squid": {
+      "calories": 340,
+      "protein": 18,
+      "carbs": 26,
+      "fat": 16,
+      "sodium": 1000,
+      "sugar": 5,
+      "fiber": 1,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3 fatty acids"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in cholesterol"
+      ]
+    },
+    "tea-scented taro paste sandwich": {
+      "calories": 260,
+      "protein": 4,
+      "carbs": 32,
+      "fat": 12,
+      "sodium": 180,
+      "sugar": 12,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from tea"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "*yam ring with dried curry chicken": {
+      "calories": 380,
+      "protein": 18,
+      "carbs": 42,
+      "fat": 14,
+      "sodium": 1040,
+      "sugar": 5,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Rich in fiber",
+        "Contains resistant starch"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "* (s) wok fried chicken in chef's special sauce": {
+      "calories": 520,
+      "protein": 38,
+      "carbs": 18,
+      "fat": 32,
+      "sodium": 1240,
+      "sugar": 8,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "* (l) mala white beehoon  (serves 3 - 4)": {
+      "calories": 680,
+      "protein": 28,
+      "carbs": 72,
+      "fat": 28,
+      "sodium": 1680,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of carbohydrates",
+        "Contains plant-based ingredients"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat",
+        "Spicy preparation may irritate sensitive stomachs"
+      ]
+    },
+    "* (m) asari clams with dried shrimp chilli": {
+      "calories": 420,
+      "protein": 42,
+      "carbs": 12,
+      "fat": 18,
+      "sodium": 1520,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Fish",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "Good source of omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Spicy preparation"
+      ]
+    },
+    "golden blossom beancurd": {
+      "calories": 140,
+      "protein": 12,
+      "carbs": 8,
+      "fat": 6,
+      "sodium": 280,
+      "sugar": 5,
+      "fiber": 1,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Low calorie",
+        "Contains isoflavones"
+      ],
+      "healthWarnings": [
+        "Contains soy"
+      ]
+    },
+    "* (m) wok fried chicken in chef's special sauce": {
+      "calories": 680,
+      "protein": 52,
+      "carbs": 24,
+      "fat": 38,
+      "sodium": 1480,
+      "sugar": 10,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "* (m) asari clams with ginger & onion": {
+      "calories": 380,
+      "protein": 44,
+      "carbs": 10,
+      "fat": 16,
+      "sodium": 1380,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "Contains ginger for digestion"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Spicy preparation"
+      ]
+    },
+    "* steamed rice": {
+      "calories": 190,
+      "protein": 4,
+      "carbs": 42,
+      "fat": 0.5,
+      "sodium": 40,
+      "sugar": 0,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of carbohydrates",
+        "Low in fat"
+      ],
+      "healthWarnings": []
+    },
+    "* (s) claypot sesame chicken": {
+      "calories": 480,
+      "protein": 36,
+      "carbs": 14,
+      "fat": 30,
+      "sodium": 1160,
+      "sugar": 6,
+      "fiber": 1,
+      "allergens": [
+        "Sesame",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains sesame oil"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "* (m) golden salted egg squid": {
+      "calories": 520,
+      "protein": 38,
+      "carbs": 28,
+      "fat": 26,
+      "sodium": 1240,
+      "sugar": 4,
+      "fiber": 1,
+      "allergens": [
+        "Shellfish",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in cholesterol",
+        "High in saturated fat"
+      ]
+    },
+    "* (m) claypot sesame chicken": {
+      "calories": 620,
+      "protein": 48,
+      "carbs": 18,
+      "fat": 36,
+      "sodium": 1320,
+      "sugar": 8,
+      "fiber": 1,
+      "allergens": [
+        "Sesame",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains sesame oil"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    }
+  }
+}

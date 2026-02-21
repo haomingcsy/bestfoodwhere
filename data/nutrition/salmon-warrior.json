@@ -1,0 +1,669 @@
+{
+  "brand": "salmon-warrior",
+  "generatedAt": "2026-02-21T11:26:19.803Z",
+  "items": {
+    "🆕 salmon teriyaki bento": {
+      "calories": 520,
+      "protein": 38,
+      "carbs": 52,
+      "fat": 14,
+      "sodium": 1280,
+      "sugar": 8,
+      "fiber": 4,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Egg",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "Good source of protein",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate sugar content"
+      ]
+    },
+    "warrior beef don": {
+      "calories": 680,
+      "protein": 42,
+      "carbs": 58,
+      "fat": 26,
+      "sodium": 1420,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "signature maki": {
+      "calories": 380,
+      "protein": 18,
+      "carbs": 48,
+      "fat": 12,
+      "sodium": 920,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3 fatty acids"
+      ],
+      "healthWarnings": [
+        "Moderate sodium content"
+      ]
+    },
+    "cheezzilla yakitori (3 pcs)": {
+      "calories": 280,
+      "protein": 22,
+      "carbs": 8,
+      "fat": 18,
+      "sodium": 680,
+      "sugar": 3,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "beef & chick don": {
+      "calories": 820,
+      "protein": 58,
+      "carbs": 62,
+      "fat": 32,
+      "sodium": 1580,
+      "sugar": 8,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron and B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "build-a-don": {
+      "calories": 620,
+      "protein": 40,
+      "carbs": 58,
+      "fat": 20,
+      "sodium": 1200,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Customizable",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "green tea (hot)": {
+      "calories": 2,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 2,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Rich in antioxidants",
+        "Zero calories"
+      ],
+      "healthWarnings": []
+    },
+    "green tea (ice)": {
+      "calories": 35,
+      "protein": 0,
+      "carbs": 9,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 8,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Rich in antioxidants",
+        "Low calorie"
+      ],
+      "healthWarnings": [
+        "Contains added sugar"
+      ]
+    },
+    "ultimate salmon maki": {
+      "calories": 420,
+      "protein": 20,
+      "carbs": 50,
+      "fat": 14,
+      "sodium": 1040,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Shellfish",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "yakiniku don": {
+      "calories": 580,
+      "protein": 38,
+      "carbs": 52,
+      "fat": 18,
+      "sodium": 1340,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "🆕 teriyaki chick bento": {
+      "calories": 480,
+      "protein": 36,
+      "carbs": 52,
+      "fat": 10,
+      "sodium": 1260,
+      "sugar": 8,
+      "fiber": 4,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Egg",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Lower in fat",
+        "Good source of antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "cheezzilla yakitori (6 pcs)": {
+      "calories": 560,
+      "protein": 44,
+      "carbs": 16,
+      "fat": 36,
+      "sodium": 1360,
+      "sugar": 6,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "surf & turf don": {
+      "calories": 820,
+      "protein": 58,
+      "carbs": 56,
+      "fat": 36,
+      "sodium": 1480,
+      "sugar": 7,
+      "fiber": 4,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "High in omega-3",
+        "Rich in minerals"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "yakitori (3pcs)": {
+      "calories": 210,
+      "protein": 20,
+      "carbs": 6,
+      "fat": 10,
+      "sodium": 580,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Low carb"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "ultimate unabeef don": {
+      "calories": 880,
+      "protein": 56,
+      "carbs": 62,
+      "fat": 38,
+      "sodium": 1620,
+      "sugar": 8,
+      "fiber": 4,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron and B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "🆕 yakiniku bento": {
+      "calories": 540,
+      "protein": 40,
+      "carbs": 50,
+      "fat": 18,
+      "sodium": 1300,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "mineral water": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Zero calories",
+        "Hydrating"
+      ],
+      "healthWarnings": []
+    },
+    "coke": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 35,
+      "fat": 0,
+      "sodium": 55,
+      "sugar": 34,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in calories"
+      ]
+    },
+    "yakitori (6pcs)": {
+      "calories": 420,
+      "protein": 40,
+      "carbs": 12,
+      "fat": 20,
+      "sodium": 1160,
+      "sugar": 4,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Low carb"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "pokka green tea": {
+      "calories": 65,
+      "protein": 0,
+      "carbs": 16,
+      "fat": 0,
+      "sodium": 25,
+      "sugar": 15,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "Contains added sugar"
+      ]
+    },
+    "tamago (3pcs)": {
+      "calories": 180,
+      "protein": 8,
+      "carbs": 12,
+      "fat": 11,
+      "sodium": 420,
+      "sugar": 3,
+      "fiber": 0,
+      "allergens": [
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains choline for brain health"
+      ],
+      "healthWarnings": [
+        "Moderate sodium content"
+      ]
+    },
+    "heaven & earth iced lemon tea": {
+      "calories": 110,
+      "protein": 0,
+      "carbs": 28,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 26,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants from tea"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "tamago (6pcs)": {
+      "calories": 360,
+      "protein": 16,
+      "carbs": 24,
+      "fat": 22,
+      "sodium": 840,
+      "sugar": 6,
+      "fiber": 0,
+      "allergens": [
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains choline for brain health"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate calories"
+      ]
+    },
+    "salmon sashimi (3pcs)": {
+      "calories": 120,
+      "protein": 17,
+      "carbs": 0,
+      "fat": 6,
+      "sodium": 180,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in omega-3 fatty acids",
+        "Excellent source of protein",
+        "Rich in vitamin D"
+      ],
+      "healthWarnings": []
+    },
+    "f&n groovy grape": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 35,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 33,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "rose syrup": {
+      "calories": 80,
+      "protein": 0,
+      "carbs": 20,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 19,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "salmon sashimi (6pcs)": {
+      "calories": 240,
+      "protein": 34,
+      "carbs": 0,
+      "fat": 12,
+      "sodium": 360,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in omega-3 fatty acids",
+        "Excellent source of protein",
+        "Rich in vitamin D"
+      ],
+      "healthWarnings": []
+    },
+    "tsukune chick with potato": {
+      "calories": 220,
+      "protein": 14,
+      "carbs": 18,
+      "fat": 11,
+      "sodium": 580,
+      "sugar": 4,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "bandung": {
+      "calories": 150,
+      "protein": 3,
+      "carbs": 28,
+      "fat": 2,
+      "sodium": 120,
+      "sugar": 25,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "coconut water": {
+      "calories": 45,
+      "protein": 1,
+      "carbs": 9,
+      "fat": 0,
+      "sodium": 250,
+      "sugar": 7,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of electrolytes",
+        "Natural hydration"
+      ],
+      "healthWarnings": [
+        "Moderate sodium content"
+      ]
+    },
+    "chuka idako": {
+      "calories": 95,
+      "protein": 16,
+      "carbs": 3,
+      "fat": 2,
+      "sodium": 650,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Shellfish",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of selenium"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "edamame": {
+      "calories": 140,
+      "protein": 12,
+      "carbs": 11,
+      "fat": 6,
+      "sodium": 380,
+      "sugar": 2,
+      "fiber": 4,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of fiber",
+        "Contains isoflavones"
+      ],
+      "healthWarnings": [
+        "Moderate sodium content"
+      ]
+    },
+    "hot chocolate": {
+      "calories": 170,
+      "protein": 5,
+      "carbs": 28,
+      "fat": 5,
+      "sodium": 150,
+      "sugar": 24,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Good source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "iced chocolate": {
+      "calories": 180,
+      "protein": 5,
+      "carbs": 30,
+      "fat": 5,
+      "sodium": 160,
+      "sugar": 26,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Good source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    }
+  }
+}

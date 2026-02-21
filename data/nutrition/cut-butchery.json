@@ -1,0 +1,913 @@
+{
+  "brand": "cut-butchery",
+  "generatedAt": "2026-02-16T14:22:47.123Z",
+  "items": {
+    "sub total: $0.00": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": []
+    },
+    "auspicious a5 wagyu hotpot bundle (8-10 pax)": {
+      "calories": 4200,
+      "protein": 380,
+      "carbs": 120,
+      "fat": 280,
+      "sodium": 3800,
+      "sugar": 8,
+      "fiber": 8,
+      "allergens": [
+        "Soy",
+        "Sesame",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium",
+        "High in cholesterol"
+      ]
+    },
+    "kiru kiru all meat fortune hotpot bundle (8-10 pax)": {
+      "calories": 3800,
+      "protein": 340,
+      "carbs": 110,
+      "fat": 240,
+      "sodium": 3600,
+      "sugar": 7,
+      "fiber": 7,
+      "allergens": [
+        "Soy",
+        "Sesame",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium",
+        "High in cholesterol"
+      ]
+    },
+    "all meat fortune hotpot bundle (8-10 pax)": {
+      "calories": 3800,
+      "protein": 340,
+      "carbs": 110,
+      "fat": 240,
+      "sodium": 3600,
+      "sugar": 7,
+      "fiber": 7,
+      "allergens": [
+        "Soy",
+        "Sesame",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium",
+        "High in cholesterol"
+      ]
+    },
+    "no beef treasure feast hotpot bundle (8-10 pax)": {
+      "calories": 3400,
+      "protein": 320,
+      "carbs": 115,
+      "fat": 210,
+      "sodium": 3500,
+      "sugar": 8,
+      "fiber": 8,
+      "allergens": [
+        "Soy",
+        "Sesame",
+        "Gluten",
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium",
+        "High in cholesterol"
+      ]
+    },
+    "purebred greenlip australian abalone (6 pcs)": {
+      "calories": 280,
+      "protein": 48,
+      "carbs": 12,
+      "fat": 4,
+      "sodium": 1200,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in minerals",
+        "Low in fat",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "new zealand wild caught red snapper (cny edition)": {
+      "calories": 320,
+      "protein": 56,
+      "carbs": 0,
+      "fat": 9,
+      "sodium": 1100,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in omega-3",
+        "Good source of selenium",
+        "Low in carbs"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "handmade pork meat ball": {
+      "calories": 180,
+      "protein": 22,
+      "carbs": 6,
+      "fat": 8,
+      "sodium": 480,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Rich in B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate saturated fat"
+      ]
+    },
+    "handmade chicken meat ball": {
+      "calories": 150,
+      "protein": 24,
+      "carbs": 4,
+      "fat": 4,
+      "sodium": 420,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Low in fat",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "handmade beef meat ball": {
+      "calories": 200,
+      "protein": 26,
+      "carbs": 5,
+      "fat": 9,
+      "sodium": 520,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate saturated fat"
+      ]
+    },
+    "homemade chicken collagen broth": {
+      "calories": 120,
+      "protein": 18,
+      "carbs": 3,
+      "fat": 3,
+      "sodium": 1400,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Rich in collagen",
+        "Good source of protein",
+        "May support joint health"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "premium tonkotsu broth": {
+      "calories": 140,
+      "protein": 16,
+      "carbs": 4,
+      "fat": 6,
+      "sodium": 1500,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Rich in collagen"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "homemade beef broth": {
+      "calories": 130,
+      "protein": 17,
+      "carbs": 2,
+      "fat": 5,
+      "sodium": 1450,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Rich in collagen",
+        "Good source of protein",
+        "Rich in iron"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "wild harvested canadian sea scallops": {
+      "calories": 110,
+      "protein": 21,
+      "carbs": 5,
+      "fat": 1.5,
+      "sodium": 380,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Low in fat",
+        "Rich in B12",
+        "Good source of selenium"
+      ],
+      "healthWarnings": []
+    },
+    "loch duart scottish salmon (ikejime quality)": {
+      "calories": 280,
+      "protein": 32,
+      "carbs": 0,
+      "fat": 16,
+      "sodium": 75,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in omega-3 fatty acids",
+        "Excellent protein source",
+        "Rich in astaxanthin",
+        "Good source of vitamin D"
+      ],
+      "healthWarnings": []
+    },
+    "regal new zealand king salmon (chilled, never frozen)": {
+      "calories": 300,
+      "protein": 34,
+      "carbs": 0,
+      "fat": 17,
+      "sodium": 70,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in omega-3 fatty acids",
+        "Excellent protein source",
+        "Rich in astaxanthin",
+        "Good source of vitamin D"
+      ],
+      "healthWarnings": []
+    },
+    "japan kurobuta pork belly shabu shabu": {
+      "calories": 420,
+      "protein": 28,
+      "carbs": 2,
+      "fat": 34,
+      "sodium": 520,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in B vitamins",
+        "Good source of selenium"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in calories",
+        "High in sodium"
+      ]
+    },
+    "marinated fresh salmon": {
+      "calories": 320,
+      "protein": 36,
+      "carbs": 3,
+      "fat": 18,
+      "sodium": 650,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Fish",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in omega-3 fatty acids",
+        "Excellent protein source",
+        "Rich in vitamin D"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "marinated chicken boneless leg": {
+      "calories": 180,
+      "protein": 28,
+      "carbs": 2,
+      "fat": 7,
+      "sodium": 480,
+      "sugar": 0.5,
+      "fiber": 0,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of B vitamins",
+        "Lower in fat than breast"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "marinated chicken mid joint wing": {
+      "calories": 290,
+      "protein": 32,
+      "carbs": 2,
+      "fat": 17,
+      "sodium": 550,
+      "sugar": 0.5,
+      "fiber": 0,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of B vitamins",
+        "Rich in collagen"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Higher fat content"
+      ]
+    },
+    "fresh chicken breast (2 pcs)": {
+      "calories": 280,
+      "protein": 54,
+      "carbs": 0,
+      "fat": 6,
+      "sodium": 140,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Very high in protein",
+        "Low in fat",
+        "Low in sodium",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": []
+    },
+    "fresh pork minced": {
+      "calories": 310,
+      "protein": 26,
+      "carbs": 0,
+      "fat": 24,
+      "sodium": 80,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of protein",
+        "Rich in B vitamins",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in saturated fat"
+      ]
+    },
+    "fresh pork belly sliced (samgyeopsal) 300g": {
+      "calories": 720,
+      "protein": 54,
+      "carbs": 0,
+      "fat": 58,
+      "sodium": 120,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in B vitamins",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "Very high in fat",
+        "Very high in saturated fat",
+        "High in calories"
+      ]
+    },
+    "fresh black angus beef minced": {
+      "calories": 360,
+      "protein": 32,
+      "carbs": 0,
+      "fat": 27,
+      "sodium": 90,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "Good source of B12",
+        "Rich in creatine"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in saturated fat"
+      ]
+    },
+    "black angus ribeye steak": {
+      "calories": 520,
+      "protein": 48,
+      "carbs": 0,
+      "fat": 38,
+      "sodium": 110,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Excellent protein source",
+        "Rich in iron",
+        "Good source of B12",
+        "Rich in zinc"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "bbq premium wagyu & pork bundle": {
+      "calories": 2840,
+      "protein": 285,
+      "carbs": 45,
+      "fat": 165,
+      "sodium": 3200,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "Source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "bbq deluxe beef & pork bundle": {
+      "calories": 1890,
+      "protein": 195,
+      "carbs": 35,
+      "fat": 105,
+      "sodium": 2800,
+      "sugar": 7,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "bbq deluxe beef & lamb bundle": {
+      "calories": 2050,
+      "protein": 215,
+      "carbs": 38,
+      "fat": 115,
+      "sodium": 2900,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in zinc",
+        "Source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "bbq deluxe beef & chicken bundle": {
+      "calories": 1620,
+      "protein": 175,
+      "carbs": 32,
+      "fat": 85,
+      "sodium": 2600,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "bbq deluxe chicken & pork bundle": {
+      "calories": 1280,
+      "protein": 135,
+      "carbs": 28,
+      "fat": 68,
+      "sodium": 2400,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Leaner option"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "bbq deluxe chicken & seafood bundle": {
+      "calories": 1450,
+      "protein": 155,
+      "carbs": 30,
+      "fat": 75,
+      "sodium": 2550,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Shellfish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Source of omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "kid's maki party set (59 pcs) - 6-8 pax": {
+      "calories": 2120,
+      "protein": 68,
+      "carbs": 285,
+      "fat": 68,
+      "sodium": 1890,
+      "sugar": 35,
+      "fiber": 8,
+      "allergens": [
+        "Fish",
+        "Shellfish",
+        "Soy",
+        "Gluten",
+        "Sesame",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains whole grains",
+        "Source of omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in sugar"
+      ]
+    },
+    "aburi maki party set (38 pcs) - 3-4 pax": {
+      "calories": 1580,
+      "protein": 52,
+      "carbs": 185,
+      "fat": 58,
+      "sodium": 1620,
+      "sugar": 22,
+      "fiber": 5,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Sesame",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of omega-3",
+        "Contains probiotics"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "nigiri maki party set (24 pcs) - 2-4 pax": {
+      "calories": 980,
+      "protein": 32,
+      "carbs": 125,
+      "fat": 35,
+      "sodium": 1080,
+      "sugar": 12,
+      "fiber": 3,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Source of omega-3",
+        "Good protein source"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "nigiri maki party set (57 pcs) - 4-6 pax": {
+      "calories": 2140,
+      "protein": 72,
+      "carbs": 285,
+      "fat": 72,
+      "sodium": 2380,
+      "sugar": 28,
+      "fiber": 8,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Source of omega-3",
+        "Good protein source"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "nigiri maki party set (34 pcs) - 3-4 pax": {
+      "calories": 1280,
+      "protein": 48,
+      "carbs": 165,
+      "fat": 45,
+      "sodium": 1420,
+      "sugar": 16,
+      "fiber": 4,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Source of omega-3",
+        "Good protein source"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "sashimi party set (41 pcs)": {
+      "calories": 1420,
+      "protein": 98,
+      "carbs": 45,
+      "fat": 72,
+      "sodium": 1850,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in omega-3",
+        "Low in carbs"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "sushi & sashimi party set (34 pcs)": {
+      "calories": 1080,
+      "protein": 68,
+      "carbs": 125,
+      "fat": 45,
+      "sodium": 1420,
+      "sugar": 14,
+      "fiber": 4,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Source of omega-3",
+        "Good protein source"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "wagyu mentai mayo don": {
+      "calories": 580,
+      "protein": 42,
+      "carbs": 58,
+      "fat": 18,
+      "sodium": 1240,
+      "sugar": 8,
+      "fiber": 1,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good protein source",
+        "Rich in iron"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "hokkaido gyu don": {
+      "calories": 520,
+      "protein": 38,
+      "carbs": 52,
+      "fat": 16,
+      "sodium": 1080,
+      "sugar": 7,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good protein source",
+        "Rich in iron"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "karagae chicken don": {
+      "calories": 540,
+      "protein": 32,
+      "carbs": 54,
+      "fat": 20,
+      "sodium": 1150,
+      "sugar": 6,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good protein source",
+        "Leaner option"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "garlic fried rice": {
+      "calories": 520,
+      "protein": 12,
+      "carbs": 68,
+      "fat": 20,
+      "sodium": 1200,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Source of carbohydrates for energy"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Calorie-dense"
+      ]
+    },
+    "santen don": {
+      "calories": 680,
+      "protein": 42,
+      "carbs": 54,
+      "fat": 28,
+      "sodium": 1400,
+      "sugar": 8,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron",
+        "Rich in B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Calorie-dense"
+      ]
+    }
+  }
+}

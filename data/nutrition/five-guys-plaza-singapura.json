@@ -1,0 +1,505 @@
+{
+  "brand": "five-guys-plaza-singapura",
+  "generatedAt": "2026-02-16T14:44:12.964Z",
+  "items": {
+    "hotdog": {
+      "calories": 480,
+      "protein": 16,
+      "carbs": 42,
+      "fat": 26,
+      "sodium": 1120,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Sesame",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "coca-cola": {
+      "calories": 210,
+      "protein": 0,
+      "carbs": 54,
+      "fat": 0,
+      "sodium": 95,
+      "sugar": 54,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains caffeine"
+      ]
+    },
+    "hamburger": {
+      "calories": 580,
+      "protein": 32,
+      "carbs": 46,
+      "fat": 28,
+      "sodium": 890,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Sesame",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "veggie sandwich": {
+      "calories": 320,
+      "protein": 12,
+      "carbs": 48,
+      "fat": 9,
+      "sodium": 560,
+      "sugar": 6,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Sesame",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Good source of vitamins"
+      ],
+      "healthWarnings": [
+        "Moderate sodium"
+      ]
+    },
+    "five guys style fries": {
+      "calories": 620,
+      "protein": 8,
+      "carbs": 75,
+      "fat": 32,
+      "sodium": 420,
+      "sugar": 0,
+      "fiber": 6,
+      "allergens": [
+        "Peanut"
+      ],
+      "healthBenefits": [
+        "Good source of potassium"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in calories",
+        "Cooked in peanut oil"
+      ]
+    },
+    "five guys shake": {
+      "calories": 680,
+      "protein": 18,
+      "carbs": 82,
+      "fat": 28,
+      "sodium": 240,
+      "sugar": 78,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of calcium",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in fat",
+        "High in calories"
+      ]
+    },
+    "coca-cola zero": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 90,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Contains caffeine",
+        "Contains artificial sweeteners"
+      ]
+    },
+    "cheeseburger": {
+      "calories": 680,
+      "protein": 38,
+      "carbs": 46,
+      "fat": 38,
+      "sodium": 1140,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Sesame",
+        "Soy",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Good source of calcium",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "cheese veggie sandwich": {
+      "calories": 420,
+      "protein": 18,
+      "carbs": 48,
+      "fat": 18,
+      "sodium": 720,
+      "sugar": 6,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Sesame",
+        "Soy",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Good source of calcium",
+        "Good source of vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "hotdog with cheese": {
+      "calories": 580,
+      "protein": 22,
+      "carbs": 42,
+      "fat": 34,
+      "sodium": 1280,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Sesame",
+        "Soy",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Good source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "cajun style fries": {
+      "calories": 650,
+      "protein": 8,
+      "carbs": 75,
+      "fat": 34,
+      "sodium": 680,
+      "sugar": 0,
+      "fiber": 6,
+      "allergens": [
+        "Peanut"
+      ],
+      "healthBenefits": [
+        "Good source of potassium"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in sodium",
+        "High in calories",
+        "Cooked in peanut oil"
+      ]
+    },
+    "hotdog with bacon": {
+      "calories": 620,
+      "protein": 22,
+      "carbs": 42,
+      "fat": 38,
+      "sodium": 1380,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Sesame",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Very high in saturated fat"
+      ]
+    },
+    "bacon burger": {
+      "calories": 740,
+      "protein": 38,
+      "carbs": 46,
+      "fat": 44,
+      "sodium": 1320,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Sesame",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Very high in saturated fat"
+      ]
+    },
+    "sprite": {
+      "calories": 210,
+      "protein": 0,
+      "carbs": 54,
+      "fat": 0,
+      "sodium": 65,
+      "sugar": 54,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "sandwich grilled cheese": {
+      "calories": 480,
+      "protein": 16,
+      "carbs": 42,
+      "fat": 26,
+      "sodium": 880,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Sesame",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "hotdog with cheese and bacon": {
+      "calories": 680,
+      "protein": 28,
+      "carbs": 42,
+      "fat": 44,
+      "sodium": 1540,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Sesame",
+        "Soy",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Good source of calcium"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "Very high in saturated fat"
+      ]
+    },
+    "blt sandwich": {
+      "calories": 480,
+      "protein": 18,
+      "carbs": 42,
+      "fat": 26,
+      "sodium": 1200,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Sesame",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "bacon-cheeseburger": {
+      "calories": 840,
+      "protein": 44,
+      "carbs": 46,
+      "fat": 50,
+      "sodium": 1480,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Sesame",
+        "Soy",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Good source of calcium",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "Very high in saturated fat"
+      ]
+    },
+    "bottled water": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Hydrating",
+        "Zero calories"
+      ],
+      "healthWarnings": []
+    },
+    "heaven and earth ice lemon tea": {
+      "calories": 80,
+      "protein": 0,
+      "carbs": 20,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 18,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants from tea"
+      ],
+      "healthWarnings": [
+        "Contains sugar"
+      ]
+    },
+    "little hamburger": {
+      "calories": 520,
+      "protein": 28,
+      "carbs": 40,
+      "fat": 26,
+      "sodium": 1080,
+      "sugar": 7,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "little cheeseburger": {
+      "calories": 600,
+      "protein": 31,
+      "carbs": 40,
+      "fat": 32,
+      "sodium": 1380,
+      "sugar": 7,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains calcium",
+        "Contains iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "little baconburger": {
+      "calories": 600,
+      "protein": 32,
+      "carbs": 40,
+      "fat": 32,
+      "sodium": 1420,
+      "sugar": 7,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "little bacon-cheeseburger": {
+      "calories": 680,
+      "protein": 35,
+      "carbs": 40,
+      "fat": 38,
+      "sodium": 1720,
+      "sugar": 7,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains calcium",
+        "Contains iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    }
+  }
+}

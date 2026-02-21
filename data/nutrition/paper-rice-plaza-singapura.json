@@ -1,0 +1,425 @@
+{
+  "brand": "paper-rice-plaza-singapura",
+  "generatedAt": "2026-02-21T11:03:57.602Z",
+  "items": {
+    "f25 coke": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 39,
+      "fat": 0,
+      "sodium": 45,
+      "sugar": 39,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "f01 egg milk coffee": {
+      "calories": 280,
+      "protein": 4,
+      "carbs": 28,
+      "fat": 16,
+      "sodium": 85,
+      "sugar": 26,
+      "fiber": 0,
+      "allergens": [
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "f09 egg milk earl grey": {
+      "calories": 220,
+      "protein": 4,
+      "carbs": 18,
+      "fat": 14,
+      "sodium": 95,
+      "sugar": 16,
+      "fiber": 0,
+      "allergens": [
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of antioxidants",
+        "Contains polyphenols"
+      ],
+      "healthWarnings": [
+        "High in saturated fat"
+      ]
+    },
+    "a17 vermicelli with grilled minced meatballs": {
+      "calories": 520,
+      "protein": 32,
+      "carbs": 45,
+      "fat": 22,
+      "sodium": 890,
+      "sugar": 3,
+      "fiber": 3,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "f20 fresh coconut": {
+      "calories": 150,
+      "protein": 2,
+      "carbs": 18,
+      "fat": 8,
+      "sodium": 180,
+      "sugar": 12,
+      "fiber": 2,
+      "allergens": [
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Contains electrolytes",
+        "Natural hydration"
+      ],
+      "healthWarnings": [
+        "High in saturated fat"
+      ]
+    },
+    "a18 rice vermicelli with grilled chicken": {
+      "calories": 480,
+      "protein": 38,
+      "carbs": 42,
+      "fat": 16,
+      "sodium": 840,
+      "sugar": 2,
+      "fiber": 3,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Excellent source of protein",
+        "Contains vegetables",
+        "Lean protein"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "f02 milk coffee": {
+      "calories": 220,
+      "protein": 3,
+      "carbs": 22,
+      "fat": 12,
+      "sodium": 80,
+      "sugar": 20,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "f21 pomelo": {
+      "calories": 140,
+      "protein": 2,
+      "carbs": 32,
+      "fat": 1,
+      "sodium": 2,
+      "sugar": 28,
+      "fiber": 3,
+      "allergens": [],
+      "healthBenefits": [
+        "High in vitamin C",
+        "Good source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "f27 sprite": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 36,
+      "fat": 0,
+      "sodium": 75,
+      "sugar": 36,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in sodium"
+      ]
+    },
+    "f13 earl grey milk": {
+      "calories": 180,
+      "protein": 3,
+      "carbs": 14,
+      "fat": 11,
+      "sodium": 90,
+      "sugar": 12,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of antioxidants",
+        "Contains polyphenols"
+      ],
+      "healthWarnings": [
+        "High in saturated fat"
+      ]
+    },
+    "f22 guava": {
+      "calories": 160,
+      "protein": 2,
+      "carbs": 36,
+      "fat": 1,
+      "sodium": 3,
+      "sugar": 28,
+      "fiber": 4,
+      "allergens": [],
+      "healthBenefits": [
+        "High in vitamin C",
+        "Good source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "a19 fresh rice vermicelli with grilled pork (chef recommendations)": {
+      "calories": 490,
+      "protein": 36,
+      "carbs": 42,
+      "fat": 18,
+      "sodium": 860,
+      "sugar": 2,
+      "fiber": 3,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "f03 egg black coffee": {
+      "calories": 260,
+      "protein": 4,
+      "carbs": 24,
+      "fat": 15,
+      "sodium": 75,
+      "sugar": 22,
+      "fiber": 0,
+      "allergens": [
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Source of antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "f28 mineral water": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 50,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Hydrating",
+        "Low calorie"
+      ],
+      "healthWarnings": []
+    },
+    "f29 lime soda": {
+      "calories": 160,
+      "protein": 0,
+      "carbs": 40,
+      "fat": 0,
+      "sodium": 60,
+      "sugar": 38,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Source of vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "f04 black coffee": {
+      "calories": 5,
+      "protein": 1,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Source of antioxidants",
+        "Low calorie"
+      ],
+      "healthWarnings": []
+    },
+    "f23 orange": {
+      "calories": 140,
+      "protein": 2,
+      "carbs": 32,
+      "fat": 1,
+      "sodium": 2,
+      "sugar": 26,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "High in vitamin C",
+        "Source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "f24 carrot": {
+      "calories": 120,
+      "protein": 2,
+      "carbs": 26,
+      "fat": 1,
+      "sodium": 85,
+      "sugar": 18,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "High in beta-carotene",
+        "Rich in antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "f30 refreshing tea": {
+      "calories": 50,
+      "protein": 0,
+      "carbs": 12,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 10,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Source of antioxidants",
+        "Low calorie"
+      ],
+      "healthWarnings": [
+        "Contains added sugar"
+      ]
+    },
+    "f31 sweet soups": {
+      "calories": 180,
+      "protein": 4,
+      "carbs": 34,
+      "fat": 2,
+      "sodium": 120,
+      "sugar": 28,
+      "fiber": 3,
+      "allergens": [
+        "Tree Nut",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains minerals"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "f32 tamarind drink": {
+      "calories": 180,
+      "protein": 0,
+      "carbs": 45,
+      "fat": 0,
+      "sodium": 25,
+      "sugar": 42,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Source of vitamin C",
+        "Aids digestion"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in carbohydrates"
+      ]
+    },
+    "f33 matcha yuzu lemon": {
+      "calories": 120,
+      "protein": 1,
+      "carbs": 28,
+      "fat": 0.5,
+      "sodium": 30,
+      "sugar": 24,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Antioxidants from matcha",
+        "Vitamin C from citrus"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains caffeine"
+      ]
+    },
+    "f26 coke light": {
+      "calories": 2,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 45,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Zero calories",
+        "Zero sugar"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Contains artificial sweeteners"
+      ]
+    }
+  }
+}

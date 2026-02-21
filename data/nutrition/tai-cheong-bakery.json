@@ -1,0 +1,313 @@
+{
+  "brand": "tai-cheong-bakery",
+  "generatedAt": "2026-02-21T11:57:07.195Z",
+  "items": {
+    "egg tart 蛋挞": {
+      "calories": 200,
+      "protein": 4,
+      "carbs": 22,
+      "fat": 11,
+      "sodium": 180,
+      "sugar": 8,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sugar"
+      ]
+    },
+    "bolo bun 菠蘿包": {
+      "calories": 280,
+      "protein": 6,
+      "carbs": 45,
+      "fat": 8,
+      "sodium": 320,
+      "sugar": 16,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in sodium"
+      ]
+    },
+    "hong kong style chiffon cake 纸包蛋糕": {
+      "calories": 180,
+      "protein": 5,
+      "carbs": 28,
+      "fat": 6,
+      "sodium": 140,
+      "sugar": 14,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Light texture",
+        "Lower fat than traditional cake"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "char siu bolo bun 叉烧菠蘿包": {
+      "calories": 340,
+      "protein": 12,
+      "carbs": 45,
+      "fat": 12,
+      "sodium": 680,
+      "sugar": 12,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "hk milk egg tart 原味牛奶蛋撻": {
+      "calories": 210,
+      "protein": 4,
+      "carbs": 23,
+      "fat": 12,
+      "sodium": 200,
+      "sugar": 9,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sugar"
+      ]
+    },
+    "radish cake loaf 蘿荀糕": {
+      "calories": 320,
+      "protein": 10,
+      "carbs": 38,
+      "fat": 14,
+      "sodium": 580,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Good source of protein",
+        "No preservatives"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "pandan egg tart 香蘭挞": {
+      "calories": 210,
+      "protein": 4,
+      "carbs": 24,
+      "fat": 11,
+      "sodium": 190,
+      "sugar": 10,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sugar"
+      ]
+    },
+    "coconut & cream bun 棷絲奶油包": {
+      "calories": 300,
+      "protein": 6,
+      "carbs": 38,
+      "fat": 14,
+      "sodium": 280,
+      "sugar": 18,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Tree Nut"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "charcoal milk tart 炭烤牛奶蛋撻": {
+      "calories": 220,
+      "protein": 4,
+      "carbs": 24,
+      "fat": 12,
+      "sodium": 210,
+      "sugar": 9,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sugar"
+      ]
+    },
+    "cheese tart": {
+      "calories": 240,
+      "protein": 6,
+      "carbs": 22,
+      "fat": 14,
+      "sodium": 320,
+      "sugar": 8,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "durian & cheese tart 榴莲芝士挞": {
+      "calories": 260,
+      "protein": 6,
+      "carbs": 24,
+      "fat": 15,
+      "sodium": 280,
+      "sugar": 10,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sugar"
+      ]
+    },
+    "coconut tart 椰挞": {
+      "calories": 230,
+      "protein": 4,
+      "carbs": 26,
+      "fat": 12,
+      "sodium": 160,
+      "sugar": 12,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Tree Nut"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sugar"
+      ]
+    },
+    "salted egg yolk tart": {
+      "calories": 250,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 14,
+      "sodium": 420,
+      "sugar": 10,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in sugar"
+      ]
+    },
+    "chicken pie 雞批": {
+      "calories": 320,
+      "protein": 14,
+      "carbs": 32,
+      "fat": 15,
+      "sodium": 620,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "char siu pie 叉烧批": {
+      "calories": 340,
+      "protein": 12,
+      "carbs": 35,
+      "fat": 17,
+      "sodium": 700,
+      "sugar": 8,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    }
+  }
+}

@@ -1,0 +1,1474 @@
+{
+  "brand": "andes-by-astons",
+  "generatedAt": "2026-02-16T13:27:42.683Z",
+  "items": {
+    "grilled fish with herb": {
+      "calories": 520,
+      "protein": 42,
+      "carbs": 35,
+      "fat": 22,
+      "sodium": 680,
+      "sugar": 2,
+      "fiber": 3,
+      "allergens": [
+        "Fish",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "Good source of protein",
+        "Rich in vitamins"
+      ],
+      "healthWarnings": [
+        "Moderate sodium content"
+      ]
+    },
+    "coleslaw": {
+      "calories": 180,
+      "protein": 2,
+      "carbs": 12,
+      "fat": 14,
+      "sodium": 340,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Source of vitamin C",
+        "Contains fiber"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in sodium"
+      ]
+    },
+    "ice lemon tea": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 35,
+      "fat": 0,
+      "sodium": 45,
+      "sugar": 32,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low fat",
+        "Refreshing"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "chicken napolitana": {
+      "calories": 680,
+      "protein": 38,
+      "carbs": 62,
+      "fat": 28,
+      "sodium": 920,
+      "sugar": 6,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains carbohydrates for energy"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "cream of mushroom": {
+      "calories": 240,
+      "protein": 6,
+      "carbs": 18,
+      "fat": 16,
+      "sodium": 620,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "andes classic cheeseburger": {
+      "calories": 780,
+      "protein": 45,
+      "carbs": 52,
+      "fat": 42,
+      "sodium": 1080,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "baked potato": {
+      "calories": 180,
+      "protein": 4,
+      "carbs": 32,
+      "fat": 5,
+      "sodium": 320,
+      "sugar": 1,
+      "fiber": 3,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains potassium"
+      ],
+      "healthWarnings": [
+        "Moderate sodium content"
+      ]
+    },
+    "chicken & fish": {
+      "calories": 720,
+      "protein": 58,
+      "carbs": 40,
+      "fat": 32,
+      "sodium": 950,
+      "sugar": 2,
+      "fiber": 3,
+      "allergens": [
+        "Fish",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Very high in protein",
+        "Rich in omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "chargrilled chicken": {
+      "calories": 580,
+      "protein": 52,
+      "carbs": 35,
+      "fat": 24,
+      "sodium": 780,
+      "sugar": 1,
+      "fiber": 3,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Lean meat source"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "prime sirloin": {
+      "calories": 680,
+      "protein": 58,
+      "carbs": 35,
+      "fat": 32,
+      "sodium": 820,
+      "sugar": 1,
+      "fiber": 3,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron and B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "black pepper fish": {
+      "calories": 540,
+      "protein": 44,
+      "carbs": 35,
+      "fat": 24,
+      "sodium": 720,
+      "sugar": 2,
+      "fiber": 3,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "house salad": {
+      "calories": 160,
+      "protein": 3,
+      "carbs": 10,
+      "fat": 12,
+      "sodium": 280,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains vitamins and minerals"
+      ],
+      "healthWarnings": [
+        "High in fat"
+      ]
+    },
+    "mashed potato": {
+      "calories": 220,
+      "protein": 4,
+      "carbs": 28,
+      "fat": 11,
+      "sodium": 380,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of potassium"
+      ],
+      "healthWarnings": [
+        "Moderate sodium content",
+        "Moderate fat content"
+      ]
+    },
+    "chocolate milkshake": {
+      "calories": 320,
+      "protein": 8,
+      "carbs": 48,
+      "fat": 10,
+      "sodium": 160,
+      "sugar": 42,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Source of calcium",
+        "Contains protein"
+      ],
+      "healthWarnings": [
+        "Very high in sugar"
+      ]
+    },
+    "freshly baked garlic loaf": {
+      "calories": 380,
+      "protein": 10,
+      "carbs": 42,
+      "fat": 18,
+      "sodium": 640,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "beef bolognese": {
+      "calories": 720,
+      "protein": 40,
+      "carbs": 64,
+      "fat": 30,
+      "sodium": 980,
+      "sugar": 8,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "steak & chicken": {
+      "calories": 820,
+      "protein": 72,
+      "carbs": 40,
+      "fat": 38,
+      "sodium": 980,
+      "sugar": 1,
+      "fiber": 3,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Very high in protein",
+        "Rich in iron and B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "black pepper steak": {
+      "calories": 700,
+      "protein": 60,
+      "carbs": 35,
+      "fat": 34,
+      "sodium": 880,
+      "sugar": 1,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "black pepper chicken": {
+      "calories": 600,
+      "protein": 54,
+      "carbs": 35,
+      "fat": 26,
+      "sodium": 820,
+      "sugar": 1,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Lean meat"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "ieat super burger": {
+      "calories": 820,
+      "protein": 48,
+      "carbs": 56,
+      "fat": 46,
+      "sodium": 1140,
+      "sugar": 10,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "surf & turf": {
+      "calories": 820,
+      "protein": 68,
+      "carbs": 32,
+      "fat": 42,
+      "sodium": 1240,
+      "sugar": 2,
+      "fiber": 4,
+      "allergens": [
+        "Shellfish",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron",
+        "Contains omega-3 fatty acids"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium",
+        "High in cholesterol"
+      ]
+    },
+    "chicken nuggets": {
+      "calories": 380,
+      "protein": 18,
+      "carbs": 24,
+      "fat": 22,
+      "sodium": 580,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium",
+        "Highly processed"
+      ]
+    },
+    "potato wedges": {
+      "calories": 320,
+      "protein": 4,
+      "carbs": 38,
+      "fat": 16,
+      "sodium": 620,
+      "sugar": 1,
+      "fiber": 3,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains potassium",
+        "Source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium",
+        "High in calories for portion size"
+      ]
+    },
+    "pasta salad": {
+      "calories": 280,
+      "protein": 8,
+      "carbs": 32,
+      "fat": 12,
+      "sodium": 480,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains vegetables",
+        "Source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate fat content"
+      ]
+    },
+    "vanilla milkshake": {
+      "calories": 420,
+      "protein": 12,
+      "carbs": 62,
+      "fat": 14,
+      "sodium": 220,
+      "sugar": 58,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of calcium",
+        "Source of protein"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in calories",
+        "High in saturated fat"
+      ]
+    },
+    "crispy fried fish": {
+      "calories": 680,
+      "protein": 52,
+      "carbs": 38,
+      "fat": 32,
+      "sodium": 1120,
+      "sugar": 2,
+      "fiber": 4,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of omega-3",
+        "Source of vitamin D"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium",
+        "High in cholesterol"
+      ]
+    },
+    "new york strip": {
+      "calories": 840,
+      "protein": 72,
+      "carbs": 30,
+      "fat": 44,
+      "sodium": 1180,
+      "sugar": 2,
+      "fiber": 4,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Excellent source of iron",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "Very high in saturated fat",
+        "High in sodium",
+        "High in cholesterol"
+      ]
+    },
+    "crispy fried chicken": {
+      "calories": 720,
+      "protein": 48,
+      "carbs": 36,
+      "fat": 38,
+      "sodium": 1040,
+      "sugar": 1,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of niacin"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium",
+        "High in cholesterol"
+      ]
+    },
+    "salmon spaghetti": {
+      "calories": 620,
+      "protein": 38,
+      "carbs": 54,
+      "fat": 24,
+      "sodium": 880,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Dairy",
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of omega-3",
+        "Contains mushrooms"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "seafood marinara": {
+      "calories": 580,
+      "protein": 34,
+      "carbs": 52,
+      "fat": 22,
+      "sodium": 1040,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Fish",
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains lycopene from tomato",
+        "Source of omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate saturated fat"
+      ]
+    },
+    "coffee milkshake": {
+      "calories": 440,
+      "protein": 11,
+      "carbs": 64,
+      "fat": 15,
+      "sodium": 240,
+      "sugar": 60,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains caffeine",
+        "Source of protein"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in calories",
+        "High in saturated fat"
+      ]
+    },
+    "chicken wings": {
+      "calories": 320,
+      "protein": 22,
+      "carbs": 8,
+      "fat": 22,
+      "sodium": 540,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Rich in B vitamins"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium",
+        "High in cholesterol"
+      ]
+    },
+    "potato salad": {
+      "calories": 310,
+      "protein": 6,
+      "carbs": 28,
+      "fat": 18,
+      "sodium": 520,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains potassium",
+        "Source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium",
+        "High in calories for portion size"
+      ]
+    },
+    "all day special": {
+      "calories": 680,
+      "protein": 52,
+      "carbs": 32,
+      "fat": 34,
+      "sodium": 1080,
+      "sugar": 2,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Source of choline from eggs"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium",
+        "High in cholesterol"
+      ]
+    },
+    "french fries": {
+      "calories": 340,
+      "protein": 3,
+      "carbs": 42,
+      "fat": 16,
+      "sodium": 680,
+      "sugar": 0,
+      "fiber": 3,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains potassium",
+        "Source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "Very high in sodium",
+        "High in calories for portion size"
+      ]
+    },
+    "hickory bbq chicken": {
+      "calories": 720,
+      "protein": 48,
+      "carbs": 48,
+      "fat": 32,
+      "sodium": 1220,
+      "sugar": 12,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "Very high in sodium",
+        "High in sugar"
+      ]
+    },
+    "prime ribeye": {
+      "calories": 860,
+      "protein": 74,
+      "carbs": 28,
+      "fat": 46,
+      "sodium": 1200,
+      "sugar": 2,
+      "fiber": 4,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Excellent source of iron",
+        "Rich in B vitamins"
+      ],
+      "healthWarnings": [
+        "Very high in saturated fat",
+        "High in sodium",
+        "High in cholesterol"
+      ]
+    },
+    "chargrilled salmon fillet": {
+      "calories": 720,
+      "protein": 54,
+      "carbs": 32,
+      "fat": 38,
+      "sodium": 1100,
+      "sugar": 2,
+      "fiber": 4,
+      "allergens": [
+        "Fish",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Excellent source of omega-3",
+        "Good source of vitamin D"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "tasty rice": {
+      "calories": 260,
+      "protein": 4,
+      "carbs": 44,
+      "fat": 6,
+      "sodium": 580,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of carbohydrates",
+        "Source of energy"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Low in fiber"
+      ]
+    },
+    "carbonara": {
+      "calories": 640,
+      "protein": 24,
+      "carbs": 50,
+      "fat": 36,
+      "sodium": 920,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Pork"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium",
+        "High in cholesterol"
+      ]
+    },
+    "prime ribeye x'tra cut": {
+      "calories": 850,
+      "protein": 65,
+      "carbs": 35,
+      "fat": 52,
+      "sodium": 1200,
+      "sugar": 2,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron",
+        "Contains B vitamins"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "chicken sausages": {
+      "calories": 320,
+      "protein": 22,
+      "carbs": 8,
+      "fat": 22,
+      "sodium": 680,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "teriyaki chicken": {
+      "calories": 620,
+      "protein": 48,
+      "carbs": 52,
+      "fat": 22,
+      "sodium": 1100,
+      "sugar": 8,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in sugar"
+      ]
+    },
+    "milo milkshake": {
+      "calories": 380,
+      "protein": 10,
+      "carbs": 58,
+      "fat": 12,
+      "sodium": 220,
+      "sugar": 48,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "lemon lime chicken": {
+      "calories": 580,
+      "protein": 46,
+      "carbs": 48,
+      "fat": 18,
+      "sodium": 950,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains citrus flavonoids"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "classic caesar salad": {
+      "calories": 420,
+      "protein": 16,
+      "carbs": 24,
+      "fat": 28,
+      "sodium": 680,
+      "sugar": 3,
+      "fiber": 4,
+      "allergens": [
+        "Dairy",
+        "Fish",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains vegetables",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in sodium"
+      ]
+    },
+    "cookies & cream milkshake": {
+      "calories": 420,
+      "protein": 11,
+      "carbs": 62,
+      "fat": 14,
+      "sodium": 280,
+      "sugar": 52,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "prime tenderloin": {
+      "calories": 880,
+      "protein": 68,
+      "carbs": 35,
+      "fat": 54,
+      "sodium": 1250,
+      "sugar": 2,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron",
+        "Contains B vitamins"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "mac & cheese": {
+      "calories": 380,
+      "protein": 14,
+      "carbs": 42,
+      "fat": 18,
+      "sodium": 620,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of calcium",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in sodium"
+      ]
+    },
+    "porterhouse": {
+      "calories": 920,
+      "protein": 70,
+      "carbs": 35,
+      "fat": 58,
+      "sodium": 1300,
+      "sugar": 2,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron",
+        "Contains B vitamins"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "rootbeer float": {
+      "calories": 360,
+      "protein": 6,
+      "carbs": 54,
+      "fat": 14,
+      "sodium": 180,
+      "sugar": 48,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "mexican nachos": {
+      "calories": 520,
+      "protein": 24,
+      "carbs": 44,
+      "fat": 28,
+      "sodium": 1050,
+      "sugar": 4,
+      "fiber": 5,
+      "allergens": [
+        "Dairy",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Contains vegetables",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in sodium"
+      ]
+    },
+    "fiery chicken": {
+      "calories": 600,
+      "protein": 47,
+      "carbs": 48,
+      "fat": 20,
+      "sodium": 1200,
+      "sugar": 5,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains spices with antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "onion rings": {
+      "calories": 340,
+      "protein": 5,
+      "carbs": 38,
+      "fat": 18,
+      "sodium": 420,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in calories"
+      ]
+    },
+    "bbq beans": {
+      "calories": 180,
+      "protein": 8,
+      "carbs": 28,
+      "fat": 3,
+      "sodium": 580,
+      "sugar": 6,
+      "fiber": 6,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "Good source of protein",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "wagyu steak": {
+      "calories": 950,
+      "protein": 72,
+      "carbs": 35,
+      "fat": 62,
+      "sodium": 1350,
+      "sugar": 2,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron",
+        "Contains monounsaturated fats"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "coke float": {
+      "calories": 340,
+      "protein": 6,
+      "carbs": 52,
+      "fat": 12,
+      "sodium": 160,
+      "sugar": 46,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "double up chicken": {
+      "calories": 740,
+      "protein": 62,
+      "carbs": 52,
+      "fat": 28,
+      "sodium": 1150,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in sodium"
+      ]
+    },
+    "truffle chips": {
+      "calories": 380,
+      "protein": 6,
+      "carbs": 42,
+      "fat": 20,
+      "sodium": 480,
+      "sugar": 2,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains potassium"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in calories"
+      ]
+    },
+    "corn niblets": {
+      "calories": 140,
+      "protein": 4,
+      "carbs": 22,
+      "fat": 4,
+      "sodium": 320,
+      "sugar": 3,
+      "fiber": 3,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains lutein",
+        "Low in sodium"
+      ],
+      "healthWarnings": []
+    },
+    "sprite float": {
+      "calories": 280,
+      "protein": 2,
+      "carbs": 68,
+      "fat": 1,
+      "sodium": 65,
+      "sugar": 66,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "lamb loin chops": {
+      "calories": 620,
+      "protein": 52,
+      "carbs": 12,
+      "fat": 38,
+      "sodium": 580,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron",
+        "High in B vitamins"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "garden veggie": {
+      "calories": 85,
+      "protein": 3,
+      "carbs": 15,
+      "fat": 2,
+      "sodium": 320,
+      "sugar": 3,
+      "fiber": 3,
+      "allergens": [],
+      "healthBenefits": [
+        "High in fiber",
+        "Low in calories",
+        "Good source of vitamins"
+      ],
+      "healthWarnings": [
+        "Moderate sodium"
+      ]
+    },
+    "milo dinosaur": {
+      "calories": 420,
+      "protein": 8,
+      "carbs": 75,
+      "fat": 10,
+      "sodium": 180,
+      "sugar": 68,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "mango fizz": {
+      "calories": 180,
+      "protein": 1,
+      "carbs": 45,
+      "fat": 0,
+      "sodium": 40,
+      "sugar": 42,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Source of vitamin C",
+        "Source of antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "apple passion fizz": {
+      "calories": 170,
+      "protein": 1,
+      "carbs": 42,
+      "fat": 0,
+      "sodium": 35,
+      "sugar": 40,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Source of vitamin C",
+        "Source of antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "peach fizz": {
+      "calories": 175,
+      "protein": 1,
+      "carbs": 43,
+      "fat": 0,
+      "sodium": 38,
+      "sugar": 41,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Source of vitamin C",
+        "Source of antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "blue colada": {
+      "calories": 320,
+      "protein": 2,
+      "carbs": 52,
+      "fat": 11,
+      "sodium": 95,
+      "sugar": 48,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Source of antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories",
+        "High in fat"
+      ]
+    },
+    "passion delight": {
+      "calories": 185,
+      "protein": 1,
+      "carbs": 46,
+      "fat": 0,
+      "sodium": 42,
+      "sugar": 44,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Source of vitamin C",
+        "Source of antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "berry berries": {
+      "calories": 190,
+      "protein": 2,
+      "carbs": 45,
+      "fat": 0,
+      "sodium": 38,
+      "sugar": 42,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "Source of vitamin C",
+        "High in antioxidants",
+        "Source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "sunrise": {
+      "calories": 210,
+      "protein": 1,
+      "carbs": 52,
+      "fat": 0,
+      "sodium": 45,
+      "sugar": 50,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Source of vitamin C",
+        "Source of antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    }
+  }
+}

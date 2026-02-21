@@ -1,0 +1,776 @@
+{
+  "brand": "ambush",
+  "generatedAt": "2026-02-16T13:21:07.331Z",
+  "items": {
+    "truffle mushroom soup": {
+      "calories": 280,
+      "protein": 8,
+      "carbs": 32,
+      "fat": 14,
+      "sodium": 720,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains antioxidants from mushrooms"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "lemon & herbs chicken thigh": {
+      "calories": 520,
+      "protein": 42,
+      "carbs": 35,
+      "fat": 22,
+      "sodium": 850,
+      "sugar": 2,
+      "fiber": 4,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of B vitamins",
+        "Contains selenium"
+      ],
+      "healthWarnings": [
+        "Moderate sodium",
+        "Contains saturated fat"
+      ]
+    },
+    "coke": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 39,
+      "fat": 0,
+      "sodium": 55,
+      "sugar": 39,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in empty calories"
+      ]
+    },
+    "p.w.p salad": {
+      "calories": 380,
+      "protein": 14,
+      "carbs": 28,
+      "fat": 25,
+      "sodium": 480,
+      "sugar": 16,
+      "fiber": 6,
+      "allergens": [
+        "Dairy",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "Good source of antioxidants",
+        "Rich in vitamins and minerals"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "Moderate sodium"
+      ]
+    },
+    "salmon aubergine parmesan": {
+      "calories": 580,
+      "protein": 48,
+      "carbs": 18,
+      "fat": 32,
+      "sodium": 980,
+      "sugar": 8,
+      "fiber": 5,
+      "allergens": [
+        "Fish",
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in omega-3 fatty acids",
+        "Excellent source of protein",
+        "Good source of selenium"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "chicken schnitzel": {
+      "calories": 680,
+      "protein": 46,
+      "carbs": 48,
+      "fat": 32,
+      "sodium": 920,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "double cheese smashed burger": {
+      "calories": 820,
+      "protein": 48,
+      "carbs": 52,
+      "fat": 44,
+      "sodium": 1240,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "Very high in saturated fat",
+        "High in calories"
+      ]
+    },
+    "truffle & pancetta rissotto": {
+      "calories": 620,
+      "protein": 28,
+      "carbs": 58,
+      "fat": 28,
+      "sodium": 1100,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains carbohydrates for energy"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "spanish churros": {
+      "calories": 320,
+      "protein": 4,
+      "carbs": 38,
+      "fat": 16,
+      "sodium": 180,
+      "sugar": 18,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in empty calories"
+      ]
+    },
+    "spanish duroc pork chop bone-in": {
+      "calories": 680,
+      "protein": 54,
+      "carbs": 32,
+      "fat": 34,
+      "sodium": 780,
+      "sugar": 3,
+      "fiber": 3,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of B vitamins",
+        "Contains selenium and zinc"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in calories",
+        "Moderate sodium"
+      ]
+    },
+    "coke light": {
+      "calories": 2,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 60,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Zero sugar",
+        "Zero calories"
+      ],
+      "healthWarnings": [
+        "Contains artificial sweeteners",
+        "Moderate sodium"
+      ]
+    },
+    "garlic butter prawn salad": {
+      "calories": 420,
+      "protein": 32,
+      "carbs": 16,
+      "fat": 26,
+      "sodium": 680,
+      "sugar": 4,
+      "fiber": 4,
+      "allergens": [
+        "Shellfish",
+        "Dairy",
+        "Tree Nut",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "High in omega-3 fatty acids",
+        "Good source of antioxidants"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "Moderate sodium"
+      ]
+    },
+    "ambush's classic fish & chips": {
+      "calories": 580,
+      "protein": 38,
+      "carbs": 52,
+      "fat": 22,
+      "sodium": 840,
+      "sugar": 3,
+      "fiber": 3,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of omega-3",
+        "Contains selenium"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "emo swiss": {
+      "calories": 760,
+      "protein": 44,
+      "carbs": 48,
+      "fat": 42,
+      "sodium": 1180,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "Very high in saturated fat",
+        "High in calories"
+      ]
+    },
+    "truffle fries parmesan": {
+      "calories": 380,
+      "protein": 8,
+      "carbs": 42,
+      "fat": 20,
+      "sodium": 620,
+      "sugar": 2,
+      "fiber": 3,
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of carbohydrates",
+        "Contains potassium"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "gorgonzola & mushroom gnocchi": {
+      "calories": 580,
+      "protein": 22,
+      "carbs": 62,
+      "fat": 26,
+      "sodium": 1020,
+      "sugar": 5,
+      "fiber": 4,
+      "allergens": [
+        "Dairy",
+        "Gluten",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Good source of carbohydrates",
+        "Contains calcium",
+        "Good source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "tater tots": {
+      "calories": 420,
+      "protein": 12,
+      "carbs": 38,
+      "fat": 24,
+      "sodium": 780,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Contains potassium"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "french onion bleu": {
+      "calories": 740,
+      "protein": 42,
+      "carbs": 48,
+      "fat": 42,
+      "sodium": 1260,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "Very high in saturated fat",
+        "High in calories"
+      ]
+    },
+    "salmon caesar salad": {
+      "calories": 480,
+      "protein": 40,
+      "carbs": 18,
+      "fat": 28,
+      "sodium": 720,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Fish",
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "High in omega-3 fatty acids",
+        "Good source of antioxidants"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "Moderate sodium"
+      ]
+    },
+    "mineral spring water": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 12,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Zero calories",
+        "Hydrating",
+        "Low sodium"
+      ],
+      "healthWarnings": []
+    },
+    "seafood cataplana linguine": {
+      "calories": 620,
+      "protein": 28,
+      "carbs": 68,
+      "fat": 22,
+      "sodium": 1240,
+      "sugar": 4,
+      "fiber": 4,
+      "allergens": [
+        "Shellfish",
+        "Fish",
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "Good source of protein",
+        "Contains spinach"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in saturated fat"
+      ]
+    },
+    "oxtail bourguignonne": {
+      "calories": 680,
+      "protein": 48,
+      "carbs": 32,
+      "fat": 38,
+      "sodium": 980,
+      "sugar": 3,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "Contains collagen"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "250g aust grain-fed striploin": {
+      "calories": 710,
+      "protein": 52,
+      "carbs": 28,
+      "fat": 42,
+      "sodium": 650,
+      "sugar": 2,
+      "fiber": 3,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Excellent source of protein",
+        "Rich in iron and B vitamins",
+        "High in creatine"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in cholesterol",
+        "High in calories"
+      ]
+    },
+    "beef ragout mafaldine": {
+      "calories": 680,
+      "protein": 36,
+      "carbs": 72,
+      "fat": 24,
+      "sodium": 1180,
+      "sugar": 6,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains spinach",
+        "Rich in iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate saturated fat"
+      ]
+    },
+    "fall harvest salad": {
+      "calories": 320,
+      "protein": 12,
+      "carbs": 38,
+      "fat": 14,
+      "sodium": 420,
+      "sugar": 18,
+      "fiber": 5,
+      "allergens": [
+        "Tree Nut",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "Rich in antioxidants",
+        "Good source of vitamins"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "250g aust grain-fed ribeye": {
+      "calories": 760,
+      "protein": 54,
+      "carbs": 28,
+      "fat": 48,
+      "sodium": 680,
+      "sugar": 2,
+      "fiber": 3,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Excellent source of protein",
+        "Rich in iron and B vitamins",
+        "High in zinc"
+      ],
+      "healthWarnings": [
+        "Very high in saturated fat",
+        "High in cholesterol",
+        "High in calories"
+      ]
+    },
+    "swiss rosti": {
+      "calories": 380,
+      "protein": 16,
+      "carbs": 32,
+      "fat": 22,
+      "sodium": 580,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3 from salmon"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate saturated fat"
+      ]
+    },
+    "wagyu bolognese spaghetti": {
+      "calories": 640,
+      "protein": 38,
+      "carbs": 64,
+      "fat": 26,
+      "sodium": 1100,
+      "sugar": 5,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "Contains mushrooms"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "chicken tender": {
+      "calories": 340,
+      "protein": 22,
+      "carbs": 28,
+      "fat": 16,
+      "sodium": 620,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Fried preparation"
+      ]
+    },
+    "pancetta carbonara linguine": {
+      "calories": 620,
+      "protein": 26,
+      "carbs": 66,
+      "fat": 26,
+      "sodium": 1240,
+      "sugar": 3,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains whole grains"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "gambas al ajillo": {
+      "calories": 280,
+      "protein": 24,
+      "carbs": 18,
+      "fat": 14,
+      "sodium": 780,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Shellfish",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Low in carbs",
+        "Good source of selenium"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "calamari": {
+      "calories": 320,
+      "protein": 22,
+      "carbs": 26,
+      "fat": 14,
+      "sodium": 640,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Shellfish",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of selenium"
+      ],
+      "healthWarnings": [
+        "Fried preparation",
+        "High in sodium"
+      ]
+    },
+    "truffle mushroom ragu mafaldine": {
+      "calories": 580,
+      "protein": 20,
+      "carbs": 68,
+      "fat": 22,
+      "sodium": 980,
+      "sugar": 4,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains mushrooms",
+        "Vegetarian"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate saturated fat"
+      ]
+    },
+    "aubergine & cheese ravioli": {
+      "calories": 520,
+      "protein": 22,
+      "carbs": 52,
+      "fat": 24,
+      "sodium": 1080,
+      "sugar": 5,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Shellfish",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables",
+        "Good source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate saturated fat"
+      ]
+    },
+    "pollo winglets": {
+      "calories": 380,
+      "protein": 26,
+      "carbs": 22,
+      "fat": 20,
+      "sodium": 720,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Fried preparation"
+      ]
+    }
+  }
+}

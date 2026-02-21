@@ -225,8 +225,122 @@ export async function batchGetMenuImageUrls(
         urlMap.set(item.original_url, item.cdn_url);
       }
     }
+
+    // Also check restaurant_image_cache for URLs not found above
+    const remaining = validUrls.filter((url) => !urlMap.has(url));
+    if (remaining.length > 0) {
+      const { data: restaurantCached } = await supabase
+        .from("restaurant_image_cache")
+        .select("original_url, cdn_url")
+        .in("original_url", remaining);
+
+      if (restaurantCached) {
+        for (const item of restaurantCached) {
+          urlMap.set(item.original_url, item.cdn_url);
+        }
+      }
+    }
   } catch {
     // Return empty map on error
+  }
+
+  return urlMap;
+}
+
+/**
+ * Resolve related brand images using mall_restaurants hero_image_url.
+ * Matches by slug first, then falls back to exact name match.
+ * Returns a map of originalImageUrl → resolvedHeroImageUrl.
+ */
+export async function resolveRelatedBrandImages(
+  brands: Array<{ name: string; imageUrl: string }>,
+): Promise<Map<string, string>> {
+  const urlMap = new Map<string, string>();
+  if (brands.length === 0) return urlMap;
+
+  const toSlug = (input: string) =>
+    input
+      .trim()
+      .toLowerCase()
+      .replace(/['']/g, "")
+      .replace(/[^a-z0-9]+/g, "-")
+      .replace(/^-+|-+$/g, "");
+
+  // Build lookup maps
+  const slugToImageUrl = new Map<string, string>();
+  const nameToImageUrl = new Map<string, string>();
+  for (const brand of brands) {
+    const slug = toSlug(brand.name);
+    if (slug && brand.imageUrl) {
+      slugToImageUrl.set(slug, brand.imageUrl);
+      nameToImageUrl.set(brand.name.trim(), brand.imageUrl);
+    }
+  }
+
+  const slugs = [...slugToImageUrl.keys()];
+  const names = [...nameToImageUrl.keys()];
+  if (slugs.length === 0) return urlMap;
+
+  try {
+    // Primary: query mall_restaurants by slug (same source as mall pages)
+    const { data: bySlug, error: slugError } = await supabase
+      .from("mall_restaurants")
+      .select("slug, name, hero_image_url")
+      .in("slug", slugs)
+      .not("hero_image_url", "is", null);
+
+    if (slugError) {
+      console.error(
+        "[resolveRelatedBrandImages] slug query error:",
+        slugError.message,
+      );
+    }
+
+    if (bySlug) {
+      for (const item of bySlug) {
+        const originalUrl = slugToImageUrl.get(item.slug);
+        if (originalUrl && item.hero_image_url && !urlMap.has(originalUrl)) {
+          urlMap.set(originalUrl, item.hero_image_url);
+        }
+      }
+    }
+
+    // Fallback: query by exact name for any still-unresolved brands
+    const unresolvedNames = names.filter(
+      (name) => !urlMap.has(nameToImageUrl.get(name)!),
+    );
+    if (unresolvedNames.length > 0) {
+      const { data: byName, error: nameError } = await supabase
+        .from("mall_restaurants")
+        .select("name, hero_image_url")
+        .in("name", unresolvedNames)
+        .not("hero_image_url", "is", null);
+
+      if (nameError) {
+        console.error(
+          "[resolveRelatedBrandImages] name query error:",
+          nameError.message,
+        );
+      }
+
+      if (byName) {
+        for (const item of byName) {
+          const originalUrl = nameToImageUrl.get(item.name);
+          if (originalUrl && item.hero_image_url && !urlMap.has(originalUrl)) {
+            urlMap.set(originalUrl, item.hero_image_url);
+          }
+        }
+      }
+    }
+
+    console.log(
+      `[resolveRelatedBrandImages] Resolved ${urlMap.size}/${slugs.length} images`,
+      urlMap.size < slugs.length
+        ? `| Unresolved: ${slugs.filter((s) => !urlMap.has(slugToImageUrl.get(s)!)).join(", ")}`
+        : "",
+    );
+  } catch (err) {
+    console.error("[resolveRelatedBrandImages] Error:", err);
   }
 
   return urlMap;
@@ -276,6 +390,168 @@ export function getOptimizedMenuUrl(
   }
 
   return cdnUrl;
+}
+
+/**
+ * Fetch Google reviews from the mall_restaurants table for a given restaurant slug.
+ * A restaurant can exist in multiple malls, so we query all matching rows,
+ * combine and deduplicate reviews, and compute aggregate rating/count.
+ */
+export async function fetchGoogleReviewsFromDB(
+  restaurantSlug: string,
+): Promise<{
+  reviews: Array<{
+    author: string;
+    authorPhotoUrl?: string;
+    authorProfileUrl?: string;
+    rating: number;
+    date: string;
+    content: string;
+    publishTime?: string;
+  }>;
+  rating?: number;
+  reviewCount?: number;
+}> {
+  const emptyResult = {
+    reviews: [],
+    rating: undefined,
+    reviewCount: undefined,
+  };
+
+  try {
+    // Get all locations for this restaurant with their Google Place IDs
+    const { data, error } = await supabase
+      .from("mall_restaurants")
+      .select("google_place_id, rating, review_count")
+      .eq("slug", restaurantSlug);
+
+    if (error) {
+      console.error("[fetchGoogleReviews] query error:", error.message);
+      return emptyResult;
+    }
+
+    if (!data || data.length === 0) {
+      return emptyResult;
+    }
+
+    // Fetch reviews live from Google Places API for each location
+    const apiKey = process.env.GOOGLE_PLACES_API_KEY;
+    if (!apiKey) {
+      console.error("[fetchGoogleReviews] No GOOGLE_PLACES_API_KEY");
+      return emptyResult;
+    }
+
+    type ReviewItem = {
+      author: string;
+      authorPhotoUrl?: string;
+      authorProfileUrl?: string;
+      rating: number;
+      date: string;
+      content: string;
+      publishTime?: string;
+    };
+
+    const allReviews: ReviewItem[] = [];
+
+    // Fetch reviews from Google Places API for each location (in parallel)
+    const placeIds = data
+      .map((r) => r.google_place_id)
+      .filter((id): id is string => !!id);
+
+    const fetches = placeIds.map(async (placeId) => {
+      try {
+        const res = await fetch(
+          `https://places.googleapis.com/v1/places/${placeId}`,
+          {
+            headers: {
+              "X-Goog-Api-Key": apiKey,
+              "X-Goog-FieldMask": "reviews",
+            },
+            next: { revalidate: 86400 }, // Cache for 24h
+          },
+        );
+        if (!res.ok) return [];
+        const place = await res.json();
+        if (!Array.isArray(place.reviews)) return [];
+        return place.reviews.map(
+          (r: {
+            authorAttribution?: {
+              displayName?: string;
+              photoUri?: string;
+              uri?: string;
+            };
+            rating?: number;
+            relativePublishTimeDescription?: string;
+            text?: { text?: string };
+            originalText?: { text?: string };
+            publishTime?: string;
+          }): ReviewItem => ({
+            author: r.authorAttribution?.displayName ?? "Anonymous",
+            authorPhotoUrl: r.authorAttribution?.photoUri,
+            authorProfileUrl: r.authorAttribution?.uri,
+            rating: r.rating ?? 0,
+            date: r.relativePublishTimeDescription ?? "",
+            content: r.text?.text ?? r.originalText?.text ?? "",
+            publishTime: r.publishTime,
+          }),
+        );
+      } catch {
+        return [];
+      }
+    });
+
+    const results = await Promise.all(fetches);
+    for (const reviews of results) {
+      allReviews.push(...reviews);
+    }
+
+    // Deduplicate by author + first 50 chars of content
+    const seen = new Set<string>();
+    const deduped = allReviews.filter((review) => {
+      const key = `${review.author.toLowerCase()}|${review.content.slice(0, 50).toLowerCase()}`;
+      if (seen.has(key)) return false;
+      seen.add(key);
+      return true;
+    });
+
+    // Sort by publishTime descending (newest first)
+    deduped.sort((a, b) => {
+      const timeA = a.publishTime ? new Date(a.publishTime).getTime() : 0;
+      const timeB = b.publishTime ? new Date(b.publishTime).getTime() : 0;
+      return timeB - timeA;
+    });
+
+    // Compute aggregate rating and total review count
+    let totalRating = 0;
+    let totalCount = 0;
+    let ratingEntries = 0;
+
+    for (const row of data) {
+      if (row.rating != null) {
+        totalRating += row.rating;
+        ratingEntries++;
+      }
+      if (row.review_count != null) {
+        totalCount += row.review_count;
+      }
+    }
+
+    const avgRating =
+      ratingEntries > 0 ? totalRating / ratingEntries : undefined;
+
+    console.log(
+      `[fetchGoogleReviews] slug="${restaurantSlug}" → ${placeIds.length} location(s), ${deduped.length} unique reviews`,
+    );
+
+    return {
+      reviews: deduped,
+      rating: avgRating,
+      reviewCount: totalCount > 0 ? totalCount : undefined,
+    };
+  } catch (err) {
+    console.error("[fetchGoogleReviews] Error:", err);
+    return emptyResult;
+  }
 }
 
 /**

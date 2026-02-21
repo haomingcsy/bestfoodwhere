@@ -1,7 +1,7 @@
 import type { BrandData, LocationInfo } from "@/types/brand";
-import fourLeavesHero from "@/image/fourleaves.png";
 import { getOptimizedMenuUrl, IMAGE_PRESETS } from "@/lib/restaurant-images";
-import { useMemo } from "react";
+import { parseOpeningHoursText, getTodayHours } from "@/lib/format-opening-hours";
+import { useMemo, useState } from "react";
 /* eslint-disable @next/next/no-img-element */
 
 interface Props {
@@ -22,8 +22,9 @@ export function HeroHeader({ brand, location, cdnUrls = {} }: Props) {
     if (!originalUrl) return undefined;
     return getOptimizedMenuUrl(originalUrl, cdnUrlMap, preset);
   };
+  const [logoError, setLogoError] = useState(false);
+  const [heroError, setHeroError] = useState(false);
   const fallbackMenuImage = brand.menu[0]?.items?.[0]?.imageUrl ?? "";
-  const isFourLeaves = brand.name.toLowerCase().includes("four leaves");
   const singaporeNow = new Date(
     new Date().toLocaleString("en-US", { timeZone: "Asia/Singapore" }),
   );
@@ -60,9 +61,12 @@ export function HeroHeader({ brand, location, cdnUrls = {} }: Props) {
     : !/closed/i.test(openingHours);
   const openTimeLabel =
     openingHours.match(/(\d{1,2}(?::\d{2})?\s*(?:am|pm))/i)?.[1] || "";
+  // Format today's hours for the badge (instead of showing raw JSON)
+  const parsedSchedule = parseOpeningHoursText(openingHours);
+  const todayHours = parsedSchedule ? getTodayHours(parsedSchedule) : null;
   const openLabel = isOpen
-    ? `Open Now [${openingHours}]`
-    : `Closed Now [Closed${openTimeLabel ? ` - Opens ${openTimeLabel}` : ""}]`;
+    ? `Open Now${todayHours ? ` · ${todayHours}` : ""}`
+    : `Closed${openTimeLabel ? ` · Opens ${openTimeLabel}` : ""}`;
 
   const tags = [
     ...new Set([
@@ -90,23 +94,14 @@ export function HeroHeader({ brand, location, cdnUrls = {} }: Props) {
 
   return (
     <section className="mb-6">
-      {isFourLeaves ? (
-        <div className="relative mb-4 h-56 w-full overflow-hidden rounded-2xl bg-[#fff9f6] shadow-sm">
-          <img
-            src={fourLeavesHero.src}
-            alt={`${brand.name} hero`}
-            className="h-full w-full object-cover"
-            loading="eager"
-          />
-          <div className="absolute inset-0 bg-gradient-to-t from-black/35 via-black/10 to-transparent" />
-        </div>
-      ) : heroImageUrl ? (
+      {heroImageUrl && !heroError ? (
         <div className="relative mb-4 h-56 w-full overflow-hidden rounded-2xl bg-[#fff9f6] shadow-sm">
           <img
             src={getImageUrl(heroImageUrl, "heroBanner") || heroImageUrl}
             alt={`${brand.name} hero`}
             className="h-full w-full object-cover"
             loading="eager"
+            onError={() => setHeroError(true)}
           />
           <div className="absolute inset-0 bg-gradient-to-t from-black/35 via-black/10 to-transparent" />
         </div>
@@ -115,22 +110,17 @@ export function HeroHeader({ brand, location, cdnUrls = {} }: Props) {
       <div className="rounded-2xl bg-black/85 px-6 py-5 shadow-lg md:h-[180px]">
         <div className="flex w-full flex-col items-center gap-5 md:flex-row md:items-start md:gap-6">
           <div className="relative h-20 w-20 shrink-0 overflow-hidden rounded-full border-4 border-white shadow-lg shadow-black/20 ring-[4px] ring-white/30">
-            {isFourLeaves ? (
-              <img
-                src={fourLeavesHero.src}
-                alt={brand.name}
-                className="h-full w-full object-cover"
-              />
-            ) : logoUrl ? (
+            {logoUrl && !logoError ? (
               <img
                 src={getImageUrl(logoUrl, "logo") || logoUrl}
                 alt={brand.name}
                 className="h-full w-full object-cover"
                 loading="lazy"
+                onError={() => setLogoError(true)}
               />
             ) : (
-              <div className="flex h-full w-full items-center justify-center text-xs text-white/80">
-                Logo
+              <div className="flex h-full w-full items-center justify-center bg-gray-700 text-lg font-bold text-white/90">
+                {brand.name.charAt(0)}
               </div>
             )}
           </div>

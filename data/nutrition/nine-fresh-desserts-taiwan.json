@@ -1,0 +1,98 @@
+{
+  "brand": "nine-fresh-desserts-taiwan",
+  "generatedAt": "2026-02-21T11:02:44.311Z",
+  "items": {
+    "nine fresh signature": {
+      "calories": 180,
+      "protein": 2,
+      "carbs": 42,
+      "fat": 0.5,
+      "sodium": 45,
+      "sugar": 38,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in fat",
+        "Hydrating"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "fruity ai-yu jelly": {
+      "calories": 165,
+      "protein": 1,
+      "carbs": 40,
+      "fat": 0.3,
+      "sodium": 35,
+      "sugar": 36,
+      "fiber": 1.5,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in fat",
+        "Contains fruit",
+        "Hydrating"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "jelliciouscup": {
+      "calories": 195,
+      "protein": 2,
+      "carbs": 46,
+      "fat": 0.5,
+      "sodium": 50,
+      "sugar": 40,
+      "fiber": 1.5,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in fat",
+        "Contains fruit",
+        "Hydrating"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "golden cup": {
+      "calories": 220,
+      "protein": 3,
+      "carbs": 50,
+      "fat": 1,
+      "sodium": 60,
+      "sugar": 44,
+      "fiber": 2,
+      "allergens": [
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Contains fiber",
+        "Contains fruit",
+        "Hydrating"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "aww in one": {
+      "calories": 210,
+      "protein": 2.5,
+      "carbs": 48,
+      "fat": 0.8,
+      "sodium": 55,
+      "sugar": 42,
+      "fiber": 1.8,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in fat",
+        "Contains fruit",
+        "Contains fiber",
+        "Hydrating"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    }
+  }
+}

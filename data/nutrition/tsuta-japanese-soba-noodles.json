@@ -1,0 +1,1769 @@
+{
+  "brand": "tsuta-japanese-soba-noodles",
+  "generatedAt": "2026-02-21T12:16:56.917Z",
+  "items": {
+    "mandarin orange green tea (h/c)": {
+      "calories": 45,
+      "protein": 0,
+      "carbs": 11,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 9,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Antioxidant rich",
+        "Low calorie",
+        "Contains vitamin C"
+      ],
+      "healthWarnings": [
+        "Contains caffeine"
+      ]
+    },
+    "tsuta mineral water": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Hydration",
+        "No calories"
+      ],
+      "healthWarnings": []
+    },
+    "grilled teriyaki chicken": {
+      "calories": 380,
+      "protein": 38,
+      "carbs": 18,
+      "fat": 16,
+      "sodium": 850,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Excellent protein source",
+        "Lean meat",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate sugar from teriyaki sauce"
+      ]
+    },
+    "teriyaki chicken paitan soba": {
+      "calories": 520,
+      "protein": 32,
+      "carbs": 58,
+      "fat": 16,
+      "sodium": 1040,
+      "sugar": 12,
+      "fiber": 4,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Balanced meal",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderately high in sugar"
+      ]
+    },
+    "ebi fry": {
+      "calories": 280,
+      "protein": 18,
+      "carbs": 12,
+      "fat": 18,
+      "sodium": 480,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Shellfish",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of selenium"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "Deep fried"
+      ]
+    },
+    "kurobuta char siu rosu meshi": {
+      "calories": 680,
+      "protein": 32,
+      "carbs": 68,
+      "fat": 28,
+      "sodium": 1200,
+      "sugar": 8,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "mala soboro meshi": {
+      "calories": 420,
+      "protein": 18,
+      "carbs": 48,
+      "fat": 16,
+      "sodium": 680,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Pork",
+        "Peanut",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Contains peanuts",
+        "Spicy preparation"
+      ]
+    },
+    "niku meshi": {
+      "calories": 580,
+      "protein": 28,
+      "carbs": 52,
+      "fat": 28,
+      "sodium": 820,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Iron rich"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Calorie dense"
+      ]
+    },
+    "kaisen don": {
+      "calories": 580,
+      "protein": 32,
+      "carbs": 54,
+      "fat": 22,
+      "sodium": 850,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Shellfish",
+        "Gluten",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "Moderate sodium",
+        "Moderate fat content"
+      ]
+    },
+    "agemono don": {
+      "calories": 520,
+      "protein": 28,
+      "carbs": 48,
+      "fat": 24,
+      "sodium": 720,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Egg",
+        "Gluten",
+        "Soy",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "tori karaage": {
+      "calories": 380,
+      "protein": 28,
+      "carbs": 16,
+      "fat": 22,
+      "sodium": 720,
+      "sugar": 1,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "edamame": {
+      "calories": 95,
+      "protein": 11,
+      "carbs": 7,
+      "fat": 5,
+      "sodium": 240,
+      "sugar": 1,
+      "fiber": 3,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "High in fiber",
+        "Rich in antioxidants"
+      ],
+      "healthWarnings": [
+        "Moderate sodium"
+      ]
+    },
+    "tonkotsu soba": {
+      "calories": 480,
+      "protein": 20,
+      "carbs": 54,
+      "fat": 18,
+      "sodium": 1020,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good protein source",
+        "Rich broth with collagen",
+        "Contains mushrooms"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High fat from broth",
+        "High in calories"
+      ]
+    },
+    "the original truffle shoyu soba": {
+      "calories": 520,
+      "protein": 24,
+      "carbs": 62,
+      "fat": 16,
+      "sodium": 890,
+      "sugar": 3,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains antioxidants from mushrooms"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat from truffle oil"
+      ]
+    },
+    "avocado ebi nami maki": {
+      "calories": 180,
+      "protein": 7,
+      "carbs": 22,
+      "fat": 8,
+      "sodium": 280,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Sesame",
+        "Fish",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of healthy fats",
+        "Contains potassium",
+        "Protein source"
+      ],
+      "healthWarnings": [
+        "Moderate sodium content"
+      ]
+    },
+    "truffle shoyu soba": {
+      "calories": 480,
+      "protein": 18,
+      "carbs": 62,
+      "fat": 16,
+      "sodium": 1120,
+      "sugar": 14,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Sesame",
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains antioxidants from truffle"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderately high in sugar",
+        "High in fat"
+      ]
+    },
+    "truffle shio soba": {
+      "calories": 460,
+      "protein": 16,
+      "carbs": 60,
+      "fat": 14,
+      "sodium": 1280,
+      "sugar": 10,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Sesame",
+        "Shellfish",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good source of carbs",
+        "Contains umami flavors"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "Moderately high in calories"
+      ]
+    },
+    "avocado ebi maki": {
+      "calories": 420,
+      "protein": 14,
+      "carbs": 48,
+      "fat": 18,
+      "sodium": 680,
+      "sugar": 2,
+      "fiber": 3,
+      "allergens": [
+        "Shellfish",
+        "Fish",
+        "Gluten",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of omega-3",
+        "Contains healthy fats from avocado"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat from mayo"
+      ]
+    },
+    "premium nami maki trio": {
+      "calories": 480,
+      "protein": 18,
+      "carbs": 52,
+      "fat": 20,
+      "sodium": 680,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Shellfish",
+        "Sesame",
+        "Soy",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3 from fish",
+        "Balanced carbs"
+      ],
+      "healthWarnings": [
+        "Moderate calorie content",
+        "Multiple allergen sources"
+      ]
+    },
+    "wagyu beef don": {
+      "calories": 720,
+      "protein": 42,
+      "carbs": 54,
+      "fat": 38,
+      "sodium": 1100,
+      "sugar": 12,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Rich in iron and B vitamins"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium",
+        "High in cholesterol"
+      ]
+    },
+    "kirin ichiban beer": {
+      "calories": 150,
+      "protein": 1,
+      "carbs": 11,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Alcoholic",
+        "Contains gluten"
+      ]
+    },
+    "ebi soba": {
+      "calories": 540,
+      "protein": 28,
+      "carbs": 62,
+      "fat": 14,
+      "sodium": 1160,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Gluten",
+        "Sesame",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Balanced meal",
+        "Contains minerals"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Calorie dense"
+      ]
+    },
+    "aburi niku": {
+      "calories": 240,
+      "protein": 18,
+      "carbs": 6,
+      "fat": 17,
+      "sodium": 550,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "aburi salmon mentaiko don": {
+      "calories": 380,
+      "protein": 28,
+      "carbs": 42,
+      "fat": 14,
+      "sodium": 580,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Egg",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "Moderate sodium"
+      ]
+    },
+    "yuzu cider": {
+      "calories": 120,
+      "protein": 0,
+      "carbs": 30,
+      "fat": 0,
+      "sodium": 40,
+      "sugar": 28,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Vitamin C source",
+        "Refreshing beverage"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in added sugars"
+      ]
+    },
+    "premium char siu set (1 x kurobuta, 1 x iberico)": {
+      "calories": 240,
+      "protein": 22,
+      "carbs": 2,
+      "fat": 16,
+      "sodium": 480,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Iron rich",
+        "Contains B vitamins"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium",
+        "Calorie dense"
+      ]
+    },
+    "wakame salad": {
+      "calories": 280,
+      "protein": 14,
+      "carbs": 32,
+      "fat": 10,
+      "sodium": 620,
+      "sugar": 6,
+      "fiber": 8,
+      "allergens": [
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "Rich in seaweed minerals",
+        "Good source of plant protein",
+        "Contains legumes"
+      ],
+      "healthWarnings": [
+        "Moderate in sodium"
+      ]
+    },
+    "mandarin orange black tea (pot)": {
+      "calories": 45,
+      "protein": 0,
+      "carbs": 11,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 9,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "strawberry cider": {
+      "calories": 120,
+      "protein": 0,
+      "carbs": 28,
+      "fat": 0,
+      "sodium": 35,
+      "sugar": 24,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Non-alcoholic"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "nori/seaweed": {
+      "calories": 5,
+      "protein": 1,
+      "carbs": 1,
+      "fat": 0,
+      "sodium": 120,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Fish",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Rich in iodine",
+        "Contains minerals",
+        "Low calorie"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "premium char siu truffle shoyu soba": {
+      "calories": 640,
+      "protein": 32,
+      "carbs": 62,
+      "fat": 28,
+      "sodium": 1380,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Fish",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains noodles for energy"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat",
+        "High in calories"
+      ]
+    },
+    "heartland beer": {
+      "calories": 150,
+      "protein": 1,
+      "carbs": 11,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Contains alcohol",
+        "High in carbs"
+      ]
+    },
+    "premium ebi soba": {
+      "calories": 580,
+      "protein": 42,
+      "carbs": 52,
+      "fat": 18,
+      "sodium": 1240,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Gluten",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3 from shrimp"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in fat"
+      ]
+    },
+    "assorted vegetables fry": {
+      "calories": 380,
+      "protein": 6,
+      "carbs": 38,
+      "fat": 22,
+      "sodium": 420,
+      "sugar": 8,
+      "fiber": 5,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in fat from deep frying",
+        "High in calories"
+      ]
+    },
+    "ferrarelle sparkling natural water": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 85,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Hydrating",
+        "Zero calories"
+      ],
+      "healthWarnings": []
+    },
+    "spicy salmon maki": {
+      "calories": 320,
+      "protein": 14,
+      "carbs": 38,
+      "fat": 12,
+      "sodium": 480,
+      "sugar": 1,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3"
+      ],
+      "healthWarnings": [
+        "Moderate sodium",
+        "Contains spicy elements"
+      ]
+    },
+    "wagyu beef steak": {
+      "calories": 520,
+      "protein": 48,
+      "carbs": 8,
+      "fat": 32,
+      "sodium": 680,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "spicy teriyaki chicken paitan soba": {
+      "calories": 580,
+      "protein": 28,
+      "carbs": 64,
+      "fat": 18,
+      "sodium": 1420,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Spicy content may irritate"
+      ]
+    },
+    "sui gyoza": {
+      "calories": 185,
+      "protein": 9,
+      "carbs": 18,
+      "fat": 8,
+      "sodium": 360,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "Moderate sodium",
+        "Moderate fat"
+      ]
+    },
+    "signature nami maki trio": {
+      "calories": 415,
+      "protein": 17,
+      "carbs": 40,
+      "fat": 17,
+      "sodium": 660,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Shellfish",
+        "Sesame",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3 fatty acids"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "teriyaki chicken meshi": {
+      "calories": 520,
+      "protein": 32,
+      "carbs": 58,
+      "fat": 14,
+      "sodium": 680,
+      "sugar": 8,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains whole grain rice"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in carbohydrates"
+      ]
+    },
+    "kurobishio tonkotsu soba": {
+      "calories": 520,
+      "protein": 22,
+      "carbs": 58,
+      "fat": 20,
+      "sodium": 1240,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Fish",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains noodles for energy"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "premium char siu truffle shio soba": {
+      "calories": 630,
+      "protein": 31,
+      "carbs": 61,
+      "fat": 29,
+      "sodium": 1350,
+      "sugar": 5,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Fish",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains noodles for energy"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat",
+        "High in calories"
+      ]
+    },
+    "spicy salmon nami maki": {
+      "calories": 280,
+      "protein": 12,
+      "carbs": 32,
+      "fat": 10,
+      "sodium": 480,
+      "sugar": 6,
+      "fiber": 1,
+      "allergens": [
+        "Fish",
+        "Sesame",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Contains omega-3",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "kani nami maki": {
+      "calories": 210,
+      "protein": 6,
+      "carbs": 28,
+      "fat": 8,
+      "sodium": 420,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Gluten",
+        "Sesame",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Low in sugar",
+        "Source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate saturated fat"
+      ]
+    },
+    "extra soba noodles (40gm)": {
+      "calories": 140,
+      "protein": 5,
+      "carbs": 28,
+      "fat": 0.5,
+      "sodium": 180,
+      "sugar": 1,
+      "fiber": 2,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Low fat",
+        "Good source of carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "mala tonkotsu soba": {
+      "calories": 580,
+      "protein": 24,
+      "carbs": 68,
+      "fat": 22,
+      "sodium": 1480,
+      "sugar": 8,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Sesame",
+        "Peanut"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains antioxidants from goji berries"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "yaki gyoza": {
+      "calories": 280,
+      "protein": 12,
+      "carbs": 24,
+      "fat": 15,
+      "sodium": 620,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "salmon nami maki": {
+      "calories": 260,
+      "protein": 11,
+      "carbs": 30,
+      "fat": 9,
+      "sodium": 440,
+      "sugar": 5,
+      "fiber": 1,
+      "allergens": [
+        "Fish",
+        "Sesame",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Contains omega-3",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "salted egg maki": {
+      "calories": 380,
+      "protein": 14,
+      "carbs": 36,
+      "fat": 20,
+      "sodium": 840,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Sesame",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "Source of protein"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "sakura white tea (pot)": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Zero calories",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "assorted seafood fry": {
+      "calories": 420,
+      "protein": 22,
+      "carbs": 32,
+      "fat": 22,
+      "sodium": 680,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Fish",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "salmon salad": {
+      "calories": 380,
+      "protein": 28,
+      "carbs": 12,
+      "fat": 26,
+      "sodium": 520,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "Good source of protein",
+        "High in vitamin D"
+      ],
+      "healthWarnings": []
+    },
+    "koshihikari echigo craft beer": {
+      "calories": 165,
+      "protein": 1,
+      "carbs": 4,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Contains alcohol",
+        "Low nutritional value"
+      ]
+    },
+    "deluxe nami maki trio": {
+      "calories": 425,
+      "protein": 18,
+      "carbs": 42,
+      "fat": 18,
+      "sodium": 680,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Shellfish",
+        "Sesame",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3 fatty acids"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "chicken breast salad": {
+      "calories": 280,
+      "protein": 28,
+      "carbs": 18,
+      "fat": 12,
+      "sodium": 480,
+      "sugar": 3,
+      "fiber": 4,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of fiber",
+        "Low in sugar"
+      ],
+      "healthWarnings": [
+        "Moderate sodium content"
+      ]
+    },
+    "teriyaki chicken (1 slice)": {
+      "calories": 45,
+      "protein": 8,
+      "carbs": 2,
+      "fat": 1,
+      "sodium": 320,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Low calorie"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "aburi salmon mentaiko maki": {
+      "calories": 420,
+      "protein": 18,
+      "carbs": 42,
+      "fat": 18,
+      "sodium": 780,
+      "sugar": 8,
+      "fiber": 1,
+      "allergens": [
+        "Fish",
+        "Shellfish",
+        "Egg",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Contains omega-3",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Contains roe (high in cholesterol)"
+      ]
+    },
+    "wheat tea": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Zero calories",
+        "Natural beverage"
+      ],
+      "healthWarnings": []
+    },
+    "tonkatsu": {
+      "calories": 520,
+      "protein": 38,
+      "carbs": 24,
+      "fat": 28,
+      "sodium": 880,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains B vitamins"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "truffle salmon carpaccio": {
+      "calories": 280,
+      "protein": 28,
+      "carbs": 8,
+      "fat": 16,
+      "sodium": 420,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "High in protein",
+        "Rich in vitamins"
+      ],
+      "healthWarnings": [
+        "Raw fish preparation"
+      ]
+    },
+    "sakura peach white tea (cold brew)": {
+      "calories": 45,
+      "protein": 0,
+      "carbs": 11,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 10,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "sweet corn": {
+      "calories": 65,
+      "protein": 2,
+      "carbs": 13,
+      "fat": 1,
+      "sodium": 180,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains vitamins"
+      ],
+      "healthWarnings": []
+    },
+    "wagyu beef maki": {
+      "calories": 385,
+      "protein": 16,
+      "carbs": 32,
+      "fat": 22,
+      "sodium": 650,
+      "sugar": 4,
+      "fiber": 1,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Sesame",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains iron"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "kurobuta tonkatsu": {
+      "calories": 420,
+      "protein": 32,
+      "carbs": 18,
+      "fat": 26,
+      "sodium": 580,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "negitoro nami maki": {
+      "calories": 165,
+      "protein": 8,
+      "carbs": 20,
+      "fat": 5,
+      "sodium": 380,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of omega-3",
+        "Moderate calories"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "assorted fry platter": {
+      "calories": 420,
+      "protein": 18,
+      "carbs": 28,
+      "fat": 28,
+      "sodium": 680,
+      "sugar": 1,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Fish",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat",
+        "Deep fried"
+      ]
+    },
+    "onsen egg": {
+      "calories": 70,
+      "protein": 6,
+      "carbs": 1,
+      "fat": 5,
+      "sodium": 140,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains choline for brain health"
+      ],
+      "healthWarnings": []
+    },
+    "mandarin orange black tea (cold brew)": {
+      "calories": 35,
+      "protein": 0,
+      "carbs": 8,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 6,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains antioxidants from black tea"
+      ],
+      "healthWarnings": [
+        "Contains added sugar"
+      ]
+    },
+    "spicy tori mune niku": {
+      "calories": 380,
+      "protein": 42,
+      "carbs": 12,
+      "fat": 18,
+      "sodium": 680,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Peanut",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Lean chicken breast",
+        "Rich in antioxidants from chilli"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat from oil and peanuts"
+      ]
+    },
+    "ebi fry nami maki": {
+      "calories": 180,
+      "protein": 8,
+      "carbs": 18,
+      "fat": 8,
+      "sodium": 320,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Shellfish",
+        "Fish",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3 fatty acids"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate saturated fat"
+      ]
+    },
+    "saikyo miso california maki": {
+      "calories": 320,
+      "protein": 12,
+      "carbs": 35,
+      "fat": 14,
+      "sodium": 520,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Fish",
+        "Shellfish",
+        "Egg",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains healthy fats from avocado",
+        "Probiotics from miso"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate calorie density"
+      ]
+    },
+    "char siu (1 slice)": {
+      "calories": 85,
+      "protein": 12,
+      "carbs": 1,
+      "fat": 4,
+      "sodium": 320,
+      "sugar": 0.5,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "teriyaki chicken bao (1pcs)": {
+      "calories": 220,
+      "protein": 14,
+      "carbs": 24,
+      "fat": 7,
+      "sodium": 520,
+      "sugar": 5,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Balanced macronutrients"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate sugar content"
+      ]
+    },
+    "vegetarian maki": {
+      "calories": 185,
+      "protein": 5,
+      "carbs": 28,
+      "fat": 6,
+      "sodium": 290,
+      "sugar": 8,
+      "fiber": 3,
+      "allergens": [
+        "Sesame",
+        "Mustard"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains vegetables",
+        "Low in protein"
+      ],
+      "healthWarnings": [
+        "Moderate sodium content"
+      ]
+    },
+    "jasmine lychee green tea (cold brew)": {
+      "calories": 45,
+      "protein": 0,
+      "carbs": 11,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 10,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Antioxidant-rich",
+        "Caffeine content"
+      ],
+      "healthWarnings": []
+    },
+    "teriyaki chicken bao": {
+      "calories": 220,
+      "protein": 14,
+      "carbs": 24,
+      "fat": 7,
+      "sodium": 480,
+      "sugar": 5,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in sugar"
+      ]
+    },
+    "mango ebi maki": {
+      "calories": 310,
+      "protein": 14,
+      "carbs": 38,
+      "fat": 10,
+      "sodium": 420,
+      "sugar": 12,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Shellfish",
+        "Sesame",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains fruit"
+      ],
+      "healthWarnings": [
+        "Moderate sodium",
+        "Moderate sugar content"
+      ]
+    },
+    "teriyaki chicken bao (3pcs)": {
+      "calories": 660,
+      "protein": 42,
+      "carbs": 72,
+      "fat": 21,
+      "sodium": 1440,
+      "sugar": 15,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "menma (bamboo shoot)": {
+      "calories": 15,
+      "protein": 2,
+      "carbs": 2,
+      "fat": 0.2,
+      "sodium": 520,
+      "sugar": 0.5,
+      "fiber": 1,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Low calorie",
+        "Good source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "black fungus mushroom": {
+      "calories": 12,
+      "protein": 1,
+      "carbs": 2.5,
+      "fat": 0.1,
+      "sodium": 380,
+      "sugar": 0,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Very low calorie",
+        "Good source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "ajitama": {
+      "calories": 85,
+      "protein": 8,
+      "carbs": 1,
+      "fat": 6,
+      "sodium": 280,
+      "sugar": 0.5,
+      "fiber": 0,
+      "allergens": [
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains choline"
+      ],
+      "healthWarnings": [
+        "Moderate sodium content"
+      ]
+    },
+    "kurobuta char siu (1 slice)": {
+      "calories": 85,
+      "protein": 7.5,
+      "carbs": 1.2,
+      "fat": 6.2,
+      "sodium": 340,
+      "sugar": 0.8,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Rich in B vitamins",
+        "Contains iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "extra ikura (30g)": {
+      "calories": 52,
+      "protein": 5.8,
+      "carbs": 0.4,
+      "fat": 3.1,
+      "sodium": 380,
+      "sugar": 0.2,
+      "fiber": 0,
+      "allergens": [
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in omega-3",
+        "Good source of protein",
+        "Rich in vitamin D",
+        "Contains selenium"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Expensive topping"
+      ]
+    }
+  }
+}

@@ -1,0 +1,438 @@
+{
+  "brand": "bali-thai",
+  "generatedAt": "2026-02-16T13:32:10.302Z",
+  "items": {
+    "all items": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": []
+    },
+    "cny yu sheng 2026": {
+      "calories": 280,
+      "protein": 12,
+      "carbs": 28,
+      "fat": 14,
+      "sodium": 1200,
+      "sugar": 8,
+      "fiber": 4,
+      "allergens": [
+        "Fish",
+        "Sesame",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in vegetables",
+        "Good source of omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "bento set": {
+      "calories": 650,
+      "protein": 28,
+      "carbs": 72,
+      "fat": 24,
+      "sodium": 1400,
+      "sugar": 12,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Balanced meal",
+        "Good protein content"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in saturated fat"
+      ]
+    },
+    "appetiser": {
+      "calories": 320,
+      "protein": 14,
+      "carbs": 28,
+      "fat": 16,
+      "sodium": 580,
+      "sugar": 4,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Shellfish",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "salad & soup": {
+      "calories": 180,
+      "protein": 8,
+      "carbs": 16,
+      "fat": 9,
+      "sodium": 720,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in vegetables",
+        "Good fiber content",
+        "Low calorie"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "seafood": {
+      "calories": 380,
+      "protein": 32,
+      "carbs": 24,
+      "fat": 16,
+      "sodium": 1100,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Shellfish",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "High in omega-3",
+        "Good source of minerals"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "vegetable": {
+      "calories": 240,
+      "protein": 6,
+      "carbs": 28,
+      "fat": 12,
+      "sodium": 680,
+      "sugar": 5,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "High in vitamins",
+        "Low in protein"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "meat": {
+      "calories": 420,
+      "protein": 36,
+      "carbs": 20,
+      "fat": 20,
+      "sodium": 1050,
+      "sugar": 4,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "fried rice": {
+      "calories": 480,
+      "protein": 14,
+      "carbs": 56,
+      "fat": 20,
+      "sodium": 1200,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good energy source"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "High in fat"
+      ]
+    },
+    "fried noodle": {
+      "calories": 520,
+      "protein": 16,
+      "carbs": 60,
+      "fat": 22,
+      "sodium": 1300,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Moderate protein content"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "High in fat"
+      ]
+    },
+    "cold drink": {
+      "calories": 180,
+      "protein": 0,
+      "carbs": 42,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 38,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Refreshing"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "dessert": {
+      "calories": 320,
+      "protein": 4,
+      "carbs": 48,
+      "fat": 14,
+      "sodium": 120,
+      "sugar": 40,
+      "fiber": 1,
+      "allergens": [
+        "Egg",
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories",
+        "High in fat"
+      ]
+    },
+    "vegetarian - appetiser": {
+      "calories": 280,
+      "protein": 10,
+      "carbs": 32,
+      "fat": 12,
+      "sodium": 520,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Vegetarian source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "vegetarian - salad": {
+      "calories": 160,
+      "protein": 6,
+      "carbs": 18,
+      "fat": 7,
+      "sodium": 480,
+      "sugar": 5,
+      "fiber": 4,
+      "allergens": [
+        "Sesame",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "High in vegetables",
+        "Low calorie"
+      ],
+      "healthWarnings": [
+        "Moderate sodium"
+      ]
+    },
+    "vegetarian - soup": {
+      "calories": 140,
+      "protein": 5,
+      "carbs": 14,
+      "fat": 6,
+      "sodium": 620,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Low calorie",
+        "Good vegetable content"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "vegetarian - vegetables": {
+      "calories": 220,
+      "protein": 5,
+      "carbs": 26,
+      "fat": 11,
+      "sodium": 640,
+      "sugar": 4,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in fiber",
+        "High in vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "vegetarian - omelette": {
+      "calories": 300,
+      "protein": 16,
+      "carbs": 8,
+      "fat": 22,
+      "sodium": 420,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Egg",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of choline"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in saturated fat"
+      ]
+    },
+    "vegetarian - tofu": {
+      "calories": 280,
+      "protein": 18,
+      "carbs": 16,
+      "fat": 16,
+      "sodium": 720,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron",
+        "Plant-based protein"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "vegetarian - curry": {
+      "calories": 380,
+      "protein": 12,
+      "carbs": 32,
+      "fat": 22,
+      "sodium": 840,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Coconut",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Moderate fiber",
+        "Good spice content"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat",
+        "High in saturated fat"
+      ]
+    },
+    "vegetarian - rice": {
+      "calories": 320,
+      "protein": 8,
+      "carbs": 64,
+      "fat": 2,
+      "sodium": 480,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [],
+      "healthBenefits": [
+        "Good energy source",
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "High in carbs"
+      ]
+    },
+    "vegetarian - noodles": {
+      "calories": 420,
+      "protein": 12,
+      "carbs": 58,
+      "fat": 14,
+      "sodium": 1200,
+      "sugar": 6,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of carbohydrates",
+        "Contains vegetables",
+        "Source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in saturated fat"
+      ]
+    }
+  }
+}

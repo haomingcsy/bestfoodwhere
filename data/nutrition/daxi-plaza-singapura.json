@@ -1,0 +1,570 @@
+{
+  "brand": "daxi-plaza-singapura",
+  "generatedAt": "2026-02-16T14:27:18.885Z",
+  "items": {
+    "braised beef and beef tendon soup noodle": {
+      "calories": 650,
+      "protein": 38,
+      "carbs": 72,
+      "fat": 18,
+      "sodium": 1850,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of collagen from tendon"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "salt and pepper squid 椒盐鱿鱼酥": {
+      "calories": 380,
+      "protein": 22,
+      "carbs": 28,
+      "fat": 20,
+      "sodium": 920,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Shellfish",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains selenium"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Deep fried"
+      ]
+    },
+    "baked chicken leg scrambled egg rice 烘烤鸡": {
+      "calories": 720,
+      "protein": 42,
+      "carbs": 65,
+      "fat": 28,
+      "sodium": 1450,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in cholesterol"
+      ]
+    },
+    "spicy chilli oil chicken dumpling (5pcs)": {
+      "calories": 380,
+      "protein": 18,
+      "carbs": 42,
+      "fat": 14,
+      "sodium": 1200,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains capsaicin from chilli"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "lychee aiyu jelly 荔枝爱玉冰": {
+      "calories": 180,
+      "protein": 2,
+      "carbs": 45,
+      "fat": 0,
+      "sodium": 85,
+      "sugar": 38,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in fat",
+        "Refreshing drink"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Low in protein"
+      ]
+    },
+    "stir-fried garlic cabbage 蒜香高丽菜": {
+      "calories": 220,
+      "protein": 8,
+      "carbs": 18,
+      "fat": 14,
+      "sodium": 680,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "High in vitamins",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "Moderate in sodium"
+      ]
+    },
+    "chicken dumpling soup (5pcs) 鸡肉饺子汤 (五粒)": {
+      "calories": 320,
+      "protein": 16,
+      "carbs": 38,
+      "fat": 10,
+      "sodium": 1100,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Lower in fat than fried dumplings"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "braised beef scrambled egg rice 卤牛肉滑蛋饭": {
+      "calories": 680,
+      "protein": 40,
+      "carbs": 63,
+      "fat": 26,
+      "sodium": 1550,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in cholesterol"
+      ]
+    },
+    "caramelised yogurt 焦糖乳酪": {
+      "calories": 280,
+      "protein": 8,
+      "carbs": 38,
+      "fat": 10,
+      "sodium": 120,
+      "sugar": 32,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of calcium",
+        "Contains probiotics"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Moderate in saturated fat"
+      ]
+    },
+    "braised beef innards soup noodle 卤牛杂汤面": {
+      "calories": 620,
+      "protein": 36,
+      "carbs": 70,
+      "fat": 16,
+      "sodium": 1900,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron and B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in cholesterol",
+        "High in saturated fat"
+      ]
+    },
+    "combo egg crepe 综合蛋饼": {
+      "calories": 420,
+      "protein": 16,
+      "carbs": 48,
+      "fat": 18,
+      "sodium": 1100,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "dou miao in superior broth 上汤豆苗": {
+      "calories": 180,
+      "protein": 12,
+      "carbs": 12,
+      "fat": 8,
+      "sodium": 750,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "High in vitamins",
+        "Low in calories"
+      ],
+      "healthWarnings": [
+        "Moderate in sodium"
+      ]
+    },
+    "fried chicken cutlet scrambled egg rice": {
+      "calories": 720,
+      "protein": 38,
+      "carbs": 68,
+      "fat": 28,
+      "sodium": 1480,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Egg",
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Deep fried",
+        "High in cholesterol"
+      ]
+    },
+    "shredded chicken cordyceps soup noodle 台": {
+      "calories": 580,
+      "protein": 32,
+      "carbs": 72,
+      "fat": 12,
+      "sodium": 1650,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains cordyceps mushrooms with immune benefits"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "pan-fried snow skin chicken dumpling (5p": {
+      "calories": 360,
+      "protein": 16,
+      "carbs": 44,
+      "fat": 12,
+      "sodium": 1150,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Lower in fat than deep fried"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "poached lettuce with garlic sauce 蒜香玻璃生菜": {
+      "calories": 160,
+      "protein": 10,
+      "carbs": 10,
+      "fat": 8,
+      "sodium": 680,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Low in calories",
+        "High in fiber",
+        "Good source of vitamins"
+      ],
+      "healthWarnings": [
+        "Moderate in sodium"
+      ]
+    },
+    "salt and pepper oyster 椒盐蚵仔": {
+      "calories": 320,
+      "protein": 18,
+      "carbs": 24,
+      "fat": 16,
+      "sodium": 1050,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Shellfish",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Rich in zinc and selenium"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Deep fried"
+      ]
+    },
+    "karubi beef soup noodles  卡露比牛汤面": {
+      "calories": 700,
+      "protein": 40,
+      "carbs": 72,
+      "fat": 24,
+      "sodium": 1800,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "taiwanese braised chicken scrambled egg": {
+      "calories": 700,
+      "protein": 40,
+      "carbs": 65,
+      "fat": 26,
+      "sodium": 1500,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in cholesterol"
+      ]
+    },
+    "pan-fried crispy oyster omelette 蚵仔煎": {
+      "calories": 480,
+      "protein": 20,
+      "carbs": 42,
+      "fat": 22,
+      "sodium": 1250,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Egg",
+        "Gluten",
+        "Shellfish",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains zinc from oysters"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in cholesterol"
+      ]
+    },
+    "salt and pepper chicken 椒盐咸酥鸡": {
+      "calories": 420,
+      "protein": 28,
+      "carbs": 18,
+      "fat": 26,
+      "sodium": 680,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Deep fried"
+      ]
+    },
+    "braised beef soup noodle 卤牛肉汤面": {
+      "calories": 520,
+      "protein": 32,
+      "carbs": 58,
+      "fat": 14,
+      "sodium": 1280,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains collagen from broth"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in carbohydrates"
+      ]
+    },
+    "taiwanese fried sweet potato strip 台湾地瓜条": {
+      "calories": 280,
+      "protein": 3,
+      "carbs": 42,
+      "fat": 10,
+      "sodium": 240,
+      "sugar": 8,
+      "fiber": 3,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains vitamin A",
+        "Good source of carbohydrates for energy"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Deep fried",
+        "High in carbohydrates"
+      ]
+    },
+    "seafood chicken soup noodle 海鲜浓鸡汤汤面": {
+      "calories": 560,
+      "protein": 36,
+      "carbs": 62,
+      "fat": 16,
+      "sodium": 1420,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Shellfish",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3 from seafood"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in carbohydrates",
+        "Contains shellfish"
+      ]
+    },
+    "salt and pepper enoki 椒盐金针菇": {
+      "calories": 240,
+      "protein": 8,
+      "carbs": 14,
+      "fat": 16,
+      "sodium": 520,
+      "sugar": 1,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Low in calories",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Deep fried"
+      ]
+    },
+    "salt and pepper prawn cake 椒盐虾排酥": {
+      "calories": 320,
+      "protein": 18,
+      "carbs": 22,
+      "fat": 18,
+      "sodium": 640,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Shellfish",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "Deep fried",
+        "Contains shellfish"
+      ]
+    }
+  }
+}

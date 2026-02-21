@@ -1,0 +1,2412 @@
+{
+  "brand": "tim-hortons-suntec-city",
+  "generatedAt": "2026-02-21T12:08:48.999Z",
+  "items": {
+    "americano": {
+      "calories": 5,
+      "protein": 0.3,
+      "carbs": 0.1,
+      "fat": 0.1,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "6-pack assorted donut": {
+      "calories": 1680,
+      "protein": 18,
+      "carbs": 204,
+      "fat": 84,
+      "sodium": 840,
+      "sugar": 108,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "maple glaze donut": {
+      "calories": 280,
+      "protein": 3,
+      "carbs": 34,
+      "fat": 14,
+      "sodium": 140,
+      "sugar": 18,
+      "fiber": 0.5,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "$5 breakfast set": {
+      "calories": 520,
+      "protein": 22,
+      "carbs": 62,
+      "fat": 20,
+      "sodium": 980,
+      "sugar": 12,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "iced montreal latte": {
+      "calories": 240,
+      "protein": 9,
+      "carbs": 28,
+      "fat": 9,
+      "sodium": 140,
+      "sugar": 24,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "maple glazed chicken ham & cheese croissant": {
+      "calories": 380,
+      "protein": 18,
+      "carbs": 32,
+      "fat": 22,
+      "sodium": 720,
+      "sugar": 8,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "iced pineapple tea": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 35,
+      "fat": 0,
+      "sodium": 30,
+      "sugar": 32,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low fat"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "tiramisu mousse cake": {
+      "calories": 320,
+      "protein": 6,
+      "carbs": 36,
+      "fat": 16,
+      "sodium": 120,
+      "sugar": 28,
+      "fiber": 0.5,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "30% off classic glaze box (u.p. $17.40)": {
+      "calories": 2100,
+      "protein": 24,
+      "carbs": 252,
+      "fat": 108,
+      "sodium": 1080,
+      "sugar": 132,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories",
+        "High in sodium"
+      ]
+    },
+    "hot montreal latte": {
+      "calories": 280,
+      "protein": 10,
+      "carbs": 32,
+      "fat": 11,
+      "sodium": 160,
+      "sugar": 28,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "classic glaze timbit": {
+      "calories": 70,
+      "protein": 0.8,
+      "carbs": 8.5,
+      "fat": 3.5,
+      "sodium": 35,
+      "sugar": 4.5,
+      "fiber": 0.1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "french vanilla iced capp": {
+      "calories": 260,
+      "protein": 7,
+      "carbs": 38,
+      "fat": 9,
+      "sodium": 130,
+      "sugar": 34,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "grilled cheese": {
+      "calories": 340,
+      "protein": 14,
+      "carbs": 28,
+      "fat": 20,
+      "sodium": 580,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "iced skinny latte": {
+      "calories": 120,
+      "protein": 8,
+      "carbs": 12,
+      "fat": 3,
+      "sodium": 100,
+      "sugar": 10,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Low calorie",
+        "Contains calcium"
+      ],
+      "healthWarnings": []
+    },
+    "cinnamon raisin bagel": {
+      "calories": 310,
+      "protein": 11,
+      "carbs": 56,
+      "fat": 4,
+      "sodium": 580,
+      "sugar": 12,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Low fat"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "daily brew": {
+      "calories": 5,
+      "protein": 0.3,
+      "carbs": 0.1,
+      "fat": 0.1,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "6-pack classic donut": {
+      "calories": 1680,
+      "protein": 18,
+      "carbs": 204,
+      "fat": 84,
+      "sodium": 840,
+      "sugar": 108,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "creme brulee cheese cake": {
+      "calories": 380,
+      "protein": 8,
+      "carbs": 38,
+      "fat": 22,
+      "sodium": 160,
+      "sugar": 32,
+      "fiber": 0.5,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "cinnamon sugar timbit": {
+      "calories": 80,
+      "protein": 1,
+      "carbs": 10,
+      "fat": 4,
+      "sodium": 40,
+      "sugar": 5.5,
+      "fiber": 0.1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "iced victoria cocoa cloud latte": {
+      "calories": 310,
+      "protein": 8,
+      "carbs": 42,
+      "fat": 12,
+      "sodium": 150,
+      "sugar": 38,
+      "fiber": 0.5,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "nutty oat milk latte": {
+      "calories": 240,
+      "protein": 8,
+      "carbs": 28,
+      "fat": 10,
+      "sodium": 180,
+      "sugar": 18,
+      "fiber": 2,
+      "allergens": [
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains oat fiber"
+      ],
+      "healthWarnings": []
+    },
+    "30% off assorted donut box  (u.p. $23.40)": {
+      "calories": 1680,
+      "protein": 16,
+      "carbs": 204,
+      "fat": 84,
+      "sodium": 840,
+      "sugar": 108,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "salted caramel iced capp": {
+      "calories": 350,
+      "protein": 9,
+      "carbs": 48,
+      "fat": 14,
+      "sodium": 220,
+      "sugar": 42,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "iced americano": {
+      "calories": 15,
+      "protein": 1,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "No sugar"
+      ],
+      "healthWarnings": []
+    },
+    "hojicha latte": {
+      "calories": 220,
+      "protein": 7,
+      "carbs": 26,
+      "fat": 9,
+      "sodium": 160,
+      "sugar": 16,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants from hojicha"
+      ],
+      "healthWarnings": []
+    },
+    "wholemeal bagel": {
+      "calories": 280,
+      "protein": 10,
+      "carbs": 52,
+      "fat": 3,
+      "sodium": 480,
+      "sugar": 4,
+      "fiber": 6,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "$8 breakfast set": {
+      "calories": 520,
+      "protein": 18,
+      "carbs": 62,
+      "fat": 20,
+      "sodium": 1040,
+      "sugar": 16,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "iced daily brew": {
+      "calories": 10,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Very low calorie",
+        "No sugar"
+      ],
+      "healthWarnings": []
+    },
+    "classic glaze donut": {
+      "calories": 280,
+      "protein": 3,
+      "carbs": 36,
+      "fat": 14,
+      "sodium": 280,
+      "sugar": 20,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "classic egg croissant": {
+      "calories": 380,
+      "protein": 14,
+      "carbs": 28,
+      "fat": 24,
+      "sodium": 680,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "truffle mushroom": {
+      "calories": 420,
+      "protein": 16,
+      "carbs": 48,
+      "fat": 18,
+      "sodium": 920,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "$10 breakfast set": {
+      "calories": 680,
+      "protein": 24,
+      "carbs": 76,
+      "fat": 28,
+      "sodium": 1280,
+      "sugar": 18,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "chocolate pistachio donut": {
+      "calories": 320,
+      "protein": 4,
+      "carbs": 38,
+      "fat": 16,
+      "sodium": 320,
+      "sugar": 24,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Tree Nut"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "skinny latte": {
+      "calories": 120,
+      "protein": 10,
+      "carbs": 8,
+      "fat": 3,
+      "sodium": 140,
+      "sugar": 6,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Low calorie"
+      ],
+      "healthWarnings": []
+    },
+    "french butter croissant": {
+      "calories": 340,
+      "protein": 8,
+      "carbs": 32,
+      "fat": 20,
+      "sodium": 520,
+      "sugar": 4,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in saturated fat"
+      ]
+    },
+    "french apple tart": {
+      "calories": 380,
+      "protein": 5,
+      "carbs": 48,
+      "fat": 18,
+      "sodium": 280,
+      "sugar": 32,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "1-for-1 classic donut box": {
+      "calories": 1120,
+      "protein": 11,
+      "carbs": 136,
+      "fat": 56,
+      "sodium": 560,
+      "sugar": 72,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "pesto chicken": {
+      "calories": 480,
+      "protein": 28,
+      "carbs": 44,
+      "fat": 20,
+      "sodium": 1040,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "montreal beef pastrami melt": {
+      "calories": 560,
+      "protein": 32,
+      "carbs": 40,
+      "fat": 28,
+      "sodium": 1480,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "sesame seed bagel": {
+      "calories": 310,
+      "protein": 11,
+      "carbs": 54,
+      "fat": 4,
+      "sodium": 520,
+      "sugar": 5,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "belgian mocha": {
+      "calories": 280,
+      "protein": 10,
+      "carbs": 32,
+      "fat": 12,
+      "sodium": 180,
+      "sugar": 28,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "belgian dark chocolate donut": {
+      "calories": 340,
+      "protein": 4,
+      "carbs": 42,
+      "fat": 17,
+      "sodium": 220,
+      "sugar": 26,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "iced tea": {
+      "calories": 90,
+      "protein": 0,
+      "carbs": 23,
+      "fat": 0,
+      "sodium": 40,
+      "sugar": 22,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "belgian mocha iced capp": {
+      "calories": 320,
+      "protein": 10,
+      "carbs": 40,
+      "fat": 13,
+      "sodium": 200,
+      "sugar": 35,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "10-pack assorted timbits": {
+      "calories": 380,
+      "protein": 5,
+      "carbs": 48,
+      "fat": 18,
+      "sodium": 280,
+      "sugar": 24,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "french vanilla": {
+      "calories": 210,
+      "protein": 9,
+      "carbs": 24,
+      "fat": 10,
+      "sodium": 160,
+      "sugar": 20,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "iced belgian mocha": {
+      "calories": 270,
+      "protein": 10,
+      "carbs": 30,
+      "fat": 11,
+      "sodium": 170,
+      "sugar": 26,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "canadiano": {
+      "calories": 140,
+      "protein": 8,
+      "carbs": 12,
+      "fat": 6,
+      "sodium": 120,
+      "sugar": 8,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Low in sugar",
+        "Source of protein"
+      ],
+      "healthWarnings": []
+    },
+    "hazelnut praline chocolate cake": {
+      "calories": 420,
+      "protein": 6,
+      "carbs": 48,
+      "fat": 22,
+      "sodium": 280,
+      "sugar": 35,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Tree Nut"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "boston cream donut": {
+      "calories": 350,
+      "protein": 5,
+      "carbs": 44,
+      "fat": 17,
+      "sodium": 240,
+      "sugar": 28,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "truffle egg mayo": {
+      "calories": 480,
+      "protein": 18,
+      "carbs": 38,
+      "fat": 28,
+      "sodium": 820,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Dairy",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "truffle egg mayo grilled sandwich + americano (s) bundle": {
+      "calories": 530,
+      "protein": 20,
+      "carbs": 42,
+      "fat": 29,
+      "sodium": 900,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Dairy",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "iced french vanilla": {
+      "calories": 200,
+      "protein": 9,
+      "carbs": 22,
+      "fat": 9,
+      "sodium": 150,
+      "sugar": 18,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "classic egg mayo & cheese bagel": {
+      "calories": 420,
+      "protein": 16,
+      "carbs": 44,
+      "fat": 19,
+      "sodium": 760,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "muffin - chocolate muffin": {
+      "calories": 380,
+      "protein": 6,
+      "carbs": 48,
+      "fat": 18,
+      "sodium": 260,
+      "sugar": 28,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "gingerbread cream latte": {
+      "calories": 310,
+      "protein": 10,
+      "carbs": 38,
+      "fat": 13,
+      "sodium": 190,
+      "sugar": 32,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "iced lemonade tea": {
+      "calories": 110,
+      "protein": 0,
+      "carbs": 28,
+      "fat": 0,
+      "sodium": 50,
+      "sugar": 26,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "hojicha iced capp": {
+      "calories": 280,
+      "protein": 9,
+      "carbs": 36,
+      "fat": 11,
+      "sodium": 180,
+      "sugar": 30,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "strawberry pistachio donut": {
+      "calories": 330,
+      "protein": 5,
+      "carbs": 40,
+      "fat": 16,
+      "sodium": 210,
+      "sugar": 25,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Tree Nut"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "iced gingerbread cream latte": {
+      "calories": 290,
+      "protein": 10,
+      "carbs": 36,
+      "fat": 12,
+      "sodium": 180,
+      "sugar": 30,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "iced skinny maple cinnamon latte": {
+      "calories": 120,
+      "protein": 8,
+      "carbs": 12,
+      "fat": 2,
+      "sodium": 150,
+      "sugar": 10,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Low fat",
+        "High in protein"
+      ],
+      "healthWarnings": []
+    },
+    "muffin - lemon muffin": {
+      "calories": 380,
+      "protein": 4,
+      "carbs": 52,
+      "fat": 17,
+      "sodium": 420,
+      "sugar": 28,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "maple chicken ham": {
+      "calories": 420,
+      "protein": 28,
+      "carbs": 35,
+      "fat": 18,
+      "sodium": 890,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "summer berry iced capp": {
+      "calories": 280,
+      "protein": 6,
+      "carbs": 42,
+      "fat": 8,
+      "sodium": 120,
+      "sugar": 38,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "maple chicken ham & egg bagel": {
+      "calories": 480,
+      "protein": 24,
+      "carbs": 48,
+      "fat": 18,
+      "sodium": 950,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "hazelnut tiramisu donut": {
+      "calories": 320,
+      "protein": 4,
+      "carbs": 38,
+      "fat": 16,
+      "sodium": 280,
+      "sugar": 24,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Tree Nut"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "strawberry lychee mousse cake": {
+      "calories": 340,
+      "protein": 4,
+      "carbs": 42,
+      "fat": 16,
+      "sodium": 210,
+      "sugar": 32,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "iced peach tea": {
+      "calories": 90,
+      "protein": 0,
+      "carbs": 22,
+      "fat": 0,
+      "sodium": 30,
+      "sugar": 20,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "salted caramel latte": {
+      "calories": 240,
+      "protein": 9,
+      "carbs": 28,
+      "fat": 8,
+      "sodium": 280,
+      "sugar": 24,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "grilled cheese & caramelised onion melt + 8oz hot latte": {
+      "calories": 580,
+      "protein": 22,
+      "carbs": 48,
+      "fat": 28,
+      "sodium": 1020,
+      "sugar": 18,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "iced raspberry": {
+      "calories": 85,
+      "protein": 0,
+      "carbs": 21,
+      "fat": 0,
+      "sodium": 25,
+      "sugar": 19,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "gingerbreadman winterman": {
+      "calories": 350,
+      "protein": 5,
+      "carbs": 44,
+      "fat": 16,
+      "sodium": 380,
+      "sugar": 26,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Tree Nut"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "maple chicken ham & cheese bagel": {
+      "calories": 510,
+      "protein": 26,
+      "carbs": 48,
+      "fat": 20,
+      "sodium": 1050,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "truffle mushroom chicken": {
+      "calories": 450,
+      "protein": 32,
+      "carbs": 36,
+      "fat": 20,
+      "sodium": 920,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "matcha crumble donut": {
+      "calories": 310,
+      "protein": 3,
+      "carbs": 36,
+      "fat": 16,
+      "sodium": 260,
+      "sugar": 22,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "iced salted caramel latte": {
+      "calories": 230,
+      "protein": 9,
+      "carbs": 26,
+      "fat": 8,
+      "sodium": 320,
+      "sugar": 23,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "belgian chocolate iced capp": {
+      "calories": 300,
+      "protein": 6,
+      "carbs": 44,
+      "fat": 9,
+      "sodium": 140,
+      "sugar": 40,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "yuzu white peach cake": {
+      "calories": 330,
+      "protein": 3,
+      "carbs": 44,
+      "fat": 15,
+      "sodium": 190,
+      "sugar": 34,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "black pepper chicken + sml pineapple iced tea": {
+      "calories": 520,
+      "protein": 34,
+      "carbs": 48,
+      "fat": 16,
+      "sodium": 980,
+      "sugar": 22,
+      "fiber": 2,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in sugar"
+      ]
+    },
+    "iced nutty oat milk latte": {
+      "calories": 140,
+      "protein": 3,
+      "carbs": 16,
+      "fat": 5,
+      "sodium": 140,
+      "sugar": 12,
+      "fiber": 2,
+      "allergens": [
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Low fat",
+        "Plant-based"
+      ],
+      "healthWarnings": []
+    },
+    "matcha latte": {
+      "calories": 240,
+      "protein": 8,
+      "carbs": 28,
+      "fat": 9,
+      "sodium": 150,
+      "sugar": 24,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of antioxidants",
+        "Contains L-theanine"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "cappuccino": {
+      "calories": 180,
+      "protein": 9,
+      "carbs": 12,
+      "fat": 8,
+      "sodium": 140,
+      "sugar": 10,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains calcium"
+      ],
+      "healthWarnings": []
+    },
+    "skinny maple cinnamon latte": {
+      "calories": 150,
+      "protein": 8,
+      "carbs": 16,
+      "fat": 4,
+      "sodium": 130,
+      "sugar": 12,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Lower calorie option",
+        "Lower fat content"
+      ],
+      "healthWarnings": []
+    },
+    "gingerbreadman snowman": {
+      "calories": 320,
+      "protein": 4,
+      "carbs": 52,
+      "fat": 10,
+      "sodium": 280,
+      "sugar": 36,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "toasted jalapeno cheese bagel": {
+      "calories": 420,
+      "protein": 18,
+      "carbs": 48,
+      "fat": 16,
+      "sodium": 780,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "chocolate biscoff donut": {
+      "calories": 380,
+      "protein": 5,
+      "carbs": 48,
+      "fat": 18,
+      "sodium": 240,
+      "sugar": 32,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg",
+        "Tree Nut"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "matcha iced capp": {
+      "calories": 280,
+      "protein": 7,
+      "carbs": 42,
+      "fat": 8,
+      "sodium": 160,
+      "sugar": 38,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "smoky bbq chicken": {
+      "calories": 480,
+      "protein": 28,
+      "carbs": 42,
+      "fat": 22,
+      "sodium": 950,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "wild strawberry cake": {
+      "calories": 340,
+      "protein": 4,
+      "carbs": 48,
+      "fat": 14,
+      "sodium": 220,
+      "sugar": 38,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains fruit"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "maple sea salt donut": {
+      "calories": 360,
+      "protein": 4,
+      "carbs": 46,
+      "fat": 17,
+      "sodium": 320,
+      "sugar": 30,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "original iced capp": {
+      "calories": 260,
+      "protein": 7,
+      "carbs": 38,
+      "fat": 7,
+      "sodium": 150,
+      "sugar": 35,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "paradiso coconut parfait": {
+      "calories": 380,
+      "protein": 6,
+      "carbs": 52,
+      "fat": 16,
+      "sodium": 180,
+      "sugar": 42,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Contains coconut"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in fat"
+      ]
+    },
+    "iced matcha latte": {
+      "calories": 220,
+      "protein": 8,
+      "carbs": 26,
+      "fat": 8,
+      "sodium": 140,
+      "sugar": 22,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of antioxidants",
+        "Contains L-theanine"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "chicken pie": {
+      "calories": 440,
+      "protein": 18,
+      "carbs": 44,
+      "fat": 20,
+      "sodium": 820,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "oat milk original iced capp": {
+      "calories": 240,
+      "protein": 4,
+      "carbs": 40,
+      "fat": 6,
+      "sodium": 140,
+      "sugar": 34,
+      "fiber": 2,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Plant-based option",
+        "Contains fiber"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "black pepper chicken melt": {
+      "calories": 500,
+      "protein": 30,
+      "carbs": 40,
+      "fat": 24,
+      "sodium": 1020,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat",
+        "High in calories"
+      ]
+    },
+    "iced cappuccino": {
+      "calories": 160,
+      "protein": 9,
+      "carbs": 10,
+      "fat": 7,
+      "sodium": 130,
+      "sugar": 8,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains calcium"
+      ],
+      "healthWarnings": []
+    },
+    "café latte": {
+      "calories": 210,
+      "protein": 9,
+      "carbs": 18,
+      "fat": 9,
+      "sodium": 140,
+      "sugar": 14,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains calcium"
+      ],
+      "healthWarnings": []
+    },
+    "chai latte": {
+      "calories": 220,
+      "protein": 8,
+      "carbs": 26,
+      "fat": 8,
+      "sodium": 160,
+      "sugar": 22,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of antioxidants",
+        "Contains spices"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "chocolate matcha donut": {
+      "calories": 390,
+      "protein": 5,
+      "carbs": 50,
+      "fat": 19,
+      "sodium": 260,
+      "sugar": 34,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Source of antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "maple macchiato iced capp": {
+      "calories": 280,
+      "protein": 9,
+      "carbs": 38,
+      "fat": 9,
+      "sodium": 180,
+      "sugar": 32,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "mango yoghurt mousse cake": {
+      "calories": 310,
+      "protein": 6,
+      "carbs": 42,
+      "fat": 13,
+      "sodium": 120,
+      "sugar": 35,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Source of probiotics"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "iced chai latte": {
+      "calories": 240,
+      "protein": 8,
+      "carbs": 32,
+      "fat": 8,
+      "sodium": 170,
+      "sugar": 28,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of antioxidants",
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "iced café latte": {
+      "calories": 180,
+      "protein": 9,
+      "carbs": 14,
+      "fat": 8,
+      "sodium": 160,
+      "sugar": 12,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of calcium",
+        "Source of caffeine"
+      ],
+      "healthWarnings": [
+        "High in saturated fat"
+      ]
+    },
+    "maple french vanilla iced capp": {
+      "calories": 290,
+      "protein": 9,
+      "carbs": 40,
+      "fat": 9,
+      "sodium": 185,
+      "sugar": 34,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "chocolate candy cane donut": {
+      "calories": 320,
+      "protein": 4,
+      "carbs": 42,
+      "fat": 15,
+      "sodium": 210,
+      "sugar": 28,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "belgian chocolate": {
+      "calories": 280,
+      "protein": 9,
+      "carbs": 35,
+      "fat": 10,
+      "sodium": 175,
+      "sugar": 30,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of calcium",
+        "Source of antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "flat white": {
+      "calories": 200,
+      "protein": 10,
+      "carbs": 9,
+      "fat": 10,
+      "sodium": 170,
+      "sugar": 7,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of calcium",
+        "Source of caffeine"
+      ],
+      "healthWarnings": [
+        "High in saturated fat"
+      ]
+    },
+    "christmas box": {
+      "calories": 340,
+      "protein": 5,
+      "carbs": 45,
+      "fat": 16,
+      "sodium": 220,
+      "sugar": 30,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Egg",
+        "Gluten",
+        "Tree Nut"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "pistachio iced capp": {
+      "calories": 300,
+      "protein": 9,
+      "carbs": 39,
+      "fat": 11,
+      "sodium": 190,
+      "sugar": 33,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "iced flat white": {
+      "calories": 190,
+      "protein": 10,
+      "carbs": 8,
+      "fat": 10,
+      "sodium": 165,
+      "sugar": 6,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of calcium",
+        "Source of caffeine"
+      ],
+      "healthWarnings": [
+        "High in saturated fat"
+      ]
+    },
+    "iced belgian chocolate": {
+      "calories": 270,
+      "protein": 9,
+      "carbs": 33,
+      "fat": 10,
+      "sodium": 170,
+      "sugar": 28,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of calcium",
+        "Source of antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "gingerbread iced capp": {
+      "calories": 285,
+      "protein": 9,
+      "carbs": 37,
+      "fat": 9,
+      "sodium": 180,
+      "sugar": 31,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "maple cinnamon latte": {
+      "calories": 240,
+      "protein": 9,
+      "carbs": 30,
+      "fat": 8,
+      "sodium": 175,
+      "sugar": 26,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of calcium",
+        "Source of caffeine"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "marakesh mint tea bag": {
+      "calories": 5,
+      "protein": 0,
+      "carbs": 1,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Source of antioxidants",
+        "Low calorie"
+      ],
+      "healthWarnings": []
+    },
+    "earl grey lavender tea bag": {
+      "calories": 5,
+      "protein": 0,
+      "carbs": 1,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Source of antioxidants",
+        "Low calorie"
+      ],
+      "healthWarnings": []
+    },
+    "iced maple cinnamon latte": {
+      "calories": 235,
+      "protein": 9,
+      "carbs": 29,
+      "fat": 8,
+      "sodium": 170,
+      "sugar": 25,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of calcium",
+        "Source of caffeine"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "pecan caramel latte": {
+      "calories": 280,
+      "protein": 9,
+      "carbs": 33,
+      "fat": 11,
+      "sodium": 180,
+      "sugar": 29,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Source of calcium",
+        "Source of caffeine"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "lemon ginger mint tea bag": {
+      "calories": 5,
+      "protein": 0,
+      "carbs": 1,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Source of antioxidants",
+        "Low calorie"
+      ],
+      "healthWarnings": []
+    },
+    "british breakfast tea bag": {
+      "calories": 5,
+      "protein": 0,
+      "carbs": 1,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Source of antioxidants",
+        "Low calorie"
+      ],
+      "healthWarnings": []
+    },
+    "chamomile tea bag": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains antioxidants",
+        "May promote relaxation"
+      ],
+      "healthWarnings": []
+    },
+    "mineral water": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Hydrating",
+        "Contains minerals"
+      ],
+      "healthWarnings": []
+    },
+    "sparkling water": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Hydrating",
+        "Zero sugar"
+      ],
+      "healthWarnings": []
+    },
+    "iced hojicha latte": {
+      "calories": 180,
+      "protein": 6,
+      "carbs": 24,
+      "fat": 6,
+      "sodium": 95,
+      "sugar": 18,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Good source of calcium"
+      ],
+      "healthWarnings": [
+        "Contains added sugar",
+        "Moderate caffeine content"
+      ]
+    },
+    "earl grey lavender latte": {
+      "calories": 190,
+      "protein": 6,
+      "carbs": 26,
+      "fat": 6,
+      "sodium": 100,
+      "sugar": 20,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Good source of calcium"
+      ],
+      "healthWarnings": [
+        "Contains added sugar",
+        "Moderate to high caffeine content"
+      ]
+    },
+    "maple black tea latte": {
+      "calories": 220,
+      "protein": 6,
+      "carbs": 32,
+      "fat": 6,
+      "sodium": 105,
+      "sugar": 26,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Good source of calcium"
+      ],
+      "healthWarnings": [
+        "High in added sugar",
+        "Moderate to high caffeine content"
+      ]
+    },
+    "straits chai tea bag": {
+      "calories": 5,
+      "protein": 0,
+      "carbs": 1,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains spice antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "iced pomegranate tea": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 35,
+      "fat": 0,
+      "sodium": 45,
+      "sugar": 32,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Vitamin C source"
+      ],
+      "healthWarnings": [
+        "High in added sugar",
+        "No protein content"
+      ]
+    }
+  }
+}

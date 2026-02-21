@@ -1,0 +1,547 @@
+{
+  "brand": "starbucks-hougang-mall",
+  "generatedAt": "2026-02-21T11:49:34.520Z",
+  "items": {
+    "iced vienna creamy latte": {
+      "calories": 320,
+      "protein": 10,
+      "carbs": 38,
+      "fat": 12,
+      "sodium": 150,
+      "sugar": 36,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of calcium",
+        "Contains caffeine"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "iced low-fat matcha latte (less sweet)": {
+      "calories": 140,
+      "protein": 8,
+      "carbs": 16,
+      "fat": 2,
+      "sodium": 140,
+      "sugar": 12,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Low in fat",
+        "Source of antioxidants",
+        "Lower sugar option"
+      ],
+      "healthWarnings": []
+    },
+    "double strength low-fat latte": {
+      "calories": 120,
+      "protein": 9,
+      "carbs": 9,
+      "fat": 2,
+      "sodium": 160,
+      "sugar": 7,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Low in fat",
+        "Higher caffeine",
+        "Lower sugar"
+      ],
+      "healthWarnings": []
+    },
+    "strawberry yuzu kor-frucha™": {
+      "calories": 180,
+      "protein": 0,
+      "carbs": 45,
+      "fat": 0,
+      "sodium": 25,
+      "sugar": 40,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains vitamin C",
+        "Refreshing fruit beverage"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "No protein"
+      ]
+    },
+    "iced americano": {
+      "calories": 15,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains caffeine",
+        "Sugar-free"
+      ],
+      "healthWarnings": []
+    },
+    "vanilla latte": {
+      "calories": 200,
+      "protein": 10,
+      "carbs": 24,
+      "fat": 7,
+      "sodium": 150,
+      "sugar": 22,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of calcium",
+        "Source of protein"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains saturated fat"
+      ]
+    },
+    "cappuccino": {
+      "calories": 140,
+      "protein": 10,
+      "carbs": 8,
+      "fat": 5,
+      "sodium": 140,
+      "sugar": 6,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Source of calcium"
+      ],
+      "healthWarnings": []
+    },
+    "salted caramel oatmilk iced shaken latte (less sweet)": {
+      "calories": 200,
+      "protein": 2,
+      "carbs": 28,
+      "fat": 8,
+      "sodium": 280,
+      "sugar": 18,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Dairy-free option",
+        "Lower sugar variant"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate sugar content"
+      ]
+    },
+    "espresso": {
+      "calories": 10,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Very low calorie",
+        "High caffeine",
+        "No added ingredients"
+      ],
+      "healthWarnings": []
+    },
+    "vienna creamy frappuccino®": {
+      "calories": 340,
+      "protein": 9,
+      "carbs": 50,
+      "fat": 12,
+      "sodium": 180,
+      "sugar": 48,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat",
+        "High calories"
+      ]
+    },
+    "oatmilk latte": {
+      "calories": 160,
+      "protein": 3,
+      "carbs": 22,
+      "fat": 6,
+      "sodium": 130,
+      "sugar": 16,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Dairy-free option",
+        "Plant-based milk"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "mango passion fruit frappuccino®": {
+      "calories": 300,
+      "protein": 0,
+      "carbs": 72,
+      "fat": 0,
+      "sodium": 40,
+      "sugar": 68,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains vitamin C",
+        "Refreshing fruit blend"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High calories",
+        "No protein"
+      ]
+    },
+    "iced vanilla latte": {
+      "calories": 200,
+      "protein": 10,
+      "carbs": 24,
+      "fat": 7,
+      "sodium": 150,
+      "sugar": 22,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of calcium",
+        "Source of protein"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains saturated fat"
+      ]
+    },
+    "raspberry black currant frappuccino®": {
+      "calories": 310,
+      "protein": 0,
+      "carbs": 74,
+      "fat": 0,
+      "sodium": 35,
+      "sugar": 70,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Vitamin C source"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High calories",
+        "No protein"
+      ]
+    },
+    "low-fat vanilla latte (less sweet)": {
+      "calories": 140,
+      "protein": 10,
+      "carbs": 14,
+      "fat": 2,
+      "sodium": 150,
+      "sugar": 11,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Low in fat",
+        "Good source of protein",
+        "Lower sugar option"
+      ],
+      "healthWarnings": []
+    },
+    "iced strawberry crunch matcha latte with jelly": {
+      "calories": 240,
+      "protein": 8,
+      "carbs": 38,
+      "fat": 4,
+      "sodium": 160,
+      "sugar": 32,
+      "fiber": 1,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of antioxidants",
+        "Contains calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Moderate calories"
+      ]
+    },
+    "caffè latte": {
+      "calories": 180,
+      "protein": 10,
+      "carbs": 14,
+      "fat": 7,
+      "sodium": 150,
+      "sugar": 12,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Source of calcium"
+      ],
+      "healthWarnings": []
+    },
+    "caffè americano": {
+      "calories": 15,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Very low calorie",
+        "High in caffeine",
+        "No added sugars"
+      ],
+      "healthWarnings": []
+    },
+    "vienna creamy latte": {
+      "calories": 300,
+      "protein": 10,
+      "carbs": 35,
+      "fat": 11,
+      "sodium": 140,
+      "sugar": 34,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of calcium",
+        "Contains caffeine"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "low-fat cappuccino": {
+      "calories": 110,
+      "protein": 10,
+      "carbs": 7,
+      "fat": 1,
+      "sodium": 140,
+      "sugar": 5,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Low in fat",
+        "Good source of protein",
+        "Low sugar"
+      ],
+      "healthWarnings": []
+    },
+    "double strength hazelnut latte (less sweet)": {
+      "calories": 280,
+      "protein": 10,
+      "carbs": 28,
+      "fat": 12,
+      "sodium": 150,
+      "sugar": 18,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Tree Nut"
+      ],
+      "healthBenefits": [
+        "Source of calcium",
+        "Contains caffeine for alertness"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "white chocolate mocha": {
+      "calories": 360,
+      "protein": 11,
+      "carbs": 42,
+      "fat": 15,
+      "sodium": 160,
+      "sugar": 38,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "strawberry crunch cream frappuccino® with jelly": {
+      "calories": 380,
+      "protein": 8,
+      "carbs": 56,
+      "fat": 14,
+      "sodium": 180,
+      "sugar": 48,
+      "fiber": 1,
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains some fruit"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in calories",
+        "High in saturated fat"
+      ]
+    },
+    "iced low-fat vanilla latte (less sweet)": {
+      "calories": 140,
+      "protein": 10,
+      "carbs": 16,
+      "fat": 3,
+      "sodium": 140,
+      "sugar": 10,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Low fat",
+        "Good source of protein",
+        "Lower sugar option"
+      ],
+      "healthWarnings": []
+    },
+    "double strength oatmilk latte": {
+      "calories": 240,
+      "protein": 8,
+      "carbs": 26,
+      "fat": 10,
+      "sodium": 190,
+      "sugar": 16,
+      "fiber": 1,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Dairy-free alternative",
+        "Contains fiber",
+        "Good source of caffeine"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Moderate saturated fat"
+      ]
+    },
+    "low-fat caffè latte": {
+      "calories": 120,
+      "protein": 10,
+      "carbs": 12,
+      "fat": 2,
+      "sodium": 130,
+      "sugar": 8,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Low fat",
+        "Good source of protein",
+        "Low sugar"
+      ],
+      "healthWarnings": []
+    },
+    "double strength caffé latte": {
+      "calories": 200,
+      "protein": 11,
+      "carbs": 14,
+      "fat": 8,
+      "sodium": 150,
+      "sugar": 10,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "Moderate saturated fat"
+      ]
+    },
+    "iced low-fat caramel macchiato (less sweet)": {
+      "calories": 160,
+      "protein": 10,
+      "carbs": 18,
+      "fat": 3,
+      "sodium": 145,
+      "sugar": 12,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Low fat",
+        "Good source of protein",
+        "Reduced sugar option"
+      ],
+      "healthWarnings": []
+    },
+    "flat white": {
+      "calories": 180,
+      "protein": 11,
+      "carbs": 10,
+      "fat": 8,
+      "sodium": 140,
+      "sugar": 7,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Source of calcium",
+        "Low sugar"
+      ],
+      "healthWarnings": [
+        "Moderate saturated fat"
+      ]
+    }
+  }
+}

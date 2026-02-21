@@ -1,0 +1,307 @@
+{
+  "brand": "lim-chee-guan-jewel-changi-store",
+  "generatedAt": "2026-02-21T10:55:50.147Z",
+  "items": {
+    "gift box": {
+      "calories": 450,
+      "protein": 18,
+      "carbs": 35,
+      "fat": 28,
+      "sodium": 1200,
+      "sugar": 8,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Sesame",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "e-voucher": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": []
+    },
+    "signature sliced pork": {
+      "calories": 280,
+      "protein": 28,
+      "carbs": 8,
+      "fat": 15,
+      "sodium": 850,
+      "sugar": 6,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "crispy pork floss": {
+      "calories": 320,
+      "protein": 22,
+      "carbs": 12,
+      "fat": 22,
+      "sodium": 680,
+      "sugar": 3,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in sodium"
+      ]
+    },
+    "prawn roll": {
+      "calories": 180,
+      "protein": 12,
+      "carbs": 18,
+      "fat": 7,
+      "sodium": 520,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Shellfish",
+        "Gluten",
+        "Sesame",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "Contains shellfish"
+      ]
+    },
+    "bbq chilli pork": {
+      "calories": 260,
+      "protein": 26,
+      "carbs": 6,
+      "fat": 14,
+      "sodium": 920,
+      "sugar": 4,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "pork floss": {
+      "calories": 310,
+      "protein": 20,
+      "carbs": 14,
+      "fat": 21,
+      "sodium": 700,
+      "sugar": 4,
+      "fiber": 0,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in sodium"
+      ]
+    },
+    "chicken floss": {
+      "calories": 290,
+      "protein": 24,
+      "carbs": 12,
+      "fat": 17,
+      "sodium": 620,
+      "sugar": 3,
+      "fiber": 0,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Lower in fat than pork floss"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "bbq bacon": {
+      "calories": 340,
+      "protein": 20,
+      "carbs": 4,
+      "fat": 28,
+      "sodium": 1100,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein"
+      ],
+      "healthWarnings": [
+        "Very high in fat",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "crispy seaweed floss": {
+      "calories": 270,
+      "protein": 18,
+      "carbs": 16,
+      "fat": 16,
+      "sodium": 780,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Source of iodine",
+        "Contains fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "gold coin pork": {
+      "calories": 240,
+      "protein": 18,
+      "carbs": 14,
+      "fat": 13,
+      "sodium": 650,
+      "sugar": 8,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Source of protein"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in sodium"
+      ]
+    },
+    "bbq chicken": {
+      "calories": 220,
+      "protein": 28,
+      "carbs": 4,
+      "fat": 10,
+      "sodium": 750,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Lean meat"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "bbq beef": {
+      "calories": 280,
+      "protein": 30,
+      "carbs": 5,
+      "fat": 15,
+      "sodium": 880,
+      "sugar": 3,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Source of iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "bbq prawn": {
+      "calories": 160,
+      "protein": 22,
+      "carbs": 3,
+      "fat": 7,
+      "sodium": 680,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Shellfish",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Low in fat",
+        "Source of selenium"
+      ],
+      "healthWarnings": [
+        "Contains shellfish",
+        "High in sodium"
+      ]
+    },
+    "bbq fish": {
+      "calories": 200,
+      "protein": 26,
+      "carbs": 3,
+      "fat": 10,
+      "sodium": 720,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Source of omega-3"
+      ],
+      "healthWarnings": [
+        "Contains fish",
+        "High in sodium"
+      ]
+    }
+  }
+}

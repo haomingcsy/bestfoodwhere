@@ -1,0 +1,950 @@
+{
+  "brand": "wok-hey-plaza-singapura",
+  "generatedAt": "2026-02-21T12:20:32.685Z",
+  "items": {
+    "fresh udon with premium braised abalone": {
+      "calories": 520,
+      "protein": 28,
+      "carbs": 62,
+      "fat": 14,
+      "sodium": 1280,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Shellfish",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains iodine from abalone"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in fat"
+      ]
+    },
+    "shanghai fried rice with premium braised abalone": {
+      "calories": 540,
+      "protein": 26,
+      "carbs": 68,
+      "fat": 16,
+      "sodium": 1350,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Shellfish",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains iodine from abalone"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in carbs"
+      ]
+    },
+    "egg fried rice with premium braised abalone": {
+      "calories": 520,
+      "protein": 25,
+      "carbs": 66,
+      "fat": 15,
+      "sodium": 1320,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Shellfish",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains iodine from abalone"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in carbs"
+      ]
+    },
+    "fresh ramen with premium braised abalone": {
+      "calories": 530,
+      "protein": 29,
+      "carbs": 64,
+      "fat": 14,
+      "sodium": 1310,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Shellfish",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains iodine from abalone"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in fat"
+      ]
+    },
+    "abalone black pepper fried rice max": {
+      "calories": 560,
+      "protein": 26,
+      "carbs": 70,
+      "fat": 17,
+      "sodium": 1380,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Shellfish",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains iodine from abalone",
+        "Fruit content"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in carbs",
+        "Moderate sugar content"
+      ]
+    },
+    "egg fried rice he with grilled chicken": {
+      "calories": 380,
+      "protein": 24,
+      "carbs": 48,
+      "fat": 9,
+      "sodium": 980,
+      "sugar": 2,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Higher fiber from brown rice",
+        "Lower sodium option"
+      ],
+      "healthWarnings": [
+        "Moderate sodium"
+      ]
+    },
+    "fresh ramen with wild-caught crab meat": {
+      "calories": 450,
+      "protein": 26,
+      "carbs": 58,
+      "fat": 12,
+      "sodium": 1200,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Shellfish",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3 from crab"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "fresh udon with wild-caught crab meat": {
+      "calories": 460,
+      "protein": 27,
+      "carbs": 60,
+      "fat": 12,
+      "sodium": 1220,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Shellfish",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3 from crab"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "egg fried rice with wild-caught crab meat": {
+      "calories": 430,
+      "protein": 24,
+      "carbs": 56,
+      "fat": 13,
+      "sodium": 1150,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Shellfish",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3 from crab"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "shanghai fried rice with wild-caught crab meat": {
+      "calories": 450,
+      "protein": 25,
+      "carbs": 59,
+      "fat": 14,
+      "sodium": 1180,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Shellfish",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3 from crab"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "egg fried rice he with braised beef": {
+      "calories": 420,
+      "protein": 28,
+      "carbs": 48,
+      "fat": 11,
+      "sodium": 1050,
+      "sugar": 2,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Higher fiber from brown rice",
+        "Lower sodium option"
+      ],
+      "healthWarnings": [
+        "Moderate sodium"
+      ]
+    },
+    "black pepper fried rice with wild-caught crab meat": {
+      "calories": 460,
+      "protein": 25,
+      "carbs": 58,
+      "fat": 15,
+      "sodium": 1220,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Shellfish",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3 from crab"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate fat content"
+      ]
+    },
+    "black pepper fried rice with grilled chicken": {
+      "calories": 400,
+      "protein": 22,
+      "carbs": 52,
+      "fat": 12,
+      "sodium": 1100,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "egg fried rice he with seasoned prawns": {
+      "calories": 410,
+      "protein": 26,
+      "carbs": 48,
+      "fat": 10,
+      "sodium": 1080,
+      "sugar": 2,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Shellfish",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Higher fiber from brown rice",
+        "Contains omega-3 from prawns"
+      ],
+      "healthWarnings": [
+        "Moderate sodium"
+      ]
+    },
+    "fresh ramen with grilled chicken": {
+      "calories": 400,
+      "protein": 22,
+      "carbs": 56,
+      "fat": 10,
+      "sodium": 1080,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "fresh udon with grilled chicken": {
+      "calories": 410,
+      "protein": 23,
+      "carbs": 58,
+      "fat": 10,
+      "sodium": 1100,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "shanghai fried rice with grilled chicken": {
+      "calories": 400,
+      "protein": 21,
+      "carbs": 54,
+      "fat": 12,
+      "sodium": 1050,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "egg fried rice with grilled chicken": {
+      "calories": 380,
+      "protein": 20,
+      "carbs": 52,
+      "fat": 11,
+      "sodium": 1020,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "fresh udon with braised beef": {
+      "calories": 430,
+      "protein": 26,
+      "carbs": 58,
+      "fat": 12,
+      "sodium": 1150,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains iron from beef"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "egg fried rice with braised beef": {
+      "calories": 410,
+      "protein": 25,
+      "carbs": 54,
+      "fat": 12,
+      "sodium": 1100,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains iron from beef"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "fresh ramen with braised beef": {
+      "calories": 520,
+      "protein": 28,
+      "carbs": 62,
+      "fat": 14,
+      "sodium": 1240,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in carbs"
+      ]
+    },
+    "shanghai fried rice with braised beef": {
+      "calories": 580,
+      "protein": 26,
+      "carbs": 68,
+      "fat": 18,
+      "sodium": 1380,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "High in fat"
+      ]
+    },
+    "black pepper fried rice with braised beef": {
+      "calories": 610,
+      "protein": 26,
+      "carbs": 70,
+      "fat": 20,
+      "sodium": 1420,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "High in fat",
+        "High in black pepper"
+      ]
+    },
+    "shanghai fried rice he with grilled chicken": {
+      "calories": 510,
+      "protein": 28,
+      "carbs": 62,
+      "fat": 12,
+      "sodium": 1180,
+      "sugar": 2,
+      "fiber": 4,
+      "allergens": [
+        "Soy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Higher fiber from brown rice"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "shanghai fried rice with seasoned prawns": {
+      "calories": 560,
+      "protein": 22,
+      "carbs": 68,
+      "fat": 16,
+      "sodium": 1360,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in carbs"
+      ]
+    },
+    "fresh udon with seasoned prawns": {
+      "calories": 540,
+      "protein": 24,
+      "carbs": 64,
+      "fat": 14,
+      "sodium": 1280,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in carbs"
+      ]
+    },
+    "fresh ramen with seasoned prawns": {
+      "calories": 540,
+      "protein": 24,
+      "carbs": 62,
+      "fat": 14,
+      "sodium": 1260,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "black pepper fried rice with seasoned prawns": {
+      "calories": 590,
+      "protein": 22,
+      "carbs": 70,
+      "fat": 18,
+      "sodium": 1400,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "High in fat"
+      ]
+    },
+    "shanghai fried rice he with braised beef": {
+      "calories": 530,
+      "protein": 26,
+      "carbs": 64,
+      "fat": 14,
+      "sodium": 1320,
+      "sugar": 2,
+      "fiber": 4,
+      "allergens": [
+        "Soy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Higher fiber from brown rice"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "egg fried rice with seasoned prawns": {
+      "calories": 520,
+      "protein": 20,
+      "carbs": 66,
+      "fat": 14,
+      "sodium": 1240,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in carbs"
+      ]
+    },
+    "fresh udon": {
+      "calories": 380,
+      "protein": 12,
+      "carbs": 60,
+      "fat": 8,
+      "sodium": 980,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in carbs"
+      ]
+    },
+    "shanghai fried rice": {
+      "calories": 420,
+      "protein": 10,
+      "carbs": 62,
+      "fat": 12,
+      "sodium": 1080,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium",
+        "High in carbs",
+        "Low in protein"
+      ]
+    },
+    "black pepper fried rice with premium braised abalone": {
+      "calories": 680,
+      "protein": 32,
+      "carbs": 72,
+      "fat": 22,
+      "sodium": 1520,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Excellent source of protein",
+        "Contains omega-3",
+        "Rich in minerals"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "High in fat"
+      ]
+    },
+    "egg fried rice": {
+      "calories": 380,
+      "protein": 10,
+      "carbs": 58,
+      "fat": 10,
+      "sodium": 1020,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium",
+        "High in carbs",
+        "Low in protein"
+      ]
+    },
+    "shanghai fried rice he with seasoned prawns": {
+      "calories": 520,
+      "protein": 22,
+      "carbs": 64,
+      "fat": 12,
+      "sodium": 1280,
+      "sugar": 2,
+      "fiber": 4,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3",
+        "Higher fiber from brown rice"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "fresh ramen": {
+      "calories": 360,
+      "protein": 10,
+      "carbs": 58,
+      "fat": 8,
+      "sodium": 960,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in carbs",
+        "Low in protein"
+      ]
+    },
+    "fresh ramen he with seasoned prawns": {
+      "calories": 480,
+      "protein": 24,
+      "carbs": 58,
+      "fat": 12,
+      "sodium": 1240,
+      "sugar": 3,
+      "fiber": 3,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "black pepper fried rice": {
+      "calories": 410,
+      "protein": 8,
+      "carbs": 62,
+      "fat": 12,
+      "sodium": 1040,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium",
+        "High in carbs",
+        "Low in protein"
+      ]
+    },
+    "fresh udon he with seasoned prawns": {
+      "calories": 500,
+      "protein": 24,
+      "carbs": 56,
+      "fat": 12,
+      "sodium": 1260,
+      "sugar": 3,
+      "fiber": 3,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "egg fried rice he": {
+      "calories": 360,
+      "protein": 10,
+      "carbs": 54,
+      "fat": 10,
+      "sodium": 1000,
+      "sugar": 1,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Egg",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Higher fiber from brown rice"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in carbs",
+        "Low in protein"
+      ]
+    },
+    "shanghai fried rice he": {
+      "calories": 520,
+      "protein": 12,
+      "carbs": 68,
+      "fat": 18,
+      "sodium": 1280,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Egg",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of fiber from brown rice",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in fat from cooking oil"
+      ]
+    },
+    "fresh ramen he": {
+      "calories": 480,
+      "protein": 14,
+      "carbs": 72,
+      "fat": 12,
+      "sodium": 1450,
+      "sugar": 3,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of fiber from vegetables",
+        "Lower fat than regular ramen"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in carbohydrates"
+      ]
+    },
+    "fresh udon he": {
+      "calories": 520,
+      "protein": 15,
+      "carbs": 78,
+      "fat": 13,
+      "sodium": 1380,
+      "sugar": 3,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of fiber from vegetables",
+        "Contains noodles for energy"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in carbohydrates"
+      ]
+    }
+  }
+}

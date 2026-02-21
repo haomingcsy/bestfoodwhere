@@ -1,0 +1,75 @@
+{
+  "brand": "the-seafood-market-place-by-song-fish",
+  "generatedAt": "2026-02-21T12:04:52.851Z",
+  "items": {
+    "3 for": {
+      "calories": 450,
+      "protein": 28,
+      "carbs": 35,
+      "fat": 18,
+      "sodium": 850,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Fish",
+        "Shellfish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "High in omega-3",
+        "Good source of selenium"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in saturated fat"
+      ]
+    },
+    "4 for": {
+      "calories": 520,
+      "protein": 35,
+      "carbs": 38,
+      "fat": 20,
+      "sodium": 920,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Fish",
+        "Shellfish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "High in omega-3",
+        "Good source of selenium"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in saturated fat"
+      ]
+    },
+    "deals": {
+      "calories": 280,
+      "protein": 18,
+      "carbs": 22,
+      "fat": 11,
+      "sodium": 580,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "High in omega-3"
+      ],
+      "healthWarnings": [
+        "Moderate sodium content"
+      ]
+    }
+  }
+}

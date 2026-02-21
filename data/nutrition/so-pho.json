@@ -1,0 +1,3382 @@
+{
+  "brand": "so-pho",
+  "generatedAt": "2026-02-21T11:43:57.714Z",
+  "items": {
+    "spicy & sour herbs chicken salad with lettuce & crackers": {
+      "calories": 420,
+      "protein": 35,
+      "carbs": 28,
+      "fat": 18,
+      "sodium": 850,
+      "sugar": 8,
+      "fiber": 4,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Sesame",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of vegetables",
+        "Contains herbs with antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "vietnamese affogato": {
+      "calories": 240,
+      "protein": 4,
+      "carbs": 28,
+      "fat": 12,
+      "sodium": 75,
+      "sugar": 22,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains caffeine"
+      ]
+    },
+    "fried spring rolls": {
+      "calories": 380,
+      "protein": 8,
+      "carbs": 42,
+      "fat": 18,
+      "sodium": 620,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Fish",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "Deep fried"
+      ]
+    },
+    "fried vermicelli": {
+      "calories": 520,
+      "protein": 24,
+      "carbs": 58,
+      "fat": 20,
+      "sodium": 890,
+      "sugar": 3,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg",
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "pho noodle chicken soup": {
+      "calories": 385,
+      "protein": 28,
+      "carbs": 42,
+      "fat": 10,
+      "sodium": 1020,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains herbs and spices"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "mango glutinous rice": {
+      "calories": 310,
+      "protein": 4,
+      "carbs": 58,
+      "fat": 6,
+      "sodium": 85,
+      "sugar": 32,
+      "fiber": 2,
+      "allergens": [
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Contains fresh fruit"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in carbs"
+      ]
+    },
+    "so pho flame seared premium marbled sirloin beef with beef balls noodle soup": {
+      "calories": 580,
+      "protein": 38,
+      "carbs": 48,
+      "fat": 24,
+      "sodium": 1180,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "so pho flame seared premium marbled sirloin beef with beef brisket noodle soup": {
+      "calories": 620,
+      "protein": 42,
+      "carbs": 48,
+      "fat": 28,
+      "sodium": 1220,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "summer rolls with shellfish crab": {
+      "calories": 195,
+      "protein": 12,
+      "carbs": 24,
+      "fat": 5,
+      "sodium": 520,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Gluten",
+        "Soy",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains fresh vegetables"
+      ],
+      "healthWarnings": [
+        "Moderate sodium content"
+      ]
+    },
+    "baguette": {
+      "calories": 450,
+      "protein": 26,
+      "carbs": 52,
+      "fat": 14,
+      "sodium": 780,
+      "sugar": 3,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in saturated fat"
+      ]
+    },
+    "vietnamese lemongrass curry chicken with bread / rice": {
+      "calories": 520,
+      "protein": 32,
+      "carbs": 48,
+      "fat": 18,
+      "sodium": 980,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Fish",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains lemongrass with anti-inflammatory properties"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate saturated fat"
+      ]
+    },
+    "sliced beef": {
+      "calories": 120,
+      "protein": 18,
+      "carbs": 2,
+      "fat": 5,
+      "sodium": 80,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein",
+        "Lean meat"
+      ],
+      "healthWarnings": []
+    },
+    "bun noodle with premium marbled beef & fried spring rolls": {
+      "calories": 680,
+      "protein": 34,
+      "carbs": 62,
+      "fat": 28,
+      "sodium": 1120,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "crispy vermicelli & fresh king prawns with superior stock gravy": {
+      "calories": 580,
+      "protein": 28,
+      "carbs": 52,
+      "fat": 24,
+      "sodium": 1050,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Gluten",
+        "Soy",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "pho noodle soup - sliced beef": {
+      "calories": 365,
+      "protein": 26,
+      "carbs": 40,
+      "fat": 12,
+      "sodium": 980,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "coffee - black": {
+      "calories": 5,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "grilled lemongrass beef with rice": {
+      "calories": 640,
+      "protein": 42,
+      "carbs": 62,
+      "fat": 18,
+      "sodium": 920,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "High in iron",
+        "Complete meal"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "Moderate saturated fat"
+      ]
+    },
+    "beef / chicken hot pot with rice / vermicelli": {
+      "calories": 520,
+      "protein": 32,
+      "carbs": 50,
+      "fat": 18,
+      "sodium": 950,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains fresh vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in saturated fat"
+      ]
+    },
+    "vietnamese seafood fried rice": {
+      "calories": 485,
+      "protein": 22,
+      "carbs": 54,
+      "fat": 18,
+      "sodium": 920,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Gluten",
+        "Soy",
+        "Egg",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Good source of omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate in saturated fat"
+      ]
+    },
+    "pineapple soda freeze": {
+      "calories": 220,
+      "protein": 1,
+      "carbs": 52,
+      "fat": 0,
+      "sodium": 75,
+      "sugar": 45,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains vitamin C from pineapple"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High calorie beverage"
+      ]
+    },
+    "hotpot (premium marbled beef)": {
+      "calories": 520,
+      "protein": 42,
+      "carbs": 8,
+      "fat": 38,
+      "sodium": 1200,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in iron",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in saturated fat",
+        "High in sodium"
+      ]
+    },
+    "vietnamese pancake with minced chicken & seafood": {
+      "calories": 480,
+      "protein": 24,
+      "carbs": 44,
+      "fat": 20,
+      "sodium": 920,
+      "sugar": 8,
+      "fiber": 2,
+      "allergens": [
+        "Egg",
+        "Fish",
+        "Shellfish",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains seafood"
+      ],
+      "healthWarnings": [
+        "Moderate to high fat",
+        "Moderate sodium"
+      ]
+    },
+    "vietnamese egg coffee": {
+      "calories": 240,
+      "protein": 5,
+      "carbs": 20,
+      "fat": 14,
+      "sodium": 50,
+      "sugar": 18,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Source of antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "black (hot/cold)": {
+      "calories": 5,
+      "protein": 0,
+      "carbs": 1,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Very low calorie",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "hot lotus tea": {
+      "calories": 25,
+      "protein": 1,
+      "carbs": 5,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains antioxidants",
+        "Traditional herbal benefits"
+      ],
+      "healthWarnings": []
+    },
+    "pho spicy noodle soup - marbled sirloin beef & beef balls": {
+      "calories": 520,
+      "protein": 38,
+      "carbs": 48,
+      "fat": 18,
+      "sodium": 1400,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Spicy may irritate sensitive stomachs"
+      ]
+    },
+    "baguette with beef": {
+      "calories": 420,
+      "protein": 28,
+      "carbs": 38,
+      "fat": 16,
+      "sodium": 850,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate saturated fat"
+      ]
+    },
+    "black (hot/cold) (signature - vietnamese drip coffee)": {
+      "calories": 8,
+      "protein": 0,
+      "carbs": 1,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Very low calorie",
+        "Rich in antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "vietnamese fried rice (egg fried rice with premium marbled beef)": {
+      "calories": 580,
+      "protein": 32,
+      "carbs": 48,
+      "fat": 28,
+      "sodium": 1100,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Egg",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains B vitamins"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in sodium",
+        "High calorie"
+      ]
+    },
+    "grilled beef salad": {
+      "calories": 320,
+      "protein": 32,
+      "carbs": 18,
+      "fat": 14,
+      "sodium": 890,
+      "sugar": 8,
+      "fiber": 4,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron",
+        "Rich in antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "bún noodle with premium marbled beef & fried spring rolls": {
+      "calories": 620,
+      "protein": 36,
+      "carbs": 52,
+      "fat": 28,
+      "sodium": 1200,
+      "sugar": 5,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Fish",
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains vegetables",
+        "Good source of fiber"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "High in sodium"
+      ]
+    },
+    "coffee jelly ice cream": {
+      "calories": 260,
+      "protein": 3,
+      "carbs": 32,
+      "fat": 13,
+      "sodium": 65,
+      "sugar": 28,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Source of caffeine"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "fried spring rolls (3 rolls)": {
+      "calories": 280,
+      "protein": 12,
+      "carbs": 24,
+      "fat": 15,
+      "sodium": 580,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Shellfish",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Contains some protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "Deep fried"
+      ]
+    },
+    "lychee freeze": {
+      "calories": 200,
+      "protein": 0,
+      "carbs": 50,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 48,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Very high in sugar"
+      ]
+    },
+    "baguette with chicken": {
+      "calories": 380,
+      "protein": 32,
+      "carbs": 38,
+      "fat": 10,
+      "sodium": 820,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Lean protein source"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "vietnamese coconut coffee": {
+      "calories": 180,
+      "protein": 2,
+      "carbs": 18,
+      "fat": 10,
+      "sodium": 45,
+      "sugar": 16,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "beef balls": {
+      "calories": 95,
+      "protein": 12,
+      "carbs": 2,
+      "fat": 5,
+      "sodium": 380,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Low carb"
+      ],
+      "healthWarnings": [
+        "Moderate sodium content"
+      ]
+    },
+    "grilled chicken salad": {
+      "calories": 300,
+      "protein": 30,
+      "carbs": 16,
+      "fat": 13,
+      "sodium": 850,
+      "sugar": 7,
+      "fiber": 3,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of B vitamins",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "hotpot (beef / chicken)": {
+      "calories": 450,
+      "protein": 32,
+      "carbs": 18,
+      "fat": 28,
+      "sodium": 1200,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "with milk (hot/cold)": {
+      "calories": 190,
+      "protein": 6,
+      "carbs": 20,
+      "fat": 9,
+      "sodium": 100,
+      "sugar": 16,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains caffeine"
+      ]
+    },
+    "vietnamese vegetarian pancake": {
+      "calories": 380,
+      "protein": 14,
+      "carbs": 45,
+      "fat": 16,
+      "sodium": 680,
+      "sugar": 5,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "summer rolls with prawns, grilled chicken": {
+      "calories": 220,
+      "protein": 18,
+      "carbs": 22,
+      "fat": 6,
+      "sodium": 520,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Shellfish",
+        "Fish",
+        "Gluten",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Low in fat",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "bún noodle with beef & fried spring rolls": {
+      "calories": 580,
+      "protein": 28,
+      "carbs": 55,
+      "fat": 25,
+      "sodium": 980,
+      "sugar": 5,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Fish",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat",
+        "High in calories"
+      ]
+    },
+    "pho noodle soup - beef balls": {
+      "calories": 420,
+      "protein": 26,
+      "carbs": 45,
+      "fat": 12,
+      "sodium": 1100,
+      "sugar": 3,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Fish",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "vietnamese fried rice (chicken / beef with rice)": {
+      "calories": 520,
+      "protein": 24,
+      "carbs": 58,
+      "fat": 20,
+      "sodium": 850,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Fish",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "hot longan with red dates & ginger": {
+      "calories": 120,
+      "protein": 1,
+      "carbs": 30,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 28,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Low fat",
+        "Contains antioxidants",
+        "Warming spice"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "pho noodle soup with sliced beef": {
+      "calories": 480,
+      "protein": 32,
+      "carbs": 48,
+      "fat": 14,
+      "sodium": 1150,
+      "sugar": 3,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Fish",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "pho spicy noodle soup - sliced beef": {
+      "calories": 490,
+      "protein": 32,
+      "carbs": 48,
+      "fat": 15,
+      "sodium": 1180,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Fish",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables",
+        "May boost metabolism"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Spicy"
+      ]
+    },
+    "coffee - with milk": {
+      "calories": 170,
+      "protein": 5,
+      "carbs": 16,
+      "fat": 8,
+      "sodium": 90,
+      "sugar": 12,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains caffeine"
+      ]
+    },
+    "hot jasmine tea": {
+      "calories": 5,
+      "protein": 0,
+      "carbs": 1,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "Contains caffeine"
+      ]
+    },
+    "grilled lemongrass chicken with rice": {
+      "calories": 420,
+      "protein": 32,
+      "carbs": 42,
+      "fat": 12,
+      "sodium": 780,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "Moderate sodium content"
+      ]
+    },
+    "bun noodle with beef & fried spring rolls": {
+      "calories": 540,
+      "protein": 32,
+      "carbs": 52,
+      "fat": 22,
+      "sodium": 980,
+      "sugar": 5,
+      "fiber": 3,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Peanut"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "High in fat"
+      ]
+    },
+    "mango glutinous rice with ice cream": {
+      "calories": 380,
+      "protein": 6,
+      "carbs": 62,
+      "fat": 14,
+      "sodium": 85,
+      "sugar": 48,
+      "fiber": 2,
+      "allergens": [
+        "Dairy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Contains vitamin C"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in calories"
+      ]
+    },
+    "fried vermicelli vegetarian": {
+      "calories": 420,
+      "protein": 14,
+      "carbs": 52,
+      "fat": 18,
+      "sodium": 780,
+      "sugar": 4,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "pho noodle chicken soup - chicken meatballs": {
+      "calories": 380,
+      "protein": 28,
+      "carbs": 42,
+      "fat": 10,
+      "sodium": 1100,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Fish",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Light broth-based",
+        "Contains aromatic spices"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "vietnamese beef fried rice": {
+      "calories": 580,
+      "protein": 26,
+      "carbs": 58,
+      "fat": 22,
+      "sodium": 1050,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat",
+        "High in calories"
+      ]
+    },
+    "baguette with superior stock gravy": {
+      "calories": 520,
+      "protein": 28,
+      "carbs": 52,
+      "fat": 18,
+      "sodium": 1200,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Fish",
+        "Soy",
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "fried glass noodle with softshell crab": {
+      "calories": 520,
+      "protein": 22,
+      "carbs": 48,
+      "fat": 24,
+      "sodium": 1150,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Fish",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains shellfish"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "soda chanh with chia seeds": {
+      "calories": 140,
+      "protein": 3,
+      "carbs": 28,
+      "fat": 2,
+      "sodium": 70,
+      "sugar": 18,
+      "fiber": 5,
+      "allergens": [
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains lime vitamin C"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "tendon & brisket": {
+      "calories": 160,
+      "protein": 22,
+      "carbs": 1,
+      "fat": 7,
+      "sodium": 480,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "High in protein",
+        "Contains collagen"
+      ],
+      "healthWarnings": []
+    },
+    "baguette with chicken meatballs": {
+      "calories": 420,
+      "protein": 24,
+      "carbs": 48,
+      "fat": 14,
+      "sodium": 980,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "Moderate sodium"
+      ]
+    },
+    "bun noodle with chicken meatballs & fried spring rolls": {
+      "calories": 540,
+      "protein": 28,
+      "carbs": 54,
+      "fat": 20,
+      "sodium": 1100,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Fish",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "pho noodle soup - sliced beef & beef balls": {
+      "calories": 390,
+      "protein": 32,
+      "carbs": 42,
+      "fat": 10,
+      "sodium": 1120,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Fish",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Light broth-based"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "fried glass noodle with beef": {
+      "calories": 480,
+      "protein": 24,
+      "carbs": 48,
+      "fat": 20,
+      "sodium": 1100,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate to high fat"
+      ]
+    },
+    "tea - black": {
+      "calories": 5,
+      "protein": 0,
+      "carbs": 1,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Very low calorie",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "stir fried basil beef with rice": {
+      "calories": 520,
+      "protein": 32,
+      "carbs": 50,
+      "fat": 16,
+      "sodium": 980,
+      "sugar": 4,
+      "fiber": 1,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains basil with anti-inflammatory properties"
+      ],
+      "healthWarnings": [
+        "Moderate sodium",
+        "Moderate fat"
+      ]
+    },
+    "vietnamese chicken fried rice": {
+      "calories": 580,
+      "protein": 24,
+      "carbs": 60,
+      "fat": 22,
+      "sodium": 1050,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat",
+        "High in calories"
+      ]
+    },
+    "hotpot vegetarian": {
+      "calories": 320,
+      "protein": 12,
+      "carbs": 38,
+      "fat": 12,
+      "sodium": 1050,
+      "sugar": 8,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Fish",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good fiber content",
+        "Low in saturated fat",
+        "Vegetarian protein"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "vietnamese fried rice vegetarian": {
+      "calories": 520,
+      "protein": 14,
+      "carbs": 62,
+      "fat": 22,
+      "sodium": 1000,
+      "sugar": 8,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains vegetables",
+        "Good fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat",
+        "High in calories"
+      ]
+    },
+    "with ice cream": {
+      "calories": 220,
+      "protein": 3,
+      "carbs": 25,
+      "fat": 12,
+      "sodium": 60,
+      "sugar": 22,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Source of caffeine"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "prawn cake": {
+      "calories": 280,
+      "protein": 12,
+      "carbs": 22,
+      "fat": 16,
+      "sodium": 580,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Shellfish",
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains selenium"
+      ],
+      "healthWarnings": [
+        "High in saturated fat"
+      ]
+    },
+    "fried pho noodle": {
+      "calories": 520,
+      "protein": 28,
+      "carbs": 52,
+      "fat": 22,
+      "sodium": 1080,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "High in fat"
+      ]
+    },
+    "pho noodle chicken soup - chicken chop": {
+      "calories": 450,
+      "protein": 32,
+      "carbs": 48,
+      "fat": 14,
+      "sodium": 950,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "summer rolls with beef": {
+      "calories": 220,
+      "protein": 16,
+      "carbs": 18,
+      "fat": 8,
+      "sodium": 420,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Peanut"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "vegetarian salad": {
+      "calories": 140,
+      "protein": 5,
+      "carbs": 18,
+      "fat": 6,
+      "sodium": 380,
+      "sugar": 8,
+      "fiber": 4,
+      "allergens": [
+        "Soy",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Low calorie",
+        "High in fiber",
+        "Good source of vitamins"
+      ],
+      "healthWarnings": [
+        "Contains fish sauce"
+      ]
+    },
+    "hot honey lemon": {
+      "calories": 60,
+      "protein": 0,
+      "carbs": 15,
+      "fat": 0,
+      "sodium": 20,
+      "sugar": 14,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Source of vitamin C",
+        "Low in calories"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "pho noodle soup with beef balls": {
+      "calories": 480,
+      "protein": 36,
+      "carbs": 45,
+      "fat": 16,
+      "sodium": 1100,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "baguette with superior stock gravy vegetarian": {
+      "calories": 420,
+      "protein": 16,
+      "carbs": 52,
+      "fat": 16,
+      "sodium": 820,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "pho spicy noodle soup - beef balls": {
+      "calories": 420,
+      "protein": 32,
+      "carbs": 42,
+      "fat": 14,
+      "sodium": 1200,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains capsaicin"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "lychee iced tea": {
+      "calories": 180,
+      "protein": 0,
+      "carbs": 44,
+      "fat": 0,
+      "sodium": 15,
+      "sugar": 42,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants from tea"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in calories"
+      ]
+    },
+    "pho noodle soup with sliced beef & beef balls": {
+      "calories": 520,
+      "protein": 40,
+      "carbs": 48,
+      "fat": 18,
+      "sodium": 1150,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "fried glass noodle with chicken": {
+      "calories": 560,
+      "protein": 30,
+      "carbs": 54,
+      "fat": 24,
+      "sodium": 1020,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "High in fat"
+      ]
+    },
+    "crispy wings": {
+      "calories": 480,
+      "protein": 36,
+      "carbs": 20,
+      "fat": 28,
+      "sodium": 1100,
+      "sugar": 2,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Good source of B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "bun noodle with softshell crab & fried spring rolls": {
+      "calories": 620,
+      "protein": 28,
+      "carbs": 58,
+      "fat": 28,
+      "sodium": 1250,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Fish",
+        "Shellfish",
+        "Soy",
+        "Gluten",
+        "Peanut"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "High in fat"
+      ]
+    },
+    "chicken meatballs": {
+      "calories": 180,
+      "protein": 16,
+      "carbs": 8,
+      "fat": 9,
+      "sodium": 420,
+      "sugar": 1,
+      "fiber": 0,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Low in carbohydrates"
+      ],
+      "healthWarnings": [
+        "Moderate sodium content"
+      ]
+    },
+    "vegetarian baguette": {
+      "calories": 420,
+      "protein": 14,
+      "carbs": 52,
+      "fat": 18,
+      "sodium": 680,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate calorie content"
+      ]
+    },
+    "stir fried basil chicken with rice": {
+      "calories": 620,
+      "protein": 38,
+      "carbs": 68,
+      "fat": 16,
+      "sodium": 890,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Complete meal with carbohydrates"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "vegetarian summer rolls": {
+      "calories": 280,
+      "protein": 8,
+      "carbs": 38,
+      "fat": 10,
+      "sodium": 520,
+      "sugar": 5,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Peanut",
+        "Sesame"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Low in protein but light",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Contains peanut in sauce"
+      ]
+    },
+    "vietnamese drip coffee - black": {
+      "calories": 15,
+      "protein": 1,
+      "carbs": 2,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Very low calorie",
+        "Contains antioxidants",
+        "No sugar"
+      ],
+      "healthWarnings": []
+    },
+    "iced milk coffee with coffee jelly": {
+      "calories": 220,
+      "protein": 5,
+      "carbs": 28,
+      "fat": 9,
+      "sodium": 95,
+      "sugar": 22,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Contains caffeine",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High caffeine content"
+      ]
+    },
+    "fried pho noodle - chicken meatballs": {
+      "calories": 520,
+      "protein": 22,
+      "carbs": 58,
+      "fat": 20,
+      "sodium": 1020,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Fish",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in calories",
+        "High in fat"
+      ]
+    },
+    "hotpot - king prawns": {
+      "calories": 380,
+      "protein": 32,
+      "carbs": 18,
+      "fat": 18,
+      "sodium": 1100,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "High in omega-3 fatty acids",
+        "Good source of minerals"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "Contains shellfish allergen"
+      ]
+    },
+    "pho spicy noodle soup - sliced beef & beef balls": {
+      "calories": 580,
+      "protein": 36,
+      "carbs": 58,
+      "fat": 18,
+      "sodium": 1280,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains warming spices"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in calories"
+      ]
+    },
+    "iced milk coffee": {
+      "calories": 210,
+      "protein": 4,
+      "carbs": 28,
+      "fat": 8,
+      "sodium": 75,
+      "sugar": 24,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in calories"
+      ]
+    },
+    "bún noodle with grilled lemongrass chicken & fried spring rolls": {
+      "calories": 580,
+      "protein": 34,
+      "carbs": 58,
+      "fat": 20,
+      "sodium": 1050,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Fish",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains vegetables",
+        "Good fiber content"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in calories"
+      ]
+    },
+    "tea - with milk": {
+      "calories": 60,
+      "protein": 2,
+      "carbs": 6,
+      "fat": 2,
+      "sodium": 45,
+      "sugar": 4,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "prawn cake - 3 pcs": {
+      "calories": 320,
+      "protein": 12,
+      "carbs": 32,
+      "fat": 16,
+      "sodium": 680,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Shellfish",
+        "Gluten",
+        "Fish",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains omega-3 from shellfish"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "High in fat"
+      ]
+    },
+    "vegetarian vietnamese fried rice": {
+      "calories": 480,
+      "protein": 12,
+      "carbs": 62,
+      "fat": 18,
+      "sodium": 820,
+      "sugar": 5,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains vegetables",
+        "Source of fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "pho noodle soup - sliced beef, beef balls, tendon & brisket": {
+      "calories": 620,
+      "protein": 40,
+      "carbs": 60,
+      "fat": 20,
+      "sodium": 1320,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in collagen from tendons",
+        "Contains iron"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in calories",
+        "High in fat"
+      ]
+    },
+    "pho noodle soup with sliced beef, beef balls, tendon & brisket": {
+      "calories": 680,
+      "protein": 44,
+      "carbs": 64,
+      "fat": 22,
+      "sodium": 1380,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Rich in collagen from tendons",
+        "Contains iron"
+      ],
+      "healthWarnings": [
+        "Very high in sodium",
+        "High in calories",
+        "High in fat"
+      ]
+    },
+    "mixed appetisers": {
+      "calories": 880,
+      "protein": 28,
+      "carbs": 78,
+      "fat": 48,
+      "sodium": 1520,
+      "sugar": 6,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Egg",
+        "Soy",
+        "Gluten",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "bun noodle with grilled lemongrass chicken & fried spring rolls": {
+      "calories": 520,
+      "protein": 28,
+      "carbs": 58,
+      "fat": 18,
+      "sodium": 1120,
+      "sugar": 6,
+      "fiber": 3,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "fried pho noodle with king prawns": {
+      "calories": 580,
+      "protein": 24,
+      "carbs": 68,
+      "fat": 22,
+      "sodium": 1280,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Shellfish",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains selenium"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "stir fried basil vegetarian tofu with rice": {
+      "calories": 380,
+      "protein": 16,
+      "carbs": 42,
+      "fat": 16,
+      "sodium": 950,
+      "sugar": 3,
+      "fiber": 4,
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of plant-based protein",
+        "High in fiber",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "egg fried rice with premium marbled beef": {
+      "calories": 680,
+      "protein": 36,
+      "carbs": 52,
+      "fat": 36,
+      "sodium": 1240,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "iced lemongrass tea": {
+      "calories": 40,
+      "protein": 0,
+      "carbs": 10,
+      "fat": 0,
+      "sodium": 12,
+      "sugar": 9,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains antioxidants",
+        "Aids digestion"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "vietnamese drip coffee - with milk": {
+      "calories": 180,
+      "protein": 4,
+      "carbs": 18,
+      "fat": 8,
+      "sodium": 85,
+      "sugar": 15,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Good source of antioxidants",
+        "Contains caffeine"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High caffeine content"
+      ]
+    },
+    "bún noodle with softshell crab & fried spring rolls": {
+      "calories": 510,
+      "protein": 22,
+      "carbs": 56,
+      "fat": 20,
+      "sodium": 1150,
+      "sugar": 5,
+      "fiber": 3,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Shellfish",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "imperial spring rolls": {
+      "calories": 420,
+      "protein": 10,
+      "carbs": 48,
+      "fat": 20,
+      "sodium": 720,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Fish",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in fat",
+        "Deep fried"
+      ]
+    },
+    "fried pho noodle vegetarian": {
+      "calories": 380,
+      "protein": 12,
+      "carbs": 48,
+      "fat": 16,
+      "sodium": 890,
+      "sugar": 3,
+      "fiber": 3,
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains vegetables",
+        "Plant-based option"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "mango & papaya salad with anchovies": {
+      "calories": 180,
+      "protein": 12,
+      "carbs": 22,
+      "fat": 5,
+      "sodium": 620,
+      "sugar": 14,
+      "fiber": 3,
+      "allergens": [
+        "Fish",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "High in vitamin C",
+        "Contains omega-3"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "hotpot - softshell crab": {
+      "calories": 380,
+      "protein": 28,
+      "carbs": 22,
+      "fat": 22,
+      "sodium": 1050,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten",
+        "Shellfish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains minerals"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "lotus tea": {
+      "calories": 35,
+      "protein": 0,
+      "carbs": 8,
+      "fat": 0,
+      "sodium": 8,
+      "sugar": 6,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Contains antioxidants",
+        "Aids digestion"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "pho spicy noodle soup - sliced beef, beef balls, tendon & brisket": {
+      "calories": 480,
+      "protein": 34,
+      "carbs": 42,
+      "fat": 18,
+      "sodium": 1320,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Good source of iron",
+        "Contains collagen"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "mango & papaya salad with anchovies vegetarian": {
+      "calories": 180,
+      "protein": 8,
+      "carbs": 28,
+      "fat": 4,
+      "sodium": 640,
+      "sugar": 16,
+      "fiber": 4,
+      "allergens": [
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in vitamin C",
+        "High in fiber",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Moderate sugar content"
+      ]
+    },
+    "wolfberry green tea": {
+      "calories": 120,
+      "protein": 0,
+      "carbs": 30,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 28,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Antioxidant rich",
+        "Low calorie"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "stir-fried basil with rice - beef": {
+      "calories": 680,
+      "protein": 35,
+      "carbs": 65,
+      "fat": 28,
+      "sodium": 1200,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "summer rolls with prawns, grilled chicken & chicken ham - 2 rolls": {
+      "calories": 200,
+      "protein": 14,
+      "carbs": 22,
+      "fat": 6,
+      "sodium": 480,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Shellfish",
+        "Fish",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "Moderate sodium"
+      ]
+    },
+    "pho spicy noodle soup with marbled sirloin beef & beef balls": {
+      "calories": 520,
+      "protein": 38,
+      "carbs": 48,
+      "fat": 18,
+      "sodium": 1400,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Soy",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains herbs and spices"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "Spicy"
+      ]
+    },
+    "bún noodle with chicken meatballs & fried spring rolls": {
+      "calories": 650,
+      "protein": 28,
+      "carbs": 72,
+      "fat": 26,
+      "sodium": 1100,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Fish",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "vegetarian bun noodle with sautéed tofu": {
+      "calories": 520,
+      "protein": 18,
+      "carbs": 72,
+      "fat": 14,
+      "sodium": 980,
+      "sugar": 5,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good source of plant-based protein",
+        "High in fiber",
+        "Vegetarian"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "fried pho noodle with beef": {
+      "calories": 720,
+      "protein": 32,
+      "carbs": 68,
+      "fat": 32,
+      "sodium": 1300,
+      "sugar": 5,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Fish",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat",
+        "High in calories"
+      ]
+    },
+    "jasmine tea": {
+      "calories": 5,
+      "protein": 0,
+      "carbs": 1,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Very low calorie",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": []
+    },
+    "mulberry green tea": {
+      "calories": 130,
+      "protein": 0,
+      "carbs": 32,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 30,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Antioxidant rich",
+        "Low calorie"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "espresso with ice cream 2 scoops": {
+      "calories": 240,
+      "protein": 4,
+      "carbs": 28,
+      "fat": 12,
+      "sodium": 80,
+      "sugar": 24,
+      "fiber": 0,
+      "allergens": [
+        "Dairy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Contains caffeine"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "High in saturated fat"
+      ]
+    },
+    "honey lemon": {
+      "calories": 180,
+      "protein": 0,
+      "carbs": 45,
+      "fat": 0,
+      "sodium": 10,
+      "sugar": 42,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains vitamin C"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "summer rolls with prawns, grilled chicken & chicken ham - 3 rolls": {
+      "calories": 300,
+      "protein": 21,
+      "carbs": 33,
+      "fat": 9,
+      "sodium": 720,
+      "sugar": 3,
+      "fiber": 3,
+      "allergens": [
+        "Shellfish",
+        "Fish",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "Moderate sodium"
+      ]
+    },
+    "bún noodle with vegetarian with sauteed tofu": {
+      "calories": 480,
+      "protein": 16,
+      "carbs": 68,
+      "fat": 12,
+      "sodium": 920,
+      "sugar": 4,
+      "fiber": 4,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good source of plant-based protein",
+        "High in fiber",
+        "Vegetarian"
+      ],
+      "healthWarnings": [
+        "Moderate sodium"
+      ]
+    },
+    "mango & papaya salad with softshell crab": {
+      "calories": 240,
+      "protein": 18,
+      "carbs": 24,
+      "fat": 8,
+      "sodium": 480,
+      "sugar": 15,
+      "fiber": 3,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "High in vitamin C",
+        "Contains fiber"
+      ],
+      "healthWarnings": [
+        "Moderate sugar content"
+      ]
+    },
+    "iced lime tea cooler": {
+      "calories": 110,
+      "protein": 0,
+      "carbs": 28,
+      "fat": 0,
+      "sodium": 5,
+      "sugar": 26,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains vitamin C",
+        "Low calorie"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "stir-fried basil with rice - chicken": {
+      "calories": 650,
+      "protein": 32,
+      "carbs": 65,
+      "fat": 24,
+      "sodium": 1200,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Soy",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "fried pho noodle with chicken": {
+      "calories": 520,
+      "protein": 22,
+      "carbs": 58,
+      "fat": 20,
+      "sodium": 1180,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "pho spicy noodle soup with sliced beef": {
+      "calories": 380,
+      "protein": 28,
+      "carbs": 42,
+      "fat": 12,
+      "sodium": 1420,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains iron",
+        "Contains B vitamins"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "pho spicy noodle soup with beef balls": {
+      "calories": 420,
+      "protein": 26,
+      "carbs": 44,
+      "fat": 14,
+      "sodium": 1480,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains iron"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "vegetarian fried pho noodle": {
+      "calories": 480,
+      "protein": 16,
+      "carbs": 56,
+      "fat": 18,
+      "sodium": 1040,
+      "sugar": 2,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of carbohydrates",
+        "Contains fiber"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in fat"
+      ]
+    },
+    "stir-fried basil with rice vegetarian": {
+      "calories": 340,
+      "protein": 12,
+      "carbs": 48,
+      "fat": 10,
+      "sodium": 720,
+      "sugar": 2,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of carbohydrates",
+        "Contains herbs and spices"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "iced longan with red dates & ginger": {
+      "calories": 85,
+      "protein": 1,
+      "carbs": 21,
+      "fat": 0,
+      "sodium": 12,
+      "sugar": 20,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Low calorie",
+        "Low fat",
+        "Contains antioxidants"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "summer rolls with softshell crab": {
+      "calories": 250,
+      "protein": 20,
+      "carbs": 26,
+      "fat": 8,
+      "sodium": 560,
+      "sugar": 3,
+      "fiber": 3,
+      "allergens": [
+        "Shellfish",
+        "Soy",
+        "Fish",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains vegetables and fiber"
+      ],
+      "healthWarnings": [
+        "Contains fish sauce"
+      ]
+    },
+    "prawn crackers basket": {
+      "calories": 520,
+      "protein": 8,
+      "carbs": 52,
+      "fat": 30,
+      "sodium": 920,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Shellfish",
+        "Gluten"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat",
+        "High in calories"
+      ]
+    },
+    "iced longan with rock sugar & goji": {
+      "calories": 140,
+      "protein": 2,
+      "carbs": 34,
+      "fat": 0,
+      "sodium": 18,
+      "sugar": 32,
+      "fiber": 1,
+      "allergens": [],
+      "healthBenefits": [
+        "Contains antioxidants",
+        "Low fat"
+      ],
+      "healthWarnings": [
+        "High in sugar"
+      ]
+    },
+    "fried vermicelli with premium marbled beef (gravy)": {
+      "calories": 680,
+      "protein": 32,
+      "carbs": 64,
+      "fat": 28,
+      "sodium": 1560,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains iron",
+        "Contains B vitamins"
+      ],
+      "healthWarnings": [
+        "High in calories",
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "pho spicy noodle soup with sliced beef & beef balls": {
+      "calories": 420,
+      "protein": 32,
+      "carbs": 44,
+      "fat": 14,
+      "sodium": 1520,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains iron"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "pho spicy noodle soup with sliced beef, beef balls, tendon & brisket": {
+      "calories": 480,
+      "protein": 38,
+      "carbs": 44,
+      "fat": 16,
+      "sodium": 1640,
+      "sugar": 2,
+      "fiber": 1,
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Very high in protein",
+        "Contains iron",
+        "Contains collagen"
+      ],
+      "healthWarnings": [
+        "High in sodium"
+      ]
+    },
+    "root beer float": {
+      "calories": 240,
+      "protein": 4,
+      "carbs": 42,
+      "fat": 6,
+      "sodium": 140,
+      "sugar": 38,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [
+        "Source of calcium"
+      ],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in calories"
+      ]
+    },
+    "vietnamese spiced battered squid": {
+      "calories": 320,
+      "protein": 18,
+      "carbs": 28,
+      "fat": 14,
+      "sodium": 680,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Shellfish",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains selenium"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "fried vermicelli with beef (gravy)": {
+      "calories": 480,
+      "protein": 22,
+      "carbs": 52,
+      "fat": 18,
+      "sodium": 1020,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains iron"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "High in saturated fat"
+      ]
+    },
+    "summer rolls with beef - 2 rolls": {
+      "calories": 150,
+      "protein": 8,
+      "carbs": 18,
+      "fat": 4,
+      "sodium": 380,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Fish",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "Contains fish sauce"
+      ]
+    },
+    "vegetarian mango and papaya salad": {
+      "calories": 140,
+      "protein": 3,
+      "carbs": 28,
+      "fat": 2,
+      "sodium": 420,
+      "sugar": 18,
+      "fiber": 4,
+      "allergens": [
+        "Fish",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in vitamin C",
+        "Good source of fiber",
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "High in sugar",
+        "Contains fish sauce"
+      ]
+    },
+    "root beer": {
+      "calories": 180,
+      "protein": 0,
+      "carbs": 48,
+      "fat": 0,
+      "sodium": 80,
+      "sugar": 48,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Very high in sugar",
+        "Empty calories"
+      ]
+    },
+    "coke/sprite float": {
+      "calories": 240,
+      "protein": 2,
+      "carbs": 52,
+      "fat": 4,
+      "sodium": 120,
+      "sugar": 50,
+      "fiber": 0,
+      "allergens": [
+        "Dairy"
+      ],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Very high in sugar",
+        "High in calories"
+      ]
+    },
+    "summer rolls with beef - 3 rolls": {
+      "calories": 220,
+      "protein": 12,
+      "carbs": 27,
+      "fat": 6,
+      "sodium": 580,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Fish",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "Contains fish sauce"
+      ]
+    },
+    "fried vermicelli with chicken (gravy)": {
+      "calories": 470,
+      "protein": 24,
+      "carbs": 52,
+      "fat": 16,
+      "sodium": 1000,
+      "sugar": 4,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Low in fat compared to beef"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories",
+        "High in saturated fat"
+      ]
+    },
+    "soft drink": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 36,
+      "fat": 0,
+      "sodium": 60,
+      "sugar": 36,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Very high in sugar",
+        "Empty calories"
+      ]
+    },
+    "pho noodle chicken soup with chicken meatballs": {
+      "calories": 380,
+      "protein": 20,
+      "carbs": 42,
+      "fat": 12,
+      "sodium": 1200,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains collagen from broth"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "homemade crunchy water chestnut meatballs": {
+      "calories": 280,
+      "protein": 12,
+      "carbs": 18,
+      "fat": 18,
+      "sodium": 680,
+      "sugar": 3,
+      "fiber": 1,
+      "allergens": [
+        "Egg",
+        "Soy",
+        "Gluten"
+      ],
+      "healthBenefits": [
+        "Good source of protein"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "soft drinks - coke/sprite": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 36,
+      "fat": 0,
+      "sodium": 60,
+      "sugar": 36,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Very high in sugar",
+        "Empty calories"
+      ]
+    },
+    "pho noodle chicken soup with chicken chop": {
+      "calories": 420,
+      "protein": 28,
+      "carbs": 40,
+      "fat": 14,
+      "sodium": 1220,
+      "sugar": 3,
+      "fiber": 2,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "High in protein",
+        "Contains collagen from broth"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "vegetarian fried vermicelli (gravy)": {
+      "calories": 420,
+      "protein": 12,
+      "carbs": 54,
+      "fat": 14,
+      "sodium": 960,
+      "sugar": 4,
+      "fiber": 3,
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Lower protein vegetarian option"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in calories"
+      ]
+    },
+    "bottled water": {
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 0,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Hydrating",
+        "Zero calories"
+      ],
+      "healthWarnings": []
+    },
+    "summer rolls vegetarian - 2 rolls": {
+      "calories": 130,
+      "protein": 4,
+      "carbs": 20,
+      "fat": 3,
+      "sodium": 340,
+      "sugar": 3,
+      "fiber": 3,
+      "allergens": [
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "Contains fish sauce"
+      ]
+    },
+    "soft drinks - coke zero/sprite zero": {
+      "calories": 5,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sodium": 100,
+      "sugar": 0,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [
+        "Zero sugar",
+        "Zero calories"
+      ],
+      "healthWarnings": [
+        "Contains artificial sweeteners"
+      ]
+    },
+    "summer rolls vegetarian - 3 rolls": {
+      "calories": 195,
+      "protein": 6,
+      "carbs": 30,
+      "fat": 4,
+      "sodium": 510,
+      "sugar": 5,
+      "fiber": 4,
+      "allergens": [
+        "Fish"
+      ],
+      "healthBenefits": [
+        "Good source of fiber",
+        "Low in fat"
+      ],
+      "healthWarnings": [
+        "Contains fish sauce"
+      ]
+    },
+    "vietnamese spiced battered squid (appetisers)": {
+      "calories": 310,
+      "protein": 17,
+      "carbs": 27,
+      "fat": 13,
+      "sodium": 660,
+      "sugar": 1,
+      "fiber": 1,
+      "allergens": [
+        "Shellfish",
+        "Gluten",
+        "Egg"
+      ],
+      "healthBenefits": [
+        "Good source of protein",
+        "Contains selenium"
+      ],
+      "healthWarnings": [
+        "High in sodium",
+        "High in saturated fat"
+      ]
+    },
+    "soft drinks - root beer": {
+      "calories": 140,
+      "protein": 0,
+      "carbs": 36,
+      "fat": 0,
+      "sodium": 60,
+      "sugar": 36,
+      "fiber": 0,
+      "allergens": [],
+      "healthBenefits": [],
+      "healthWarnings": [
+        "Very high in sugar",
+        "Empty calories"
+      ]
+    }
+  }
+}
