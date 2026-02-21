@@ -106,8 +106,8 @@ export function MenuAccordion({ categories, cdnUrls = {}, nutritionData }: Props
                         key={`${category.name}-${item.name}`}
                         className="flex items-start gap-4 rounded-lg p-3 transition-colors hover:bg-[#f8f8f8]"
                       >
-                        <div className="relative h-20 w-20 shrink-0 overflow-hidden rounded-xl bg-gray-100 shadow-sm ring-1 ring-black/5">
-                          {item.imageUrl ? (
+                        {item.imageUrl ? (
+                          <div className="relative h-20 w-20 shrink-0 overflow-hidden rounded-xl bg-gray-100 shadow-sm ring-1 ring-black/5">
                             <Image
                               src={
                                 getImageUrl(item.imageUrl, "menuItemList") ||
@@ -120,12 +120,8 @@ export function MenuAccordion({ categories, cdnUrls = {}, nutritionData }: Props
                                 "googleusercontent.com",
                               )}
                             />
-                          ) : (
-                            <div className="flex h-full w-full items-center justify-center bg-amber-50 text-lg">
-                              🍽
-                            </div>
-                          )}
-                        </div>
+                          </div>
+                        ) : null}
 
                         <div className="min-w-0 flex-1">
                           <div className="flex items-start justify-between gap-3">
