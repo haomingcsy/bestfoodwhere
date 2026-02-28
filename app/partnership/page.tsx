@@ -12,7 +12,7 @@ import {
 } from "@/components/layout/icons";
 
 const WHATSAPP_LINK =
-  "https://wa.me/6585051684?text=Hi%20BestFoodWhere%2C%20I%27m%20interested%20in%20partnership%20opportunities.";
+  "https://wa.me/6582233005?text=Hi%20BestFoodWhere%2C%20I%27m%20interested%20in%20partnership%20opportunities.";
 
 // Hero background images - rotating carousel
 const HERO_BACKGROUNDS = [

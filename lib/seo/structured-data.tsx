@@ -337,7 +337,7 @@ export function generateWebSiteSchema(): WithContext<"WebSite"> {
       "@type": "SearchAction",
       target: {
         "@type": "EntryPoint",
-        urlTemplate: `${BASE_URL}/listing?q={search_term_string}`,
+        urlTemplate: `${BASE_URL}/?q={search_term_string}`,
       },
       "query-input": "required name=search_term_string",
     },

@@ -421,17 +421,6 @@ export function Footer() {
             <p className="font-body text-sm text-white/30">
               © {year} BestFoodWhere
             </p>
-            <p className="font-body text-sm text-white/30">
-              Powered by{" "}
-              <a
-                href="https://quape.com"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-bfw-orange hover:underline"
-              >
-                quape.com
-              </a>
-            </p>
             <div className="flex gap-3">
               <a
                 href="https://www.facebook.com/bestfoodwhere/"

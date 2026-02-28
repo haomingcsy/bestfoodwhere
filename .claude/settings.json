@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(head:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)",
+      "Read(//tmp/**)",
+      "WebFetch(domain:bestfoodwhere.sg)",
+      "Bash(gh api:*)",
+      "Bash(/Users/haoming/Desktop/bestfoodwhere/scripts/_check-coverage.mjs:*)",
+      "Bash(# Restart the dev server - kill existing one, then start fresh kill 78664 sleep 2 PORT=4007 npx next dev 2>&1 & echo \"\"Started dev server, PID: $!\"\" sleep 15 curl -s ''http://localhost:4007/menu/so-pho'')",
+      "Bash(xargs -I{} sh -c 'sed -i \"\"\"\" \"\"s/^GOOGLE_CSE_API_KEY=.*/GOOGLE_CSE_API_KEY={}/\"\" /Users/haoming/Desktop/bestfoodwhere/.env.local')"
+    ],
+    "additionalDirectories": [
+      "/tmp",
+      "/private/tmp"
+    ]
+  }
+}

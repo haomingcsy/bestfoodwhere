@@ -3,35 +3,54 @@ import { MenuPageTemplate } from "@/components/templates/MenuPageTemplate";
 import {
   fetchAllBrandsSupabase,
   fetchBrandBySlugSupabase,
+  fetchBrandFromMallRestaurantsDB,
 } from "@/lib/supabase-menu";
 import { fetchBrandBySlug as fetchBrandFromSheets } from "@/lib/google-sheets";
+import { fetchBrandFromMallSheets } from "@/lib/shopping-mall-sheets";
 import { generateMenuPageMetadata } from "@/lib/seo/metadata";
 import {
   generateRestaurantSchema,
   generateBreadcrumbSchema,
   JsonLd,
 } from "@/lib/seo/structured-data";
-import {
-  batchGetMenuImageUrls,
-  collectBrandImageUrls,
-} from "@/lib/restaurant-images";
 import { notFound } from "next/navigation";
 import { existsSync, readFileSync } from "fs";
 import { join } from "path";
 
+// Revalidate every hour — enables Vercel edge caching (ISR)
+export const revalidate = 3600;
+
 interface Props {
   params: Promise<{ slug: string }>;
-  searchParams: Promise<{ location?: string }>;
 }
 
 export async function generateMetadata({
   params,
-  searchParams,
 }: Props): Promise<Metadata> {
   const { slug } = await params;
-  const { location: locationSlug } = await searchParams;
 
-  const brand = await fetchBrandBySlugSupabase(slug);
+  let brand = await fetchBrandBySlugSupabase(slug);
+  if (!brand) {
+    try {
+      brand = await fetchBrandFromSheets(slug);
+    } catch {
+      // Sheets unavailable
+    }
+  }
+  if (!brand) {
+    try {
+      brand = await fetchBrandFromMallSheets(slug);
+    } catch {
+      // Mall sheets unavailable
+    }
+  }
+  if (!brand) {
+    try {
+      brand = await fetchBrandFromMallRestaurantsDB(slug);
+    } catch {
+      // DB unavailable
+    }
+  }
   if (!brand) {
     return {
       title: "Restaurant Not Found",
@@ -39,24 +58,41 @@ export async function generateMetadata({
     };
   }
 
-  const location = locationSlug
-    ? brand.locations.find((l) => l.slug === locationSlug)
-    : undefined;
-
-  return generateMenuPageMetadata(brand, location);
+  return generateMenuPageMetadata(brand);
 }
 
-export default async function MenuPage({ params, searchParams }: Props) {
+export default async function MenuPage({ params }: Props) {
   const { slug } = await params;
-  const { location: locationSlug } = await searchParams;
 
   let brand = await fetchBrandBySlugSupabase(slug);
 
+  // Fall back to Google Sheets when brand not in Supabase
   if (!brand) {
-    notFound();
+    try {
+      brand = await fetchBrandFromSheets(slug);
+    } catch {
+      // Sheets unavailable
+    }
   }
+  // Fall back to mall sheets data
+  if (!brand) {
+    try {
+      brand = await fetchBrandFromMallSheets(slug);
+    } catch {
+      // Mall sheets unavailable
+    }
+  }
+  // Fall back to mall_restaurants DB table
+  if (!brand) {
+    try {
+      brand = await fetchBrandFromMallRestaurantsDB(slug);
+    } catch {
+      // DB unavailable
+    }
+  }
+  if (!brand) notFound();
 
-  // Fall back to Google Sheets menu data when Supabase has no items
+  // Fall back to Google Sheets menu data when Supabase brand has no items
   if (brand.menu.length === 0) {
     try {
       const sheetBrand = await fetchBrandFromSheets(slug);
@@ -68,10 +104,8 @@ export default async function MenuPage({ params, searchParams }: Props) {
     }
   }
 
-  // Get the specific location or default to first
-  const location =
-    (locationSlug && brand.locations.find((l) => l.slug === locationSlug)) ||
-    brand.locations[0];
+  // Default to first location — client handles ?location= switching
+  const location = brand.locations[0];
 
   // Generate structured data
   const restaurantSchema = location
@@ -84,11 +118,9 @@ export default async function MenuPage({ params, searchParams }: Props) {
     { name: brand.name, url: `https://bestfoodwhere.sg/menu/${brand.slug}` },
   ]);
 
-  // Batch fetch CDN URLs for all images in the brand data
-  const imageUrls = collectBrandImageUrls(brand);
-  const cdnUrlMap = await batchGetMenuImageUrls(imageUrls);
-
-  const cdnUrls = Object.fromEntries(cdnUrlMap);
+  // CDN URLs are now stored directly on menu_items.cdn_image_url
+  // and mapped into imageUrl by supabase-menu.ts — no lookup needed.
+  const cdnUrls: Record<string, string> = {};
 
   // Load nutrition data if available for this brand
   let nutritionData: Record<string, Record<string, unknown>> | undefined;
@@ -110,7 +142,7 @@ export default async function MenuPage({ params, searchParams }: Props) {
 
       <MenuPageTemplate
         brandData={brand}
-        initialLocation={locationSlug}
+        initialLocation={undefined}
         cdnUrls={cdnUrls}
         dbReviews={[]}
         dbRating={undefined}

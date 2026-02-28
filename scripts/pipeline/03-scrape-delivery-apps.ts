@@ -213,7 +213,7 @@ async function searchDeliveroo(brandName: string): Promise<PlatformResult> {
 
 interface Brand {
   slug: string;
-  brand_name: string;
+  name: string;
   social_links: Record<string, string> | null;
 }
 
@@ -228,7 +228,7 @@ async function processBrand(brand: Brand): Promise<{
 
   for (const searcher of searchers) {
     try {
-      const result = await searcher(brand.brand_name);
+      const result = await searcher(brand.name);
       if (result.url) {
         found[result.platform] = result.url;
         console.log(`  [${brand.slug}] ${result.platform}: ${result.url}`);
@@ -285,7 +285,7 @@ async function main() {
   // Fetch brands from brand_menus
   let query = supabase
     .from("brand_menus")
-    .select("slug, brand_name, social_links")
+    .select("slug, name, social_links")
     .in("scrape_status", ["scraped", "failed"]);
 
   if (SINGLE_SLUG) {

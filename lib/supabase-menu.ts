@@ -23,7 +23,7 @@ const supabase = createClient(
   process.env.SUPABASE_SERVICE_ROLE_KEY!,
   {
     auth: { persistSession: false },
-    global: { fetch: (url, init) => fetch(url, { ...init, cache: "no-store" }) },
+    global: { fetch: (url, init) => fetch(url, { ...init, next: { revalidate: 3600 } }) },
   },
 );
 
@@ -39,9 +39,21 @@ function mapLocation(bl: Record<string, unknown>): LocationInfo {
     name: (bl.location_name as string) || "",
     address: (bl.address as string) || "",
     phone: (bl.phone as string) || "",
-    openingHours: Array.isArray(bl.opening_hours)
-      ? (bl.opening_hours as string[]).join("\n")
-      : (bl.opening_hours as string) || "",
+    openingHours: (() => {
+      const oh = bl.opening_hours;
+      if (Array.isArray(oh)) return (oh as string[]).join("\n");
+      if (typeof oh === "string" && oh.startsWith("[")) {
+        try {
+          const parsed = JSON.parse(oh);
+          if (Array.isArray(parsed)) {
+            // Handle nested arrays like [["Mon: ...","Tue: ..."]]
+            const flat = parsed.flat();
+            return flat.join("\n");
+          }
+        } catch { /* fall through */ }
+      }
+      return (oh as string) || "";
+    })(),
     website: (bl.website as string) || "",
     reviews: {
       rating: (mr.rating as number) ?? 0,
@@ -64,14 +76,15 @@ function mapLocation(bl: Record<string, unknown>): LocationInfo {
 }
 
 function mapMenuCategory(cat: Record<string, unknown>): MenuCategory {
-  const items = ((cat.menu_items as Record<string, unknown>[]) ?? []).map(
-    (mi): MenuItem => ({
-      name: (mi.name as string) || "",
-      description: (mi.description as string) || undefined,
-      imageUrl: (mi.cdn_image_url as string) || "",
-      price: (mi.price as string) || undefined,
-    }),
-  );
+  const items = ((cat.menu_items as Record<string, unknown>[]) ?? [])
+    .map(
+      (mi): MenuItem => ({
+        name: (mi.name as string) || "",
+        description: (mi.description as string) || undefined,
+        imageUrl: (mi.cdn_image_url as string) || "",
+        price: (mi.price as string) || undefined,
+      }),
+    );
   return { name: (cat.name as string) || "", items };
 }
 
@@ -376,4 +389,79 @@ export async function fetchAllBrandsWithLocationsSupabase(): Promise<
       recommendations: [],
     };
   });
+}
+
+// ---------------------------------------------------------------------------
+// Fallback: build minimal BrandData from mall_restaurants table
+// ---------------------------------------------------------------------------
+
+/**
+ * Last-resort fallback for restaurants that exist only in mall_restaurants
+ * (synced via Google Places) but have no brand_menus entry or spreadsheet data.
+ */
+export async function fetchBrandFromMallRestaurantsDB(
+  slug: string,
+): Promise<BrandData | null> {
+  const { data: rows, error } = await supabase
+    .from("mall_restaurants")
+    .select(
+      `
+      name, slug, unit, description,
+      cuisines, dining_styles, opening_hours,
+      rating, review_count,
+      hero_image_url, image_url,
+      price_range, phone, website,
+      shopping_malls!mall_id ( slug, name )
+    `,
+    )
+    .eq("slug", slug);
+
+  if (error || !rows || rows.length === 0) return null;
+
+  const locations: LocationInfo[] = rows.map((r) => {
+    const mallRaw = r.shopping_malls as unknown;
+    const mall = (
+      Array.isArray(mallRaw) ? mallRaw[0] : mallRaw ?? {}
+    ) as Record<string, unknown>;
+    const mallSlug = (mall.slug as string) || "";
+    const mallName = (mall.name as string) || "";
+
+    return {
+      slug: mallSlug,
+      name: mallName,
+      address: r.unit ? `${r.unit}, ${mallName}` : mallName,
+      phone: (r.phone as string) || "",
+      reviews: {
+        rating: (r.rating as number) || 0,
+        count: (r.review_count as number) || 0,
+      },
+      openingHours: (() => {
+        const oh = r.opening_hours;
+        if (Array.isArray(oh)) return (oh as string[]).join("\n");
+        if (typeof oh === "string") return oh;
+        return "";
+      })(),
+      website: (r.website as string) || "",
+      imageUrl: (r.hero_image_url as string) || (r.image_url as string) || "",
+      priceRange: (r.price_range as string) || undefined,
+      cuisine: Array.isArray(r.cuisines) ? (r.cuisines as string[]) : [],
+      diningStyle: Array.isArray(r.dining_styles)
+        ? (r.dining_styles as string[])
+        : [],
+    };
+  });
+
+  return {
+    name: (rows[0].name as string) || slug,
+    slug,
+    locations,
+    description: (rows[0].description as string) || "",
+    amenities: [],
+    menu: [],
+    reviews: [],
+    relatedBrands: {},
+    socialLinks: {},
+    promotions: [],
+    recommendations: [],
+  };
 }

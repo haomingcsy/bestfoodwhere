@@ -55,7 +55,7 @@ export default function ThankYouPage() {
           </Link>
 
           <a
-            href="https://wa.me/6585051684"
+            href="https://wa.me/6582233005"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center justify-center gap-2 rounded-full bg-gradient-to-r from-[#25D366] to-[#128C7E] px-8 py-4 font-heading text-lg font-semibold text-white shadow-[0_10px_30px_rgba(37,211,102,0.3)] transition-all hover:-translate-y-1 hover:shadow-[0_15px_40px_rgba(37,211,102,0.4)]"

@@ -175,12 +175,6 @@ export function FooterD() {
               <p className="font-body text-sm text-white/40">
                 © {year} BestFoodWhere. All rights reserved.
               </p>
-              <p className="font-body text-sm text-white/40">
-                Powered by{" "}
-                <a href="https://quape.com" className="text-bfw-orange hover:underline">
-                  quape.com
-                </a>
-              </p>
             </div>
           </div>
         </div>

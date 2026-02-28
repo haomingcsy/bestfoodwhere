@@ -3,7 +3,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import { MobileNav } from "./MobileNav";
 import { SearchModal } from "./SearchModal";
 import {
@@ -87,6 +87,16 @@ export function Header() {
   const [mobileOpen, setMobileOpen] = useState(false);
   const [searchOpen, setSearchOpen] = useState(false);
   const pathname = usePathname();
+
+  // Auto-open search modal when ?q= is present (e.g. from Google SearchAction)
+  const [initialQuery, setInitialQuery] = useState("");
+  useEffect(() => {
+    const q = new URLSearchParams(window.location.search).get("q") || "";
+    if (q) {
+      setInitialQuery(q);
+      setSearchOpen(true);
+    }
+  }, []);
 
   const ctaHref = "/advertise";
 
@@ -392,7 +402,7 @@ export function Header() {
         ctaHref={ctaHref}
       />
 
-      <SearchModal isOpen={searchOpen} onClose={() => setSearchOpen(false)} />
+      <SearchModal isOpen={searchOpen} onClose={() => setSearchOpen(false)} initialQuery={initialQuery} />
     </header>
   );
 }

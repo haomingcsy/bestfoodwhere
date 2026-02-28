@@ -136,14 +136,19 @@ function getRedirectPath(accountType?: string): string {
 
 export const config = {
   matcher: [
-    /*
-     * Match all request paths except for the ones starting with:
-     * - _next/static (static files)
-     * - _next/image (image optimization files)
-     * - favicon.ico (favicon file)
-     * - public folder assets (images, etc.)
-     * - api routes (handled separately)
-     */
-    "/((?!_next/static|_next/image|favicon.ico|brand|images|public|api).*)",
+    // Only run auth middleware on routes that need it.
+    // Public pages (menu, shopping-malls, cuisine, etc.) skip middleware
+    // so they can be edge-cached by Vercel CDN.
+    "/dashboard/:path*",
+    "/favorites/:path*",
+    "/reviews/:path*",
+    "/deals/:path*",
+    "/settings/:path*",
+    "/restaurant/:path*",
+    "/admin/:path*",
+    "/login",
+    "/signup/:path*",
+    "/forgot-password",
+    "/reset-password",
   ],
 };

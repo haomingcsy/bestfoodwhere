@@ -80,9 +80,45 @@ function slugify(name) {
 }
 
 /**
- * Determine file extension from Content-Type header or URL.
+ * Detect image type from buffer magic bytes.
+ * Returns { ext, mime } or null if unrecognised.
  */
-function getExtension(contentType, url) {
+function detectImageType(buffer) {
+  if (!buffer || buffer.length < 4) return null;
+  // JPEG: FF D8 FF
+  if (buffer[0] === 0xff && buffer[1] === 0xd8 && buffer[2] === 0xff) {
+    return { ext: "jpg", mime: "image/jpeg" };
+  }
+  // PNG: 89 50 4E 47
+  if (buffer[0] === 0x89 && buffer[1] === 0x50 && buffer[2] === 0x4e && buffer[3] === 0x47) {
+    return { ext: "png", mime: "image/png" };
+  }
+  // WebP: RIFF....WEBP
+  if (buffer[0] === 0x52 && buffer[1] === 0x49 && buffer[2] === 0x46 && buffer[3] === 0x46 &&
+      buffer.length > 11 && buffer[8] === 0x57 && buffer[9] === 0x45 && buffer[10] === 0x42 && buffer[11] === 0x50) {
+    return { ext: "webp", mime: "image/webp" };
+  }
+  // GIF: GIF87a or GIF89a
+  if (buffer[0] === 0x47 && buffer[1] === 0x49 && buffer[2] === 0x46) {
+    return { ext: "gif", mime: "image/gif" };
+  }
+  // AVIF: ....ftypavif
+  if (buffer.length > 11 && buffer[4] === 0x66 && buffer[5] === 0x74 && buffer[6] === 0x79 && buffer[7] === 0x70) {
+    return { ext: "avif", mime: "image/avif" };
+  }
+  return null;
+}
+
+/**
+ * Determine file extension from buffer magic bytes, Content-Type header, or URL.
+ * Prefers magic byte detection for accuracy.
+ */
+function getExtension(contentType, url, buffer) {
+  // Prefer magic byte detection
+  if (buffer) {
+    const detected = detectImageType(buffer);
+    if (detected) return detected.ext;
+  }
   const typeMap = {
     "image/jpeg": "jpg",
     "image/jpg": "jpg",
@@ -100,6 +136,18 @@ function getExtension(contentType, url) {
   const match = urlPath.match(/\.(jpe?g|png|webp|gif|avif|svg)$/i);
   if (match) return match[1].toLowerCase().replace("jpeg", "jpg");
   return "jpg"; // default
+}
+
+/**
+ * Get the correct MIME type for uploading, using magic bytes.
+ * For types Supabase Storage may reject (like GIF), returns the detected mime.
+ */
+function getUploadMime(buffer, fallbackContentType) {
+  if (buffer) {
+    const detected = detectImageType(buffer);
+    if (detected) return detected.mime;
+  }
+  return fallbackContentType || "image/jpeg";
 }
 
 /**
@@ -276,7 +324,8 @@ async function processItem(item, brandSlug) {
   }
 
   const { buffer, contentType } = result;
-  const ext = getExtension(contentType, item.original_image_url);
+  const ext = getExtension(contentType, item.original_image_url, buffer);
+  const uploadMime = getUploadMime(buffer, contentType);
   const storagePath = `${brandSlug}/menu_item/${itemSlug}-${idPrefix}.${ext}`;
 
   if (dryRun) {
@@ -287,8 +336,8 @@ async function processItem(item, brandSlug) {
     };
   }
 
-  // Upload to Supabase Storage
-  const cdnUrl = await uploadToStorage(storagePath, buffer, contentType);
+  // Upload to Supabase Storage (use detected mime type for accuracy)
+  const cdnUrl = await uploadToStorage(storagePath, buffer, uploadMime);
 
   // Upsert into menu_item_image_cache
   const { error: cacheError } = await supabase

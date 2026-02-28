@@ -18,10 +18,11 @@ interface RestaurantResult {
 interface SearchModalProps {
   isOpen: boolean;
   onClose: () => void;
+  initialQuery?: string;
 }
 
-export function SearchModal({ isOpen, onClose }: SearchModalProps) {
-  const [query, setQuery] = useState("");
+export function SearchModal({ isOpen, onClose, initialQuery = "" }: SearchModalProps) {
+  const [query, setQuery] = useState(initialQuery);
   const [highlightedIndex, setHighlightedIndex] = useState(-1);
   const [restaurants, setRestaurants] = useState<RestaurantResult[]>([]);
   const [isLoading, setIsLoading] = useState(false);
@@ -29,6 +30,11 @@ export function SearchModal({ isOpen, onClose }: SearchModalProps) {
   const debounceRef = useRef<NodeJS.Timeout | null>(null);
   const abortRef = useRef<AbortController | null>(null);
   const router = useRouter();
+
+  // Sync query with initialQuery when it changes (e.g. from URL ?q= param)
+  useEffect(() => {
+    if (initialQuery) setQuery(initialQuery);
+  }, [initialQuery]);
 
   const filteredMalls = query.trim().length > 0
     ? MALLS_DATA.filter(

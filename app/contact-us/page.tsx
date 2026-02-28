@@ -197,7 +197,7 @@ export default function ContactUsPage() {
 
           <div className="flex flex-col items-center justify-center gap-4 md:flex-row md:gap-5">
             <a
-              href="https://wa.me/6585051684"
+              href="https://wa.me/6582233005"
               target="_blank"
               rel="noopener noreferrer"
               className="group inline-flex items-center gap-3 rounded-full bg-gradient-to-r from-[#25D366] to-[#128C7E] px-8 py-5 font-heading text-lg font-bold text-white shadow-[0_15px_40px_rgba(37,211,102,0.5)] transition-all hover:-translate-y-1 hover:shadow-[0_20px_50px_rgba(37,211,102,0.6)]"
@@ -255,8 +255,8 @@ export default function ContactUsPage() {
               icon={<WhatsAppIcon className="h-[50px] w-[50px]" />}
               title="WhatsApp Us"
               description="Get instant responses via WhatsApp. Our team is available daily from 9am to 9pm."
-              linkHref="https://wa.me/6585051684"
-              linkText="+65 8505 1684"
+              linkHref="https://wa.me/6582233005"
+              linkText="+65 8223 3005"
               gradient="from-[#25D366] to-[#128C7E]"
               glowColor="rgba(37,211,102,0.3)"
             />
@@ -277,8 +277,8 @@ export default function ContactUsPage() {
               icon={<IconPhone className="h-[50px] w-[50px] text-white" />}
               title="Call Us"
               description="Need immediate assistance? Our support team is available Monday to Friday, 9am - 6pm."
-              linkHref="tel:+6585051684"
-              linkText="+65 8505 1684"
+              linkHref="tel:+6582233005"
+              linkText="+65 8223 3005"
               gradient="from-bfw-orange to-[#ff8c66]"
               glowColor="rgba(255,106,61,0.3)"
             />
@@ -542,7 +542,7 @@ export default function ContactUsPage() {
             </p>
             <div className="flex flex-col items-center justify-center gap-4 md:flex-row">
               <a
-                href="https://wa.me/6585051684"
+                href="https://wa.me/6582233005"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-3 rounded-full bg-gradient-to-r from-[#25D366] to-[#128C7E] px-8 py-4 font-heading text-lg font-semibold text-white shadow-[0_10px_30px_rgba(37,211,102,0.3)] transition-all hover:-translate-y-1 hover:shadow-[0_15px_40px_rgba(37,211,102,0.4)]"

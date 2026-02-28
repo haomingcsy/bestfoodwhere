@@ -104,6 +104,17 @@ export default function RootLayout({
   return (
     <html lang="en" className={`${montserrat.variable} ${atkinson.variable}`}>
       <head>
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-WZ102NMT8M" />
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+              gtag('config', 'G-WZ102NMT8M');
+            `,
+          }}
+        />
         {/* Structured Data for SEO - Site-wide schemas */}
         <JsonLd data={websiteSchema} />
         <JsonLd data={organizationSchema} />

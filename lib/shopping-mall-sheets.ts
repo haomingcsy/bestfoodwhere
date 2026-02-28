@@ -7,6 +7,7 @@ import type {
   ParkingInfo,
   ShoppingMall,
 } from "@/types/shopping-mall";
+import type { BrandData } from "@/types/brand";
 import { getMenuSlugsForSync } from "./menu-registry";
 
 const SHOPPING_MALL_SPREADSHEET_ID =
@@ -578,4 +579,58 @@ export async function fetchAllMalls(): Promise<ShoppingMall[]> {
   }
 
   return malls;
+}
+
+// --- Lookup a restaurant by slug across all malls, returning BrandData ---
+export async function fetchBrandFromMallSheets(
+  slug: string,
+): Promise<BrandData | null> {
+  const mallList = await fetchMallList();
+
+  // Fetch all malls in parallel
+  const allResults = await Promise.all(
+    mallList.map(async (mall) => ({
+      mall,
+      restaurants: await fetchMallRestaurants(mall.slug),
+    })),
+  );
+
+  // Find the restaurant and collect all locations
+  let matchName = "";
+  const locations: BrandData["locations"] = [];
+
+  for (const { mall, restaurants } of allResults) {
+    const match = restaurants.find((r) => r.slug === slug);
+    if (!match) continue;
+    if (!matchName) matchName = match.name;
+    locations.push({
+      slug: mall.slug,
+      name: mall.name,
+      address: match.unit ? `${match.unit}, ${mall.name}` : mall.name,
+      phone: match.phone || "",
+      reviews: { rating: match.rating, count: match.reviewCount },
+      openingHours: match.openingHours || "",
+      website: match.website || "",
+      imageUrl: match.imageUrl || "",
+      priceRange: match.priceRange,
+      cuisine: match.cuisines,
+      diningStyle: match.diningStyles,
+    });
+  }
+
+  if (locations.length === 0) return null;
+
+  return {
+    name: matchName,
+    slug,
+    locations,
+    description: "",
+    amenities: [],
+    menu: [],
+    reviews: [],
+    relatedBrands: {},
+    socialLinks: {},
+    promotions: [],
+    recommendations: [],
+  };
 }

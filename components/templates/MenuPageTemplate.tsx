@@ -1,7 +1,7 @@
 "use client";
 
 import { useState, useMemo, useEffect } from "react";
-import { usePathname, useSearchParams } from "next/navigation";
+import { usePathname } from "next/navigation";
 import type { BrandData, LocationInfo } from "@/types/brand";
 import { AmenitiesGrid } from "@/components/sections/menu/AmenitiesGrid";
 import { DescriptionSection } from "@/components/sections/menu/DescriptionSection";
@@ -89,7 +89,6 @@ export function MenuPageTemplate({
   nutritionData,
 }: MenuPageTemplateProps) {
   const pathname = usePathname();
-  const searchParams = useSearchParams();
 
   const [locationSlug, setLocationSlug] = useState(
     () =>
@@ -97,12 +96,17 @@ export function MenuPageTemplate({
       brandData.locations[0]?.slug,
   );
 
-  // Sync URL with default location on initial mount if no location param present
+  // On client mount, read ?location= from URL (SSG pages don't have it server-side)
   useEffect(() => {
-    if (!searchParams.get("location") && locationSlug) {
-      const next = new URLSearchParams(searchParams.toString());
-      next.set("location", locationSlug);
-      window.history.replaceState(null, "", `${pathname}?${next.toString()}`);
+    const params = new URLSearchParams(window.location.search);
+    const urlLocation = params.get("location");
+    if (urlLocation) {
+      const matched = pickLocation(brandData, urlLocation);
+      if (matched && matched.slug !== locationSlug) {
+        setLocationSlug(matched.slug);
+      }
+    } else if (locationSlug) {
+      window.history.replaceState(null, "", `${pathname}?location=${locationSlug}`);
     }
   }, []); // eslint-disable-line react-hooks/exhaustive-deps
 

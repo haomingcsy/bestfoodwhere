@@ -1,7 +1,7 @@
 "use client";
 
 import type { LocationInfo } from "@/types/brand";
-import { usePathname, useRouter, useSearchParams } from "next/navigation";
+import { usePathname, useRouter } from "next/navigation";
 import { useMemo } from "react";
 
 interface Props {
@@ -13,7 +13,6 @@ interface Props {
 export function LocationSelect({ locations, value, onLocationChange }: Props) {
   const router = useRouter();
   const pathname = usePathname();
-  const searchParams = useSearchParams();
 
   const selected = useMemo(() => {
     if (!value) return locations[0]?.slug ?? "";
@@ -29,7 +28,7 @@ export function LocationSelect({ locations, value, onLocationChange }: Props) {
         value={selected}
         onChange={(event) => {
           const slug = event.target.value;
-          const next = new URLSearchParams(searchParams.toString());
+          const next = new URLSearchParams(window.location.search);
           next.set("location", slug);
           router.replace(`${pathname}?${next.toString()}`, { scroll: false });
           if (onLocationChange) {
