@@ -3,6 +3,15 @@
 -- Description: Rename hubspot_contact_id columns to ghl_contact_id across all tables
 --              as CRM integration moves from HubSpot to GoHighLevel (GHL).
 
-ALTER TABLE public.restaurant_profiles RENAME COLUMN hubspot_contact_id TO ghl_contact_id;
-ALTER TABLE public.career_applications RENAME COLUMN hubspot_contact_id TO ghl_contact_id;
-ALTER TABLE public.outreach_contacts RENAME COLUMN hubspot_contact_id TO ghl_contact_id;
+DO $$
+BEGIN
+  IF EXISTS (SELECT 1 FROM information_schema.columns WHERE table_schema = 'public' AND table_name = 'restaurant_profiles' AND column_name = 'hubspot_contact_id') THEN
+    ALTER TABLE public.restaurant_profiles RENAME COLUMN hubspot_contact_id TO ghl_contact_id;
+  END IF;
+  IF EXISTS (SELECT 1 FROM information_schema.columns WHERE table_schema = 'public' AND table_name = 'career_applications' AND column_name = 'hubspot_contact_id') THEN
+    ALTER TABLE public.career_applications RENAME COLUMN hubspot_contact_id TO ghl_contact_id;
+  END IF;
+  IF EXISTS (SELECT 1 FROM information_schema.columns WHERE table_schema = 'public' AND table_name = 'outreach_contacts' AND column_name = 'hubspot_contact_id') THEN
+    ALTER TABLE public.outreach_contacts RENAME COLUMN hubspot_contact_id TO ghl_contact_id;
+  END IF;
+END $$;
