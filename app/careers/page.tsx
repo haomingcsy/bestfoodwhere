@@ -367,7 +367,7 @@ export default function CareerPage() {
     try {
       const urlParams = new URLSearchParams(window.location.search);
 
-      const res = await fetch("/api/hubspot/contacts", {
+      const res = await fetch("/api/crm/contacts", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({

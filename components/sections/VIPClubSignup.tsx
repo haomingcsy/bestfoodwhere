@@ -74,7 +74,7 @@ export function VIPClubSignup() {
           ? new URLSearchParams(window.location.search)
           : new URLSearchParams();
 
-      const response = await fetch("/api/hubspot/contacts", {
+      const response = await fetch("/api/crm/contacts", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({

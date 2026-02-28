@@ -60,7 +60,7 @@ export function ReportIssueModal({
     const subject = `${form.issueType} - ${brandName}${locationName ? ` (${locationName})` : ""}`;
 
     try {
-      const res = await fetch("/api/hubspot/contacts", {
+      const res = await fetch("/api/crm/contacts", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({

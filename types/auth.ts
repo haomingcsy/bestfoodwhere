@@ -47,7 +47,7 @@ export interface RestaurantProfile {
   subscription_tier: SubscriptionTier;
   subscription_status: SubscriptionStatus | null;
   subscription_id: string | null;
-  hubspot_contact_id: string | null;
+  ghl_contact_id: string | null;
   created_at: string;
   updated_at: string;
 }

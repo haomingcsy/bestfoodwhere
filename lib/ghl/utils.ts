@@ -1,12 +1,9 @@
 /**
- * HubSpot Integration Utilities for BestFoodWhere
+ * CRM Integration Utilities for BestFoodWhere
  */
 
 import type { TrafficChannel, N8nWebhookPayload } from "./types";
 
-/**
- * Split a full name into first and last name
- */
 export function splitName(fullName: string): {
   firstName: string;
   lastName: string;
@@ -24,9 +21,6 @@ export function splitName(fullName: string): {
   return { firstName, lastName };
 }
 
-/**
- * Determine traffic channel from UTM parameters and page URL
- */
 export function getTrafficChannel(params: {
   utm_source?: string;
   utm_medium?: string;
@@ -36,12 +30,10 @@ export function getTrafficChannel(params: {
   const medium = (params.utm_medium || "").toLowerCase();
   const pageUrl = (params.pageUrl || "").toLowerCase();
 
-  // ChatGPT referrals
   if (source.includes("chatgpt") || pageUrl.includes("chatgpt.com")) {
     return "chatgpt";
   }
 
-  // Meta (Facebook/Instagram)
   if (
     source.includes("facebook") ||
     source.includes("meta") ||
@@ -54,17 +46,14 @@ export function getTrafficChannel(params: {
     return "meta";
   }
 
-  // LinkedIn
   if (source.includes("linkedin")) {
     return "linkedin";
   }
 
-  // TikTok
   if (source.includes("tiktok")) {
     return "tiktok";
   }
 
-  // Google
   if (source.includes("google")) {
     if (medium === "cpc" || medium === "paid") {
       return "google_ads";
@@ -72,17 +61,14 @@ export function getTrafficChannel(params: {
     return "seo";
   }
 
-  // Generic paid ads
   if (medium === "cpc" || medium === "paid" || medium === "ppc") {
     return "paid_ads";
   }
 
-  // Referral traffic (has source but not paid)
   if (source && source !== "direct" && source !== "(direct)") {
     return "referral";
   }
 
-  // Direct or SEO (organic)
   if (!source || source === "direct" || source === "(direct)") {
     return "direct";
   }
@@ -90,9 +76,6 @@ export function getTrafficChannel(params: {
   return "seo";
 }
 
-/**
- * Trigger n8n webhook with contact data
- */
 export async function triggerN8nWebhook(
   webhookUrl: string,
   payload: N8nWebhookPayload,
@@ -126,12 +109,9 @@ export async function triggerN8nWebhook(
   }
 }
 
-/**
- * Validate Singapore phone number format
- */
 export function validateSGPhone(phone: string): boolean {
   if (!phone || !phone.trim()) {
-    return true; // Empty is valid (optional field)
+    return true;
   }
 
   const cleanPhone = phone.replace(/[\s\-()]/g, "");
@@ -139,15 +119,11 @@ export function validateSGPhone(phone: string): boolean {
   return sgPhoneRegex.test(cleanPhone);
 }
 
-/**
- * Clean and format phone number
- */
 export function formatPhone(phone: string): string {
   if (!phone) return "";
 
   const cleaned = phone.replace(/[\s\-()]/g, "");
 
-  // Add +65 prefix if not present
   if (cleaned.length === 8 && /^[689]/.test(cleaned)) {
     return `+65${cleaned}`;
   }
@@ -159,17 +135,11 @@ export function formatPhone(phone: string): string {
   return cleaned;
 }
 
-/**
- * Validate email format
- */
 export function validateEmail(email: string): boolean {
   const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
   return emailRegex.test(email);
 }
 
-/**
- * Calculate initial lead score based on form data
- */
 export function calculateInitialLeadScore(params: {
   source: string;
   hasPhone: boolean;
@@ -179,7 +149,6 @@ export function calculateInitialLeadScore(params: {
 }): number {
   let score = 0;
 
-  // Source-based scoring
   if (params.source === "contact_form") {
     score += 25;
   } else if (params.source === "bfw_vip_club") {
@@ -188,21 +157,18 @@ export function calculateInitialLeadScore(params: {
     score += 10;
   }
 
-  // Phone provided (higher intent)
   if (params.hasPhone) {
     score += 15;
   }
 
-  // Traffic channel scoring
   if (params.trafficChannel === "chatgpt") {
-    score += 10; // High intent - actively searching
+    score += 10;
   } else if (params.trafficChannel === "google_ads") {
     score += 8;
   } else if (params.trafficChannel === "seo") {
     score += 5;
   }
 
-  // Partnership inquiry (highest intent)
   if (
     params.subject?.toLowerCase().includes("partnership") ||
     params.subject?.toLowerCase().includes("business")
@@ -210,7 +176,6 @@ export function calculateInitialLeadScore(params: {
     score += 30;
   }
 
-  // Has a message (engaged)
   if (params.hasMessage) {
     score += 5;
   }

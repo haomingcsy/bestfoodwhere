@@ -145,9 +145,9 @@ export function ConsumerSignupForm() {
           console.error("Consumer profile creation error:", consumerError);
         }
 
-        // Sync with HubSpot
+        // Sync with GHL
         try {
-          await fetch("/api/hubspot/contacts", {
+          await fetch("/api/crm/contacts", {
             method: "POST",
             headers: { "Content-Type": "application/json" },
             body: JSON.stringify({
@@ -159,7 +159,7 @@ export function ConsumerSignupForm() {
             }),
           });
         } catch {
-          // HubSpot sync failure is non-critical
+          // CRM sync failure is non-critical
         }
 
         router.push("/dashboard");

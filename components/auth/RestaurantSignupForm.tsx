@@ -234,9 +234,9 @@ export function RestaurantSignupForm() {
         subscription_status: form.selectedTier === "basic" ? "active" : null,
       });
 
-      // Sync with HubSpot
+      // Sync with GHL
       try {
-        await fetch("/api/hubspot/contacts", {
+        await fetch("/api/crm/contacts", {
           method: "POST",
           headers: { "Content-Type": "application/json" },
           body: JSON.stringify({
@@ -248,7 +248,7 @@ export function RestaurantSignupForm() {
           }),
         });
       } catch {
-        // HubSpot sync failure is non-critical
+        // CRM sync failure is non-critical
       }
 
       // For paid tiers, redirect to Stripe checkout

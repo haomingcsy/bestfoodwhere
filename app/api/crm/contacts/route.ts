@@ -1,16 +1,16 @@
 /**
- * Unified HubSpot Contacts API Endpoint
+ * Unified CRM Contacts API Endpoint (GoHighLevel)
  *
  * Handles all form submissions from BFW website:
  * - Newsletter signup (popup)
  * - VIP Club signup (footer + standalone)
  * - Contact form
  *
- * Creates/updates contacts in HubSpot and triggers n8n webhooks for automation.
+ * Creates/updates contacts in GHL and triggers n8n webhooks for automation.
  */
 
 import { NextRequest, NextResponse } from "next/server";
-import { getHubSpotClient } from "@/lib/hubspot/client";
+import { getGHLClient } from "@/lib/ghl/client";
 import {
   splitName,
   getTrafficChannel,
@@ -19,13 +19,13 @@ import {
   validateSGPhone,
   formatPhone,
   calculateInitialLeadScore,
-} from "@/lib/hubspot/utils";
+} from "@/lib/ghl/utils";
 import type {
   ContactAPIRequest,
   ContactAPIResponse,
   N8nWebhookPayload,
   FormSource,
-} from "@/lib/hubspot/types";
+} from "@/lib/ghl/types";
 
 export async function POST(
   request: NextRequest,
@@ -91,12 +91,12 @@ export async function POST(
       subject: body.subject,
     });
 
-    // Get HubSpot client
-    const hubspot = getHubSpotClient();
+    // Get GHL client
+    const ghl = getGHLClient();
 
-    // Create or update contact in HubSpot
+    // Create or update contact in GHL
     // Only sending basic contact properties
-    const result = await hubspot.createOrUpdateContact({
+    const result = await ghl.createOrUpdateContact({
       email,
       firstName,
       lastName,
@@ -104,11 +104,20 @@ export async function POST(
     });
 
     if (!result.success) {
-      console.error("HubSpot contact creation failed:", result.error);
+      console.error("GHL contact creation failed:", result.error);
       return NextResponse.json(
         { success: false, error: result.error || "Failed to create contact" },
         { status: 500 },
       );
+    }
+
+    // Add tags to the contact if present
+    if (body.tags && body.tags.length > 0 && result.contactId) {
+      const tagResult = await ghl.addTags(result.contactId, body.tags);
+      if (!tagResult.success) {
+        console.error("GHL tag addition failed:", tagResult.error);
+        // Don't fail the whole request for tag errors - continue with webhook
+      }
     }
 
     // Trigger n8n webhook for automation
@@ -183,7 +192,7 @@ function getWebhookUrl(source: FormSource): string | null {
 export async function GET(): Promise<NextResponse> {
   return NextResponse.json({
     status: "ok",
-    service: "hubspot-contacts",
+    service: "ghl-contacts",
     timestamp: new Date().toISOString(),
   });
 }

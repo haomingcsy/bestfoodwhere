@@ -36,7 +36,7 @@ interface RestaurantProfile {
   stripe_customer_id: string | null;
   subscription_tier: SubscriptionTier;
   subscription_status: string | null;
-  hubspot_contact_id: string | null;
+  ghl_contact_id: string | null;
 }
 
 interface UserState {

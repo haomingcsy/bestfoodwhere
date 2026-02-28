@@ -1,8 +1,9 @@
 /**
- * HubSpot Integration Types for BestFoodWhere
+ * GoHighLevel Integration Types for BestFoodWhere
  */
 
 // ============ Form Submission Types ============
+// These are app-level types, not GHL-specific
 
 export type FormSource =
   | "bfw_website"
@@ -39,38 +40,32 @@ export interface FormSubmissionPayload {
   utm_term?: string;
 }
 
-// ============ HubSpot Contact Types ============
+// ============ GHL Contact Types ============
 
-export interface HubSpotContactProperties {
+export interface GHLContactProperties {
   email: string;
-  firstname?: string;
-  lastname?: string;
+  firstName?: string;
+  lastName?: string;
   phone?: string;
-  // BFW Custom Properties
-  bfw_source?: FormSource;
-  bfw_traffic_channel?: TrafficChannel;
-  bfw_tags?: string;
-  bfw_lead_score?: number;
-  bfw_source_url?: string;
-  bfw_subject?: string;
-  bfw_message?: string;
-  // Career-specific Properties
-  bfw_area_of_interest?: string;
-  bfw_availability?: string;
-  bfw_resume_url?: string;
-  // UTM Properties
-  utm_source?: string;
-  utm_medium?: string;
-  utm_campaign?: string;
-  utm_content?: string;
-  utm_term?: string;
+  tags?: string[];
+  customFields?: GHLCustomField[];
 }
 
-export interface HubSpotContact {
+export interface GHLCustomField {
+  key: string;
+  field_value: string;
+}
+
+export interface GHLContact {
   id: string;
-  properties: HubSpotContactProperties;
-  createdAt: string;
-  updatedAt: string;
+  firstName?: string;
+  lastName?: string;
+  email?: string;
+  phone?: string;
+  tags?: string[];
+  customFields?: Array<{ id: string; key: string; value: string }>;
+  dateAdded?: string;
+  dateUpdated?: string;
 }
 
 export interface CreateContactInput {
@@ -78,7 +73,8 @@ export interface CreateContactInput {
   firstName?: string;
   lastName?: string;
   phone?: string;
-  properties?: Partial<HubSpotContactProperties>;
+  tags?: string[];
+  customFields?: GHLCustomField[];
 }
 
 export interface CreateContactResult {
@@ -88,26 +84,20 @@ export interface CreateContactResult {
   error?: string;
 }
 
-// ============ HubSpot API Response Types ============
+// ============ GHL API Response Types ============
 
-export interface HubSpotAPIContact {
-  id: string;
-  properties: Record<string, string | null>;
-  createdAt: string;
-  updatedAt: string;
-  archived: boolean;
+export interface GHLAPIResponse {
+  contact: GHLContact;
 }
 
-export interface HubSpotAPIError {
-  status: string;
-  message: string;
-  correlationId: string;
-  category: string;
-}
-
-export interface HubSpotSearchResponse {
+export interface GHLSearchResponse {
+  contacts: GHLContact[];
   total: number;
-  results: HubSpotAPIContact[];
+}
+
+export interface GHLUpsertResponse {
+  contact: GHLContact;
+  new: boolean;
 }
 
 // ============ n8n Webhook Types ============

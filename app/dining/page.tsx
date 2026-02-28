@@ -675,7 +675,7 @@ function NewsletterSection() {
     setError("");
 
     try {
-      const response = await fetch("/api/hubspot/contacts", {
+      const response = await fetch("/api/crm/contacts", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({

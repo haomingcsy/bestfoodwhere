@@ -22,11 +22,11 @@ export function RecipeNewsletterCard() {
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ email }),
       }).catch(() => {
-        // Silently fail - HubSpot is the primary store
+        // Silently fail - GHL is the primary store
       });
 
-      // Save to HubSpot and trigger n8n
-      const response = await fetch("/api/hubspot/contacts", {
+      // Save to GHL and trigger n8n
+      const response = await fetch("/api/crm/contacts", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({

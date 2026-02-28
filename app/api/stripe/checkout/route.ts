@@ -39,7 +39,7 @@ export async function POST(request: NextRequest) {
 
     // For free tier or enterprise (custom), submit directly without payment
     if (tier === "basic" || tier === "enterprise") {
-      // Store the submission in your database or send to HubSpot/n8n
+      // Store the submission in your database or send to GHL/n8n
       // For now, we'll redirect to success with the submission info
       const params = new URLSearchParams({
         tier,

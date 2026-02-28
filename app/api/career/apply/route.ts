@@ -2,13 +2,13 @@
  * Career Application API
  * Handles career form submissions:
  * 1. Saves to Supabase career_applications table
- * 2. Creates/updates contact in HubSpot
+ * 2. Creates/updates contact in GHL
  * 3. Triggers n8n webhook for automation
  */
 
 import { NextRequest, NextResponse } from "next/server";
 import { getSupabaseServerClient } from "@/lib/supabase/client";
-import { getHubSpotClient } from "@/lib/hubspot/client";
+import { getGHLClient } from "@/lib/ghl/client";
 import {
   splitName,
   getTrafficChannel,
@@ -17,8 +17,8 @@ import {
   validateSGPhone,
   formatPhone,
   calculateInitialLeadScore,
-} from "@/lib/hubspot/utils";
-import type { N8nWebhookPayload } from "@/lib/hubspot/types";
+} from "@/lib/ghl/utils";
+import type { N8nWebhookPayload } from "@/lib/ghl/types";
 import type {
   CareerApplicationPayload,
   CareerApplicationResponse,
@@ -79,7 +79,7 @@ export async function POST(
     const supabase = getSupabaseServerClient();
     if (!supabase) {
       console.error("Supabase client not available");
-      // Continue without Supabase - still sync to HubSpot
+      // Continue without Supabase - still sync to GHL
     }
 
     let applicationId: string | undefined;
@@ -109,56 +109,76 @@ export async function POST(
 
       if (dbError) {
         console.error("Failed to save application to database:", dbError);
-        // Continue - HubSpot sync is more important
+        // Continue - GHL sync is more important
       } else {
         applicationId = application?.id;
       }
     }
 
-    // Create/update contact in HubSpot
-    const hubspot = getHubSpotClient();
-    const hubspotResult = await hubspot.createOrUpdateContact({
+    // Create/update contact in GHL
+    const ghl = getGHLClient();
+    const ghlResult = await ghl.createOrUpdateContact({
       email,
       firstName,
       lastName,
       phone,
-      properties: {
-        bfw_source: "career_application",
-        bfw_traffic_channel: trafficChannel,
-        bfw_tags: "career_application",
-        bfw_lead_score: leadScore,
-        bfw_source_url: body.pageUrl,
-        bfw_message: body.message,
-        bfw_area_of_interest: body.area_of_interest,
-        bfw_availability: body.availability,
-        bfw_resume_url: body.resume_url,
-        utm_source: body.utm_source,
-        utm_medium: body.utm_medium,
-        utm_campaign: body.utm_campaign,
-        utm_content: body.utm_content,
-        utm_term: body.utm_term,
-      },
+      tags: ["career_application"],
+      customFields: [
+        { key: "bfw_source", field_value: "career_application" },
+        { key: "bfw_traffic_channel", field_value: trafficChannel },
+        { key: "bfw_lead_score", field_value: String(leadScore) },
+        ...(body.pageUrl
+          ? [{ key: "bfw_source_url", field_value: body.pageUrl }]
+          : []),
+        ...(body.message
+          ? [{ key: "bfw_message", field_value: body.message }]
+          : []),
+        ...(body.area_of_interest
+          ? [{ key: "bfw_area_of_interest", field_value: body.area_of_interest }]
+          : []),
+        ...(body.availability
+          ? [{ key: "bfw_availability", field_value: body.availability }]
+          : []),
+        ...(body.resume_url
+          ? [{ key: "bfw_resume_url", field_value: body.resume_url }]
+          : []),
+        ...(body.utm_source
+          ? [{ key: "utm_source", field_value: body.utm_source }]
+          : []),
+        ...(body.utm_medium
+          ? [{ key: "utm_medium", field_value: body.utm_medium }]
+          : []),
+        ...(body.utm_campaign
+          ? [{ key: "utm_campaign", field_value: body.utm_campaign }]
+          : []),
+        ...(body.utm_content
+          ? [{ key: "utm_content", field_value: body.utm_content }]
+          : []),
+        ...(body.utm_term
+          ? [{ key: "utm_term", field_value: body.utm_term }]
+          : []),
+      ],
     });
 
-    if (!hubspotResult.success) {
-      console.error("HubSpot contact creation failed:", hubspotResult.error);
+    if (!ghlResult.success) {
+      console.error("GHL contact creation failed:", ghlResult.error);
       // Don't fail the whole request - application is saved to DB
     }
 
-    // Update application with HubSpot contact ID
-    if (supabase && applicationId && hubspotResult.contactId) {
+    // Update application with GHL contact ID
+    if (supabase && applicationId && ghlResult.contactId) {
       await supabase
         .from("career_applications")
-        .update({ hubspot_contact_id: hubspotResult.contactId })
+        .update({ ghl_contact_id: ghlResult.contactId })
         .eq("id", applicationId);
     }
 
     // Trigger n8n webhook for automation
     const webhookUrl = process.env.N8N_WEBHOOK_CAREER;
-    if (webhookUrl && hubspotResult.contactId) {
+    if (webhookUrl && ghlResult.contactId) {
       const webhookPayload: N8nWebhookPayload = {
-        contactId: hubspotResult.contactId,
-        isNew: hubspotResult.isNew || false,
+        contactId: ghlResult.contactId,
+        isNew: ghlResult.isNew || false,
         email,
         firstName,
         lastName,
@@ -184,7 +204,7 @@ export async function POST(
     return NextResponse.json({
       success: true,
       applicationId,
-      hubspotContactId: hubspotResult.contactId,
+      ghlContactId: ghlResult.contactId,
     });
   } catch (error) {
     console.error("Career application error:", error);

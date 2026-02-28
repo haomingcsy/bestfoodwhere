@@ -9,7 +9,7 @@ The outreach system uses:
 - **Supabase** for storing campaigns, contacts, and tracking data
 - **n8n** for workflow automation and email orchestration
 - **Resend** for sending emails (use separate subdomain: `outreach.bestfoodwhere.sg`)
-- **HubSpot** for CRM integration
+- **GoHighLevel (GHL)** for CRM integration
 - **OpenAI GPT-4** for email personalization
 
 ## Architecture
@@ -29,7 +29,7 @@ The outreach system uses:
             ┌──────────────────┼──────────────────┐
             ▼                  ▼                  ▼
      ┌─────────────┐   ┌─────────────┐   ┌─────────────┐
-     │   Resend    │   │   HubSpot   │   │   OpenAI    │
+     │   Resend    │   │     GHL     │   │   OpenAI    │
      │   (email)   │   │   (CRM)     │   │   (AI)      │
      └─────────────┘   └─────────────┘   └─────────────┘
 ```
@@ -42,7 +42,8 @@ Set these in your n8n instance:
 SUPABASE_URL=https://your-project.supabase.co
 SUPABASE_SERVICE_ROLE_KEY=your-service-role-key
 RESEND_API_KEY=re_xxxxxxxxxx
-HUBSPOT_ACCESS_TOKEN=pat-xx-xxxxxxxx
+GHL_API_KEY=your-ghl-api-key
+GHL_LOCATION_ID=your-location-id
 OPENAI_API_KEY=sk-xxxxxxxxxx
 BFW_WEBHOOK_SECRET=your-secure-secret
 BFW_API_URL=https://bestfoodwhere.sg
@@ -97,7 +98,7 @@ BFW_API_URL=https://bestfoodwhere.sg
         │    [6. Update Contact Status → "sent"]
         │           │
         │           ▼
-        │    [7. Create/Update HubSpot Contact]
+        │    [7. Create/Update GHL Contact]
         │           │
         │           ▼
         │    [8. Log Email in Supabase]
@@ -178,20 +179,23 @@ SET status = 'sent', sent_at = NOW()
 WHERE id = {contact.id}
 ```
 
-#### 7. HubSpot Contact
+#### 7. GHL Contact
 
 ```javascript
-POST https://api.hubapi.com/crm/v3/objects/contacts
+POST https://services.leadconnectorhq.com/contacts/
+Headers: {
+  "Authorization": "Bearer ${GHL_API_KEY}",
+  "Version": "2021-07-28"
+}
 {
-  "properties": {
-    "email": contact.email,
-    "firstname": contact.first_name,
-    "lastname": contact.last_name,
-    "company": contact.company,
-    "website": contact.website,
-    "bfw_source": "outreach",
-    "bfw_tags": "food-blogger,outreach-campaign"
-  }
+  "locationId": GHL_LOCATION_ID,
+  "email": contact.email,
+  "firstName": contact.first_name,
+  "lastName": contact.last_name,
+  "companyName": contact.company,
+  "website": contact.website,
+  "source": "outreach",
+  "tags": ["food-blogger", "outreach-campaign"]
 }
 ```
 
@@ -283,7 +287,7 @@ If you have email parsing set up (e.g., Mailparser, or n8n's IMAP node):
 [5. GPT-4: Analyze if positive/interested]
         │
         ▼
-[6. If positive: Create task in HubSpot/Slack alert]
+[6. If positive: Create task in GHL/Slack alert]
 ```
 
 ---

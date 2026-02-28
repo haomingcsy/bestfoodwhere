@@ -38,7 +38,7 @@ export interface CareerApplication {
   message?: string;
   resume_url?: string;
   job_id?: string;
-  hubspot_contact_id?: string;
+  ghl_contact_id?: string;
   utm_source?: string;
   utm_medium?: string;
   utm_campaign?: string;
@@ -87,7 +87,7 @@ export interface CareerUploadResponse {
 export interface CareerApplicationResponse {
   success: boolean;
   applicationId?: string;
-  hubspotContactId?: string;
+  ghlContactId?: string;
   error?: string;
 }
 

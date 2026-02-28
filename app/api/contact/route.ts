@@ -2,11 +2,11 @@
  * Contact Form API Endpoint
  *
  * Handles contact form submissions from the BFW website.
- * Creates contacts in HubSpot and triggers n8n webhook for automation.
+ * Creates contacts in GHL and triggers n8n webhook for automation.
  */
 
 import { NextRequest, NextResponse } from "next/server";
-import { getHubSpotClient } from "@/lib/hubspot/client";
+import { getGHLClient } from "@/lib/ghl/client";
 import {
   splitName,
   getTrafficChannel,
@@ -15,8 +15,8 @@ import {
   validateSGPhone,
   formatPhone,
   calculateInitialLeadScore,
-} from "@/lib/hubspot/utils";
-import type { N8nWebhookPayload } from "@/lib/hubspot/types";
+} from "@/lib/ghl/utils";
+import type { N8nWebhookPayload } from "@/lib/ghl/types";
 
 interface ContactPayload {
   name: string;
@@ -89,33 +89,49 @@ export async function POST(request: NextRequest) {
       subject,
     });
 
-    // Get HubSpot client
-    const hubspot = getHubSpotClient();
+    // Get GHL client
+    const ghl = getGHLClient();
 
-    // Create or update contact in HubSpot
-    const result = await hubspot.createOrUpdateContact({
+    // Create or update contact in GHL
+    const result = await ghl.createOrUpdateContact({
       email: cleanEmail,
       firstName,
       lastName,
       phone: formattedPhone,
-      properties: {
-        bfw_source: "contact_form",
-        bfw_traffic_channel: trafficChannel,
-        bfw_tags: "contact_form",
-        bfw_lead_score: leadScore,
-        bfw_source_url: pageUrl,
-        bfw_subject: subject,
-        bfw_message: message,
-        utm_source: payload.utm_source,
-        utm_medium: payload.utm_medium,
-        utm_campaign: payload.utm_campaign,
-        utm_content: payload.utm_content,
-        utm_term: payload.utm_term,
-      },
+      tags: ["contact_form"],
+      customFields: [
+        { key: "bfw_source", field_value: "contact_form" },
+        { key: "bfw_traffic_channel", field_value: trafficChannel },
+        { key: "bfw_lead_score", field_value: String(leadScore) },
+        ...(pageUrl
+          ? [{ key: "bfw_source_url", field_value: pageUrl }]
+          : []),
+        ...(subject
+          ? [{ key: "bfw_subject", field_value: subject }]
+          : []),
+        ...(message
+          ? [{ key: "bfw_message", field_value: message }]
+          : []),
+        ...(payload.utm_source
+          ? [{ key: "utm_source", field_value: payload.utm_source }]
+          : []),
+        ...(payload.utm_medium
+          ? [{ key: "utm_medium", field_value: payload.utm_medium }]
+          : []),
+        ...(payload.utm_campaign
+          ? [{ key: "utm_campaign", field_value: payload.utm_campaign }]
+          : []),
+        ...(payload.utm_content
+          ? [{ key: "utm_content", field_value: payload.utm_content }]
+          : []),
+        ...(payload.utm_term
+          ? [{ key: "utm_term", field_value: payload.utm_term }]
+          : []),
+      ],
     });
 
     if (!result.success) {
-      console.error("HubSpot contact creation failed:", result.error);
+      console.error("GHL contact creation failed:", result.error);
       return NextResponse.json(
         { error: result.error || "Failed to submit contact form" },
         { status: 500 },

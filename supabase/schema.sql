@@ -51,8 +51,8 @@ CREATE TABLE public.restaurant_profiles (
   subscription_tier TEXT CHECK (subscription_tier IN ('basic', 'featured', 'premium', 'enterprise')) DEFAULT 'basic',
   subscription_status TEXT CHECK (subscription_status IN ('active', 'past_due', 'canceled', 'trialing', NULL)),
   subscription_id TEXT,
-  -- HubSpot integration
-  hubspot_contact_id TEXT,
+  -- GHL integration
+  ghl_contact_id TEXT,
   created_at TIMESTAMPTZ DEFAULT NOW(),
   updated_at TIMESTAMPTZ DEFAULT NOW()
 );

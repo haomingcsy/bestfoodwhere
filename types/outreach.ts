@@ -86,7 +86,7 @@ export interface OutreachContact {
   personalization_data?: Record<string, unknown>;
 
   // CRM
-  hubspot_contact_id?: string;
+  ghl_contact_id?: string;
 
   // Status
   status: ContactStatus;

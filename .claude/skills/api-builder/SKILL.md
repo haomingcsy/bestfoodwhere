@@ -11,7 +11,7 @@ Create robust Next.js App Router API routes with proper validation, error handli
 
 - Creating new API endpoints
 - Building form submission handlers
-- Integrating external services (Stripe, HubSpot)
+- Integrating external services (Stripe, GHL)
 - Handling webhooks
 - Implementing CRUD operations
 

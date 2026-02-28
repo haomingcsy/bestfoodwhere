@@ -229,7 +229,7 @@ export default function AboutPage() {
         resumeUrl = uploadData.url;
       }
 
-      // Submit application to career API (which syncs to HubSpot)
+      // Submit application to career API (which syncs to GHL)
       const res = await fetch("/api/career/apply", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
