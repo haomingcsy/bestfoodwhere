@@ -53,6 +53,17 @@ Goal: Ensure all 730 brands have menu data, descriptions, and images.
 - [x] GrabFood scraper V2: 10 brands found (1,102 items) — Beard Papa's, Butahage, COLLIN'S x2
 - [x] Deliveroo scraper V2: 4 brands found (335 items) — cleaned 1 false match (Bar Bar Q)
 - [x] Cleaned false Deliveroo match: Bar Bar Q → Da Paolo (134 items removed)
+- [x] Bing Image Search: 230/231 succeeded, 8,466 items updated with images (559 remaining without)
+
+## Completed (cont.)
+
+- [x] Live site verification: all tested pages render correctly with proper menu data and images
+  - Burger King: 146 data entries, proper food items (Whopper, French Fries, etc.)
+  - Sushi Tei: 312 data entries, search-sourced images rendering via Next.js Image
+  - Beard Papa's: 70 data entries, Supabase CDN images working
+  - Four Leaves: 65 data entries, null prices correctly hidden (no "$undefined")
+  - ISR cache (1hr) working correctly; all pages self-update
+- [x] Created on-demand revalidation API: `app/api/revalidate/route.ts`
 
 ## In Progress
 
@@ -63,11 +74,12 @@ Goal: Ensure all 730 brands have menu data, descriptions, and images.
 
 ## Up Next
 
-- [ ] Google Custom Search API for missing menu item images (plan exists — needs API keys)
-- [ ] Verify menu pages display correctly on live site for new brands
+- [ ] Deploy revalidation API + set REVALIDATION_SECRET on Vercel
+- [ ] Enable Google Custom Search JSON API in Cloud Console (currently returns 403)
 
 ## Blocked
 
+- Google Custom Search JSON API returns 403 ("does not have access") — needs enabling in Cloud Console
 - Google Sheets API returns 403 from scripts (API key issue) — not critical since Supabase is primary
 - MBS restaurant websites return HTTP2 protocol errors (all 11 MBS brands blocked)
 
@@ -81,7 +93,7 @@ Goal: Ensure all 730 brands have menu data, descriptions, and images.
 - **Nutrition data**: Stored as JSON files in `data/nutrition/${slug}.json` — loaded at build time
 - **Image pipeline**: original_image_url → download → Supabase Storage → cdn_image_url
 
-## Data Quality Metrics (2026-02-28, final after gap fill)
+## Data Quality Metrics (2026-03-01, post-verification)
 
 | Metric | Count |
 |--------|-------|
@@ -89,11 +101,25 @@ Goal: Ensure all 730 brands have menu data, descriptions, and images.
 | Brands with menu items | 572 (78.4%) |
 | Brands with 0 items | 158 (21.6%) |
 | Total menu items | 39,079 |
-| Items with CDN images | 35,295 (90.3%) |
+| Items with CDN images | 35,610 (91.1%) |
+| Items with no image at all | 559 (1.4%) |
 | Brands with AI description | 726 (99.5%) |
 | Brands with hero image | 840 |
 | Brands with reviews | 807 |
-| Quality Score | 88% |
+| Quality Score | 89% |
+
+### Changes from 2026-03-01 verification session:
+- Verified live site: all tested pages render correctly with full menu data + images
+- Confirmed ISR (1hr revalidate) working — stale pages auto-refresh on visit
+- Created on-demand revalidation API (`app/api/revalidate/route.ts`)
+- Four Leaves null prices: confirmed correctly hidden (not showing "$undefined")
+- Search-sourced images: confirmed rendering via Next.js Image optimization on live site
+
+### Changes from 2026-02-28 image search session:
+- Bing Image Search: 230/231 unique dish names found, 8,466 menu items updated
+- Image coverage: 90.3% → 91.1% (+315 items with CDN images)
+- Items with no image: 874 → 559 (36% reduction)
+- Note: Google Custom Search JSON API not enabled (403) — used Playwright/Bing scraping instead
 
 ### Changes from 2026-02-28 gap fill session:
 - Donor menu V2: 14 chains → 41 targets, +4,348 items
