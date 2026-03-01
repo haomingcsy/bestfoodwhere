@@ -383,10 +383,39 @@ export default function AdvertisePage() {
     }
   };
 
-  const handleContactSubmit = (e: React.FormEvent) => {
+  const handleContactSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
-    // Handle contact form submission
-    console.log("Contact form submitted:", contactForm);
+
+    const params = typeof window !== "undefined"
+      ? new URLSearchParams(window.location.search)
+      : new URLSearchParams();
+
+    try {
+      await fetch("/api/crm/contacts", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          email: contactForm.email,
+          name: contactForm.name,
+          phone: contactForm.phone,
+          source: "advertiser_inquiry",
+          tags: ["advertiser"],
+          subject: "Advertising Inquiry",
+          message: contactForm.message || undefined,
+          pageUrl: typeof window !== "undefined" ? window.location.href : "",
+          utm_source: params.get("utm_source") || "",
+          utm_medium: params.get("utm_medium") || "",
+          utm_campaign: params.get("utm_campaign") || "",
+          utm_content: params.get("utm_content") || "",
+          utm_term: params.get("utm_term") || "",
+          customFields: [
+            { key: "bfw_restaurant_name", field_value: contactForm.restaurant },
+          ],
+        }),
+      });
+    } catch {
+      // CRM sync failure is non-critical
+    }
   };
 
   const selectedTierData = PRICING_TIERS.find((t) => t.id === selectedTier);

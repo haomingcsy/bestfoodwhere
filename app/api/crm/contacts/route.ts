@@ -19,11 +19,13 @@ import {
   validateSGPhone,
   formatPhone,
   calculateInitialLeadScore,
+  resolveCustomFieldIds,
 } from "@/lib/ghl/utils";
 import type {
   ContactAPIRequest,
   ContactAPIResponse,
   N8nWebhookPayload,
+  GHLCustomField,
   FormSource,
 } from "@/lib/ghl/types";
 
@@ -41,8 +43,8 @@ export async function POST(
       );
     }
 
-    // For recipe_newsletter/report_issue, name is optional
-    if (!body.name && body.source !== "recipe_newsletter" && body.source !== "report_issue") {
+    // For recipe_newsletter/report_issue/advertiser_inquiry, name is optional
+    if (!body.name && body.source !== "recipe_newsletter" && body.source !== "report_issue" && body.source !== "advertiser_inquiry") {
       return NextResponse.json(
         { success: false, error: "Name is required" },
         { status: 400 },
@@ -73,7 +75,8 @@ export async function POST(
     const name =
       body.name ||
       (body.source === "recipe_newsletter" ? "Recipe Subscriber" :
-       body.source === "report_issue" ? "Issue Reporter" : "");
+       body.source === "report_issue" ? "Issue Reporter" :
+       body.source === "advertiser_inquiry" ? "Advertiser Lead" : "");
     const { firstName, lastName } = splitName(name);
     const phone = body.phone ? formatPhone(body.phone) : undefined;
     const trafficChannel = getTrafficChannel({
@@ -94,13 +97,42 @@ export async function POST(
     // Get GHL client
     const ghl = getGHLClient();
 
-    // Create or update contact in GHL
-    // Only sending basic contact properties
+    // Build custom fields from request data (using key names)
+    const rawFields: GHLCustomField[] = [];
+    const addField = (key: string, value: string | undefined) => {
+      if (value) rawFields.push({ key, field_value: value });
+    };
+
+    addField("bfw_source", body.source);
+    addField("bfw_traffic_channel", trafficChannel);
+    addField("bfw_lead_score", String(leadScore));
+    addField("bfw_source_url", body.pageUrl);
+    addField("bfw_subject", body.subject);
+    addField("bfw_message", body.message);
+    addField("utm_source", body.utm_source);
+    addField("utm_medium", body.utm_medium);
+    addField("utm_campaign", body.utm_campaign);
+    addField("utm_content", body.utm_content);
+    addField("utm_term", body.utm_term);
+
+    // Merge any form-specific custom fields from the frontend
+    if (body.customFields) {
+      for (const cf of body.customFields) {
+        if (cf.field_value) rawFields.push(cf);
+      }
+    }
+
+    // Resolve key names to GHL field IDs (GHL API requires IDs, not keys)
+    const customFields = resolveCustomFieldIds(rawFields);
+
+    // Create or update contact in GHL with custom fields
     const result = await ghl.createOrUpdateContact({
       email,
       firstName,
       lastName,
       phone,
+      tags: body.tags,
+      customFields,
     });
 
     if (!result.success) {
@@ -109,15 +141,6 @@ export async function POST(
         { success: false, error: result.error || "Failed to create contact" },
         { status: 500 },
       );
-    }
-
-    // Add tags to the contact if present
-    if (body.tags && body.tags.length > 0 && result.contactId) {
-      const tagResult = await ghl.addTags(result.contactId, body.tags);
-      if (!tagResult.success) {
-        console.error("GHL tag addition failed:", tagResult.error);
-        // Don't fail the whole request for tag errors - continue with webhook
-      }
     }
 
     // Trigger n8n webhook for automation
@@ -176,11 +199,15 @@ function getWebhookUrl(source: FormSource): string | null {
     case "recipe_newsletter":
       return process.env.N8N_WEBHOOK_RECIPE || null;
     case "contact_form":
+    case "advertiser_inquiry":
       return process.env.N8N_WEBHOOK_CONTACT || null;
     case "career_application":
       return process.env.N8N_WEBHOOK_CAREER || null;
     case "report_issue":
       return process.env.N8N_WEBHOOK_REPORT || null;
+    case "bfw_signup":
+    case "bfw_restaurant_signup":
+      return process.env.N8N_WEBHOOK_NEWSLETTER || null;
     default:
       return null;
   }

@@ -147,6 +147,10 @@ export function ConsumerSignupForm() {
 
         // Sync with GHL
         try {
+          const params = typeof window !== "undefined"
+            ? new URLSearchParams(window.location.search)
+            : new URLSearchParams();
+
           await fetch("/api/crm/contacts", {
             method: "POST",
             headers: { "Content-Type": "application/json" },
@@ -156,6 +160,12 @@ export function ConsumerSignupForm() {
               phone: form.phone.trim(),
               source: "bfw_signup",
               tags: ["member", "consumer"],
+              pageUrl: typeof window !== "undefined" ? window.location.href : "",
+              utm_source: params.get("utm_source") || "",
+              utm_medium: params.get("utm_medium") || "",
+              utm_campaign: params.get("utm_campaign") || "",
+              utm_content: params.get("utm_content") || "",
+              utm_term: params.get("utm_term") || "",
             }),
           });
         } catch {

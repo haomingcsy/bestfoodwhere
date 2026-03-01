@@ -26,6 +26,10 @@ export function RecipeNewsletterCard() {
       });
 
       // Save to GHL and trigger n8n
+      const params = typeof window !== "undefined"
+        ? new URLSearchParams(window.location.search)
+        : new URLSearchParams();
+
       const response = await fetch("/api/crm/contacts", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
@@ -34,6 +38,11 @@ export function RecipeNewsletterCard() {
           source: "recipe_newsletter",
           tags: ["recipe_subscriber"],
           pageUrl: typeof window !== "undefined" ? window.location.href : "",
+          utm_source: params.get("utm_source") || "",
+          utm_medium: params.get("utm_medium") || "",
+          utm_campaign: params.get("utm_campaign") || "",
+          utm_content: params.get("utm_content") || "",
+          utm_term: params.get("utm_term") || "",
         }),
       });
 

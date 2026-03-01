@@ -2,7 +2,56 @@
  * CRM Integration Utilities for BestFoodWhere
  */
 
-import type { TrafficChannel, N8nWebhookPayload } from "./types";
+import type { TrafficChannel, N8nWebhookPayload, GHLCustomField } from "./types";
+
+/**
+ * GHL custom field key → ID mapping.
+ * GHL upsert API requires field IDs, not keys.
+ * Retrieve via: GET /locations/{locationId}/customFields
+ */
+const GHL_FIELD_IDS: Record<string, string> = {
+  bfw_source: "hsIbkTzZrudfDc7wfWQl",
+  bfw_traffic_channel: "3dzJ7Oq5i1a3ZhmaZywW",
+  bfw_lead_score: "YfvmTSviZ8syFdBmeIts",
+  bfw_source_url: "3GBIr6hoBlFqYUYnG2Go",
+  bfw_subject: "8iFnuLoXpb9EkpSoZAre",
+  bfw_message: "7ud4Ho8s6BC4DWo1WwxJ",
+  bfw_issue_type: "SwtA4d3YCKvyiw6pfrk5",
+  bfw_restaurant_name: "QwtecwPkl3ShP7eM2yve",
+  bfw_mall_location: "UYNOKayzMBXjcWp6cSyy",
+  bfw_cuisine_type: "1hVqh6LtHGfhoUdViAWv",
+  bfw_pricing_tier: "CJAw1Uowk5WMY6FNgB6k",
+  bfw_dietary_preferences: "oE578Yyas0cWFYy1gjyA",
+  bfw_favorite_cuisines: "Epk4ZOdrkatoSpTqjOdz",
+  bfw_business_phone: "XBWdPwkvJsV8uLLeqdJ8",
+  bfw_website_url: "gTWWaBmgI09n3zU9NMWT",
+  utm_source: "xfDFarptvC1JLp8iEUjv",
+  utm_medium: "PQrlrQesBMFKNwYK1Why",
+  utm_campaign: "sLKQ0ZSPuF2KTp71AH2S",
+  utm_content: "tgipv3TWKGucrEtv1rs8",
+  utm_term: "ElEANWYxt5a0RqLVvfk8",
+};
+
+/**
+ * Resolve custom field keys to GHL field IDs.
+ * Accepts fields with key names (e.g., "bfw_source") and returns
+ * fields with id + field_value for the GHL upsert API.
+ */
+export function resolveCustomFieldIds(
+  fields: GHLCustomField[],
+): Array<{ id: string; field_value: string }> {
+  return fields
+    .map((f) => {
+      const cleanKey = f.key.replace(/^contact\./, "");
+      const id = GHL_FIELD_IDS[cleanKey];
+      if (!id) {
+        console.warn(`Unknown GHL custom field key: ${f.key}`);
+        return null;
+      }
+      return { id, field_value: f.field_value };
+    })
+    .filter((f): f is { id: string; field_value: string } => f !== null);
+}
 
 export function splitName(fullName: string): {
   firstName: string;

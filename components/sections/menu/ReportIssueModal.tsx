@@ -60,6 +60,10 @@ export function ReportIssueModal({
     const subject = `${form.issueType} - ${brandName}${locationName ? ` (${locationName})` : ""}`;
 
     try {
+      const params = typeof window !== "undefined"
+        ? new URLSearchParams(window.location.search)
+        : new URLSearchParams();
+
       const res = await fetch("/api/crm/contacts", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
@@ -71,6 +75,14 @@ export function ReportIssueModal({
           subject,
           message: form.message || undefined,
           pageUrl: window.location.href,
+          utm_source: params.get("utm_source") || "",
+          utm_medium: params.get("utm_medium") || "",
+          utm_campaign: params.get("utm_campaign") || "",
+          utm_content: params.get("utm_content") || "",
+          utm_term: params.get("utm_term") || "",
+          customFields: [
+            { key: "bfw_issue_type", field_value: form.issueType },
+          ],
         }),
       });
 

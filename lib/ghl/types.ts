@@ -11,7 +11,10 @@ export type FormSource =
   | "contact_form"
   | "career_application"
   | "recipe_newsletter"
-  | "report_issue";
+  | "report_issue"
+  | "bfw_signup"
+  | "bfw_restaurant_signup"
+  | "advertiser_inquiry";
 
 export type TrafficChannel =
   | "seo"
@@ -68,13 +71,18 @@ export interface GHLContact {
   dateUpdated?: string;
 }
 
+export interface GHLResolvedField {
+  id: string;
+  field_value: string;
+}
+
 export interface CreateContactInput {
   email: string;
   firstName?: string;
   lastName?: string;
   phone?: string;
   tags?: string[];
-  customFields?: GHLCustomField[];
+  customFields?: GHLResolvedField[];
 }
 
 export interface CreateContactResult {
@@ -139,6 +147,7 @@ export interface ContactAPIRequest {
   utm_term?: string;
   send_welcome?: boolean;
   send_confirmation?: boolean;
+  customFields?: GHLCustomField[];
 }
 
 export interface ContactAPIResponse {
