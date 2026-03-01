@@ -75,6 +75,7 @@ export interface CareerApplicationPayload {
   utm_campaign?: string;
   utm_content?: string;
   utm_term?: string;
+  referrer?: string;
 }
 
 // API response types
