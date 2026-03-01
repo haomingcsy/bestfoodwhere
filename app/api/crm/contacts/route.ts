@@ -220,6 +220,7 @@ export async function GET(): Promise<NextResponse> {
   return NextResponse.json({
     status: "ok",
     service: "ghl-contacts",
+    version: "2",
     timestamp: new Date().toISOString(),
   });
 }
