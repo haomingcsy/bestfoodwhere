@@ -121,25 +121,6 @@ export interface N8nWebhookPayload {
   timestamp: string;
 }
 
-// ============ OAuth Types ============
-
-export interface GHLOAuthTokens {
-  access_token: string;
-  refresh_token: string;
-  expires_in: number;
-  token_type: string;
-  locationId?: string;
-}
-
-export interface GHLStoredTokens {
-  id: string;
-  location_id: string;
-  access_token: string;
-  refresh_token: string;
-  expires_at: string;
-  updated_at: string;
-}
-
 // ============ API Request/Response Types ============
 
 export interface ContactAPIRequest {
