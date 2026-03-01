@@ -17,6 +17,7 @@ import {
   validateSGPhone,
   formatPhone,
   calculateInitialLeadScore,
+  resolveCustomFieldIds,
 } from "@/lib/ghl/utils";
 import type { N8nWebhookPayload } from "@/lib/ghl/types";
 import type {
@@ -123,7 +124,7 @@ export async function POST(
       lastName,
       phone,
       tags: ["career_application"],
-      customFields: [
+      customFields: resolveCustomFieldIds([
         { key: "bfw_source", field_value: "career_application" },
         { key: "bfw_traffic_channel", field_value: trafficChannel },
         { key: "bfw_lead_score", field_value: String(leadScore) },
@@ -157,7 +158,7 @@ export async function POST(
         ...(body.utm_term
           ? [{ key: "utm_term", field_value: body.utm_term }]
           : []),
-      ],
+      ]),
     });
 
     if (!ghlResult.success) {
