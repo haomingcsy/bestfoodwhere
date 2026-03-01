@@ -83,6 +83,7 @@ export async function POST(
       utm_source: body.utm_source,
       utm_medium: body.utm_medium,
       pageUrl: body.pageUrl,
+      referrer: body.referrer,
     });
 
     // Calculate initial lead score
@@ -109,6 +110,7 @@ export async function POST(
     addField("bfw_source_url", body.pageUrl);
     addField("bfw_subject", body.subject);
     addField("bfw_message", body.message);
+    addField("bfw_referrer", body.referrer);
     addField("utm_source", body.utm_source);
     addField("utm_medium", body.utm_medium);
     addField("utm_campaign", body.utm_campaign);

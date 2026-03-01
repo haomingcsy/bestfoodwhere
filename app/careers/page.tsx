@@ -331,6 +331,7 @@ export default function CareerPage() {
           utm_campaign: urlParams.get("utm_campaign") || undefined,
           utm_content: urlParams.get("utm_content") || undefined,
           utm_term: urlParams.get("utm_term") || undefined,
+          referrer: document.referrer,
         }),
       });
 

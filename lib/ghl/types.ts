@@ -145,6 +145,7 @@ export interface ContactAPIRequest {
   utm_campaign?: string;
   utm_content?: string;
   utm_term?: string;
+  referrer?: string;
   send_welcome?: boolean;
   send_confirmation?: boolean;
   customFields?: GHLCustomField[];

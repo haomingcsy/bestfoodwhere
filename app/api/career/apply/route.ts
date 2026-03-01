@@ -65,6 +65,7 @@ export async function POST(
       utm_source: body.utm_source,
       utm_medium: body.utm_medium,
       pageUrl: body.pageUrl,
+      referrer: body.referrer,
     });
 
     // Calculate lead score (career applications get higher base score)

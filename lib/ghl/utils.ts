@@ -25,6 +25,7 @@ const GHL_FIELD_IDS: Record<string, string> = {
   bfw_favorite_cuisines: "Epk4ZOdrkatoSpTqjOdz",
   bfw_business_phone: "XBWdPwkvJsV8uLLeqdJ8",
   bfw_website_url: "gTWWaBmgI09n3zU9NMWT",
+  bfw_referrer: "JkMVmuenvt1gR0cEZzSW",
   utm_source: "xfDFarptvC1JLp8iEUjv",
   utm_medium: "PQrlrQesBMFKNwYK1Why",
   utm_campaign: "sLKQ0ZSPuF2KTp71AH2S",
@@ -74,11 +75,14 @@ export function getTrafficChannel(params: {
   utm_source?: string;
   utm_medium?: string;
   pageUrl?: string;
+  referrer?: string;
 }): TrafficChannel {
   const source = (params.utm_source || "").toLowerCase();
   const medium = (params.utm_medium || "").toLowerCase();
   const pageUrl = (params.pageUrl || "").toLowerCase();
+  const referrer = (params.referrer || "").toLowerCase();
 
+  // 1. Check UTM params first (explicit campaign tracking)
   if (source.includes("chatgpt") || pageUrl.includes("chatgpt.com")) {
     return "chatgpt";
   }
@@ -118,11 +122,41 @@ export function getTrafficChannel(params: {
     return "referral";
   }
 
-  if (!source || source === "direct" || source === "(direct)") {
-    return "direct";
+  // 2. No UTM params — fall back to document.referrer
+  if (referrer) {
+    // Search engines → seo
+    if (
+      referrer.includes("google.") ||
+      referrer.includes("bing.") ||
+      referrer.includes("yahoo.") ||
+      referrer.includes("duckduckgo.") ||
+      referrer.includes("baidu.") ||
+      referrer.includes("yandex.")
+    ) {
+      return "seo";
+    }
+    // Social platforms → appropriate channel
+    if (referrer.includes("facebook.com") || referrer.includes("fb.com") || referrer.includes("meta.com")) {
+      return "meta";
+    }
+    if (referrer.includes("instagram.com")) {
+      return "meta";
+    }
+    if (referrer.includes("linkedin.com")) {
+      return "linkedin";
+    }
+    if (referrer.includes("tiktok.com")) {
+      return "tiktok";
+    }
+    if (referrer.includes("chatgpt.com") || referrer.includes("chat.openai.com")) {
+      return "chatgpt";
+    }
+    // Any other external referrer
+    return "referral";
   }
 
-  return "seo";
+  // 3. No UTM, no referrer → direct
+  return "direct";
 }
 
 export async function triggerN8nWebhook(

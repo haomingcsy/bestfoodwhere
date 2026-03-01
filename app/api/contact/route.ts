@@ -31,6 +31,7 @@ interface ContactPayload {
   utm_campaign?: string;
   utm_content?: string;
   utm_term?: string;
+  referrer?: string;
 }
 
 export async function POST(request: NextRequest) {
@@ -79,6 +80,7 @@ export async function POST(request: NextRequest) {
       utm_source: payload.utm_source,
       utm_medium: payload.utm_medium,
       pageUrl: payload.pageUrl,
+      referrer: payload.referrer,
     });
 
     // Calculate lead score
@@ -127,6 +129,9 @@ export async function POST(request: NextRequest) {
           : []),
         ...(payload.utm_term
           ? [{ key: "utm_term", field_value: payload.utm_term }]
+          : []),
+        ...(payload.referrer
+          ? [{ key: "bfw_referrer", field_value: payload.referrer }]
           : []),
       ]),
     });
