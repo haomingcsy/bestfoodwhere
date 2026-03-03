@@ -1,17 +1,16 @@
 /**
- * Unified CRM Contacts API Endpoint (GoHighLevel)
+ * Unified HubSpot Contacts API Endpoint
  *
  * Handles all form submissions from BFW website:
  * - Newsletter signup (popup)
  * - VIP Club signup (footer + standalone)
  * - Contact form
  *
- * Creates/updates contacts in GHL and triggers n8n webhooks for automation.
+ * Creates/updates contacts in HubSpot and triggers n8n webhooks for automation.
  */
 
 import { NextRequest, NextResponse } from "next/server";
-import { waitUntil } from "@vercel/functions";
-import { getGHLClient } from "@/lib/ghl/client";
+import { getHubSpotClient } from "@/lib/hubspot/client";
 import {
   splitName,
   getTrafficChannel,
@@ -20,16 +19,13 @@ import {
   validateSGPhone,
   formatPhone,
   calculateInitialLeadScore,
-  resolveCustomFieldIds,
-} from "@/lib/ghl/utils";
+} from "@/lib/hubspot/utils";
 import type {
   ContactAPIRequest,
   ContactAPIResponse,
   N8nWebhookPayload,
-  GHLCustomField,
   FormSource,
-} from "@/lib/ghl/types";
-import { enrichContactWithKeywords } from "@/lib/gsc/enrich";
+} from "@/lib/hubspot/types";
 
 export async function POST(
   request: NextRequest,
@@ -45,8 +41,8 @@ export async function POST(
       );
     }
 
-    // For recipe_newsletter/report_issue/advertiser_inquiry, name is optional
-    if (!body.name && body.source !== "recipe_newsletter" && body.source !== "report_issue" && body.source !== "advertiser_inquiry") {
+    // For recipe_newsletter, name is optional - use "Recipe Subscriber" as default
+    if (!body.name && body.source !== "recipe_newsletter") {
       return NextResponse.json(
         { success: false, error: "Name is required" },
         { status: 400 },
@@ -76,16 +72,13 @@ export async function POST(
     const email = body.email.trim().toLowerCase();
     const name =
       body.name ||
-      (body.source === "recipe_newsletter" ? "Recipe Subscriber" :
-       body.source === "report_issue" ? "Issue Reporter" :
-       body.source === "advertiser_inquiry" ? "Advertiser Lead" : "");
+      (body.source === "recipe_newsletter" ? "Recipe Subscriber" : "");
     const { firstName, lastName } = splitName(name);
     const phone = body.phone ? formatPhone(body.phone) : undefined;
     const trafficChannel = getTrafficChannel({
       utm_source: body.utm_source,
       utm_medium: body.utm_medium,
       pageUrl: body.pageUrl,
-      referrer: body.referrer,
     });
 
     // Calculate initial lead score
@@ -97,50 +90,20 @@ export async function POST(
       subject: body.subject,
     });
 
-    // Get GHL client
-    const ghl = getGHLClient();
+    // Get HubSpot client
+    const hubspot = getHubSpotClient();
 
-    // Build custom fields from request data (using key names)
-    const rawFields: GHLCustomField[] = [];
-    const addField = (key: string, value: string | undefined) => {
-      if (value) rawFields.push({ key, field_value: value });
-    };
-
-    addField("bfw_source", body.source);
-    addField("bfw_traffic_channel", trafficChannel);
-    addField("bfw_lead_score", String(leadScore));
-    addField("bfw_source_url", body.pageUrl);
-    addField("bfw_subject", body.subject);
-    addField("bfw_message", body.message);
-    addField("bfw_referrer", body.referrer);
-    addField("utm_source", body.utm_source);
-    addField("utm_medium", body.utm_medium);
-    addField("utm_campaign", body.utm_campaign);
-    addField("utm_content", body.utm_content);
-    addField("utm_term", body.utm_term);
-
-    // Merge any form-specific custom fields from the frontend
-    if (body.customFields) {
-      for (const cf of body.customFields) {
-        if (cf.field_value) rawFields.push(cf);
-      }
-    }
-
-    // Resolve key names to GHL field IDs (GHL API requires IDs, not keys)
-    const customFields = resolveCustomFieldIds(rawFields);
-
-    // Create or update contact in GHL with custom fields
-    const result = await ghl.createOrUpdateContact({
+    // Create or update contact in HubSpot
+    // Only sending basic contact properties
+    const result = await hubspot.createOrUpdateContact({
       email,
       firstName,
       lastName,
       phone,
-      tags: body.tags,
-      customFields,
     });
 
     if (!result.success) {
-      console.error("GHL contact creation failed:", result.error);
+      console.error("HubSpot contact creation failed:", result.error);
       return NextResponse.json(
         { success: false, error: result.error || "Failed to create contact" },
         { status: 500 },
@@ -170,20 +133,9 @@ export async function POST(
       };
 
       // Fire and forget - don't block response on webhook
-      waitUntil(
-        triggerN8nWebhook(webhookUrl, webhookPayload).catch((err) => {
-          console.error("n8n webhook failed:", err);
-        }),
-      );
-    }
-
-    // Enrich SEO contacts with GSC search keywords (fire and forget)
-    if (trafficChannel === "seo" && result.contactId && body.pageUrl) {
-      waitUntil(
-        enrichContactWithKeywords(result.contactId, body.pageUrl).catch((err) => {
-          console.error("GSC keyword enrichment failed:", err);
-        }),
-      );
+      triggerN8nWebhook(webhookUrl, webhookPayload).catch((err) => {
+        console.error("n8n webhook failed:", err);
+      });
     }
 
     return NextResponse.json({
@@ -214,15 +166,9 @@ function getWebhookUrl(source: FormSource): string | null {
     case "recipe_newsletter":
       return process.env.N8N_WEBHOOK_RECIPE || null;
     case "contact_form":
-    case "advertiser_inquiry":
       return process.env.N8N_WEBHOOK_CONTACT || null;
     case "career_application":
       return process.env.N8N_WEBHOOK_CAREER || null;
-    case "report_issue":
-      return process.env.N8N_WEBHOOK_REPORT || null;
-    case "bfw_signup":
-    case "bfw_restaurant_signup":
-      return process.env.N8N_WEBHOOK_NEWSLETTER || null;
     default:
       return null;
   }
@@ -234,8 +180,7 @@ function getWebhookUrl(source: FormSource): string | null {
 export async function GET(): Promise<NextResponse> {
   return NextResponse.json({
     status: "ok",
-    service: "ghl-contacts",
-    version: "2",
+    service: "hubspot-contacts",
     timestamp: new Date().toISOString(),
   });
 }

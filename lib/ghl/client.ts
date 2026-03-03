@@ -138,6 +138,25 @@ export class GHLClient {
     }
   }
 
+  async updateContactById(
+    contactId: string,
+    data: { customFields: Array<{ id: string; field_value: string }> },
+  ): Promise<{ success: boolean; error?: string }> {
+    try {
+      await this.request(`/contacts/${contactId}`, {
+        method: "PUT",
+        body: JSON.stringify(data),
+      });
+      return { success: true };
+    } catch (error) {
+      console.error("Error updating contact:", error);
+      return {
+        success: false,
+        error: error instanceof Error ? error.message : "Unknown error",
+      };
+    }
+  }
+
   async getContactById(contactId: string): Promise<GHLContact | null> {
     try {
       const response = await this.request<{ contact: GHLContact }>(
