@@ -14,6 +14,7 @@ export interface LocationInfo {
   cuisine: string[];
   diningStyle: string[];
   description?: string;
+  aiDescription?: string;
   amenities?: Amenity[];
   descriptionMissing?: boolean;
   amenitiesMissing?: boolean;
@@ -74,6 +75,7 @@ export interface BrandData {
   slug: string;
   locations: LocationInfo[];
   description: string;
+  seoDescription?: string;
   amenities: Amenity[];
   menu: MenuCategory[];
   youtubeUrl?: string;

@@ -28,9 +28,9 @@ export function LocationSelect({ locations, value, onLocationChange }: Props) {
         value={selected}
         onChange={(event) => {
           const slug = event.target.value;
-          const next = new URLSearchParams(window.location.search);
-          next.set("location", slug);
-          router.replace(`${pathname}?${next.toString()}`, { scroll: false });
+          // pathname is /menu/{brandSlug} or /menu/{brandSlug}/{oldLocation}
+          const basePath = pathname.split("/").slice(0, 3).join("/");
+          router.replace(`${basePath}/${slug}`, { scroll: false });
           if (onLocationChange) {
             onLocationChange(slug);
           }

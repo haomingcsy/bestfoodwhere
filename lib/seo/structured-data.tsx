@@ -1,4 +1,5 @@
 import type { BrandData, LocationInfo, MenuCategory } from "@/types/brand";
+import type { ShoppingMall, MallRestaurant } from "@/types/shopping-mall";
 
 const BASE_URL = "https://bestfoodwhere.sg";
 
@@ -93,18 +94,19 @@ function parsePrice(priceString?: string): number | undefined {
 
 /**
  * Generate Restaurant schema for a brand/location
- * Used on /menu/[slug] pages
+ * Used on /menu/[slug] and /menu/[slug]/[location] pages
  */
 export function generateRestaurantSchema(
   brand: BrandData,
   location: LocationInfo
 ): WithContext<"Restaurant"> {
+  const locationPath = location.slug ? `/${location.slug}` : "";
   const schema: WithContext<"Restaurant"> = {
     "@context": "https://schema.org",
     "@type": "Restaurant",
-    "@id": `${BASE_URL}/menu/${brand.slug}#restaurant`,
-    name: brand.name,
-    url: `${BASE_URL}/menu/${brand.slug}`,
+    "@id": `${BASE_URL}/menu/${brand.slug}${locationPath}#restaurant`,
+    name: location.slug ? `${brand.name} — ${location.name}` : brand.name,
+    url: `${BASE_URL}/menu/${brand.slug}${locationPath}`,
     description: brand.description || `${brand.name} restaurant in Singapore`,
     image: location.imageUrl || location.heroImageUrl,
     address: {
@@ -400,6 +402,161 @@ export function generateArticleSchema(article: {
       "@id": article.url,
     },
   };
+}
+
+/**
+ * Generate ShoppingCenter (LocalBusiness) schema for mall pages
+ */
+export function generateMallLocalBusinessSchema(
+  mall: ShoppingMall,
+  restaurants?: MallRestaurant[]
+): WithContext<"LocalBusiness"> {
+  const schema: WithContext<"LocalBusiness"> = {
+    "@context": "https://schema.org",
+    "@type": "ShoppingCenter",
+    "@id": `${BASE_URL}/shopping-malls/${mall.slug}#shoppingcenter`,
+    name: mall.name,
+    url: `${BASE_URL}/shopping-malls/${mall.slug}`,
+    description: mall.description,
+    image: mall.heroImageUrl,
+    address: {
+      "@type": "PostalAddress",
+      streetAddress: mall.address,
+      addressLocality: "Singapore",
+      addressCountry: "SG",
+      postalCode: mall.postalCode,
+    },
+    telephone: mall.phone,
+  };
+
+  // Add geo coordinates if available
+  if (mall.latitude && mall.longitude) {
+    schema.geo = {
+      "@type": "GeoCoordinates",
+      latitude: mall.latitude,
+      longitude: mall.longitude,
+    };
+  }
+
+  // Add opening hours
+  if (mall.openingHours && mall.openingHours.length > 0) {
+    schema.openingHoursSpecification = mall.openingHours.map((entry) => ({
+      "@type": "OpeningHoursSpecification",
+      dayOfWeek: entry.day,
+      opens: entry.hours.split("–")[0]?.trim() || entry.hours.split("-")[0]?.trim(),
+      closes: entry.hours.split("–")[1]?.trim() || entry.hours.split("-")[1]?.trim(),
+    }));
+  }
+
+  // Add social links
+  const sameAs: string[] = [];
+  if (mall.website) sameAs.push(mall.website);
+  if (mall.facebookUrl) sameAs.push(mall.facebookUrl);
+  if (mall.instagramUrl) sameAs.push(mall.instagramUrl);
+  if (sameAs.length > 0) {
+    schema.sameAs = sameAs;
+  }
+
+  // Add restaurants as departments
+  if (restaurants && restaurants.length > 0) {
+    schema.department = restaurants.slice(0, 20).map((r) => ({
+      "@type": "Restaurant",
+      name: r.name,
+      url: r.hasMenuPage ? `${BASE_URL}/menu/${r.slug}` : undefined,
+      image: r.imageUrl,
+      servesCuisine: r.cuisines,
+      priceRange: r.priceRange,
+      address: {
+        "@type": "PostalAddress",
+        streetAddress: `${r.unit}, ${mall.address}`,
+        addressLocality: "Singapore",
+        addressCountry: "SG",
+      },
+      aggregateRating:
+        r.rating > 0
+          ? {
+              "@type": "AggregateRating",
+              ratingValue: r.rating,
+              reviewCount: r.reviewCount,
+              bestRating: 5,
+              worstRating: 1,
+            }
+          : undefined,
+    }));
+  }
+
+  return schema;
+}
+
+/**
+ * Generate Recipe schema for recipe pages
+ */
+export function generateRecipeSchema(recipe: {
+  name: string;
+  slug: string;
+  description: string;
+  image?: string;
+  prepTime?: string;
+  cookTime?: string;
+  totalTime?: string;
+  servings?: number;
+  ingredients?: string[];
+  instructions?: { step: number; text: string }[];
+  cuisine?: string;
+  category?: string;
+  calories?: number;
+  author?: string;
+  datePublished?: string;
+  rating?: number;
+  reviewCount?: number;
+}): WithContext<"Recipe"> {
+  const schema: WithContext<"Recipe"> = {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    name: recipe.name,
+    url: `${BASE_URL}/recipes/${recipe.slug}`,
+    description: recipe.description,
+    image: recipe.image,
+    author: {
+      "@type": "Person",
+      name: recipe.author || "BestFoodWhere Team",
+    },
+    datePublished: recipe.datePublished,
+    prepTime: recipe.prepTime,
+    cookTime: recipe.cookTime,
+    totalTime: recipe.totalTime,
+    recipeYield: recipe.servings ? `${recipe.servings} servings` : undefined,
+    recipeIngredient: recipe.ingredients,
+    recipeCategory: recipe.category,
+    recipeCuisine: recipe.cuisine,
+  };
+
+  if (recipe.instructions && recipe.instructions.length > 0) {
+    schema.recipeInstructions = recipe.instructions.map((step) => ({
+      "@type": "HowToStep",
+      position: step.step,
+      text: step.text,
+    }));
+  }
+
+  if (recipe.calories) {
+    schema.nutrition = {
+      "@type": "NutritionInformation",
+      calories: `${recipe.calories} calories`,
+    };
+  }
+
+  if (recipe.rating && recipe.rating > 0 && recipe.reviewCount && recipe.reviewCount > 0) {
+    schema.aggregateRating = {
+      "@type": "AggregateRating",
+      ratingValue: recipe.rating,
+      reviewCount: recipe.reviewCount,
+      bestRating: 5,
+      worstRating: 1,
+    };
+  }
+
+  return schema;
 }
 
 /**

@@ -7,30 +7,61 @@ import {
   OtherCuisinesSection,
 } from "./components";
 import { LATE_NIGHT_RESTAURANTS } from "./data";
+import {
+  generateBreadcrumbSchema,
+  generateItemListSchema,
+  JsonLd,
+} from "@/lib/seo/structured-data";
+import { generateDiningPageMetadata } from "@/lib/seo/metadata";
 
-export const metadata: Metadata = {
-  title: "Late Night Dining in Singapore | BestFoodWhere.sg",
-  description:
-    "Discover the best late-night dining spots in Singapore. From rooftop bars and cocktail lounges to 24-hour hot pot and supper spots, explore venues open past midnight.",
-  openGraph: {
-    title: "Late Night Dining in Singapore | BestFoodWhere.sg",
-    description:
-      "Discover the best late-night dining spots in Singapore. Bars, lounges, and restaurants open past midnight.",
-    type: "website",
+const featuredRestaurants = LATE_NIGHT_RESTAURANTS.slice(0, 5).map(
+  (r) => r.name,
+);
+const featuredAreas = [
+  ...new Set(LATE_NIGHT_RESTAURANTS.map((r) => r.area)),
+].slice(0, 5);
+
+export const metadata: Metadata = generateDiningPageMetadata(
+  "Late Night",
+  "late-night",
+  {
+    restaurantCount: LATE_NIGHT_RESTAURANTS.length,
+    featuredRestaurants,
+    featuredAreas,
   },
-};
+);
 
 export default function LateNightPage() {
-  return (
-    <div className="min-h-screen bg-[#f9f9f9]">
-      <HeroSection />
+  const breadcrumbSchema = generateBreadcrumbSchema([
+    { name: "Home", url: "https://bestfoodwhere.sg" },
+    { name: "Dining Styles", url: "https://bestfoodwhere.sg/dining" },
+    { name: "Late Night", url: "https://bestfoodwhere.sg/dining/late-night" },
+  ]);
 
-      <div className="mx-auto max-w-[1200px] px-5">
-        <StatsSection />
-        <RestaurantGrid restaurants={LATE_NIGHT_RESTAURANTS} />
-        <DealsSection />
-        <OtherCuisinesSection />
+  const restaurantListSchema = generateItemListSchema(
+    LATE_NIGHT_RESTAURANTS.map((r, i) => ({
+      name: r.name,
+      url: `https://bestfoodwhere.sg/dining/late-night`,
+      image: r.image || undefined,
+      position: i + 1,
+    })),
+    "Late Night Restaurants in Singapore",
+  );
+
+  return (
+    <>
+      <JsonLd data={breadcrumbSchema} />
+      <JsonLd data={restaurantListSchema} />
+      <div className="min-h-screen bg-[#f9f9f9]">
+        <HeroSection />
+
+        <div className="mx-auto max-w-[1200px] px-5">
+          <StatsSection />
+          <RestaurantGrid restaurants={LATE_NIGHT_RESTAURANTS} />
+          <DealsSection />
+          <OtherCuisinesSection />
+        </div>
       </div>
-    </div>
+    </>
   );
 }

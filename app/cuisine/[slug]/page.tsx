@@ -1,7 +1,11 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { generateCuisinePageMetadata } from "@/lib/seo/metadata";
-import { generateBreadcrumbSchema, JsonLd } from "@/lib/seo/structured-data";
+import {
+  generateBreadcrumbSchema,
+  generateItemListSchema,
+  JsonLd,
+} from "@/lib/seo/structured-data";
 import { ComingSoonPage } from "@/components/templates/ComingSoonPage";
 import {
   getCuisineData,
@@ -24,6 +28,26 @@ interface Props {
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { slug } = await params;
   const cuisineName = getCuisineDisplayName(slug);
+
+  if (hasCuisineData(slug)) {
+    const cuisine = getCuisineData(slug)!;
+    const featuredRestaurants = cuisine.restaurants
+      .slice(0, 5)
+      .map((r) => r.name);
+    const featuredAreas = [
+      ...new Set(cuisine.restaurants.map((r) => r.area)),
+    ].slice(0, 5);
+
+    return generateCuisinePageMetadata(cuisineName, slug, {
+      tagline: cuisine.tagline,
+      restaurantCount: cuisine.stats.restaurants,
+      mallCount: cuisine.stats.malls,
+      featuredRestaurants,
+      featuredAreas,
+      features: cuisine.features.map((f) => f.label),
+    });
+  }
+
   return generateCuisinePageMetadata(cuisineName, slug);
 }
 
@@ -52,9 +76,20 @@ export default async function CuisinePage({ params }: Props) {
   if (hasCuisineData(slug)) {
     const cuisine = getCuisineData(slug)!;
 
+    const restaurantListSchema = generateItemListSchema(
+      cuisine.restaurants.map((r, i) => ({
+        name: r.name,
+        url: r.website || `https://bestfoodwhere.sg/cuisine/${slug}`,
+        image: r.image || undefined,
+        position: i + 1,
+      })),
+      `${cuisine.name} Restaurants in Singapore`,
+    );
+
     return (
       <>
         <JsonLd data={breadcrumbSchema} />
+        <JsonLd data={restaurantListSchema} />
         <div className="min-h-screen bg-[#f9f9f9]">
           <HeroSection cuisine={cuisine} />
 

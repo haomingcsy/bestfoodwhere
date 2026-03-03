@@ -96,17 +96,18 @@ export function MenuPageTemplate({
       brandData.locations[0]?.slug,
   );
 
-  // On client mount, read ?location= from URL (SSG pages don't have it server-side)
+  // On client mount, read location from URL path (e.g. /menu/brand/location-slug)
   useEffect(() => {
-    const params = new URLSearchParams(window.location.search);
-    const urlLocation = params.get("location");
+    const segments = window.location.pathname.split("/");
+    // pathname is /menu/{slug} or /menu/{slug}/{location}
+    const urlLocation = segments.length >= 4 ? segments[3] : null;
     if (urlLocation) {
       const matched = pickLocation(brandData, urlLocation);
       if (matched && matched.slug !== locationSlug) {
         setLocationSlug(matched.slug);
       }
     } else if (locationSlug) {
-      window.history.replaceState(null, "", `${pathname}?location=${locationSlug}`);
+      window.history.replaceState(null, "", `${pathname}/${locationSlug}`);
     }
   }, []); // eslint-disable-line react-hooks/exhaustive-deps
 

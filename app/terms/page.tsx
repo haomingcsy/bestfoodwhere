@@ -1,10 +1,11 @@
 import { Metadata } from "next";
+import { generateStaticPageMetadata } from "@/lib/seo/metadata";
 
-export const metadata: Metadata = {
-  title: "Terms of Service | BestFoodWhere",
-  description:
-    "Read the terms and conditions for using BestFoodWhere.sg, Singapore's premier food discovery platform.",
-};
+export const metadata: Metadata = generateStaticPageMetadata(
+  "Terms of Service",
+  "Terms and conditions governing your use of BestFoodWhere.sg, including restaurant listings, user accounts, and content policies.",
+  "/terms"
+);
 
 export default function TermsPage() {
   return (

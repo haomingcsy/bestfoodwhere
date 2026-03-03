@@ -4,6 +4,11 @@ import { useState, useMemo } from "react";
 import Image from "next/image";
 import Link from "next/link";
 import { X, MapPin, Phone, Clock, ChevronDown } from "lucide-react";
+import {
+  generateBreadcrumbSchema,
+  generateItemListSchema,
+  JsonLd,
+} from "@/lib/seo/structured-data";
 
 // ============================================================================
 // TYPES
@@ -809,7 +814,7 @@ function RestaurantCard({ restaurant }: { restaurant: Restaurant }) {
             GET DIRECTIONS
           </a>
           <Link
-            href={`/menu/${menuSlug}/?location=${locationSlug}`}
+            href={`/menu/${menuSlug}/${locationSlug}`}
             className="flex-1 text-center py-2.5 rounded-full text-sm font-semibold bg-gradient-to-r from-[#4177c4] to-[#6799e8] text-white hover:from-[#3366b3] hover:to-[#4177c4] hover:-translate-y-0.5 hover:shadow-md transition-all"
           >
             VIEW MENU
@@ -1080,24 +1085,47 @@ export default function CasualDiningPage() {
       ?.scrollIntoView({ behavior: "smooth" });
   };
 
+  const breadcrumbSchema = generateBreadcrumbSchema([
+    { name: "Home", url: "https://bestfoodwhere.sg" },
+    { name: "Dining Styles", url: "https://bestfoodwhere.sg/dining" },
+    {
+      name: "Casual Dining",
+      url: "https://bestfoodwhere.sg/dining/casual-dining",
+    },
+  ]);
+
+  const restaurantListSchema = generateItemListSchema(
+    CASUAL_DINING_RESTAURANTS.map((r, i) => ({
+      name: r.name,
+      url: `https://bestfoodwhere.sg/dining/casual-dining`,
+      image: r.image || undefined,
+      position: i + 1,
+    })),
+    "Casual Dining Restaurants in Singapore",
+  );
+
   return (
-    <main className="min-h-screen bg-gray-50">
-      <HeroSection />
-      <div className="max-w-[1200px] mx-auto px-5">
-        <StatsSection />
-        <FilterSection
-          activeRegion={activeRegion}
-          onRegionChange={handleRegionChange}
-        />
-        <RestaurantSection
-          restaurants={filteredRestaurants}
-          currentPage={currentPage}
-          onPageChange={handlePageChange}
-        />
-        <DealsSection onViewDeal={setSelectedDeal} />
-        <OtherCategoriesSection />
-      </div>
-      <DealModal deal={selectedDeal} onClose={() => setSelectedDeal(null)} />
-    </main>
+    <>
+      <JsonLd data={breadcrumbSchema} />
+      <JsonLd data={restaurantListSchema} />
+      <main className="min-h-screen bg-gray-50">
+        <HeroSection />
+        <div className="max-w-[1200px] mx-auto px-5">
+          <StatsSection />
+          <FilterSection
+            activeRegion={activeRegion}
+            onRegionChange={handleRegionChange}
+          />
+          <RestaurantSection
+            restaurants={filteredRestaurants}
+            currentPage={currentPage}
+            onPageChange={handlePageChange}
+          />
+          <DealsSection onViewDeal={setSelectedDeal} />
+          <OtherCategoriesSection />
+        </div>
+        <DealModal deal={selectedDeal} onClose={() => setSelectedDeal(null)} />
+      </main>
+    </>
   );
 }

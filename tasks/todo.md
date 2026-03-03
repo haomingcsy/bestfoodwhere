@@ -55,7 +55,48 @@ Goal: Ensure all 730 brands have menu data, descriptions, and images.
 - [x] Cleaned false Deliveroo match: Bar Bar Q → Da Paolo (134 items removed)
 - [x] Bing Image Search: 230/231 succeeded, 8,466 items updated with images (559 remaining without)
 
-## Completed (cont.)
+## Completed (cont.) — SEO Overhaul
+
+- [x] SEO Phase 1: Description composer engine (`lib/seo/description-composer.ts`)
+  - Hash-based template fallbacks for when AI descriptions unavailable
+  - Title format: `{Brand} Menu & Prices - {Location} | BestFoodWhere`
+- [x] SEO Phase 2: Updated metadata generators (`lib/seo/metadata.ts`) to use composer + AI descriptions
+  - Menu pages: `brand.seoDescription || composeMenuDescription(input)`
+  - Mall/cuisine/dining: AI from `ai-page-descriptions.json` with template fallback
+- [x] SEO Phase 3: Per-location routes (`app/menu/[slug]/[location]/page.tsx`)
+  - Internal links migrated from `?location=` to path-based URLs
+  - `?location=X` → 301 redirect to `/menu/{slug}/{X}`
+- [x] SEO Phase 4: Structured data improvements (`lib/seo/structured-data.tsx`)
+  - Added ShoppingCenter, ItemList, Recipe, FAQPage, Article schemas
+  - Wired schemas to mall, cuisine, dining, FAQ, blog, recipe pages
+- [x] SEO Phase 5: Static page metadata (canonical URLs, OG tags for about, contact, privacy, terms, etc.)
+- [x] SEO Phase 6: Sitemap expanded (19 malls, per-location URLs, recipes, dining styles)
+- [x] SEO Phase 7: AI-generated meta descriptions via Anthropic API (2026-03-03)
+  - 730/730 brands have unique AI descriptions (130-160 chars, no emojis, varied openers)
+  - 53 mall, 19 cuisine, 4 dining style descriptions in `lib/seo/ai-page-descriptions.json`
+  - Batch scripts: `scripts/batch-generate-seo-descriptions.ts` (brands) + `scripts/batch-generate-page-descriptions.ts` (pages)
+  - `--fix-bad` flag: regenerated 445 old bad descriptions (too long, emojis, paragraph format)
+  - Quality: 100% within 100-165 char range, 0 too long, 0 too short
+  - BrandData type extended with `seoDescription` field, `supabase-menu.ts` passes through `ai_description`
+- [x] SEO Phase 7b: Full description uniqueness overhaul (2026-03-03)
+  - Problem: 146/730 brands started with "Experience" (20%), many other repeated openers
+  - Added 15-style rotation pool (`STYLE_POOL`) + 18 banned openers (`BANNED_OPENERS`) to brand script
+  - Added style arrays (MALL_STYLES, CUISINE_STYLES, DINING_STYLES) + banned openers to page script
+  - Added API retry logic with exponential backoff for 429/529 errors in both scripts
+  - Regenerated ALL 730/730 brand descriptions — 0 banned openers, 287 unique first words
+  - Regenerated all 53 mall + 19 cuisine + 4 dining page descriptions with diverse openers
+  - Fixed 4 brands that errored during API 529 overload (aburi-en, aburi-en-jem, alijiang, ambush)
+- [x] SEO Phase 7c: Per-location AI meta descriptions (2026-03-03)
+  - Problem: All location pages (/menu/brand/location) shared brand-level description
+  - Added `ai_description` + `ai_description_generated_at` columns to `brand_locations` table
+  - Created `scripts/batch-generate-location-seo-descriptions.ts` with 15 style prompts, banned openers, retry logic
+  - Updated `types/brand.ts` with `aiDescription` field on `LocationInfo`
+  - Updated `lib/supabase-menu.ts` to query and map `ai_description` from brand_locations
+  - Updated `lib/seo/metadata.ts`: location pages use `location.aiDescription`, brand pages use `brand.seoDescription`
+  - Generated 840/840 unique descriptions (822 fresh + 18 from test runs), 0 errors
+  - Quality: 98.3% within 130-165 char range (14 minor outliers)
+
+## Completed (cont.) — Data Pipeline
 
 - [x] Live site verification: all tested pages render correctly with proper menu data and images
   - Burger King: 146 data entries, proper food items (Whopper, French Fries, etc.)
@@ -103,7 +144,7 @@ Goal: Ensure all 730 brands have menu data, descriptions, and images.
 | Total menu items | 39,079 |
 | Items with CDN images | 35,610 (91.1%) |
 | Items with no image at all | 559 (1.4%) |
-| Brands with AI description | 726 (99.5%) |
+| Brands with AI description | 730 (100%) |
 | Brands with hero image | 840 |
 | Brands with reviews | 807 |
 | Quality Score | 89% |

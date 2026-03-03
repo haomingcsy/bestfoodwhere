@@ -1,5 +1,20 @@
 import type { Metadata } from "next";
 import type { BrandData, LocationInfo } from "@/types/brand";
+import {
+  composeMenuTitle,
+  composeMenuDescription,
+  composeMallTitle,
+  composeMallDescription,
+  composeCuisineTitle,
+  composeCuisineDescription,
+  composeDiningTitle,
+  composeDiningDescription,
+  type MenuDescInput,
+  type MallDescInput,
+  type CuisineDescInput,
+  type DiningDescInput,
+} from "./description-composer";
+import aiPageDescriptions from "./ai-page-descriptions.json";
 
 const BASE_URL = "https://bestfoodwhere.sg";
 const SITE_NAME = "BestFoodWhere";
@@ -94,29 +109,65 @@ export function generateMenuPageMetadata(
     };
   }
 
-  const cuisineText = primaryLocation.cuisine?.length
-    ? primaryLocation.cuisine.slice(0, 3).join(", ")
-    : "restaurant";
+  // Extract menu highlights (first few popular item names, trimmed for SEO)
+  const menuHighlights = brand.menu
+    ?.flatMap((cat) => cat.items)
+    .slice(0, 6)
+    .map((item) => item.name)
+    .filter(Boolean)
+    .map((n) => {
+      // Strip long descriptions after " - " (e.g. "Single Figure - Number-shaped celebration cake" → "Single Figure")
+      if (n.length > 30) {
+        const dash = n.indexOf(" - ");
+        if (dash > 3 && dash < 30) return n.slice(0, dash);
+      }
+      // Strip parenthetical descriptions
+      if (n.length > 30) {
+        const paren = n.indexOf(" (");
+        if (paren > 3 && paren < 30) return n.slice(0, paren);
+      }
+      return n;
+    })
+    .filter((n) => n.length <= 40)
+    .slice(0, 3);
 
-  const ratingText =
-    primaryLocation.reviews?.rating > 0
-      ? ` (${primaryLocation.reviews.rating}/5 from ${primaryLocation.reviews.count} reviews)`
-      : "";
+  const menuCategories = brand.menu?.map((cat) => cat.name).filter(Boolean);
 
-  const title = location
-    ? `${brand.name} ${location.name} - Menu, Reviews & Hours`
-    : `${brand.name} Menu & Locations in Singapore`;
+  const input: MenuDescInput = {
+    brandName: brand.name,
+    slug: brand.slug,
+    locationName: primaryLocation.name || location?.name,
+    locationSlug: primaryLocation.slug || location?.slug,
+    cuisines: primaryLocation.cuisine || [],
+    diningStyles: primaryLocation.diningStyle || [],
+    priceRange: primaryLocation.priceRange,
+    rating: primaryLocation.reviews?.rating,
+    reviewCount: primaryLocation.reviews?.count,
+    menuCategories,
+    menuHighlights,
+    amenities: (primaryLocation.amenities || brand.amenities)?.map(
+      (a) => a.label,
+    ),
+    address: primaryLocation.address,
+    hasPromotions: (brand.promotions?.length ?? 0) > 0,
+    description: brand.description,
+    openingHours: primaryLocation.openingHours,
+  };
 
+  const title = composeMenuTitle(input);
+  // Brand-level: use AI description. Location-specific: use AI location description or composed fallback.
   const description = location
-    ? `View ${brand.name} menu, reviews${ratingText}, opening hours at ${location.name}. ${cuisineText} restaurant in Singapore.`
-    : `Find ${brand.name} locations across Singapore. View full menu, prices, reviews, opening hours and directions. ${cuisineText} dining.`;
+    ? (location.aiDescription || composeMenuDescription(input))
+    : (brand.seoDescription || composeMenuDescription(input));
 
   const imageUrl =
     primaryLocation.heroImageUrl ||
     primaryLocation.imageUrl ||
     DEFAULT_OG_IMAGE;
 
-  const canonicalUrl = `${BASE_URL}/menu/${brand.slug}${location ? `?location=${location.slug}` : ""}`;
+  const canonicalUrl = location
+    ? `${BASE_URL}/menu/${brand.slug}/${location.slug}`
+    : `${BASE_URL}/menu/${brand.slug}`;
 
   return {
     title,
@@ -174,11 +225,30 @@ export function generateMenuPageMetadata(
 export function generateCuisinePageMetadata(
   cuisineName: string,
   cuisineSlug: string,
-  restaurantCount?: number,
+  opts?: {
+    restaurantCount?: number;
+    mallCount?: number;
+    tagline?: string;
+    featuredRestaurants?: string[];
+    featuredAreas?: string[];
+    features?: string[];
+  },
 ): Metadata {
-  const countText = restaurantCount ? `${restaurantCount}+ ` : "";
-  const title = `Best ${cuisineName} Restaurants in Singapore Malls`;
-  const description = `Discover ${countText}${cuisineName.toLowerCase()} restaurants in Singapore shopping malls. Find menus, reviews, opening hours and locations.`;
+  const input: CuisineDescInput = {
+    cuisineName,
+    slug: cuisineSlug,
+    tagline: opts?.tagline,
+    restaurantCount: opts?.restaurantCount,
+    mallCount: opts?.mallCount,
+    featuredRestaurants: opts?.featuredRestaurants,
+    featuredAreas: opts?.featuredAreas,
+    features: opts?.features,
+  };
+
+  const title = composeCuisineTitle(input);
+  const description =
+    (aiPageDescriptions as any).cuisines?.[cuisineSlug] ||
+    composeCuisineDescription(input);
 
   return {
     title,
@@ -222,13 +292,32 @@ export function generateCuisinePageMetadata(
 export function generateMallPageMetadata(
   mallName: string,
   mallSlug: string,
-  mallLocation?: string,
-  restaurantCount?: number,
+  opts?: {
+    region?: string;
+    address?: string;
+    restaurantCount?: number;
+    cuisineCount?: number;
+    mrtStations?: { name: string; line: string; walkTime: string }[];
+    topRestaurants?: string[];
+    description?: string;
+  },
 ): Metadata {
-  const countText = restaurantCount ? `${restaurantCount}+ ` : "";
-  const locationText = mallLocation ? ` in ${mallLocation}` : "";
-  const title = `${mallName} Food Directory - Restaurants & Cafes`;
-  const description = `Explore ${countText}restaurants and cafes at ${mallName}${locationText}. Find menus, reviews, opening hours and the best dining spots.`;
+  const input: MallDescInput = {
+    mallName,
+    slug: mallSlug,
+    region: opts?.region,
+    address: opts?.address,
+    restaurantCount: opts?.restaurantCount,
+    cuisineCount: opts?.cuisineCount,
+    mrtStations: opts?.mrtStations,
+    topRestaurants: opts?.topRestaurants,
+    description: opts?.description,
+  };
+
+  const title = composeMallTitle(input);
+  const description =
+    (aiPageDescriptions as any).malls?.[mallSlug] ||
+    composeMallDescription(input);
 
   return {
     title,
@@ -273,11 +362,24 @@ export function generateMallPageMetadata(
 export function generateDiningPageMetadata(
   diningStyle: string,
   diningSlug: string,
-  restaurantCount?: number,
+  opts?: {
+    restaurantCount?: number;
+    featuredRestaurants?: string[];
+    featuredAreas?: string[];
+  },
 ): Metadata {
-  const countText = restaurantCount ? `${restaurantCount}+ ` : "";
-  const title = `${diningStyle} Dining in Singapore Malls`;
-  const description = `Find ${countText}${diningStyle.toLowerCase()} dining options in Singapore shopping malls. Browse restaurants, cafes, and food spots with menus and reviews.`;
+  const input: DiningDescInput = {
+    styleName: diningStyle,
+    slug: diningSlug,
+    restaurantCount: opts?.restaurantCount,
+    featuredRestaurants: opts?.featuredRestaurants,
+    featuredAreas: opts?.featuredAreas,
+  };
+
+  const title = composeDiningTitle(input);
+  const description =
+    (aiPageDescriptions as any).dining?.[diningSlug] ||
+    composeDiningDescription(input);
 
   return {
     title,

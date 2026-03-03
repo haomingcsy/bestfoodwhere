@@ -274,7 +274,7 @@ export const FEATURED_RESTAURANTS: FeaturedRestaurant[] = [
     image:
       "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1470&q=80",
     tags: ["Western", "Fine Dining"],
-    menuUrl: "/menu/garden-bistro?location=orchard-road",
+    menuUrl: "/menu/garden-bistro/orchard-road",
     mapsUrl:
       "https://www.google.com/maps/search/The+Garden+Bistro+Orchard+Road+Singapore",
   },
@@ -287,7 +287,7 @@ export const FEATURED_RESTAURANTS: FeaturedRestaurant[] = [
     image:
       "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&w=1470&q=80",
     tags: ["Japanese", "Sushi"],
-    menuUrl: "/menu/sushi-masterpiece?location=marina-bay-sands",
+    menuUrl: "/menu/sushi-masterpiece/marina-bay-sands",
     mapsUrl:
       "https://www.google.com/maps/search/Sushi+Masterpiece+Marina+Bay+Sands+Singapore",
   },
@@ -300,7 +300,7 @@ export const FEATURED_RESTAURANTS: FeaturedRestaurant[] = [
     image:
       "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=1474&q=80",
     tags: ["Indian", "Fine Dining"],
-    menuUrl: "/menu/spice-pavilion?location=clarke-quay",
+    menuUrl: "/menu/spice-pavilion/clarke-quay",
     mapsUrl:
       "https://www.google.com/maps/search/Spice+Pavilion+Clarke+Quay+Singapore",
   },

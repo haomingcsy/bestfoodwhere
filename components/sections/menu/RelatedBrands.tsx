@@ -117,7 +117,7 @@ export function RelatedBrands({ title, items, cdnUrls = {} }: Props) {
       >
         {items.map((item) => {
           const href = item.slug
-            ? `/menu/${item.slug}?location=${item.location}`
+            ? `/menu/${item.slug}/${item.location}`
             : undefined;
 
           const card = (

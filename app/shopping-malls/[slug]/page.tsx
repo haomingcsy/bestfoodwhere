@@ -14,7 +14,13 @@ import {
   fetchMallDetailsFromSupabase,
   fetchMallRestaurantsFromSupabase,
 } from "@/lib/supabase-mall";
-import { generateBreadcrumbSchema, JsonLd } from "@/lib/seo/structured-data";
+import {
+  generateBreadcrumbSchema,
+  generateMallLocalBusinessSchema,
+  generateItemListSchema,
+  JsonLd,
+} from "@/lib/seo/structured-data";
+import { generateMallPageMetadata } from "@/lib/seo/metadata";
 import { getMallDataBySlug, MALLS_DATA } from "@/lib/mall-data";
 
 // Initialize Supabase client for fetching CDN URLs
@@ -45,7 +51,10 @@ export async function generateStaticParams() {
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { slug } = await params;
-  const mall = await fetchMallDetailsFromSupabase(slug);
+  const [mall, restaurants] = await Promise.all([
+    fetchMallDetailsFromSupabase(slug),
+    fetchMallRestaurantsFromSupabase(slug),
+  ]);
 
   if (!mall) {
     return {
@@ -53,23 +62,26 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     };
   }
 
-  return {
-    title: `${mall.name} Food Directory | BestFoodWhere`,
-    description:
-      mall.description ||
-      `Discover the best restaurants and food options at ${mall.name}. Browse our comprehensive directory of dining options.`,
-    alternates: {
-      canonical: `https://bestfoodwhere.sg/shopping-malls/${slug}`,
-    },
-    openGraph: {
-      title: `${mall.name} Food Directory | BestFoodWhere`,
-      description:
-        mall.description ||
-        `Discover the best restaurants and food options at ${mall.name}.`,
-      url: `https://bestfoodwhere.sg/shopping-malls/${slug}`,
-      images: mall.heroImageUrl ? [mall.heroImageUrl] : [],
-    },
-  };
+  const uniqueCuisines = [...new Set(restaurants.flatMap((r) => r.cuisines))];
+  const topRestaurants = restaurants
+    .sort((a, b) => (b.rating || 0) - (a.rating || 0))
+    .slice(0, 5)
+    .map((r) => r.name);
+  const mrtStations = mall.gettingHere?.mrt?.map((s) => ({
+    name: s.name,
+    line: s.line,
+    walkTime: s.walkTime,
+  }));
+
+  return generateMallPageMetadata(mall.name, slug, {
+    region: mall.region,
+    address: mall.address,
+    restaurantCount: restaurants.length,
+    cuisineCount: uniqueCuisines.length,
+    mrtStations,
+    topRestaurants,
+    description: mall.description,
+  });
 }
 
 function filterRestaurants(
@@ -303,7 +315,7 @@ export default async function ShoppingMallPage({
     ...new Set(restaurants.flatMap((r) => r.cuisines)),
   ].sort();
 
-  // SEO breadcrumb schema
+  // SEO structured data schemas
   const breadcrumbSchema = generateBreadcrumbSchema([
     { name: "Home", url: "https://bestfoodwhere.sg" },
     { name: "Shopping Malls", url: "https://bestfoodwhere.sg/shopping-malls" },
@@ -313,9 +325,25 @@ export default async function ShoppingMallPage({
     },
   ]);
 
+  const mallSchema = generateMallLocalBusinessSchema(mall, restaurants);
+
+  const restaurantListSchema = generateItemListSchema(
+    restaurants.map((r, i) => ({
+      name: r.name,
+      url: r.hasMenuPage
+        ? `https://bestfoodwhere.sg/menu/${r.slug}`
+        : `https://bestfoodwhere.sg/shopping-malls/${slug}`,
+      image: r.imageUrl || undefined,
+      position: i + 1,
+    })),
+    `Restaurants at ${mall.name}`,
+  );
+
   return (
     <>
       <JsonLd data={breadcrumbSchema} />
+      <JsonLd data={mallSchema} />
+      <JsonLd data={restaurantListSchema} />
       <main className="min-h-screen bg-gray-50">
         {/* Hero Section */}
         <MallHero mall={mall} />

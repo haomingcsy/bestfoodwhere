@@ -1,6 +1,10 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { generateFAQSchema, JsonLd } from "@/lib/seo/structured-data";
+import {
+  generateFAQSchema,
+  generateBreadcrumbSchema,
+  JsonLd,
+} from "@/lib/seo/structured-data";
 
 export const metadata: Metadata = {
   title: "Frequently Asked Questions",
@@ -143,10 +147,15 @@ function FAQClient() {
 
 export default function FAQPage() {
   const faqSchema = generateFAQSchema(FAQ_ITEMS);
+  const breadcrumbSchema = generateBreadcrumbSchema([
+    { name: "Home", url: "https://bestfoodwhere.sg" },
+    { name: "FAQ", url: "https://bestfoodwhere.sg/faq" },
+  ]);
 
   return (
     <>
       <JsonLd data={faqSchema} />
+      <JsonLd data={breadcrumbSchema} />
 
       <div className="min-h-screen bg-gradient-to-b from-orange-50 to-white">
         {/* Hero Section */}

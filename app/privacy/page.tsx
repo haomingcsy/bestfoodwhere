@@ -1,10 +1,11 @@
 import { Metadata } from "next";
+import { generateStaticPageMetadata } from "@/lib/seo/metadata";
 
-export const metadata: Metadata = {
-  title: "Privacy Policy | BestFoodWhere",
-  description:
-    "Learn how BestFoodWhere collects, uses, and protects your personal information.",
-};
+export const metadata: Metadata = generateStaticPageMetadata(
+  "Privacy Policy",
+  "How BestFoodWhere collects, uses, and safeguards your personal data when you browse restaurants, menus, and food listings across Singapore.",
+  "/privacy"
+);
 
 export default function PrivacyPage() {
   return (

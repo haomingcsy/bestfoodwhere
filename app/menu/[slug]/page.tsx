@@ -13,7 +13,7 @@ import {
   generateBreadcrumbSchema,
   JsonLd,
 } from "@/lib/seo/structured-data";
-import { notFound } from "next/navigation";
+import { notFound, redirect } from "next/navigation";
 import { existsSync, readFileSync } from "fs";
 import { join } from "path";
 
@@ -22,6 +22,7 @@ export const revalidate = 3600;
 
 interface Props {
   params: Promise<{ slug: string }>;
+  searchParams: Promise<{ location?: string }>;
 }
 
 export async function generateMetadata({
@@ -61,8 +62,14 @@ export async function generateMetadata({
   return generateMenuPageMetadata(brand);
 }
 
-export default async function MenuPage({ params }: Props) {
+export default async function MenuPage({ params, searchParams }: Props) {
   const { slug } = await params;
+  const { location: locationParam } = await searchParams;
+
+  // 301 redirect: /menu/slug?location=X → /menu/slug/X
+  if (locationParam) {
+    redirect(`/menu/${slug}/${locationParam}`);
+  }
 
   let brand = await fetchBrandBySlugSupabase(slug);
 
@@ -104,7 +111,7 @@ export default async function MenuPage({ params }: Props) {
     }
   }
 
-  // Default to first location — client handles ?location= switching
+  // Default to first location — client handles /menu/{slug}/{location} switching
   const location = brand.locations[0];
 
   // Generate structured data

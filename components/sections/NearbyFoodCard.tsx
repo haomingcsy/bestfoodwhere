@@ -14,7 +14,7 @@ export function NearbyRestaurantCard({ restaurant }: Props) {
 
   return (
     <Link
-      href={`/menu/${restaurant.brandSlug}?location=${restaurant.locationSlug}`}
+      href={`/menu/${restaurant.brandSlug}/${restaurant.locationSlug}`}
       className="group block overflow-hidden rounded-2xl bg-white shadow-[0_4px_20px_rgba(0,0,0,0.08)] transition-all hover:shadow-[0_8px_30px_rgba(0,0,0,0.12)] hover:-translate-y-1"
     >
       <div className="relative aspect-[4/3] overflow-hidden bg-gray-100">

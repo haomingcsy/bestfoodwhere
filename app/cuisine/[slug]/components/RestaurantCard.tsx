@@ -174,7 +174,7 @@ export function RestaurantCard({ restaurant }: RestaurantCardProps) {
             GET DIRECTIONS
           </a>
           <Link
-            href={`/menu/${menuSlug}?location=${locationSlug}`}
+            href={`/menu/${menuSlug}/${locationSlug}`}
             className="flex-1 rounded-full bg-gradient-to-r from-bfw-orange to-[#ff8e63] py-2.5 text-center text-[13px] font-semibold text-white shadow-sm transition-all hover:-translate-y-0.5 hover:from-[#d45325] hover:to-bfw-orange hover:shadow-[0_5px_12px_rgba(239,95,42,0.3)]"
           >
             VIEW MENU

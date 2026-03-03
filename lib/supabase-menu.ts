@@ -32,7 +32,8 @@ const supabase = createClient(
 // ---------------------------------------------------------------------------
 
 function mapLocation(bl: Record<string, unknown>): LocationInfo {
-  const mr = (bl.mall_restaurants ?? {}) as Record<string, unknown>;
+  const mrRaw = bl.mall_restaurants;
+  const mr = (Array.isArray(mrRaw) ? mrRaw[0] : mrRaw ?? {}) as Record<string, unknown>;
 
   return {
     slug: (bl.mall_slug as string) || (bl.slug as string) || "",
@@ -62,9 +63,10 @@ function mapLocation(bl: Record<string, unknown>): LocationInfo {
     imageUrl: (mr.hero_image_url as string) || (mr.image_url as string) || "",
     heroImageUrl: (mr.hero_image_url as string) || undefined,
     priceRange: (mr.price_range as string) || undefined,
-    cuisine: (mr.cuisines as string[]) ?? [],
-    diningStyle: (mr.dining_styles as string[]) ?? [],
+    cuisine: ((mr.cuisines as string[]) ?? []).filter(c => typeof c === "string" && c.length < 40),
+    diningStyle: ((mr.dining_styles as string[]) ?? []).filter(s => typeof s === "string" && s.length < 40),
     description: (bl.description as string) || undefined,
+    aiDescription: (bl.ai_description as string) || undefined,
     amenities: (bl.amenities as Amenity[]) || undefined,
     details: (bl.mall_slug as string)
       ? (bl.mall_slug as string)
@@ -144,7 +146,7 @@ export async function fetchBrandBySlugSupabase(
     .from("brand_locations")
     .select(
       `slug, location_name, address, phone, opening_hours, website,
-       description, amenities, mall_slug,
+       description, ai_description, amenities, mall_slug,
        mall_restaurants!mall_restaurant_id (
          rating, review_count, hero_image_url, image_url,
          cuisines, dining_styles, price_range, unit
@@ -295,6 +297,7 @@ export async function fetchBrandBySlugSupabase(
     name: brand.name as string,
     slug: brand.slug as string,
     description,
+    seoDescription: (brand.ai_description as string) || undefined,
     descriptionMissing: !description,
     amenitiesMissing: rawAmenities.length === 0,
     locations: (locations ?? []).map((l) =>

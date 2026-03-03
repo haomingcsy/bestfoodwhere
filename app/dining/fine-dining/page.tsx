@@ -7,30 +7,61 @@ import {
   OtherCuisinesSection,
 } from "./components";
 import { FINE_DINING_RESTAURANTS } from "./data";
+import {
+  generateBreadcrumbSchema,
+  generateItemListSchema,
+  JsonLd,
+} from "@/lib/seo/structured-data";
+import { generateDiningPageMetadata } from "@/lib/seo/metadata";
 
-export const metadata: Metadata = {
-  title: "Fine Dining in Singapore | BestFoodWhere.sg",
-  description:
-    "Discover the most exquisite fine dining restaurants in Singapore. From Michelin-starred establishments to celebrity chef restaurants, explore premium culinary experiences.",
-  openGraph: {
-    title: "Fine Dining in Singapore | BestFoodWhere.sg",
-    description:
-      "Discover the most exquisite fine dining restaurants in Singapore. From Michelin-starred establishments to celebrity chef restaurants.",
-    type: "website",
+const featuredRestaurants = FINE_DINING_RESTAURANTS.slice(0, 5).map(
+  (r) => r.name,
+);
+const featuredAreas = [
+  ...new Set(FINE_DINING_RESTAURANTS.map((r) => r.area)),
+].slice(0, 5);
+
+export const metadata: Metadata = generateDiningPageMetadata(
+  "Fine Dining",
+  "fine-dining",
+  {
+    restaurantCount: FINE_DINING_RESTAURANTS.length,
+    featuredRestaurants,
+    featuredAreas,
   },
-};
+);
 
 export default function FineDiningPage() {
-  return (
-    <div className="min-h-screen bg-[#f9f9f9]">
-      <HeroSection />
+  const breadcrumbSchema = generateBreadcrumbSchema([
+    { name: "Home", url: "https://bestfoodwhere.sg" },
+    { name: "Dining Styles", url: "https://bestfoodwhere.sg/dining" },
+    { name: "Fine Dining", url: "https://bestfoodwhere.sg/dining/fine-dining" },
+  ]);
 
-      <div className="mx-auto max-w-[1200px] px-5">
-        <StatsSection />
-        <RestaurantGrid restaurants={FINE_DINING_RESTAURANTS} />
-        <DealsSection />
-        <OtherCuisinesSection />
+  const restaurantListSchema = generateItemListSchema(
+    FINE_DINING_RESTAURANTS.map((r, i) => ({
+      name: r.name,
+      url: `https://bestfoodwhere.sg/dining/fine-dining`,
+      image: r.image || undefined,
+      position: i + 1,
+    })),
+    "Fine Dining Restaurants in Singapore",
+  );
+
+  return (
+    <>
+      <JsonLd data={breadcrumbSchema} />
+      <JsonLd data={restaurantListSchema} />
+      <div className="min-h-screen bg-[#f9f9f9]">
+        <HeroSection />
+
+        <div className="mx-auto max-w-[1200px] px-5">
+          <StatsSection />
+          <RestaurantGrid restaurants={FINE_DINING_RESTAURANTS} />
+          <DealsSection />
+          <OtherCuisinesSection />
+        </div>
       </div>
-    </div>
+    </>
   );
 }

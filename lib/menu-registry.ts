@@ -104,7 +104,7 @@ export async function getMenuPageUrl(
   if (!exists) return undefined;
 
   const baseUrl = `/menu/${slug}`;
-  return location ? `${baseUrl}?location=${location}` : baseUrl;
+  return location ? `${baseUrl}/${location}` : baseUrl;
 }
 
 /**

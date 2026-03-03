@@ -2,15 +2,16 @@ import { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
 import { getSupabaseRecipes, getRecipeCategory } from "@/lib/supabase-recipes";
+import { generateStaticPageMetadata } from "@/lib/seo/metadata";
 
 // Static generation - no external API dependency
 export const revalidate = 3600; // Revalidate every hour
 
-export const metadata: Metadata = {
-  title: "Recipes | BestFoodWhere",
-  description:
-    "Discover delicious recipes from around the world. Easy-to-follow instructions for Asian cuisine, Italian classics, comfort food, and more.",
-};
+export const metadata: Metadata = generateStaticPageMetadata(
+  "Recipes - Cook Singapore's Favourite Dishes at Home",
+  "Step-by-step recipes for Asian stir-fries, Italian pasta, comfort food, and more. Bring the flavours of Singapore's best restaurants into your own kitchen.",
+  "/recipes"
+);
 
 // Category data with images
 const CATEGORIES = [

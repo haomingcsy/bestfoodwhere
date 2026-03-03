@@ -593,7 +593,7 @@ export function MallRestaurantCard({
           </Link>
           {restaurant.hasMenuPage ? (
             <Link
-              href={`/menu/${restaurant.slug}?location=${restaurant.mallSlug}`}
+              href={`/menu/${restaurant.slug}/${restaurant.mallSlug}`}
               className="flex items-center justify-center gap-2 rounded-xl bg-bfw-orange px-4 py-3 text-sm font-semibold text-white transition hover:bg-bfw-orange/90"
             >
               VIEW MENU
