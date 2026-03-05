@@ -39,6 +39,7 @@ import {
   JOB_TYPE_COLORS,
 } from "@/types/career";
 import { getSupabaseBrowserClient } from "@/lib/supabase/client";
+import { trackFormSubmit } from "@/lib/analytics";
 
 // Stats for hero section
 const HERO_STATS = [
@@ -340,6 +341,7 @@ export default function CareerPage() {
         throw new Error(result.error || "Failed to submit application");
       }
 
+      trackFormSubmit("career_application", "career_application");
       setFormStatus("success");
       // Reset form
       setFormData({
@@ -386,6 +388,7 @@ export default function CareerPage() {
       const result = await res.json();
       if (!result.success) throw new Error(result.error);
 
+      trackFormSubmit("career_newsletter", "bfw_website");
       setNewsletterStatus("success");
       setNewsletterEmail("");
     } catch {

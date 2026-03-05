@@ -11,6 +11,7 @@ import { PasswordStrengthIndicator } from "./PasswordStrengthIndicator";
 import { PRICING_CONFIG, type PricingTier } from "@/lib/stripe/types";
 import { CUISINE_TYPES } from "@/types/restaurant";
 import type { ShoppingMall } from "@/types/restaurant";
+import { trackFormSubmit } from "@/lib/analytics";
 
 interface FormState {
   email: string;
@@ -261,6 +262,8 @@ export function RestaurantSignupForm() {
       } catch {
         // CRM sync failure is non-critical
       }
+
+      trackFormSubmit("restaurant_signup", "bfw_restaurant_signup");
 
       // For paid tiers, redirect to Stripe checkout
       if (form.selectedTier !== "basic") {

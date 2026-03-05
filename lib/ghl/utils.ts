@@ -174,9 +174,9 @@ export async function triggerN8nWebhook(
     });
 
     if (!response.ok) {
-      console.error(
-        `n8n webhook failed: ${response.status} ${response.statusText}`,
-      );
+      const errMsg = `n8n webhook failed: ${response.status} ${response.statusText}`;
+      console.error(errMsg);
+      logWebhookFailure(webhookUrl, payload, errMsg);
       return {
         success: false,
         error: `Webhook returned ${response.status}`,
@@ -185,11 +185,43 @@ export async function triggerN8nWebhook(
 
     return { success: true };
   } catch (error) {
+    const errMsg = error instanceof Error ? error.message : "Unknown error";
     console.error("n8n webhook error:", error);
+    logWebhookFailure(webhookUrl, payload, errMsg);
     return {
       success: false,
-      error: error instanceof Error ? error.message : "Unknown error",
+      error: errMsg,
     };
+  }
+}
+
+/** Log webhook failures to Supabase for retry/debugging */
+function logWebhookFailure(
+  webhookUrl: string,
+  payload: N8nWebhookPayload,
+  error: string,
+) {
+  try {
+    const { createClient } = require("@supabase/supabase-js");
+    const supabase = createClient(
+      process.env.NEXT_PUBLIC_SUPABASE_URL!,
+      process.env.SUPABASE_SERVICE_ROLE_KEY!,
+    );
+    supabase
+      .from("webhook_failures")
+      .insert({
+        webhook_url: webhookUrl,
+        payload: JSON.stringify(payload),
+        error_message: error,
+        source: payload.source,
+        contact_email: payload.email,
+      })
+      .then(() => {})
+      .catch((err: Error) =>
+        console.error("Failed to log webhook failure:", err.message),
+      );
+  } catch {
+    // If Supabase client fails, at least we have console.error above
   }
 }
 

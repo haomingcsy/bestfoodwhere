@@ -11,6 +11,7 @@
 
 import { NextRequest, NextResponse } from "next/server";
 import { waitUntil } from "@vercel/functions";
+import { createClient } from "@supabase/supabase-js";
 import { getGHLClient } from "@/lib/ghl/client";
 import {
   splitName,
@@ -30,10 +31,75 @@ import type {
   FormSource,
 } from "@/lib/ghl/types";
 import { enrichContactWithKeywords } from "@/lib/gsc/enrich";
+import { checkRateLimit, getClientIp } from "@/lib/rate-limit";
+
+async function saveFormSubmission(data: {
+  email: string;
+  name: string;
+  phone?: string;
+  source: string;
+  tags: string[];
+  subject?: string;
+  message?: string;
+  pageUrl?: string;
+  referrer?: string;
+  utm_source?: string;
+  utm_medium?: string;
+  utm_campaign?: string;
+  utm_content?: string;
+  utm_term?: string;
+  trafficChannel: string;
+  leadScore: number;
+  ghlContactId?: string;
+  ghlSyncSuccess: boolean;
+  customFields?: Record<string, string>;
+  ipAddress?: string;
+}) {
+  try {
+    const supabase = createClient(
+      process.env.NEXT_PUBLIC_SUPABASE_URL!,
+      process.env.SUPABASE_SERVICE_ROLE_KEY!,
+    );
+    await supabase.from("form_submissions").insert({
+      email: data.email,
+      name: data.name,
+      phone: data.phone || null,
+      source: data.source,
+      tags: data.tags || [],
+      subject: data.subject || null,
+      message: data.message || null,
+      page_url: data.pageUrl || null,
+      referrer: data.referrer || null,
+      utm_source: data.utm_source || null,
+      utm_medium: data.utm_medium || null,
+      utm_campaign: data.utm_campaign || null,
+      utm_content: data.utm_content || null,
+      utm_term: data.utm_term || null,
+      traffic_channel: data.trafficChannel,
+      lead_score: data.leadScore,
+      ghl_contact_id: data.ghlContactId || null,
+      ghl_sync_success: data.ghlSyncSuccess,
+      custom_fields: data.customFields || {},
+      ip_address: data.ipAddress || null,
+    });
+  } catch (err) {
+    console.error("Supabase form_submissions backup failed:", err);
+  }
+}
 
 export async function POST(
   request: NextRequest,
 ): Promise<NextResponse<ContactAPIResponse>> {
+  // Rate limiting
+  const ip = getClientIp(request);
+  const rateCheck = checkRateLimit(ip);
+  if (!rateCheck.allowed) {
+    return NextResponse.json(
+      { success: false, error: "Too many submissions. Please try again shortly." },
+      { status: 429, headers: { "Retry-After": String(Math.ceil(rateCheck.retryAfterMs / 1000)) } }
+    );
+  }
+
   try {
     const body = (await request.json()) as ContactAPIRequest;
 
@@ -129,6 +195,36 @@ export async function POST(
     // Resolve key names to GHL field IDs (GHL API requires IDs, not keys)
     const customFields = resolveCustomFieldIds(rawFields);
 
+    // Extract IP address early for Supabase backup
+    const ipAddress =
+      request.headers.get("x-forwarded-for")?.split(",")[0]?.trim() ||
+      request.headers.get("x-real-ip") ||
+      null;
+
+    // Build common Supabase backup data
+    const backupData = {
+      email,
+      name,
+      phone,
+      source: body.source,
+      tags: body.tags || [],
+      subject: body.subject,
+      message: body.message,
+      pageUrl: body.pageUrl,
+      referrer: body.referrer,
+      utm_source: body.utm_source,
+      utm_medium: body.utm_medium,
+      utm_campaign: body.utm_campaign,
+      utm_content: body.utm_content,
+      utm_term: body.utm_term,
+      trafficChannel,
+      leadScore,
+      customFields: Object.fromEntries(
+        (body.customFields || []).map((cf) => [cf.key, cf.field_value]),
+      ),
+      ipAddress: ipAddress || undefined,
+    };
+
     // Create or update contact in GHL with custom fields
     const result = await ghl.createOrUpdateContact({
       email,
@@ -139,12 +235,23 @@ export async function POST(
       customFields,
     });
 
+    // Always save to Supabase as backup (fire-and-forget, never blocks response)
+    waitUntil(
+      saveFormSubmission({
+        ...backupData,
+        ghlContactId: result.contactId,
+        ghlSyncSuccess: result.success,
+      }),
+    );
+
     if (!result.success) {
       console.error("GHL contact creation failed:", result.error);
-      return NextResponse.json(
-        { success: false, error: result.error || "Failed to create contact" },
-        { status: 500 },
-      );
+      // Still return success to user — we have the data in Supabase
+      return NextResponse.json({
+        success: true,
+        contactId: undefined,
+        isNew: undefined,
+      });
     }
 
     // Trigger n8n webhook for automation

@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import { IconMail, IconPhone, IconUsers } from "@/components/layout/icons";
+import { trackFormSubmit } from "@/lib/analytics";
 
 interface FormState {
   name: string;
@@ -97,6 +98,7 @@ export function VIPClubSignup() {
       const result = await response.json();
 
       if (result.success) {
+        trackFormSubmit("vip_club", "bfw_vip_club");
         setStatus("success");
       } else {
         setError(result.error || "Something went wrong. Please try again.");

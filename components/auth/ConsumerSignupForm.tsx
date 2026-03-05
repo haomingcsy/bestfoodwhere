@@ -8,6 +8,7 @@ import { IconMail, IconUsers, IconPhone } from "@/components/layout/icons";
 import { GoogleSignInButton } from "./GoogleSignInButton";
 import { AuthDivider } from "./AuthDivider";
 import { PasswordStrengthIndicator } from "./PasswordStrengthIndicator";
+import { trackFormSubmit } from "@/lib/analytics";
 
 const DIETARY_OPTIONS = [
   "Halal",
@@ -173,6 +174,7 @@ export function ConsumerSignupForm() {
           // CRM sync failure is non-critical
         }
 
+        trackFormSubmit("consumer_signup", "bfw_signup");
         router.push("/dashboard");
         router.refresh();
       }

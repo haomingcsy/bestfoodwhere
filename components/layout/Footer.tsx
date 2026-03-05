@@ -10,6 +10,7 @@ import {
   IconPhone,
   IconUsers,
 } from "./icons";
+import { trackFormSubmit } from "@/lib/analytics";
 
 const FOOTER_LINKS = {
   findFood: [
@@ -117,6 +118,7 @@ export function Footer() {
       const result = await response.json();
 
       if (result.success) {
+        trackFormSubmit("vip_footer", "bfw_vip_club");
         setStatus("success");
         setForm({ name: "", email: "", phone: "" });
         setStep(1);

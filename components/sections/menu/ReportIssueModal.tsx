@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useRef, useEffect } from "react";
+import { trackFormSubmit } from "@/lib/analytics";
 
 interface Props {
   open: boolean;
@@ -92,6 +93,7 @@ export function ReportIssueModal({
         throw new Error(data.error || "Something went wrong");
       }
 
+      trackFormSubmit("report_issue", "report_issue");
       setStatus("success");
       setTimeout(() => {
         onClose();

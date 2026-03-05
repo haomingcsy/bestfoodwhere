@@ -10,6 +10,7 @@ import {
   IconInstagram,
   IconPinterest,
 } from "@/components/layout/icons";
+import { trackFormSubmit } from "@/lib/analytics";
 
 // ============ Types ============
 interface FormState {
@@ -120,16 +121,17 @@ export default function ContactUsPage() {
 
     try {
       const params = new URLSearchParams(window.location.search);
-      const response = await fetch("/api/contact", {
+      const response = await fetch("/api/crm/contacts", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
           name: form.name.trim(),
           email: form.email.trim(),
           phone: form.phone.trim(),
+          source: "contact_form",
+          tags: ["contact_form"],
           subject: form.subject,
           message: form.message.trim(),
-          source: "contact-form",
           pageUrl: window.location.href,
           utm_source: params.get("utm_source") || "",
           utm_medium: params.get("utm_medium") || "",
@@ -144,6 +146,7 @@ export default function ContactUsPage() {
         throw new Error("Request failed");
       }
 
+      trackFormSubmit("contact_us", "contact_form");
       setStatus("success");
       // Redirect to thank you page
       window.location.href = "/thank-you";

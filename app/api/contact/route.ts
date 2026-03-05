@@ -18,6 +18,7 @@ import {
   resolveCustomFieldIds,
 } from "@/lib/ghl/utils";
 import type { N8nWebhookPayload } from "@/lib/ghl/types";
+import { checkRateLimit, getClientIp } from "@/lib/rate-limit";
 
 interface ContactPayload {
   name: string;
@@ -35,6 +36,16 @@ interface ContactPayload {
 }
 
 export async function POST(request: NextRequest) {
+  // Rate limiting
+  const ip = getClientIp(request);
+  const rateCheck = checkRateLimit(ip);
+  if (!rateCheck.allowed) {
+    return NextResponse.json(
+      { success: false, error: "Too many submissions. Please try again shortly." },
+      { status: 429, headers: { "Retry-After": String(Math.ceil(rateCheck.retryAfterMs / 1000)) } }
+    );
+  }
+
   let payload: ContactPayload;
 
   try {

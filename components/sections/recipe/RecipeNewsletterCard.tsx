@@ -1,6 +1,7 @@
 "use client";
 
 import { useState } from "react";
+import { trackFormSubmit } from "@/lib/analytics";
 
 export function RecipeNewsletterCard() {
   const [email, setEmail] = useState("");
@@ -49,6 +50,7 @@ export function RecipeNewsletterCard() {
 
       if (!response.ok) throw new Error("Failed to subscribe");
 
+      trackFormSubmit("recipe_newsletter", "recipe_newsletter");
       setIsSuccess(true);
       setEmail("");
     } catch {

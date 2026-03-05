@@ -11,6 +11,7 @@ import {
   IconHeart,
 } from "@/components/layout/icons";
 import type { SVGProps } from "react";
+import { trackFormSubmit } from "@/lib/analytics";
 
 interface FormState {
   name: string;
@@ -221,6 +222,7 @@ export function NewsletterSignup() {
       const result = await response.json();
 
       if (result.success) {
+        trackFormSubmit("newsletter_popup", "bfw_website");
         setStatus("success");
       } else {
         setError(result.error || "Something went wrong. Please try again.");

@@ -26,6 +26,7 @@ import {
   Building2,
 } from "lucide-react";
 import type { PricingTier } from "@/lib/stripe/types";
+import { trackFormSubmit } from "@/lib/analytics";
 
 // Pricing tiers
 const PRICING_TIERS: Array<{
@@ -358,6 +359,40 @@ export default function AdvertisePage() {
     setIsSubmitting(true);
     setError(null);
 
+    // Sync contact to GHL CRM (non-blocking — don't prevent checkout on failure)
+    const tierName = PRICING_TIERS.find((t) => t.id === selectedTier)?.name || String(selectedTier);
+    const params = typeof window !== "undefined"
+      ? new URLSearchParams(window.location.search)
+      : new URLSearchParams();
+
+    try {
+      await fetch("/api/crm/contacts", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          name: restaurantForm.contactName,
+          email: restaurantForm.email,
+          phone: restaurantForm.phone,
+          source: "bfw_restaurant_signup",
+          tags: ["advertiser", "listing", tierName],
+          pageUrl: typeof window !== "undefined" ? window.location.href : "",
+          referrer: typeof document !== "undefined" ? document.referrer : "",
+          utm_source: params.get("utm_source") || "",
+          utm_medium: params.get("utm_medium") || "",
+          utm_campaign: params.get("utm_campaign") || "",
+          utm_content: params.get("utm_content") || "",
+          utm_term: params.get("utm_term") || "",
+          customFields: [
+            { key: "bfw_restaurant_name", field_value: restaurantForm.restaurantName },
+            { key: "bfw_mall_location", field_value: restaurantForm.mallLocation },
+            { key: "bfw_cuisine_type", field_value: restaurantForm.cuisineType },
+          ],
+        }),
+      });
+    } catch {
+      // CRM sync failure is non-critical — proceed to checkout
+    }
+
     try {
       const response = await fetch("/api/stripe/checkout", {
         method: "POST",
@@ -375,6 +410,7 @@ export default function AdvertisePage() {
       }
 
       if (data.url) {
+        trackFormSubmit("restaurant_listing", "bfw_restaurant_signup");
         window.location.href = data.url;
       }
     } catch (err) {
@@ -414,6 +450,7 @@ export default function AdvertisePage() {
           ],
         }),
       });
+      trackFormSubmit("advertiser_inquiry", "advertiser_inquiry");
     } catch {
       // CRM sync failure is non-critical
     }

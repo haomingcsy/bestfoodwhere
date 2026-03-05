@@ -24,10 +24,21 @@ import type {
   CareerApplicationPayload,
   CareerApplicationResponse,
 } from "@/types/career";
+import { checkRateLimit, getClientIp } from "@/lib/rate-limit";
 
 export async function POST(
   request: NextRequest
 ): Promise<NextResponse<CareerApplicationResponse>> {
+  // Rate limiting
+  const ip = getClientIp(request);
+  const rateCheck = checkRateLimit(ip);
+  if (!rateCheck.allowed) {
+    return NextResponse.json(
+      { success: false, error: "Too many submissions. Please try again shortly." },
+      { status: 429, headers: { "Retry-After": String(Math.ceil(rateCheck.retryAfterMs / 1000)) } }
+    );
+  }
+
   try {
     const body = (await request.json()) as CareerApplicationPayload;
 
