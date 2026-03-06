@@ -21,14 +21,15 @@
 
 ## 1. Executive Summary
 
-This document defines the complete automation architecture for BestFoodWhere (BFW), covering lead management pipelines, email nurture sequences, and the integration layer between our Next.js application, GoHighLevel CRM, n8n workflow engine, Resend email service, and Supabase database.
+This document defines the complete automation architecture for BestFoodWhere (BFW), covering lead management pipelines, email nurture sequences, and the integration layer between our Next.js application, GoHighLevel CRM, n8n workflow engine, and Supabase database. Email delivery is handled by GHL Workflows triggered by tag additions from n8n — all email templates live in GHL's visual email builder.
 
 **What this covers:**
 
 - 4 CRM pipelines for managing restaurant leads, partnerships, newsletter subscribers, and general inquiries
-- 5 automated email sequences (25 total emails) for onboarding, nurturing, and re-engagement
+- 5 automated email sequences (21 total emails) for onboarding, nurturing, and re-engagement
 - Full n8n workflow specifications for orchestrating automation between systems
 - GHL API integration patterns with documented workarounds for API limitations
+- GHL Workflow-based email delivery triggered by n8n tag additions
 - A phased 4-week implementation roadmap
 
 **Why this matters:**
@@ -76,9 +77,8 @@ BFW currently captures leads across 14 form submission points and syncs them to 
 
 ### Email (Existing)
 
-- Resend integration for transactional email
-- Recipe welcome email template at `lib/email/recipe-welcome.ts`
-- Branded HTML template with BFW logo hosted on Supabase storage
+- Recipe welcome email template at `lib/email/recipe-welcome.ts` (legacy, to be migrated to GHL)
+- Branded HTML template with BFW logo hosted on Supabase storage (reference for GHL template design)
 
 ---
 
@@ -99,7 +99,7 @@ BFW currently captures leads across 14 form submission points and syncs them to 
 | **Pipelines — Create** | **NO** | N/A | Must create in GHL dashboard |
 | **Workflows — Create** | **NO** | N/A | Must create in GHL dashboard |
 | **Workflows — Trigger** | Indirect | Tag changes, custom field updates, inbound webhooks | Workflows listen for these events |
-| **Email/SMS — Send** | Via Conversations | `POST /conversations/messages` | Requires existing conversation; not a standalone email API |
+| **Email — Send via Workflows** | Via tag triggers | n8n adds a tag to a contact → GHL Workflow fires → sends email using GHL's built-in email builder | All email templates are built in GHL's visual email builder. n8n controls sequence timing and logic; GHL handles composition, delivery, and tracking. |
 | **Webhooks — Receive** | 50+ event types | Registered in GHL dashboard | contact.created, opportunity.statusChanged, etc. |
 | **Campaigns/Sequences** | **DEPRECATED** | N/A | Replaced by Workflows |
 | **Rate Limits** | — | — | 100 requests / 10 seconds burst, 200,000 / day |
@@ -107,10 +107,10 @@ BFW currently captures leads across 14 form submission points and syncs them to 
 ### Critical Limitations Summary
 
 1. **Cannot create pipelines via API** — must be created manually in GHL dashboard first, then use returned IDs in API calls
-2. **Cannot create workflows via API** — all workflow automation must be built in GHL dashboard or offloaded to n8n
-3. **No standalone email sending API** — email must go through Conversations API (requires existing thread) or be handled externally (Resend)
+2. **Cannot create workflows via API** — all workflow automation must be built in GHL dashboard; n8n triggers workflows via tag additions
+3. **Email sending is via GHL Workflows** — n8n adds tags to contacts (e.g., `welcome_email_1`), GHL Workflows listen for those tags and send emails using GHL's built-in email builder. Templates are designed in GHL's visual email builder, not in code.
 4. **Webhook registration is dashboard-only** — cannot programmatically register webhook listeners
-5. **Campaign/sequence APIs are deprecated** — all sequencing must use Workflows or external tools (n8n)
+5. **Campaign/sequence APIs are deprecated** — all sequencing logic lives in n8n; email delivery is handled by GHL Workflows triggered by tags
 
 ---
 
@@ -213,10 +213,10 @@ When a `contact_form` submission arrives at the CONTACT webhook, check if the `s
 | Stage | Description | Trigger |
 |-------|-------------|---------|
 | Subscribed | Just signed up | Form source: `bfw_website`, `bfw_vip_club`, `recipe_newsletter` |
-| Engaged | Opened 3+ emails in last 30 days | Supabase engagement tracking |
-| Highly Engaged | Opened 5+ emails AND clicked 2+ links | Supabase engagement tracking |
+| Engaged | Opened 3+ emails in last 30 days | GHL email engagement tracking |
+| Highly Engaged | Opened 5+ emails AND clicked 2+ links | GHL email engagement tracking |
 | Inactive | No opens in 30+ days | n8n cron check |
-| Churned | Unsubscribed or bounced | Resend webhook or manual unsubscribe |
+| Churned | Unsubscribed or bounced | GHL DND status or manual unsubscribe |
 
 **GHL Dashboard Setup:**
 
@@ -227,9 +227,9 @@ When a `contact_form` submission arrives at the CONTACT webhook, check if the `s
 
 **Engagement Tracking Strategy:**
 
-GHL does not expose per-email open/click metrics via API. Instead, track engagement externally:
+GHL tracks email opens and clicks internally for emails sent via GHL Workflows. Engagement tier calculation:
 
-1. Resend sends open/click webhooks to `/api/outreach/webhook` (already exists)
+1. GHL sends open/click webhook events to n8n (via registered GHL webhooks)
 2. n8n processes these events and writes to Supabase `engagement_events` table
 3. n8n cron job (daily) calculates engagement tier per subscriber from Supabase
 4. n8n pushes the engagement status to the GHL contact's custom field `bfw_engagement_tier` and moves their opportunity to the matching pipeline stage
@@ -260,7 +260,7 @@ GHL does not expose per-email open/click metrics via API. Instead, track engagem
 
 ## 5. Email Sequence Design
 
-All sequences use **n8n + Resend** as the delivery mechanism (not GHL's built-in email, which requires the Conversations API and existing threads). Resend provides reliable transactional email with open/click tracking webhooks.
+All sequences use **n8n + GHL** as the delivery mechanism. n8n handles sequence timing, branching logic, and unsubscribe checks. When it is time to send an email, n8n adds a tag (e.g., `welcome_email_1`) to the GHL contact via the API. A corresponding GHL Workflow listens for that tag addition and sends the email using GHL's built-in email builder. All email templates are designed and maintained in GHL's visual email builder — no email HTML lives in code.
 
 ### Sequence 1 — Newsletter Welcome
 
@@ -286,25 +286,27 @@ Filter: source IN (bfw_website, bfw_vip_club, bfw_signup)
 Nodes:
 1. Webhook Trigger → receive payload
 2. IF node → check source is newsletter (not restaurant_signup)
-3. Resend: Send Email 1 (immediate)
-4. Supabase: Insert into email_sends (email, sequence, email_number, sent_at)
-5. Wait 2 days
-6. Supabase: Check if unsubscribed → IF yes, stop
-7. Resend: Send Email 2
-8. Supabase: Log send
+3. GHL API: Add tag `welcome_email_1` to contact (immediate)
+   → GHL Workflow "Welcome Sequence" fires and sends Email 1
+4. Wait 2 days
+5. GHL API: Check contact DND status or `unsubscribed` tag → IF unsubscribed, stop
+6. GHL API: Add tag `welcome_email_2` to contact
+   → GHL Workflow sends Email 2
+7. Wait 3 days
+8. Unsubscribe check → GHL API: Add tag `welcome_email_3` → GHL Workflow sends Email 3
 9. Wait 3 days
-10. Unsubscribe check → Resend: Send Email 3 → Log
-11. Wait 3 days
-12. Unsubscribe check → Resend: Send Email 4 → Log
-13. Wait 4 days
-14. Unsubscribe check → Resend: Send Email 5 → Log
-15. GHL API: Add tag "welcome_sequence_complete" to contact
+10. Unsubscribe check → GHL API: Add tag `welcome_email_4` → GHL Workflow sends Email 4
+11. Wait 4 days
+12. Unsubscribe check → GHL API: Add tag `welcome_email_5` → GHL Workflow sends Email 5
+13. GHL API: Add tag "welcome_sequence_complete" to contact
 ```
+
+> **GHL Workflow required:** Create a GHL Workflow named "Welcome Sequence" with trigger "Tag Added" matching `welcome_email_*`. The workflow branches on the specific tag, sends the corresponding email template, then removes the trigger tag to keep the contact's tag list clean.
 
 **Metrics to Track:**
 
-- Open rate per email (target: Email 1 > 60%, overall > 35%)
-- Click rate per email (target: > 5%)
+- Open rate per email (target: Email 1 > 60%, overall > 35%) — tracked via GHL's built-in email stats
+- Click rate per email (target: > 5%) — tracked via GHL's built-in email stats
 - Unsubscribe rate per email (flag if > 2% on any single email)
 - Sequence completion rate (target: > 70% reach Email 5)
 
@@ -335,16 +337,22 @@ Nodes:
 1. Webhook Trigger → receive payload
 2. IF node → source === "advertiser_inquiry"
 3. GHL API: Create opportunity in Pipeline 1 (Restaurant Advertising Leads), stage "New Lead"
-4. Resend: Send Email 1 (immediate)
+4. GHL API: Add tag `nurture_email_1` to contact (immediate)
+   → GHL Workflow "Advertiser Nurture" fires and sends Email 1
 5. GHL API: Move opportunity to "Contacted" stage
-6. Supabase: Log send to email_sends
-7. Wait 2 days → Unsubscribe check → Resend: Send Email 2 → Log
-8. Wait 3 days → Unsubscribe check → Resend: Send Email 3 → Log
-9. Wait 4 days → Unsubscribe check → Resend: Send Email 4 → Log
-10. Wait 5 days → Unsubscribe check → Resend: Send Email 5 → Log
-11. GHL API: Add tag "nurture_sequence_complete"
-12. GHL API: Create task on contact — "Follow up manually if no meeting booked"
+6. Wait 2 days → Unsubscribe check → GHL API: Add tag `nurture_email_2`
+   → GHL Workflow sends Email 2
+7. Wait 3 days → Unsubscribe check → GHL API: Add tag `nurture_email_3`
+   → GHL Workflow sends Email 3
+8. Wait 4 days → Unsubscribe check → GHL API: Add tag `nurture_email_4`
+   → GHL Workflow sends Email 4
+9. Wait 5 days → Unsubscribe check → GHL API: Add tag `nurture_email_5`
+   → GHL Workflow sends Email 5
+10. GHL API: Add tag "nurture_sequence_complete"
+11. GHL API: Create task on contact — "Follow up manually if no meeting booked"
 ```
+
+> **GHL Workflow required:** Create a GHL Workflow named "Advertiser Nurture" with trigger "Tag Added" matching `nurture_email_*`. The workflow branches on the specific tag, sends the corresponding email template, then removes the trigger tag.
 
 **Metrics to Track:**
 
@@ -352,6 +360,7 @@ Nodes:
 - Reply rate (target: > 5%)
 - Offer redemption rate on Email 5 (target: > 3%)
 - Pipeline progression: % of leads reaching "Meeting Scheduled" within 21 days
+- Open/click rates tracked via GHL's built-in email stats
 
 ---
 
@@ -379,19 +388,26 @@ Nodes:
 1. Webhook Trigger → receive payload
 2. IF node → subject regex match: /partner|business|collaborat/i
 3. GHL API: Create opportunity in Pipeline 2 (Partnership Inquiries), stage "Inquiry Received"
-4. Resend: Send Email 1 → Log
-5. Wait 3 days → Resend: Send Email 2 → Log
+4. GHL API: Add tag `partnership_email_1` to contact
+   → GHL Workflow "Partnership Follow-Up" fires and sends Email 1
+5. Wait 3 days → GHL API: Add tag `partnership_email_2`
+   → GHL Workflow sends Email 2
 6. GHL API: Move opportunity to "Evaluated"
-7. Wait 3 days → Resend: Send Email 3 → Log
-8. Wait 4 days → Resend: Send Email 4 → Log
+7. Wait 3 days → GHL API: Add tag `partnership_email_3`
+   → GHL Workflow sends Email 3
+8. Wait 4 days → GHL API: Add tag `partnership_email_4`
+   → GHL Workflow sends Email 4
 9. GHL API: Add tag "partnership_sequence_complete"
 ```
+
+> **GHL Workflow required:** Create a GHL Workflow named "Partnership Follow-Up" with trigger "Tag Added" matching `partnership_email_*`. The workflow branches on the specific tag, sends the corresponding email template, then removes the trigger tag.
 
 **Metrics to Track:**
 
 - Reply rate (target: > 15% — partnership inquiries are higher intent)
 - Meeting book rate (target: > 10%)
 - Time to first response
+- Open/click rates tracked via GHL's built-in email stats
 
 ---
 
@@ -420,22 +436,28 @@ Nodes:
    AND subscribed = true
 3. Loop over results:
    a. Supabase: Mark contact as "in_reengagement_sequence"
-   b. Resend: Send Email 1 → Log
+   b. GHL API: Add tag `reengagement_email_1` to contact
+      → GHL Workflow "Re-engagement" fires and sends Email 1
 4. [Separate n8n workflow or same with Wait nodes]
-5. Wait 3 days → check if re-engaged (any open/click) → IF yes, stop and update tier
-6. IF no → Resend: Send Email 2 → Log
+5. Wait 3 days → check if re-engaged (GHL webhook events for opens/clicks) → IF yes, stop and update tier
+6. IF no → GHL API: Add tag `reengagement_email_2`
+   → GHL Workflow sends Email 2
 7. Wait 4 days → check if re-engaged
-8. IF no → Resend: Send Email 3 → Log
+8. IF no → GHL API: Add tag `reengagement_email_3`
+   → GHL Workflow sends Email 3
 9. Wait 7 days → check if any action taken
 10. IF no action → GHL API: Move subscriber opportunity to "Churned"
 11. Supabase: Update subscriber status to "churned"
 ```
+
+> **GHL Workflow required:** Create a GHL Workflow named "Re-engagement" with trigger "Tag Added" matching `reengagement_email_*`. The workflow branches on the specific tag, sends the corresponding email template, then removes the trigger tag.
 
 **Metrics to Track:**
 
 - Re-engagement rate (target: > 15% reactivate)
 - Unsubscribe rate from Email 3 (expected: 20-30% — this is healthy list cleaning)
 - False positive rate (contacts marked inactive who actually engage)
+- Open/click rates tracked via GHL's built-in email stats
 
 ---
 
@@ -463,19 +485,26 @@ Nodes:
 1. Webhook Trigger → extract customer email, plan details
 2. GHL API: Move opportunity in Pipeline 1 to "Won" stage
 3. GHL API: Add tag "paying_customer"
-4. Resend: Send Email 1 → Log
-5. Wait 1 day → Resend: Send Email 2 → Log
-6. Wait 2 days → Resend: Send Email 3 → Log
-7. Wait 4 days → Resend: Send Email 4 → Log
+4. GHL API: Add tag `onboarding_email_1` to contact
+   → GHL Workflow "Advertiser Onboarding" fires and sends Email 1
+5. Wait 1 day → GHL API: Add tag `onboarding_email_2`
+   → GHL Workflow sends Email 2
+6. Wait 2 days → GHL API: Add tag `onboarding_email_3`
+   → GHL Workflow sends Email 3
+7. Wait 4 days → GHL API: Add tag `onboarding_email_4`
+   → GHL Workflow sends Email 4
 8. GHL API: Add tag "onboarding_complete"
 9. GHL API: Create task — "30-day check-in with {restaurant_name}"
 ```
+
+> **GHL Workflow required:** Create a GHL Workflow named "Advertiser Onboarding" with trigger "Tag Added" matching `onboarding_email_*`. The workflow branches on the specific tag, sends the corresponding email template, then removes the trigger tag.
 
 **Metrics to Track:**
 
 - Profile completion rate within 7 days (target: > 60%)
 - Support ticket rate during onboarding (lower is better)
 - 30-day retention rate
+- Open/click rates tracked via GHL's built-in email stats
 
 ---
 
@@ -489,11 +518,11 @@ Nodes:
 Trigger:     N8N_WEBHOOK_NEWSLETTER
 Filter:      source IN (bfw_website, bfw_vip_club, bfw_signup)
 GHL calls:   POST /contacts/{id}/tags (add "welcome_sequence_started")
+             POST /contacts/{id}/tags (add "welcome_email_1" through "welcome_email_5" on schedule)
              POST /contacts/{id}/tags (add "welcome_sequence_complete")
              POST /opportunities/upsert (Pipeline 3, "Subscribed" stage)
-Resend:      5 emails on schedule (day 0, 2, 5, 8, 12)
-Supabase:    INSERT INTO email_sends for each email
-             SELECT FROM subscribers to check unsubscribe status
+             → Each tag addition triggers GHL Workflow "Welcome Sequence" which sends the email
+Supabase:    SELECT FROM subscribers to check unsubscribe status
 ```
 
 #### Workflow 2: Advertiser Lead Nurture Orchestrator
@@ -502,10 +531,10 @@ Supabase:    INSERT INTO email_sends for each email
 Trigger:     N8N_WEBHOOK_CONTACT (filtered: source = advertiser_inquiry)
 GHL calls:   POST /opportunities/upsert (Pipeline 1, "New Lead" stage)
              PUT /opportunities/{id} (move to "Contacted" on Email 1)
+             POST /contacts/{id}/tags (add "nurture_email_1" through "nurture_email_5" on schedule)
              POST /contacts/{id}/tags (add "nurture_sequence_complete")
              POST /contacts/{id}/tasks (create follow-up task)
-Resend:      5 emails on schedule (day 0, 2, 5, 9, 14)
-Supabase:    INSERT INTO email_sends
+             → Each tag addition triggers GHL Workflow "Advertiser Nurture" which sends the email
 ```
 
 #### Workflow 3: Partnership Follow-Up Orchestrator
@@ -514,9 +543,8 @@ Supabase:    INSERT INTO email_sends
 Trigger:     N8N_WEBHOOK_CONTACT (filtered: subject matches partnership keywords)
 GHL calls:   POST /opportunities/upsert (Pipeline 2, "Inquiry Received")
              PUT /opportunities/{id} (move to "Evaluated" after Email 2)
-             POST /contacts/{id}/tags
-Resend:      4 emails on schedule (day 0, 3, 6, 10)
-Supabase:    INSERT INTO email_sends
+             POST /contacts/{id}/tags (add "partnership_email_1" through "partnership_email_4" on schedule)
+             → Each tag addition triggers GHL Workflow "Partnership Follow-Up" which sends the email
 ```
 
 #### Workflow 4: Re-engagement Checker (Cron)
@@ -525,10 +553,10 @@ Supabase:    INSERT INTO email_sends
 Trigger:     Cron — daily at 10:00 AM SGT (02:00 UTC)
 GHL calls:   PUT /opportunities/{id} (move to "Inactive" or "Churned")
              PUT /contacts/{id} (update custom field bfw_engagement_tier)
-Resend:      3 emails on schedule (day 0, 3, 7)
+             POST /contacts/{id}/tags (add "reengagement_email_1" through "reengagement_email_3" on schedule)
+             → Each tag addition triggers GHL Workflow "Re-engagement" which sends the email
 Supabase:    SELECT inactive contacts
              UPDATE contact engagement status
-             INSERT INTO email_sends
 ```
 
 #### Workflow 5: Opportunity Creator
@@ -564,7 +592,7 @@ Register these webhook listeners in GHL dashboard (**Settings** → **Webhooks**
 |-----------|-------------|--------|
 | `contact.created` | `{n8n_base}/webhook/ghl-contact-created` | Sync new contact to Supabase `ghl_contacts_sync` table |
 | `contact.tagAdded` | `{n8n_base}/webhook/ghl-tag-added` | Route: if tag = "meeting_booked" → move Pipeline 1 to "Meeting Scheduled" |
-| `opportunity.statusChanged` | `{n8n_base}/webhook/ghl-opp-status` | Update Supabase `pipeline_events`, trigger stage-specific emails |
+| `opportunity.statusChanged` | `{n8n_base}/webhook/ghl-opp-status` | Update Supabase `pipeline_events`, trigger stage-specific actions |
 | `opportunity.stageChanged` | `{n8n_base}/webhook/ghl-opp-stage` | Log stage transition, trigger appropriate automation |
 | `task.completed` | `{n8n_base}/webhook/ghl-task-done` | Update Supabase, trigger next action if applicable |
 | `contact.deleted` | `{n8n_base}/webhook/ghl-contact-deleted` | Remove from Supabase sync table, stop active sequences |
@@ -595,9 +623,10 @@ Supabase:    UPSERT INTO ghl_contacts_sync (
 #### Email Engagement Tracking
 
 ```
-Trigger:     Resend webhook (email.opened, email.clicked, email.bounced)
+Trigger:     GHL webhook events (email opened, email clicked, email bounced)
+             — GHL sends these events when emails sent via GHL Workflows are interacted with
 Supabase:    INSERT INTO engagement_events (
-               email, event_type, email_id, sequence_name,
+               email, event_type, sequence_name,
                email_number, metadata, created_at
              )
 ```
@@ -634,21 +663,26 @@ User signs up on bestfoodwhere.sg
                     ├──► GHL API: create opportunity (Pipeline 3, "Subscribed")
                     ├──► GHL API: add tag "welcome_sequence_started"
                     │
-                    ├──► Day 0:  Resend → Email 1 → Supabase: email_sends
-                    ├──► Day 2:  Resend → Email 2 → Supabase: email_sends
-                    ├──► Day 5:  Resend → Email 3 → Supabase: email_sends
-                    ├──► Day 8:  Resend → Email 4 → Supabase: email_sends
-                    └──► Day 12: Resend → Email 5 → Supabase: email_sends
+                    ├──► Day 0:  GHL API: add tag `welcome_email_1`
+                    │             → GHL Workflow sends Email 1
+                    ├──► Day 2:  GHL API: add tag `welcome_email_2`
+                    │             → GHL Workflow sends Email 2
+                    ├──► Day 5:  GHL API: add tag `welcome_email_3`
+                    │             → GHL Workflow sends Email 3
+                    ├──► Day 8:  GHL API: add tag `welcome_email_4`
+                    │             → GHL Workflow sends Email 4
+                    └──► Day 12: GHL API: add tag `welcome_email_5`
+                                  → GHL Workflow sends Email 5
                                                           │
                     ┌─────────────────────────────────────┘
                     ▼
-              Resend fires open/click webhooks
+              GHL tracks opens/clicks internally
                     │
                     ▼
-              /api/outreach/webhook (BFW)
+              GHL fires webhook events to n8n
                     │
                     ▼
-              Supabase: engagement_events
+              n8n writes to Supabase: engagement_events
                     │
                     ▼
               n8n Cron (daily): calculate engagement tier
@@ -677,12 +711,17 @@ Restaurant owner fills out advertiser inquiry form
                     │    Pipeline 1 "Restaurant Advertising Leads"
                     │    Stage: "New Lead"
                     │
-                    ├──► Day 0:  Resend → Email 1 (confirmation + stats)
+                    ├──► Day 0:  GHL API: add tag `nurture_email_1`
+                    │             → GHL Workflow sends Email 1 (confirmation + stats)
                     │    └──► GHL API: move to "Contacted"
-                    ├──► Day 2:  Resend → Email 2 (case study)
-                    ├──► Day 5:  Resend → Email 3 (pricing options)
-                    ├──► Day 9:  Resend → Email 4 (testimonials)
-                    └──► Day 14: Resend → Email 5 (limited offer)
+                    ├──► Day 2:  GHL API: add tag `nurture_email_2`
+                    │             → GHL Workflow sends Email 2 (case study)
+                    ├──► Day 5:  GHL API: add tag `nurture_email_3`
+                    │             → GHL Workflow sends Email 3 (pricing options)
+                    ├──► Day 9:  GHL API: add tag `nurture_email_4`
+                    │             → GHL Workflow sends Email 4 (testimonials)
+                    └──► Day 14: GHL API: add tag `nurture_email_5`
+                                  → GHL Workflow sends Email 5 (limited offer)
                          └──► GHL API: add tag "nurture_complete"
                          └──► GHL API: create task "Manual follow-up"
                                           │
@@ -703,7 +742,7 @@ Restaurant owner fills out advertiser inquiry form
                     ▼
               n8n: "Advertiser Onboarding" sequence
                     ├──► GHL API: move to "Won"
-                    └──► 4-email onboarding sequence (Resend)
+                    └──► 4-email onboarding sequence (via GHL tag-triggered Workflow)
 ```
 
 #### Re-engagement Flow
@@ -723,15 +762,18 @@ n8n Cron (daily 10:00 AM SGT)
          ├──► Supabase: SET in_reengagement = true
          ├──► GHL API: move opportunity (Pipeline 3) to "Inactive"
          │
-         ├──► Day 0: Resend → "Singapore's food scene changed" → Log
+         ├──► Day 0: GHL API: add tag `reengagement_email_1`
+         │           → GHL Workflow sends "Singapore's food scene changed"
          │    ▼
-         │    Check: any open/click in 3 days?
+         │    Check: any open/click in 3 days? (via GHL webhook events)
          │    ├── YES → Stop sequence, move to "Engaged", clear flag
-         │    └── NO ──► Day 3: Resend → "Welcome back offer" → Log
+         │    └── NO ──► Day 3: GHL API: add tag `reengagement_email_2`
+         │                       → GHL Workflow sends "Welcome back offer"
          │               ▼
          │               Check: any open/click in 4 days?
          │               ├── YES → Stop, move to "Engaged"
-         │               └── NO ──► Day 7: Resend → "Should we stop?" → Log
+         │               └── NO ──► Day 7: GHL API: add tag `reengagement_email_3`
+         │                                  → GHL Workflow sends "Should we stop?"
          │                           ▼
          │                           Wait 7 more days
          │                           ├── Action taken → update accordingly
@@ -774,42 +816,45 @@ n8n Cron (daily 10:00 AM SGT)
 
 **Limitation:** GHL API cannot create workflows.
 
-**Workaround:** Create minimal GHL workflows that listen for tag changes and trigger internal actions. Heavy lifting done in n8n.
+**Workaround:** Create GHL Workflows in the dashboard that listen for email tag additions and send the corresponding emails. n8n handles all sequence timing and logic; GHL handles email composition, delivery, and tracking.
 
 **GHL Workflows to Create (dashboard only):**
 
 | Workflow Name | Trigger | Action |
 |---------------|---------|--------|
+| Welcome Sequence | Tag added: `welcome_email_*` | Branch on tag → send corresponding email template → remove trigger tag |
+| Advertiser Nurture | Tag added: `nurture_email_*` | Branch on tag → send corresponding email template → remove trigger tag |
+| Partnership Follow-Up | Tag added: `partnership_email_*` | Branch on tag → send corresponding email template → remove trigger tag |
+| Re-engagement | Tag added: `reengagement_email_*` | Branch on tag → send corresponding email template → remove trigger tag |
+| Advertiser Onboarding | Tag added: `onboarding_email_*` | Branch on tag → send corresponding email template → remove trigger tag |
 | Ad Lead — Meeting Booked | Tag added: `meeting_booked` | Move opportunity to "Meeting Scheduled" stage |
 | Ad Lead — Proposal Sent | Tag added: `proposal_sent` | Move opportunity to "Proposal Sent" stage |
 | Subscriber — Engaged | Custom field `bfw_engagement_tier` changed to `engaged` | Move opportunity to "Engaged" stage |
 | Contact — Auto Archive | 14 days after opportunity enters "Responded" | Move to "Archived" |
 
-**Steps for each workflow:**
+**Steps for each email sequence workflow:**
 
 1. **Automations** → **+ Create Workflow**
-2. Choose trigger type (Tag Added or Custom Field Changed)
-3. Configure trigger condition
-4. Add action: Update Opportunity → select pipeline → select target stage
-5. **Publish** the workflow
+2. Choose trigger: **Tag Added**
+3. Configure trigger condition: tag matches the sequence prefix (e.g., `welcome_email_`)
+4. Add **IF/Branch** node to check the specific tag (e.g., `welcome_email_1`, `welcome_email_2`, etc.)
+5. For each branch: add **Send Email** action → select the corresponding email template built in GHL's email builder
+6. After send: add **Remove Tag** action to remove the trigger tag (keeps the contact's tag list clean)
+7. **Publish** the workflow
 
 ---
 
-### Email Sequences (n8n + Resend vs GHL Built-in)
+### Email Delivery via GHL Tag-Triggered Workflows
 
-| Feature | n8n + Resend | GHL Built-in (Workflows) |
-|---------|-------------|-------------------------|
-| **Setup complexity** | Medium — build n8n workflows | Low — visual builder |
-| **Email delivery** | Excellent — Resend is purpose-built for transactional email | Good — GHL email delivery |
-| **Open/click tracking** | Via Resend webhooks → Supabase | Built-in to GHL (but not API-accessible) |
-| **Personalization** | Full — n8n can query any data source | Limited to GHL contact fields |
-| **Template control** | Full HTML control, React Email compatible | GHL email builder |
-| **Reporting** | Custom — Supabase analytics | GHL dashboard (limited export) |
-| **Sequence branching** | Full n8n IF/Switch logic | GHL workflow builder |
-| **Cost** | Resend free tier: 3,000 emails/month | Included in GHL plan |
-| **Portability** | Templates and logic exportable | Locked to GHL |
+Email delivery uses GHL Workflows triggered by n8n tag additions. n8n handles sequence timing and logic; GHL handles email composition, delivery, and tracking.
 
-**Recommendation:** Use **n8n + Resend** for all sequences. This gives full control over email content, delivery, tracking, and analytics. GHL Workflows are used only for simple tag-based triggers and opportunity stage movements.
+**How it works:**
+1. n8n adds a tag like `welcome_email_1` to a GHL contact via the API
+2. A GHL Workflow listening for that tag fires automatically
+3. The workflow sends the corresponding email (built in GHL's visual email builder)
+4. The workflow removes the trigger tag from the contact to keep tags clean
+5. GHL internally tracks opens, clicks, and bounces
+6. GHL can fire webhook events for engagement tracking, which n8n writes to Supabase
 
 ---
 
@@ -843,14 +888,14 @@ Lead scoring is calculated in BFW's Next.js backend (`calculateInitialLeadScore(
 
 **Limitation:** GHL reporting is limited and not API-exportable for custom dashboards.
 
-**Workaround:** Use Supabase as the analytics warehouse.
+**Workaround:** Use Supabase as the analytics warehouse, supplemented by GHL's built-in email stats.
 
 - All form submissions → `form_submissions` table
-- All email sends → `email_sends` table (new)
-- All engagement events → `engagement_events` table (new)
+- All engagement events → `engagement_events` table (new) — populated via GHL webhook events
 - All pipeline movements → `pipeline_events` table (new)
 - Daily aggregate reports → `daily_reports` table or Supabase views
 - n8n syncs GHL contact data back to Supabase nightly for cross-referencing
+- GHL dashboard provides per-email open/click stats for emails sent via GHL Workflows
 
 ---
 
@@ -867,11 +912,17 @@ Lead scoring is calculated in BFW's Next.js backend (`calculateInitialLeadScore(
 | Retrieve all pipeline IDs and stage IDs via API | Dev | 15 min | Pipelines created |
 | Store IDs in n8n environment variables | Dev | 15 min | IDs retrieved |
 | Register 6 GHL webhook URLs pointing to n8n | Admin | 20 min | n8n endpoints deployed |
-| Create 4 GHL workflows (tag-triggered stage movers) | Admin | 30 min | Pipelines created |
+| Create 21 GHL email templates (one per email across all 5 sequences) in GHL visual email builder | Content/Admin | 4 hrs | Email copy written (can start with placeholder copy) |
+| Create GHL Workflow: "Welcome Sequence" (trigger: `welcome_email_*` tags, 5 branches, send email + remove tag) | Admin | 30 min | Email templates created |
+| Create GHL Workflow: "Advertiser Nurture" (trigger: `nurture_email_*` tags, 5 branches, send email + remove tag) | Admin | 30 min | Email templates created |
+| Create GHL Workflow: "Partnership Follow-Up" (trigger: `partnership_email_*` tags, 4 branches, send email + remove tag) | Admin | 20 min | Email templates created |
+| Create GHL Workflow: "Re-engagement" (trigger: `reengagement_email_*` tags, 3 branches, send email + remove tag) | Admin | 20 min | Email templates created |
+| Create GHL Workflow: "Advertiser Onboarding" (trigger: `onboarding_email_*` tags, 4 branches, send email + remove tag) | Admin | 20 min | Email templates created |
+| Create 4 GHL workflows (tag-triggered stage movers: Meeting Booked, Proposal Sent, Engaged, Auto Archive) | Admin | 30 min | Pipelines created |
 | Add new GHL custom field: `bfw_engagement_tier` | Admin | 5 min | None |
-| Test: create test contact → verify webhook fires | Dev | 15 min | Webhooks registered |
+| Test: create test contact → add email tag → verify GHL Workflow fires and sends email | Dev | 30 min | Workflows + templates created |
 
-**Deliverable:** All 4 pipelines live in GHL, webhooks registered, workflow triggers active.
+**Deliverable:** All 4 pipelines live in GHL, 9 GHL Workflows active (5 email sequence workflows + 4 stage movers), 21 email templates ready, webhooks registered.
 
 ---
 
@@ -879,19 +930,18 @@ Lead scoring is calculated in BFW's Next.js backend (`calculateInitialLeadScore(
 
 | Task | Owner | Time Est. | Dependencies |
 |------|-------|-----------|-------------|
-| Build Workflow 1: Newsletter Welcome Sequence | Dev | 3 hrs | Pipeline 3 IDs |
-| Build Workflow 2: Advertiser Lead Nurture | Dev | 3 hrs | Pipeline 1 IDs |
-| Build Workflow 3: Partnership Follow-Up | Dev | 2 hrs | Pipeline 2 IDs |
-| Build Workflow 4: Re-engagement Checker (cron) | Dev | 3 hrs | Supabase tables |
+| Build Workflow 1: Newsletter Welcome Sequence (tag-based email triggers) | Dev | 2 hrs | Pipeline 3 IDs, GHL Workflow "Welcome Sequence" active |
+| Build Workflow 2: Advertiser Lead Nurture (tag-based email triggers) | Dev | 2 hrs | Pipeline 1 IDs, GHL Workflow "Advertiser Nurture" active |
+| Build Workflow 3: Partnership Follow-Up (tag-based email triggers) | Dev | 1.5 hrs | Pipeline 2 IDs, GHL Workflow "Partnership Follow-Up" active |
+| Build Workflow 4: Re-engagement Checker (cron + tag-based email triggers) | Dev | 2.5 hrs | Supabase tables, GHL Workflow "Re-engagement" active |
 | Build Workflow 5: Opportunity Creator (routing) | Dev | 2 hrs | All pipeline IDs |
 | Build Workflow 6: Pipeline Stage Updater | Dev | 1 hr | All pipeline IDs |
-| Build GHL → n8n → Supabase sync workflows | Dev | 2 hrs | GHL webhooks |
-| Apply Supabase migration: email_sends table | Dev | 30 min | None |
+| Build GHL → n8n → Supabase sync workflows (contact sync + engagement events) | Dev | 2 hrs | GHL webhooks |
 | Apply Supabase migration: engagement_events table | Dev | 30 min | None |
 | Apply Supabase migration: pipeline_events table | Dev | 30 min | None |
-| Integration test: full flow from form → GHL → n8n → Resend | Dev | 2 hrs | All workflows |
+| Integration test: full flow from form → GHL → n8n → GHL tag → GHL Workflow → email sent | Dev | 2 hrs | All workflows |
 
-**Deliverable:** All 6+ n8n workflows deployed and tested with real form submissions.
+**Deliverable:** All 6+ n8n workflows deployed and tested with real form submissions. Tag-based email triggering verified end-to-end.
 
 ---
 
@@ -904,13 +954,11 @@ Lead scoring is calculated in BFW's Next.js backend (`calculateInitialLeadScore(
 | Write email copy: Partnership Follow-Up (4 emails) | Content | 3 hrs | None |
 | Write email copy: Re-engagement (3 emails) | Content | 2 hrs | None |
 | Write email copy: Advertiser Onboarding (4 emails) | Content | 3 hrs | None |
-| Build Resend HTML templates (extend existing BFW template) | Dev | 4 hrs | Copy written |
-| Configure Resend open/click tracking webhooks | Dev | 1 hr | None |
-| Wire Resend webhooks to /api/outreach/webhook | Dev | 1 hr | Webhook route exists |
-| A/B test setup: 2 subject line variants for Email 1 of each sequence | Dev | 2 hrs | Templates built |
-| End-to-end test: send all 21 emails to test addresses | QA | 2 hrs | All templates |
+| Build 21 GHL email templates in dashboard visual builder (finalize with real copy) | Content/Dev | 4 hrs | Copy written |
+| A/B test setup: 2 subject line variants for Email 1 of each sequence (use GHL A/B testing if available, or create variant tags) | Dev | 2 hrs | Templates built |
+| End-to-end test: trigger all 21 emails via tag additions to test contacts | QA | 2 hrs | All templates finalized |
 
-**Deliverable:** 21 email templates live in Resend, A/B test variants configured, full sequence tested.
+**Deliverable:** 21 email templates finalized in GHL visual email builder, A/B test variants configured, full sequence tested end-to-end via tag triggers.
 
 ---
 
@@ -918,11 +966,11 @@ Lead scoring is calculated in BFW's Next.js backend (`calculateInitialLeadScore(
 
 | Task | Owner | Time Est. | Dependencies |
 |------|-------|-----------|-------------|
-| Build Supabase view: `v_email_sequence_metrics` | Dev | 1 hr | email_sends table |
+| Build Supabase view: `v_email_sequence_metrics` (based on engagement_events from GHL webhooks) | Dev | 1 hr | engagement_events table |
 | Build Supabase view: `v_pipeline_conversion_rates` | Dev | 1 hr | pipeline_events table |
 | Build Supabase view: `v_daily_lead_summary` | Dev | 1 hr | form_submissions table |
 | Add GA4 conversion events for key pipeline milestones | Dev | 2 hrs | Workflows active |
-| Build admin dashboard widget: sequence performance | Dev | 3 hrs | Views created |
+| Build admin dashboard widget: sequence performance (data from GHL email stats + Supabase engagement_events) | Dev | 3 hrs | Views created |
 | Build admin dashboard widget: pipeline overview | Dev | 3 hrs | Views created |
 | Configure n8n error alerting (Slack/email on workflow failure) | Dev | 1 hr | n8n running |
 | First week performance review and subject line optimization | Team | 2 hrs | 7 days of data |
@@ -971,116 +1019,66 @@ All requests require:
 |-----------|--------------|-------|
 | Webhook | Method: POST, Path: `/webhook/{name}`, Response: 200 OK | Entry point for BFW and GHL |
 | Cron | Timezone: Asia/Singapore, Time: varies | For scheduled workflows |
-| HTTP Request | URL: GHL API endpoint, Auth: Bearer token | All GHL API calls |
-| HTTP Request | URL: Resend API endpoint, Auth: Bearer token | Email sending |
+| HTTP Request | URL: GHL API endpoint, Auth: Bearer token | All GHL API calls (contact CRUD, tag additions, opportunity updates) |
 | Supabase | Operation: Insert/Update/Select, Table: varies | Uses service role key |
-| IF | Conditions: field-based routing | Source routing, engagement checks |
+| IF | Conditions: field-based routing | Source routing, engagement checks, DND/unsubscribe checks |
 | Wait | Duration: days, Resume: On webhook | Sequence timing |
 | Switch | Multiple outputs based on source field | Pipeline routing |
 | Set | Merge/transform fields | Payload preparation |
 
+> **Note:** Email sending is handled entirely by GHL Workflows triggered by tag additions. n8n does not directly send any emails — it adds tags like `welcome_email_1` to GHL contacts, and GHL Workflows handle the email composition and delivery.
+
 ---
 
-### Resend Email Template Format
+### GHL Email Tag Reference
 
-Extend the existing BFW template pattern from `lib/email/recipe-welcome.ts`:
+All email tags follow the pattern `{sequence}_{email_number}`. n8n adds these tags to trigger GHL Workflows that send the corresponding email.
 
-```typescript
-// lib/email/templates/{sequence-name}/email-{n}.ts
+| Tag | Sequence | Email # | GHL Workflow |
+|-----|----------|---------|-------------|
+| `welcome_email_1` | Newsletter Welcome | 1 | Welcome Sequence |
+| `welcome_email_2` | Newsletter Welcome | 2 | Welcome Sequence |
+| `welcome_email_3` | Newsletter Welcome | 3 | Welcome Sequence |
+| `welcome_email_4` | Newsletter Welcome | 4 | Welcome Sequence |
+| `welcome_email_5` | Newsletter Welcome | 5 | Welcome Sequence |
+| `nurture_email_1` | Advertiser Lead Nurture | 1 | Advertiser Nurture |
+| `nurture_email_2` | Advertiser Lead Nurture | 2 | Advertiser Nurture |
+| `nurture_email_3` | Advertiser Lead Nurture | 3 | Advertiser Nurture |
+| `nurture_email_4` | Advertiser Lead Nurture | 4 | Advertiser Nurture |
+| `nurture_email_5` | Advertiser Lead Nurture | 5 | Advertiser Nurture |
+| `partnership_email_1` | Partnership Follow-Up | 1 | Partnership Follow-Up |
+| `partnership_email_2` | Partnership Follow-Up | 2 | Partnership Follow-Up |
+| `partnership_email_3` | Partnership Follow-Up | 3 | Partnership Follow-Up |
+| `partnership_email_4` | Partnership Follow-Up | 4 | Partnership Follow-Up |
+| `reengagement_email_1` | Re-engagement | 1 | Re-engagement |
+| `reengagement_email_2` | Re-engagement | 2 | Re-engagement |
+| `reengagement_email_3` | Re-engagement | 3 | Re-engagement |
+| `onboarding_email_1` | Post-Advertiser Onboarding | 1 | Advertiser Onboarding |
+| `onboarding_email_2` | Post-Advertiser Onboarding | 2 | Advertiser Onboarding |
+| `onboarding_email_3` | Post-Advertiser Onboarding | 3 | Advertiser Onboarding |
+| `onboarding_email_4` | Post-Advertiser Onboarding | 4 | Advertiser Onboarding |
 
-const LOGO_URL = "https://hgdedyrjkywaboalisaw.supabase.co/storage/v1/object/public/recipe-images/brand/bfw-logo.png";
+---
 
-export function getEmailHtml(params: {
-  email: string;
-  firstName?: string;
-  // sequence-specific params
-}): string {
-  return `
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{Subject Line}</title>
-</head>
-<body style="margin: 0; padding: 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background-color: #f5f5f5;">
-  <table width="100%" cellpadding="0" cellspacing="0" style="background-color: #f5f5f5; padding: 40px 20px;">
-    <tr>
-      <td align="center">
-        <table width="600" cellpadding="0" cellspacing="0" style="background-color: #ffffff; border-radius: 12px; overflow: hidden;">
-          <!-- Header -->
-          <tr>
-            <td style="padding: 32px 40px; text-align: center; background-color: #fff8f5;">
-              <img src="${LOGO_URL}" alt="BestFoodWhere" width="180">
-            </td>
-          </tr>
-          <!-- Body -->
-          <tr>
-            <td style="padding: 32px 40px;">
-              <!-- Email content here -->
-            </td>
-          </tr>
-          <!-- Footer -->
-          <tr>
-            <td style="padding: 24px 40px; background-color: #f9f9f9; text-align: center; font-size: 12px; color: #999;">
-              <a href="https://bestfoodwhere.sg" style="color: #e85d04;">bestfoodwhere.sg</a>
-              <br><br>
-              <a href="{unsubscribe_url}" style="color: #999;">Unsubscribe</a>
-            </td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</body>
-</html>`;
-}
-```
+### GHL Workflow Specifications (Dashboard Setup)
 
-**Resend API call (from n8n HTTP Request node):**
+Each email sequence has a corresponding GHL Workflow that must be created in the GHL dashboard:
 
-```json
-POST https://api.resend.com/emails
-Authorization: Bearer {RESEND_API_KEY}
-Content-Type: application/json
-
-{
-  "from": "BestFoodWhere <hello@bestfoodwhere.sg>",
-  "to": ["{recipient_email}"],
-  "subject": "{subject_line}",
-  "html": "{email_html}",
-  "tags": [
-    { "name": "sequence", "value": "{sequence_name}" },
-    { "name": "email_number", "value": "{n}" }
-  ]
-}
-```
+| Workflow Name | Trigger Type | Trigger Condition | Actions | Email Count |
+|---------------|-------------|-------------------|---------|-------------|
+| Welcome Sequence | Tag Added | Tag starts with `welcome_email_` | IF/Branch on tag → Send Email → Remove Tag | 5 emails |
+| Advertiser Nurture | Tag Added | Tag starts with `nurture_email_` | IF/Branch on tag → Send Email → Remove Tag | 5 emails |
+| Partnership Follow-Up | Tag Added | Tag starts with `partnership_email_` | IF/Branch on tag → Send Email → Remove Tag | 4 emails |
+| Re-engagement | Tag Added | Tag starts with `reengagement_email_` | IF/Branch on tag → Send Email → Remove Tag | 3 emails |
+| Advertiser Onboarding | Tag Added | Tag starts with `onboarding_email_` | IF/Branch on tag → Send Email → Remove Tag | 4 emails |
+| Ad Lead — Meeting Booked | Tag Added | Tag = `meeting_booked` | Move opportunity to "Meeting Scheduled" | — |
+| Ad Lead — Proposal Sent | Tag Added | Tag = `proposal_sent` | Move opportunity to "Proposal Sent" | — |
+| Subscriber — Engaged | Custom Field Changed | `bfw_engagement_tier` = `engaged` | Move opportunity to "Engaged" | — |
+| Contact — Auto Archive | Timer | 14 days after "Responded" stage | Move to "Archived" | — |
 
 ---
 
 ### Supabase Table Schemas (New)
-
-#### `email_sends`
-
-```sql
-CREATE TABLE email_sends (
-  id uuid PRIMARY KEY DEFAULT gen_random_uuid(),
-  email text NOT NULL,
-  sequence_name text NOT NULL,        -- e.g., 'newsletter_welcome'
-  email_number int NOT NULL,          -- 1-5
-  subject text NOT NULL,
-  resend_email_id text,               -- Resend's email ID for tracking
-  status text DEFAULT 'sent',         -- sent, delivered, bounced, failed
-  sent_at timestamptz DEFAULT now(),
-  opened_at timestamptz,
-  clicked_at timestamptz,
-  metadata jsonb DEFAULT '{}'
-);
-
-CREATE INDEX idx_email_sends_email ON email_sends(email);
-CREATE INDEX idx_email_sends_sequence ON email_sends(sequence_name, email_number);
-CREATE INDEX idx_email_sends_sent_at ON email_sends(sent_at);
-```
 
 #### `engagement_events`
 
@@ -1089,11 +1087,10 @@ CREATE TABLE engagement_events (
   id uuid PRIMARY KEY DEFAULT gen_random_uuid(),
   email text NOT NULL,
   event_type text NOT NULL,           -- open, click, bounce, unsubscribe
-  resend_email_id text,
   sequence_name text,
   email_number int,
   link_url text,                      -- for click events
-  metadata jsonb DEFAULT '{}',
+  metadata jsonb DEFAULT '{}',        -- GHL webhook payload data
   created_at timestamptz DEFAULT now()
 );
 
@@ -1101,6 +1098,8 @@ CREATE INDEX idx_engagement_email ON engagement_events(email);
 CREATE INDEX idx_engagement_type ON engagement_events(event_type);
 CREATE INDEX idx_engagement_created ON engagement_events(created_at);
 ```
+
+> **Note:** Engagement events are populated from GHL webhook events when emails sent via GHL Workflows are opened, clicked, or bounced. GHL tracks email sends internally — no separate `email_sends` table is needed.
 
 #### `pipeline_events`
 
@@ -1181,9 +1180,6 @@ GHL_STAGE_GENERAL_RESPONDED=
 GHL_STAGE_GENERAL_RESOLVED=
 GHL_STAGE_GENERAL_ARCHIVED=
 
-# Resend (already exists, verify)
-RESEND_API_KEY=
-
 # n8n webhook endpoints for GHL events
 N8N_WEBHOOK_GHL_CONTACT_CREATED=
 N8N_WEBHOOK_GHL_TAG_ADDED=
@@ -1218,18 +1214,24 @@ One new custom field to create in GHL dashboard:
 **Supabase Reporting Views:**
 
 ```sql
--- Email sequence performance
+-- Email sequence performance (based on GHL webhook engagement events)
 CREATE VIEW v_email_sequence_metrics AS
 SELECT
   sequence_name,
   email_number,
-  COUNT(*) AS total_sent,
-  COUNT(opened_at) AS total_opened,
-  COUNT(clicked_at) AS total_clicked,
-  ROUND(COUNT(opened_at)::numeric / NULLIF(COUNT(*), 0) * 100, 1) AS open_rate,
-  ROUND(COUNT(clicked_at)::numeric / NULLIF(COUNT(*), 0) * 100, 1) AS click_rate
-FROM email_sends
-WHERE sent_at > NOW() - INTERVAL '30 days'
+  COUNT(*) FILTER (WHERE event_type = 'send') AS total_sent,
+  COUNT(*) FILTER (WHERE event_type = 'open') AS total_opened,
+  COUNT(*) FILTER (WHERE event_type = 'click') AS total_clicked,
+  ROUND(
+    COUNT(*) FILTER (WHERE event_type = 'open')::numeric /
+    NULLIF(COUNT(*) FILTER (WHERE event_type = 'send'), 0) * 100, 1
+  ) AS open_rate,
+  ROUND(
+    COUNT(*) FILTER (WHERE event_type = 'click')::numeric /
+    NULLIF(COUNT(*) FILTER (WHERE event_type = 'send'), 0) * 100, 1
+  ) AS click_rate
+FROM engagement_events
+WHERE created_at > NOW() - INTERVAL '30 days'
 GROUP BY sequence_name, email_number
 ORDER BY sequence_name, email_number;
 
