@@ -2,7 +2,7 @@
  * CRM Integration Utilities for BestFoodWhere
  */
 
-import type { TrafficChannel, N8nWebhookPayload, GHLCustomField } from "./types";
+import type { TrafficChannel, N8nWebhookPayload, GHLCustomField, PipelineType } from "./types";
 
 /**
  * GHL custom field key → ID mapping.
@@ -32,6 +32,7 @@ const GHL_FIELD_IDS: Record<string, string> = {
   utm_campaign: "sLKQ0ZSPuF2KTp71AH2S",
   utm_content: "tgipv3TWKGucrEtv1rs8",
   utm_term: "ElEANWYxt5a0RqLVvfk8",
+  bfw_engagement_tier: "", // TODO: Add field ID after creating in GHL dashboard
 };
 
 /**
@@ -254,6 +255,104 @@ export function formatPhone(phone: string): string {
 export function validateEmail(email: string): boolean {
   const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
   return emailRegex.test(email);
+}
+
+/**
+ * Route a form submission to the correct pipeline based on source and subject.
+ * Returns null if no pipeline applies (e.g., career applications, report issues).
+ */
+export function routeToPipeline(params: {
+  source: string;
+  subject?: string;
+}): PipelineType | null {
+  const { source, subject } = params;
+  const subjectLower = (subject || "").toLowerCase();
+
+  // Advertiser/restaurant leads → Advertising pipeline
+  if (source === "advertiser_inquiry" || source === "bfw_restaurant_signup") {
+    return "advertising";
+  }
+
+  // Contact form with partnership keywords → Partnership pipeline
+  if (source === "contact_form" && /partner|business|collaborat/i.test(subjectLower)) {
+    return "partnership";
+  }
+
+  // Newsletter sources → Newsletter pipeline
+  if (["bfw_website", "bfw_vip_club", "bfw_signup", "recipe_newsletter"].includes(source)) {
+    return "newsletter";
+  }
+
+  // General contact form → General pipeline
+  if (source === "contact_form") {
+    return "general";
+  }
+
+  // Career applications, report issues → no pipeline
+  return null;
+}
+
+/**
+ * Get pipeline and stage IDs from environment variables.
+ * Returns null if the pipeline env vars aren't configured yet.
+ */
+export function getPipelineConfig(pipelineType: PipelineType): {
+  pipelineId: string;
+  initialStageId: string;
+} | null {
+  const config: Record<PipelineType, { pipelineEnv: string; stageEnv: string }> = {
+    advertising: {
+      pipelineEnv: "GHL_PIPELINE_ADVERTISING_ID",
+      stageEnv: "GHL_STAGE_AD_NEW_LEAD",
+    },
+    partnership: {
+      pipelineEnv: "GHL_PIPELINE_PARTNERSHIP_ID",
+      stageEnv: "GHL_STAGE_PARTNER_RECEIVED",
+    },
+    newsletter: {
+      pipelineEnv: "GHL_PIPELINE_NEWSLETTER_ID",
+      stageEnv: "GHL_STAGE_NEWS_SUBSCRIBED",
+    },
+    general: {
+      pipelineEnv: "GHL_PIPELINE_GENERAL_ID",
+      stageEnv: "GHL_STAGE_GENERAL_NEW",
+    },
+  };
+
+  const c = config[pipelineType];
+  const pipelineId = process.env[c.pipelineEnv];
+  const initialStageId = process.env[c.stageEnv];
+
+  if (!pipelineId || !initialStageId) {
+    console.warn(`Pipeline config not set for ${pipelineType}: missing ${c.pipelineEnv} or ${c.stageEnv}`);
+    return null;
+  }
+
+  return { pipelineId, initialStageId };
+}
+
+/**
+ * Get the opportunity name for a given pipeline type and contact info.
+ */
+export function getOpportunityName(pipelineType: PipelineType, params: {
+  name?: string;
+  email: string;
+  restaurantName?: string;
+}): string {
+  const identifier = params.name || params.email;
+
+  switch (pipelineType) {
+    case "advertising":
+      return params.restaurantName
+        ? `Ad Lead — ${params.restaurantName}`
+        : `Ad Lead — ${identifier}`;
+    case "partnership":
+      return `Partnership — ${identifier}`;
+    case "newsletter":
+      return `Subscriber — ${identifier}`;
+    case "general":
+      return `Inquiry — ${identifier}`;
+  }
 }
 
 export function calculateInitialLeadScore(params: {

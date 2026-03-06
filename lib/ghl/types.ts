@@ -157,3 +157,50 @@ export interface ContactAPIResponse {
   isNew?: boolean;
   error?: string;
 }
+
+// ============ Pipeline & Opportunity Types ============
+
+export interface GHLPipeline {
+  id: string;
+  name: string;
+  stages: GHLPipelineStage[];
+  locationId: string;
+}
+
+export interface GHLPipelineStage {
+  id: string;
+  name: string;
+  position: number;
+}
+
+export interface GHLOpportunity {
+  id: string;
+  name: string;
+  pipelineId: string;
+  pipelineStageId: string;
+  status: "open" | "won" | "lost" | "abandoned";
+  contactId: string;
+  monetaryValue?: number;
+  source?: string;
+  dateAdded?: string;
+}
+
+export interface CreateOpportunityInput {
+  pipelineId: string;
+  pipelineStageId: string;
+  contactId: string;
+  name: string;
+  status?: "open" | "won" | "lost" | "abandoned";
+  monetaryValue?: number;
+  source?: string;
+}
+
+export interface UpdateOpportunityInput {
+  pipelineStageId?: string;
+  status?: "open" | "won" | "lost" | "abandoned";
+  monetaryValue?: number;
+  name?: string;
+}
+
+// Pipeline routing config
+export type PipelineType = "advertising" | "partnership" | "newsletter" | "general";

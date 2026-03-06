@@ -22,6 +22,9 @@ import {
   formatPhone,
   calculateInitialLeadScore,
   resolveCustomFieldIds,
+  routeToPipeline,
+  getPipelineConfig,
+  getOpportunityName,
 } from "@/lib/ghl/utils";
 import type {
   ContactAPIRequest,
@@ -282,6 +285,28 @@ export async function POST(
           console.error("n8n webhook failed:", err);
         }),
       );
+    }
+
+    // Create opportunity in the appropriate pipeline (fire and forget)
+    const pipelineType = routeToPipeline({ source: body.source, subject: body.subject });
+    if (pipelineType && result.contactId) {
+      const pipelineConfig = getPipelineConfig(pipelineType);
+      if (pipelineConfig) {
+        const oppName = getOpportunityName(pipelineType, {
+          name: body.name,
+          email: body.email,
+          restaurantName: body.customFields?.find((f) => f.key === "bfw_restaurant_name")?.field_value,
+        });
+        waitUntil(
+          ghl.createOpportunity({
+            pipelineId: pipelineConfig.pipelineId,
+            pipelineStageId: pipelineConfig.initialStageId,
+            contactId: result.contactId,
+            name: oppName,
+            source: "BFW Website",
+          }).catch((err) => console.error("Opportunity creation failed:", err)),
+        );
+      }
     }
 
     // Enrich SEO contacts with GSC search keywords (fire and forget)

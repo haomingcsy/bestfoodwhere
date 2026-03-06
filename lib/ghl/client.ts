@@ -7,9 +7,13 @@
 import type {
   CreateContactInput,
   CreateContactResult,
+  CreateOpportunityInput,
   GHLContact,
+  GHLOpportunity,
+  GHLPipeline,
   GHLSearchResponse,
   GHLUpsertResponse,
+  UpdateOpportunityInput,
 } from "./types";
 
 const GHL_API_BASE = "https://services.leadconnectorhq.com";
@@ -165,6 +169,89 @@ export class GHLClient {
       return response.contact;
     } catch (error) {
       console.error("Error getting contact by ID:", error);
+      return null;
+    }
+  }
+
+  // ============ Pipeline Methods ============
+
+  async getPipelines(): Promise<GHLPipeline[]> {
+    const response = await this.request<{ pipelines: GHLPipeline[] }>(
+      `/opportunities/pipelines?locationId=${this.locationId}`,
+    );
+    return response.pipelines;
+  }
+
+  async getPipeline(pipelineId: string): Promise<GHLPipeline | null> {
+    try {
+      const response = await this.request<GHLPipeline>(
+        `/opportunities/pipelines/${pipelineId}`,
+      );
+      return response;
+    } catch {
+      return null;
+    }
+  }
+
+  // ============ Opportunity Methods ============
+
+  async createOpportunity(
+    input: CreateOpportunityInput,
+  ): Promise<{ success: boolean; opportunityId?: string; error?: string }> {
+    try {
+      const response = await this.request<{ opportunity: GHLOpportunity }>(
+        "/opportunities/upsert",
+        {
+          method: "POST",
+          body: JSON.stringify({
+            pipelineId: input.pipelineId,
+            pipelineStageId: input.pipelineStageId,
+            locationId: this.locationId,
+            contactId: input.contactId,
+            name: input.name,
+            status: input.status || "open",
+            monetaryValue: input.monetaryValue || 0,
+            source: input.source || "BFW Website",
+          }),
+        },
+      );
+      return { success: true, opportunityId: response.opportunity.id };
+    } catch (error) {
+      const errMsg = error instanceof Error ? error.message : "Unknown error";
+      console.error("GHL create opportunity error:", errMsg);
+      return { success: false, error: errMsg };
+    }
+  }
+
+  async updateOpportunity(
+    opportunityId: string,
+    input: UpdateOpportunityInput,
+  ): Promise<{ success: boolean; error?: string }> {
+    try {
+      await this.request<{ opportunity: GHLOpportunity }>(
+        `/opportunities/${opportunityId}`,
+        {
+          method: "PUT",
+          body: JSON.stringify(input),
+        },
+      );
+      return { success: true };
+    } catch (error) {
+      const errMsg = error instanceof Error ? error.message : "Unknown error";
+      console.error("GHL update opportunity error:", errMsg);
+      return { success: false, error: errMsg };
+    }
+  }
+
+  async getOpportunity(
+    opportunityId: string,
+  ): Promise<GHLOpportunity | null> {
+    try {
+      const response = await this.request<{ opportunity: GHLOpportunity }>(
+        `/opportunities/${opportunityId}`,
+      );
+      return response.opportunity;
+    } catch {
       return null;
     }
   }
