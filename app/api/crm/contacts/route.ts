@@ -37,6 +37,20 @@ import { enrichContactWithKeywords } from "@/lib/gsc/enrich";
 import { getEmailTemplate } from "@/lib/ghl/email-templates";
 import { checkRateLimit, getClientIp } from "@/lib/rate-limit";
 
+/** Send WhatsApp notification via CallMeBot */
+async function notifyWhatsApp(message: string) {
+  const phone = process.env.CALLMEBOT_PHONE;
+  const apikey = process.env.CALLMEBOT_API_KEY;
+  if (!phone || !apikey) return;
+  try {
+    await fetch(
+      `https://api.callmebot.com/whatsapp.php?phone=${phone}&text=${encodeURIComponent(message)}&apikey=${apikey}`,
+    );
+  } catch (err) {
+    console.error("CallMeBot notification failed:", err);
+  }
+}
+
 async function saveFormSubmission(data: {
   email: string;
   name: string;
@@ -286,6 +300,12 @@ export async function POST(
           console.error("n8n webhook failed:", err);
         }),
       );
+    }
+
+    // Notify via WhatsApp (fire and forget)
+    if (result.contactId) {
+      const whatsappMsg = `🔔 New BFW Lead\n\n📧 ${email}\n👤 ${name}\n📋 Source: ${body.source}\n🔗 ${trafficChannel}${phone ? `\n📞 ${phone}` : ""}${body.subject ? `\n📝 ${body.subject}` : ""}`;
+      waitUntil(notifyWhatsApp(whatsappMsg));
     }
 
     // Create opportunity in the appropriate pipeline (fire and forget)
