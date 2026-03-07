@@ -32,7 +32,7 @@ const GHL_FIELD_IDS: Record<string, string> = {
   utm_campaign: "sLKQ0ZSPuF2KTp71AH2S",
   utm_content: "tgipv3TWKGucrEtv1rs8",
   utm_term: "ElEANWYxt5a0RqLVvfk8",
-  bfw_engagement_tier: "", // TODO: Add field ID after creating in GHL dashboard
+  bfw_engagement_tier: "9ZFQ8creSSETxVCc1wpm",
 };
 
 /**
