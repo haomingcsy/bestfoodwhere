@@ -34,6 +34,7 @@ import type {
   FormSource,
 } from "@/lib/ghl/types";
 import { enrichContactWithKeywords } from "@/lib/gsc/enrich";
+import { getEmailTemplate } from "@/lib/ghl/email-templates";
 import { checkRateLimit, getClientIp } from "@/lib/rate-limit";
 
 async function saveFormSubmission(data: {
@@ -316,6 +317,41 @@ export async function POST(
           console.error("GSC keyword enrichment failed:", err);
         }),
       );
+    }
+
+    // Send welcome email for new contacts via GHL Conversations API
+    const isNew = result.isNew;
+    const contactId = result.contactId;
+    if (isNew && contactId) {
+      const source = body.source;
+      const welcomeTemplateMap: Record<string, string | undefined> = {
+        bfw_website: "welcome_email_1",
+        bfw_vip_club: "welcome_email_1",
+        bfw_signup: "welcome_email_1",
+        recipe_newsletter: "welcome_email_1",
+        advertiser_inquiry: "advertiser_email_1",
+        bfw_restaurant_signup: "advertiser_email_1",
+        contact_form: source === "contact_form" && body.subject?.toLowerCase().match(/partner|business|collaborat/)
+          ? "partnership_email_1"
+          : undefined,
+      };
+
+      const templateKey = welcomeTemplateMap[source];
+      if (templateKey) {
+        const template = getEmailTemplate(templateKey, {
+          firstName: splitName(body.name || "").firstName,
+          email: body.email,
+        });
+        if (template) {
+          waitUntil(
+            ghl.sendEmail({
+              contactId,
+              subject: template.subject,
+              html: template.html,
+            }).catch((err) => console.error("Welcome email failed:", err)),
+          );
+        }
+      }
     }
 
     return NextResponse.json({

@@ -255,6 +255,64 @@ export class GHLClient {
       return null;
     }
   }
+  // ============ Conversation & Email Methods ============
+
+  async getOrCreateConversation(contactId: string): Promise<string> {
+    try {
+      const response = await this.request<{ conversation: { id: string } }>(
+        "/conversations/",
+        {
+          method: "POST",
+          body: JSON.stringify({
+            locationId: this.locationId,
+            contactId,
+          }),
+        }
+      );
+      return response.conversation.id;
+    } catch (error) {
+      // GHL returns error with conversationId if conversation already exists
+      const errBody = error instanceof Error ? error.message : "";
+      const idMatch = errBody.match(/conversationId["\s:]+([a-zA-Z0-9]+)/);
+      if (idMatch) return idMatch[1];
+
+      // Try to find existing conversation
+      const searchResponse = await this.request<{ conversations: Array<{ id: string }> }>(
+        `/conversations/search?locationId=${this.locationId}&contactId=${contactId}`
+      );
+      if (searchResponse.conversations?.[0]) {
+        return searchResponse.conversations[0].id;
+      }
+      throw error;
+    }
+  }
+
+  async sendEmail(params: {
+    contactId: string;
+    subject: string;
+    html: string;
+    conversationId?: string;
+  }): Promise<{ success: boolean; error?: string }> {
+    try {
+      const conversationId = params.conversationId || await this.getOrCreateConversation(params.contactId);
+
+      await this.request("/conversations/messages", {
+        method: "POST",
+        body: JSON.stringify({
+          type: "Email",
+          contactId: params.contactId,
+          conversationId,
+          subject: params.subject,
+          html: params.html,
+        }),
+      });
+      return { success: true };
+    } catch (error) {
+      const errMsg = error instanceof Error ? error.message : "Unknown error";
+      console.error("GHL send email error:", errMsg);
+      return { success: false, error: errMsg };
+    }
+  }
 }
 
 let clientInstance: GHLClient | null = null;
