@@ -13,7 +13,7 @@ export async function GET() {
     });
   }
 
-  const msg = "BFW Production Test - WhatsApp is working!";
+  const msg = `BFW Test ${new Date().toISOString()} - WhatsApp working`;
   const url = `https://api.callmebot.com/whatsapp.php?phone=${phone}&text=${encodeURIComponent(msg)}&apikey=${apikey}`;
 
   try {
