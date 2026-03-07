@@ -181,22 +181,12 @@ export const WELCOME_TEMPLATES: Record<string, { subject: string; html: string }
       headerEmoji: "🍜",
       headerTagline: "Welcome to the club",
       headline: "You're in, {{firstName}}! 🎉",
-      body: `<p style="margin: 0 0 16px; font-size: 16px;">Welcome to <strong>BestFoodWhere</strong> — Singapore's restaurant discovery platform.</p>
-
-<table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="margin: 0 0 20px;">
-  <tr>
-    ${statBadge("730+", "Brands")}
-    <td style="width: 8px;"></td>
-    ${statBadge("840", "Locations")}
-    <td style="width: 8px;"></td>
-    ${statBadge("19", "Malls")}
-  </tr>
-</table>
+      body: `<p style="margin: 0 0 16px; font-size: 16px;">Welcome to <strong>BestFoodWhere</strong> — your shortcut to Singapore's best food and deals.</p>
 
 <p style="margin: 0 0 12px; font-weight: 600; color: ${TEXT_DARK};">Here's what you'll get from us:</p>
-${infoCard("📬", "Weekly Picks", "Curated restaurant recommendations every week")}
-${infoCard("🏷️", "Exclusive Deals", "Promotions you won't find anywhere else")}
-${infoCard("🆕", "New Alerts", "Be the first to know about new restaurants")}`,
+${infoCard("🍜", "Good Food, Curated", "Hand-picked restaurants — from hidden hawker gems to the hottest new openings")}
+${infoCard("🏷️", "Deals You Won't Find Elsewhere", "1-for-1s, set menu discounts, and members-only promos every week")}
+${infoCard("📬", "Weekly Picks", "Fresh recommendations delivered to your inbox — no spam, just good eats")}`,
       ctaText: "Start Exploring →",
       ctaUrl: `${BFW_URL}/menu`,
     }),
@@ -528,9 +518,9 @@ export const REENGAGEMENT_TEMPLATES: Record<string, { subject: string; html: str
       headline: "Here's what you missed, {{firstName}}",
       body: `<p style="margin: 0 0 16px;">It's been a while! Singapore's food scene doesn't stand still — here's what's new:</p>
 
-${infoCard("🆕", "New Restaurants", "Fresh additions to the BFW platform")}
+${infoCard("🍜", "New Good Food Spots", "Fresh restaurants you haven't tried yet")}
+${infoCard("🏷️", "Deals You Missed", "1-for-1s and discounts that are still running")}
 ${infoCard("📋", "Updated Menus", "Latest prices and seasonal specials")}
-${infoCard("🏷️", "Fresh Deals", "Promotions you won't want to miss")}
 
 <p style="margin: 16px 0 0; color: ${TEXT_GRAY}; font-size: 14px;">We saved the highlights for you.</p>`,
       ctaText: "See What's New →",
