@@ -41,11 +41,15 @@ import { checkRateLimit, getClientIp } from "@/lib/rate-limit";
 async function notifyWhatsApp(message: string) {
   const phone = process.env.CALLMEBOT_PHONE;
   const apikey = process.env.CALLMEBOT_API_KEY;
-  if (!phone || !apikey) return;
+  if (!phone || !apikey) {
+    console.error("CallMeBot env vars missing:", { phone: !!phone, apikey: !!apikey });
+    return;
+  }
+  const url = `https://api.callmebot.com/whatsapp.php?phone=${phone}&text=${encodeURIComponent(message)}&apikey=${apikey}`;
   try {
-    await fetch(
-      `https://api.callmebot.com/whatsapp.php?phone=${phone}&text=${encodeURIComponent(message)}&apikey=${apikey}`,
-    );
+    const res = await fetch(url);
+    const text = await res.text();
+    console.log("CallMeBot response:", res.status, text.substring(0, 200));
   } catch (err) {
     console.error("CallMeBot notification failed:", err);
   }
@@ -302,10 +306,10 @@ export async function POST(
       );
     }
 
-    // Notify via WhatsApp (fire and forget)
+    // Notify via WhatsApp (await to ensure delivery)
     if (result.contactId) {
-      const whatsappMsg = `🔔 New BFW Lead\n\n📧 ${email}\n👤 ${name}\n📋 Source: ${body.source}\n🔗 ${trafficChannel}${phone ? `\n📞 ${phone}` : ""}${body.subject ? `\n📝 ${body.subject}` : ""}`;
-      waitUntil(notifyWhatsApp(whatsappMsg));
+      const whatsappMsg = `New BFW Lead\n\nEmail: ${email}\nName: ${name}\nSource: ${body.source}\nChannel: ${trafficChannel}${phone ? `\nPhone: ${phone}` : ""}${body.subject ? `\nSubject: ${body.subject}` : ""}`;
+      await notifyWhatsApp(whatsappMsg);
     }
 
     // Create opportunity in the appropriate pipeline (fire and forget)
