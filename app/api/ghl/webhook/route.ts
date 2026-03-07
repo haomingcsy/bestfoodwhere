@@ -65,7 +65,6 @@ export async function POST(request: NextRequest) {
   }
 }
 
-// eslint-disable-next-line @typescript-eslint/no-explicit-any
 async function handleContactSync(body: any) {
   const contact = body.contact || body;
   const ghlContactId = contact.id || contact.contactId;
@@ -87,7 +86,6 @@ async function handleContactSync(body: any) {
   );
 }
 
-// eslint-disable-next-line @typescript-eslint/no-explicit-any
 async function handleContactDelete(body: any) {
   const ghlContactId = body.contact?.id || body.contactId || body.id;
   if (!ghlContactId) return;
@@ -98,7 +96,6 @@ async function handleContactDelete(body: any) {
     .eq("ghl_contact_id", ghlContactId);
 }
 
-// eslint-disable-next-line @typescript-eslint/no-explicit-any
 async function handleOpportunityStageChange(body: any) {
   const opp = body.opportunity || body;
 
@@ -113,7 +110,6 @@ async function handleOpportunityStageChange(body: any) {
   });
 }
 
-// eslint-disable-next-line @typescript-eslint/no-explicit-any
 async function handleOpportunityStatusChange(body: any) {
   const opp = body.opportunity || body;
 
@@ -128,7 +124,6 @@ async function handleOpportunityStatusChange(body: any) {
   });
 }
 
-// eslint-disable-next-line @typescript-eslint/no-explicit-any
 async function handleTaskComplete(body: any) {
   const task = body.task || body;
   const contactId = task.contactId;
@@ -145,7 +140,6 @@ async function handleTaskComplete(body: any) {
   }
 }
 
-// eslint-disable-next-line @typescript-eslint/no-explicit-any
 async function handleTagUpdate(body: any) {
   const contact = body.contact || body;
   const ghlContactId = contact.id || contact.contactId;
