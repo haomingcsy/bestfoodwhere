@@ -105,7 +105,7 @@ export function generateMenuPageMetadata(
   if (!primaryLocation) {
     return {
       title: brand.name,
-      description: `View ${brand.name} menu and locations in Singapore.`,
+      description: `Explore ${brand.name} menu with full prices, opening hours, and locations across Singapore. Browse dishes, read reviews, and find the nearest outlet on BestFoodWhere.`,
     };
   }
 
