@@ -44,10 +44,7 @@ function StarRating({ rating }: { rating: number }) {
 export function RestaurantCard({ restaurant }: RestaurantCardProps) {
   const [detailsOpen, setDetailsOpen] = useState(false);
 
-  const menuSlug = restaurant.name
-    .toLowerCase()
-    .replace(/[^\w\s-]/g, "")
-    .replace(/\s+/g, "-");
+  const menuSlug = restaurant.id;
   const locationSlug = restaurant.location.toLowerCase().replace(/\s+/g, "-");
 
   return (

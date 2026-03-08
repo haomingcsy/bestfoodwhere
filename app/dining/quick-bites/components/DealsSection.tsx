@@ -2,8 +2,9 @@
 
 import { useState } from "react";
 import { IconX } from "@/components/layout/icons";
-import { QUICK_BITES_DEALS } from "../data";
 import type { DiningDeal } from "@/types/dining";
+
+const QUICK_BITES_DEALS: { id: string; badge: string; title: string; duration: string; description: string; code: string }[] = [];
 
 const TERMS = [
   "Cannot be combined with other promotions or discounts",

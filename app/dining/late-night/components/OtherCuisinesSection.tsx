@@ -1,6 +1,12 @@
 import Image from "next/image";
 import Link from "next/link";
-import { OTHER_DINING_CATEGORIES } from "../data";
+const OTHER_DINING_CATEGORIES = [
+  { name: "Quick Bites", image: "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=800&q=80", url: "/dining/quick-bites" },
+  { name: "Casual Dining", image: "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?auto=format&fit=crop&w=800&q=80", url: "/dining/casual-dining" },
+  { name: "Fine Dining", image: "https://images.unsplash.com/photo-1559339352-11d035aa65de?auto=format&fit=crop&w=800&q=80", url: "/dining/fine-dining" },
+  { name: "Family Friendly", image: "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80", url: "/dining/family-friendly" },
+  { name: "Romantic", image: "https://images.unsplash.com/photo-1529543544287-1d8c30db3a58?auto=format&fit=crop&w=800&q=80", url: "/dining/romantic" },
+];
 
 export function OtherCuisinesSection() {
   return (

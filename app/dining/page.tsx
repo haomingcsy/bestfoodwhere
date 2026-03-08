@@ -123,7 +123,7 @@ const FEATURED_RESTAURANTS: Restaurant[] = [
     name: "CUT by Wolfgang Puck",
     location: "Marina Bay Sands",
     image:
-      "https://lh5.googleusercontent.com/p/AF1QipPT2dL1P55UQQvcIpG8Nrgly7xyaVUdOlLMBXhC=w408-h271-k-no",
+      "https://hgdedyrjkywaboalisaw.supabase.co/storage/v1/object/public/restaurant-images/heroes/cut-by-wolfgang-puck-a8a422e1.jpg",
     rating: 4.6,
     reviewCount: 1618,
     tags: ["Steak", "Western", "Premium"],
@@ -138,7 +138,7 @@ const FEATURED_RESTAURANTS: Restaurant[] = [
     name: "Fish & Co. @ Causeway Point",
     location: "Causeway Point",
     image:
-      "https://lh5.googleusercontent.com/p/AF1QipN0Yrlmzm6pDloQ57RHJLrfTrU-EnGLfmQkKU1n=w426-h240-k-no",
+      "https://hgdedyrjkywaboalisaw.supabase.co/storage/v1/object/public/restaurant-images/heroes/fish-co-a802655f.jpg",
     rating: 4.5,
     reviewCount: 329,
     tags: ["Western", "Seafood", "Family Friendly"],
@@ -153,7 +153,7 @@ const FEATURED_RESTAURANTS: Restaurant[] = [
     name: "KOMA Singapore",
     location: "Marina Bay Sands",
     image:
-      "https://lh5.googleusercontent.com/p/AF1QipNEOKHK4It8mr0UrPhrLwMM7u_270XEK-Cw60Js=w408-h287-k-no",
+      "https://hgdedyrjkywaboalisaw.supabase.co/storage/v1/object/public/restaurant-images/heroes/koma-singapore-4c8eae53.jpg",
     rating: 4.3,
     reviewCount: 2511,
     tags: ["Japanese", "Sushi", "Fine Dining"],
@@ -168,7 +168,7 @@ const FEATURED_RESTAURANTS: Restaurant[] = [
     name: "LAVO Italian Restaurant",
     location: "Marina Bay Sands",
     image:
-      "https://lh5.googleusercontent.com/p/AF1QipM7GaPSaX8lEasq8Hrb0DKIz2Sy5gLU_g6E0lrc=w426-h240-k-no",
+      "https://hgdedyrjkywaboalisaw.supabase.co/storage/v1/object/public/restaurant-images/heroes/lavo-italian-restaurant-and-rooftop-bar-ca93a12f.jpg",
     rating: 4.3,
     reviewCount: 5134,
     tags: ["Italian", "Rooftop", "Romantic"],
@@ -183,7 +183,7 @@ const FEATURED_RESTAURANTS: Restaurant[] = [
     name: "Swensen's @ AMK Hub",
     location: "AMK Hub",
     image:
-      "https://lh5.googleusercontent.com/p/AF1QipO0kbjHf8ohjwuRfftXjWMI0SzHqlp8gaybVegb=w408-h270-k-no",
+      "https://hgdedyrjkywaboalisaw.supabase.co/storage/v1/object/public/restaurant-images/heroes/swensens-amk-hub-d7fb28f9.jpg",
     rating: 3.8,
     reviewCount: 1003,
     tags: ["Western", "Dessert", "Casual Dining"],
@@ -198,7 +198,7 @@ const FEATURED_RESTAURANTS: Restaurant[] = [
     name: "Bar Bar Q",
     location: "Suntec City",
     image:
-      "https://lh5.googleusercontent.com/p/AF1QipNl7YE5KUv4V8Dqra0_dZ092dcUKedPgfChpL0r=w128-h86-k-no",
+      "https://hgdedyrjkywaboalisaw.supabase.co/storage/v1/object/public/restaurant-images/heroes/bar-bar-q-7194acc4.jpg",
     rating: 4.0,
     reviewCount: 394,
     tags: ["Western", "Bar", "Late Night"],

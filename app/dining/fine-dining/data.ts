@@ -9,7 +9,7 @@ export const FINE_DINING_RESTAURANTS: Restaurant[] = [
     location: "Marina Bay Sands",
     tags: ["Western", "British", "Fine Dining"],
     image:
-      "https://lh5.googleusercontent.com/p/AF1QipMyqJmwjq_l-vT-FO5PmquSIMNRvgceYl1xas_f=w800-h600-k-no",
+      "https://hgdedyrjkywaboalisaw.supabase.co/storage/v1/object/public/restaurant-images/heroes/bread-street-kitchen-by-gordon-ramsay-7d9c9e97.jpg",
     description:
       "Gordon Ramsay's modern British European restaurant offering classic dishes with a contemporary twist in a sophisticated setting.",
     area: "south",
@@ -29,7 +29,7 @@ export const FINE_DINING_RESTAURANTS: Restaurant[] = [
     location: "Marina Bay Sands",
     tags: ["Western", "Steak", "Fine Dining"],
     image:
-      "https://lh5.googleusercontent.com/p/AF1QipPT2dL1P55UQQvcIpG8Nrgly7xyaVUdOlLMBXhC=w800-h600-k-no",
+      "https://hgdedyrjkywaboalisaw.supabase.co/storage/v1/object/public/restaurant-images/heroes/cut-by-wolfgang-puck-a8a422e1.jpg",
     description:
       "Acclaimed celebrity chef Wolfgang Puck's sophisticated steakhouse serving exceptional cuts of beef and creative side dishes.",
     area: "south",
@@ -50,7 +50,7 @@ export const FINE_DINING_RESTAURANTS: Restaurant[] = [
     location: "Marina Bay Sands",
     tags: ["Japanese", "Sushi", "Fine Dining"],
     image:
-      "https://lh5.googleusercontent.com/p/AF1QipNEOKHK4It8mr0UrPhrLwMM7u_270XEK-Cw60Js=w800-h600-k-no",
+      "https://hgdedyrjkywaboalisaw.supabase.co/storage/v1/object/public/restaurant-images/heroes/koma-singapore-4c8eae53.jpg",
     description:
       "Modern Japanese restaurant with stunning interiors featuring a traditional Japanese footbridge and dramatic 20-foot high ceiling.",
     area: "south",
@@ -70,7 +70,7 @@ export const FINE_DINING_RESTAURANTS: Restaurant[] = [
     location: "Marina Bay Sands",
     tags: ["Chinese", "Cantonese", "Fine Dining"],
     image:
-      "https://lh5.googleusercontent.com/p/AF1QipMXy1wHC4szZj-E9U9pcT7JJ6EMJiT5Icea9fLi=w800-h600-k-no",
+      "https://hgdedyrjkywaboalisaw.supabase.co/storage/v1/object/public/restaurant-images/heroes/mott-32-singapore-180c52f5.jpg",
     description:
       "Award-winning Chinese restaurant known for its authentic Cantonese cuisine with modern touches and signature dishes like apple wood-roasted Peking duck.",
     area: "south",
@@ -90,7 +90,7 @@ export const FINE_DINING_RESTAURANTS: Restaurant[] = [
     location: "Velocity@Novena",
     tags: ["Chinese", "Peking Duck", "Fine Dining"],
     image:
-      "https://lh5.googleusercontent.com/p/AF1QipMX7d7J-Z1zR38_3icdMWZXotKQDMIkFn4o9HIe=w800-h600-k-no",
+      "https://hgdedyrjkywaboalisaw.supabase.co/storage/v1/object/public/restaurant-images/heroes/tunglok-peking-duck-novena-0e3d8971.jpg",
     description:
       "Upscale Chinese restaurant specializing in authentic Peking duck prepared according to traditional methods, carved tableside for a theatrical dining experience.",
     area: "central",
@@ -108,7 +108,7 @@ export const FINE_DINING_RESTAURANTS: Restaurant[] = [
     location: "Marina Bay Sands",
     tags: ["Japanese", "Sushi", "Fine Dining"],
     image:
-      "https://lh5.googleusercontent.com/p/AF1QipNTH3Fbuka9eWwn9dhMmOba_R__IEhBdJ88yRas=w800-h600-k-no",
+      "https://hgdedyrjkywaboalisaw.supabase.co/storage/v1/object/public/restaurant-images/heroes/wakuda-eaa99b91.jpg",
     description:
       "Chef Tetsuya Wakuda's modern Japanese restaurant offering exceptional sushi, sashimi, and innovative dishes using the finest seasonal ingredients.",
     area: "south",
@@ -127,7 +127,7 @@ export const FINE_DINING_RESTAURANTS: Restaurant[] = [
     location: "Marina Bay Sands",
     tags: ["Japanese", "Fine Dining"],
     image:
-      "https://lh5.googleusercontent.com/p/AF1QipMh_vxmBra9VxYf8Nk2ImC5uOn0ws3jPBrQ8Bqw=w800-h600-k-no",
+      "https://hgdedyrjkywaboalisaw.supabase.co/storage/v1/object/public/restaurant-images/heroes/waku-ghin-37571abd.jpg",
     description:
       "Chef Tetsuya Wakuda's intimate dining experience featuring an omakase-style degustation menu with the finest seasonal ingredients from Japan and around the world.",
     area: "south",
@@ -146,7 +146,7 @@ export const FINE_DINING_RESTAURANTS: Restaurant[] = [
     location: "Marina Bay Sands",
     tags: ["Italian", "Fine Dining"],
     image:
-      "https://lh5.googleusercontent.com/p/AF1QipM7GaPSaX8lEasq8Hrb0DKIz2Sy5gLU_g6E0lrc=w800-h600-k-no",
+      "https://hgdedyrjkywaboalisaw.supabase.co/storage/v1/object/public/restaurant-images/heroes/lavo-italian-restaurant-and-rooftop-bar-ca93a12f.jpg",
     description:
       "Upscale Italian-American restaurant with spectacular views from its 57th-floor location, serving hearty Italian classics and signature cocktails.",
     area: "south",
@@ -167,7 +167,7 @@ export const FINE_DINING_RESTAURANTS: Restaurant[] = [
     location: "Marina Bay Sands",
     tags: ["Chinese", "Fujian", "Fine Dining"],
     image:
-      "https://lh5.googleusercontent.com/p/AF1QipOUuBL_mXfSHdS2AxGHWTHTnKwd20QY5jPxyZnY=w800-h600-k-no",
+      "https://hgdedyrjkywaboalisaw.supabase.co/storage/v1/object/public/restaurant-images/heroes/putien-marina-bay-sands-16d77367.jpg",
     description:
       "Michelin-starred restaurant specializing in cuisine from the Fujian province, offering fresh, light flavors using premium seasonal ingredients.",
     area: "south",
@@ -186,7 +186,7 @@ export const FINE_DINING_RESTAURANTS: Restaurant[] = [
     location: "Marina Bay Sands",
     tags: ["Chinese", "Fine Dining"],
     image:
-      "https://lh5.googleusercontent.com/p/AF1QipPReLTKEffTWsf6SHZcHI73SJ24IrFEoqpD-K7B=w800-h600-k-no",
+      "https://hgdedyrjkywaboalisaw.supabase.co/storage/v1/object/public/restaurant-images/heroes/blossom-restaurant-7c7fc273.jpg",
     description:
       "Modern Chinese restaurant showcasing dishes from various regions of China, presented with contemporary flair and using premium ingredients.",
     area: "south",
@@ -206,7 +206,7 @@ export const FINE_DINING_RESTAURANTS: Restaurant[] = [
     location: "Marina Bay Sands",
     tags: ["International", "Buffet", "Fine Dining"],
     image:
-      "https://lh5.googleusercontent.com/p/AF1QipMjku5-c4mYvypdiKKdAI0TfeXTPuQcDqAkVUf2=w800-h600-k-no",
+      "https://hgdedyrjkywaboalisaw.supabase.co/storage/v1/object/public/restaurant-images/heroes/rise-3c9831c3.jpg",
     description:
       "International buffet restaurant in a garden-inspired setting, serving dishes made with sustainable ingredients and herbs from their own garden.",
     area: "south",
@@ -226,7 +226,7 @@ export const FINE_DINING_RESTAURANTS: Restaurant[] = [
     location: "Tampines Mall",
     tags: ["Chinese", "Asian", "Fine Dining"],
     image:
-      "https://lh5.googleusercontent.com/p/AF1QipPE8xQCBwkWahrktdxufS0vG9bWbVeAM6TGWWPc=w800-h600-k-no",
+      "https://hgdedyrjkywaboalisaw.supabase.co/storage/v1/object/public/restaurant-images/heroes/putien-tampines-mall-90134b68.jpg",
     description:
       "Award-winning restaurant serving authentic Fujian cuisine with a Michelin star, known for its simple yet refined dishes that highlight natural flavors.",
     area: "east",
@@ -244,7 +244,7 @@ export const FINE_DINING_RESTAURANTS: Restaurant[] = [
     location: "Causeway Point",
     tags: ["Chinese", "Cantonese", "Fine Dining"],
     image:
-      "https://lh5.googleusercontent.com/p/AF1QipPzDjTS2kNY5jsG9fM6AhK-DF7ETQbCFHb3kFHy=w800-h600-k-no",
+      "https://hgdedyrjkywaboalisaw.supabase.co/storage/v1/object/public/restaurant-images/heroes/crystal-jade-hong-kong-kitchen-f33f6012.jpg",
     description:
       "Elegant restaurant serving authentic Cantonese cuisine and dim sum in a sophisticated setting with attentive service.",
     area: "north",
@@ -262,7 +262,7 @@ export const FINE_DINING_RESTAURANTS: Restaurant[] = [
     location: "Jewel Changi Airport",
     tags: ["Seafood", "Chinese", "Fine Dining"],
     image:
-      "https://lh5.googleusercontent.com/p/AF1QipPVq2O2cjG-LTOtTnVtebSZLMHxHLDfnWn71vT1=w800-h600-k-no",
+      "https://hgdedyrjkywaboalisaw.supabase.co/storage/v1/object/public/restaurant-images/heroes/jumbo-seafood-jewel-d53d76ef.jpg",
     description:
       "Award-winning seafood restaurant famous for its chili crab and other Singapore seafood delicacies, set in an elegant atmosphere.",
     area: "east",
@@ -280,7 +280,7 @@ export const FINE_DINING_RESTAURANTS: Restaurant[] = [
     location: "Tampines Mall",
     tags: ["Chinese", "Taiwanese", "Fine Dining"],
     image:
-      "https://lh5.googleusercontent.com/p/AF1QipMxeCUA_aNbzUjh_fUP3OWCD3dN663I0XzIkYID=w800-h600-k-no",
+      "https://hgdedyrjkywaboalisaw.supabase.co/storage/v1/object/public/restaurant-images/heroes/din-tai-fung-966802f1.jpg",
     description:
       "World-famous Taiwanese restaurant chain known for their meticulously crafted xiao long bao (soup dumplings) and refined Chinese cuisine.",
     area: "east",
@@ -299,7 +299,7 @@ export const FINE_DINING_RESTAURANTS: Restaurant[] = [
     location: "Marina Bay Sands",
     tags: ["Seafood", "Singaporean", "Fine Dining"],
     image:
-      "https://lh5.googleusercontent.com/p/AF1QipPhDzH_KCXiNfsNyxAasfGYlHwJLO96-w4lCXdk=w800-h600-k-no",
+      "https://hgdedyrjkywaboalisaw.supabase.co/storage/v1/object/public/restaurant-images/heroes/jumbo-signatures-b9210f49.jpg",
     description:
       "Premium seafood restaurant known for its award-winning chili crab and other Singaporean seafood delicacies in an elegant setting.",
     area: "south",

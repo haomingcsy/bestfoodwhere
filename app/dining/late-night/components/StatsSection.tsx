@@ -1,10 +1,15 @@
-import { LATE_NIGHT_STATS } from "../data";
+const LATE_NIGHT_STATS = {
+  restaurants: 22,
+  menuItems: "500+",
+  deals: 3,
+  malls: 8,
+};
 
 const STATS = [
-  { value: LATE_NIGHT_STATS.venues, label: "Late Night Venues" },
-  { value: LATE_NIGHT_STATS.latestClosing, label: "Latest Closing" },
-  { value: LATE_NIGHT_STATS.entertainmentSpots, label: "Entertainment Spots" },
-  { value: LATE_NIGHT_STATS.averageRating, label: "Average Rating" },
+  { value: LATE_NIGHT_STATS.restaurants, label: "Late Night Venues" },
+  { value: LATE_NIGHT_STATS.menuItems, label: "Menu Items" },
+  { value: LATE_NIGHT_STATS.deals, label: "Deals" },
+  { value: LATE_NIGHT_STATS.malls, label: "Shopping Malls" },
 ];
 
 export function StatsSection() {

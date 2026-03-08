@@ -21,7 +21,7 @@ export interface Restaurant {
   address: string;
   phone: string;
   hours: string;
-  website: string;
+  website?: string;
 }
 
 export interface DiningDeal {

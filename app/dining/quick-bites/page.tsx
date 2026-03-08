@@ -6,32 +6,33 @@ import {
   DealsSection,
   OtherCuisinesSection,
 } from "./components";
-import { QUICK_BITES_RESTAURANTS } from "./data";
 import {
   generateBreadcrumbSchema,
   generateItemListSchema,
   JsonLd,
 } from "@/lib/seo/structured-data";
 import { generateDiningPageMetadata } from "@/lib/seo/metadata";
+import { fetchRestaurantsByDiningStyle } from "@/lib/supabase-cuisine";
 
-const featuredRestaurants = QUICK_BITES_RESTAURANTS.slice(0, 5).map(
-  (r) => r.name,
-);
-const featuredAreas = [
-  ...new Set(QUICK_BITES_RESTAURANTS.map((r) => r.area)),
-].slice(0, 5);
+export const revalidate = 300;
 
-export const metadata: Metadata = generateDiningPageMetadata(
-  "Quick Bites",
-  "quick-bites",
-  {
-    restaurantCount: QUICK_BITES_RESTAURANTS.length,
+export async function generateMetadata(): Promise<Metadata> {
+  const restaurants = await fetchRestaurantsByDiningStyle("quick-bites");
+  const featuredRestaurants = restaurants.slice(0, 5).map((r) => r.name);
+  const featuredAreas = [
+    ...new Set(restaurants.map((r) => r.area)),
+  ].slice(0, 5);
+
+  return generateDiningPageMetadata("Quick Bites", "quick-bites", {
+    restaurantCount: restaurants.length,
     featuredRestaurants,
     featuredAreas,
-  },
-);
+  });
+}
 
-export default function QuickBitesPage() {
+export default async function QuickBitesPage() {
+  const restaurants = await fetchRestaurantsByDiningStyle("quick-bites");
+
   const breadcrumbSchema = generateBreadcrumbSchema([
     { name: "Home", url: "https://bestfoodwhere.sg" },
     { name: "Dining Styles", url: "https://bestfoodwhere.sg/dining" },
@@ -39,7 +40,7 @@ export default function QuickBitesPage() {
   ]);
 
   const restaurantListSchema = generateItemListSchema(
-    QUICK_BITES_RESTAURANTS.map((r, i) => ({
+    restaurants.map((r, i) => ({
       name: r.name,
       url: `https://bestfoodwhere.sg/dining/quick-bites`,
       image: r.image || undefined,
@@ -57,7 +58,7 @@ export default function QuickBitesPage() {
 
         <div className="mx-auto max-w-[1200px] px-5">
           <StatsSection />
-          <RestaurantGrid restaurants={QUICK_BITES_RESTAURANTS} />
+          <RestaurantGrid restaurants={restaurants} />
           <DealsSection />
           <OtherCuisinesSection />
         </div>

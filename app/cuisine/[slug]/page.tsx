@@ -6,13 +6,7 @@ import {
   generateItemListSchema,
   JsonLd,
 } from "@/lib/seo/structured-data";
-import { ComingSoonPage } from "@/components/templates/ComingSoonPage";
-import {
-  getCuisineData,
-  getCuisineDisplayName,
-  hasCuisineData,
-  VALID_CUISINE_SLUGS,
-} from "./data";
+import { VALID_CUISINE_SLUGS, getCuisineDisplayName } from "./data";
 import {
   HeroSection,
   StatsSection,
@@ -20,6 +14,14 @@ import {
   DealsSection,
   OtherCuisinesSection,
 } from "./components";
+import {
+  fetchRestaurantsByCuisine,
+  CUISINE_META,
+  CUISINE_HERO_IMAGES,
+} from "@/lib/supabase-cuisine";
+import type { CuisineData } from "./data/types";
+
+export const revalidate = 300;
 
 interface Props {
   params: Promise<{ slug: string }>;
@@ -28,23 +30,12 @@ interface Props {
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { slug } = await params;
   const cuisineName = getCuisineDisplayName(slug);
+  const meta = CUISINE_META[slug];
 
-  if (hasCuisineData(slug)) {
-    const cuisine = getCuisineData(slug)!;
-    const featuredRestaurants = cuisine.restaurants
-      .slice(0, 5)
-      .map((r) => r.name);
-    const featuredAreas = [
-      ...new Set(cuisine.restaurants.map((r) => r.area)),
-    ].slice(0, 5);
-
+  if (meta) {
     return generateCuisinePageMetadata(cuisineName, slug, {
-      tagline: cuisine.tagline,
-      restaurantCount: cuisine.stats.restaurants,
-      mallCount: cuisine.stats.malls,
-      featuredRestaurants,
-      featuredAreas,
-      features: cuisine.features.map((f) => f.label),
+      tagline: meta.tagline,
+      features: meta.features,
     });
   }
 
@@ -59,12 +50,15 @@ export default async function CuisinePage({ params }: Props) {
   const { slug } = await params;
   const cuisineName = getCuisineDisplayName(slug);
 
-  // Check if this is a valid cuisine slug
   if (
     !VALID_CUISINE_SLUGS.includes(slug as (typeof VALID_CUISINE_SLUGS)[number])
   ) {
     notFound();
   }
+
+  const restaurants = await fetchRestaurantsByCuisine(slug);
+  const meta = CUISINE_META[slug];
+  const heroImages = CUISINE_HERO_IMAGES[slug] ?? [];
 
   const breadcrumbSchema = generateBreadcrumbSchema([
     { name: "Home", url: "https://bestfoodwhere.sg" },
@@ -72,50 +66,52 @@ export default async function CuisinePage({ params }: Props) {
     { name: cuisineName, url: `https://bestfoodwhere.sg/cuisine/${slug}` },
   ]);
 
-  // If we have data for this cuisine, render the full page
-  if (hasCuisineData(slug)) {
-    const cuisine = getCuisineData(slug)!;
+  const uniqueMalls = [...new Set(restaurants.map((r) => r.location))];
 
-    const restaurantListSchema = generateItemListSchema(
-      cuisine.restaurants.map((r, i) => ({
-        name: r.name,
-        url: r.website || `https://bestfoodwhere.sg/cuisine/${slug}`,
-        image: r.image || undefined,
-        position: i + 1,
-      })),
-      `${cuisine.name} Restaurants in Singapore`,
-    );
+  const cuisine: CuisineData = {
+    slug,
+    name: cuisineName,
+    tagline: meta?.tagline ?? `Find the best ${cuisineName} food near you`,
+    features: (meta?.features ?? []).map((label) => ({ label })),
+    heroImages,
+    stats: {
+      restaurants: restaurants.length,
+      menuItems: `${Math.round(restaurants.length * 15)}+`,
+      deals: 0,
+      malls: uniqueMalls.length,
+    },
+    restaurants,
+    deals: [],
+    otherCuisines: meta?.otherCuisines ?? [],
+  };
 
-    return (
-      <>
-        <JsonLd data={breadcrumbSchema} />
-        <JsonLd data={restaurantListSchema} />
-        <div className="min-h-screen bg-[#f9f9f9]">
-          <HeroSection cuisine={cuisine} />
+  const restaurantListSchema = generateItemListSchema(
+    cuisine.restaurants.map((r, i) => ({
+      name: r.name,
+      url: r.website || `https://bestfoodwhere.sg/cuisine/${slug}`,
+      image: r.image || undefined,
+      position: i + 1,
+    })),
+    `${cuisine.name} Restaurants in Singapore`,
+  );
 
-          <div className="mx-auto max-w-[1200px] px-5">
-            <StatsSection stats={cuisine.stats} cuisineName={cuisine.name} />
-            <RestaurantGrid
-              restaurants={cuisine.restaurants}
-              cuisineName={cuisine.name}
-            />
-            <DealsSection deals={cuisine.deals} cuisineName={cuisine.name} />
-            <OtherCuisinesSection cuisines={cuisine.otherCuisines} />
-          </div>
-        </div>
-      </>
-    );
-  }
-
-  // Otherwise show coming soon
   return (
     <>
       <JsonLd data={breadcrumbSchema} />
-      <ComingSoonPage
-        title={`${cuisineName} Restaurants`}
-        backHref="/cuisine/all"
-        backLabel="Browse all cuisines"
-      />
+      <JsonLd data={restaurantListSchema} />
+      <div className="min-h-screen bg-[#f9f9f9]">
+        <HeroSection cuisine={cuisine} />
+
+        <div className="mx-auto max-w-[1200px] px-5">
+          <StatsSection stats={cuisine.stats} cuisineName={cuisine.name} />
+          <RestaurantGrid
+            restaurants={cuisine.restaurants}
+            cuisineName={cuisine.name}
+          />
+          <DealsSection deals={cuisine.deals} cuisineName={cuisine.name} />
+          <OtherCuisinesSection cuisines={cuisine.otherCuisines} />
+        </div>
+      </div>
     </>
   );
 }

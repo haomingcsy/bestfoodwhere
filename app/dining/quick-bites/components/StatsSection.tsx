@@ -1,10 +1,15 @@
-import { QUICK_BITES_STATS } from "../data";
+const QUICK_BITES_STATS = {
+  restaurants: 34,
+  menuItems: "800+",
+  deals: 3,
+  malls: 10,
+};
 
 const STATS = [
-  { value: QUICK_BITES_STATS.locations, label: "Quick Bite Locations" },
+  { value: QUICK_BITES_STATS.restaurants, label: "Quick Bite Locations" },
   { value: QUICK_BITES_STATS.menuItems, label: "Menu Items" },
-  { value: QUICK_BITES_STATS.shoppingMalls, label: "Shopping Malls" },
-  { value: QUICK_BITES_STATS.averageRating, label: "Average Rating" },
+  { value: QUICK_BITES_STATS.malls, label: "Shopping Malls" },
+  { value: QUICK_BITES_STATS.deals, label: "Deals" },
 ];
 
 export function StatsSection() {

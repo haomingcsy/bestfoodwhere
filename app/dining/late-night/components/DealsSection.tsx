@@ -2,8 +2,9 @@
 
 import { useState } from "react";
 import { IconX } from "@/components/layout/icons";
-import { LATE_NIGHT_DEALS } from "../data";
 import type { DiningDeal } from "@/types/dining";
+
+const LATE_NIGHT_DEALS: { id: string; badge: string; title: string; duration: string; description: string; code: string }[] = [];
 
 const TERMS = [
   "Cannot be combined with other promotions or discounts",
