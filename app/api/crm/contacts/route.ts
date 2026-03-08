@@ -38,20 +38,22 @@ import { getEmailTemplate } from "@/lib/ghl/email-templates";
 import { checkRateLimit, getClientIp } from "@/lib/rate-limit";
 
 /** Send WhatsApp notification via CallMeBot */
+const CALLMEBOT_PHONE = process.env.CALLMEBOT_PHONE?.trim().replace(/\\n/g, "");
+const CALLMEBOT_API_KEY = process.env.CALLMEBOT_API_KEY?.trim().replace(/\\n/g, "");
+
 async function notifyWhatsApp(message: string) {
-  const phone = process.env.CALLMEBOT_PHONE?.trim().replace(/[^0-9+]/g, "");
-  const apikey = process.env.CALLMEBOT_API_KEY?.trim();
-  if (!phone || !apikey) {
-    console.error("CallMeBot env vars missing:", { phone: !!phone, apikey: !!apikey });
+  if (!CALLMEBOT_PHONE || !CALLMEBOT_API_KEY) {
+    console.error("CallMeBot env vars missing:", { phone: !!CALLMEBOT_PHONE, apikey: !!CALLMEBOT_API_KEY });
     return;
   }
-  const url = `https://api.callmebot.com/whatsapp.php?phone=${phone}&text=${encodeURIComponent(message)}&apikey=${apikey}`;
-  try {
-    const res = await fetch(url);
-    const text = await res.text();
-    console.log("CallMeBot response:", res.status, text.substring(0, 200));
-  } catch (err) {
-    console.error("CallMeBot notification failed:", err);
+  const phone = CALLMEBOT_PHONE.replace(/[^0-9+]/g, "");
+  const text = encodeURIComponent(message);
+  const url = `https://api.callmebot.com/whatsapp.php?phone=${phone}&text=${text}&apikey=${CALLMEBOT_API_KEY}`;
+
+  const response = await fetch(url);
+  if (!response.ok) {
+    const body = await response.text().catch(() => "");
+    console.error(`CallMeBot error: ${response.status} ${body}`);
   }
 }
 
