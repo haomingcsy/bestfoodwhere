@@ -41,20 +41,21 @@ import { checkRateLimit, getClientIp } from "@/lib/rate-limit";
 const CALLMEBOT_PHONE = process.env.CALLMEBOT_PHONE?.trim().replace(/\\n/g, "");
 const CALLMEBOT_API_KEY = process.env.CALLMEBOT_API_KEY?.trim().replace(/\\n/g, "");
 
-async function notifyWhatsApp(message: string) {
-  console.log("[WhatsApp] Starting. Phone:", CALLMEBOT_PHONE, "API key length:", CALLMEBOT_API_KEY?.length);
+async function notifyWhatsApp(message: string): Promise<{ sent: boolean; status?: number; response?: string; error?: string }> {
   if (!CALLMEBOT_PHONE || !CALLMEBOT_API_KEY) {
-    console.error("[WhatsApp] ENV VARS MISSING:", { phone: !!CALLMEBOT_PHONE, apikey: !!CALLMEBOT_API_KEY });
-    return;
+    return { sent: false, error: "env vars missing" };
   }
   const phone = CALLMEBOT_PHONE.replace(/[^0-9+]/g, "");
   const text = encodeURIComponent(message);
   const url = `https://api.callmebot.com/whatsapp.php?phone=${phone}&text=${text}&apikey=${CALLMEBOT_API_KEY}`;
-  console.log("[WhatsApp] Fetching URL:", url.substring(0, 80) + "...");
 
-  const response = await fetch(url);
-  const body = await response.text();
-  console.log("[WhatsApp] Response:", response.status, body.substring(0, 200));
+  try {
+    const response = await fetch(url);
+    const body = await response.text();
+    return { sent: true, status: response.status, response: body.substring(0, 200) };
+  } catch (err) {
+    return { sent: false, error: err instanceof Error ? err.message : String(err) };
+  }
 }
 
 async function saveFormSubmission(data: {
@@ -309,14 +310,10 @@ export async function POST(
     }
 
     // Notify via WhatsApp
+    let whatsappResult: { sent: boolean; status?: number; response?: string; error?: string } | null = null;
     if (result.contactId) {
       const whatsappMsg = `New BFW Lead\n\nEmail: ${email}\nName: ${name}\nSource: ${body.source}\nChannel: ${trafficChannel}${phone ? `\nPhone: ${phone}` : ""}${body.subject ? `\nSubject: ${body.subject}` : ""}`;
-      try {
-        await notifyWhatsApp(whatsappMsg);
-        console.log("WhatsApp notification sent successfully");
-      } catch (err) {
-        console.error("WhatsApp notification error:", err);
-      }
+      whatsappResult = await notifyWhatsApp(whatsappMsg);
     }
 
     // Create opportunity in the appropriate pipeline (fire and forget)
@@ -389,6 +386,7 @@ export async function POST(
       success: true,
       contactId: result.contactId,
       isNew: result.isNew,
+      _debug_whatsapp: whatsappResult,
     });
   } catch (error) {
     console.error("Contact API error:", error);
