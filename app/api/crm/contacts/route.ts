@@ -45,7 +45,7 @@ async function notifyWhatsApp(message: string) {
     console.error("CallMeBot env vars missing:", { phone: !!phone, apikey: !!apikey });
     return;
   }
-  const url = `https://api.callmebot.com/whatsapp.php?phone=${phone}&text=${encodeURIComponent(message)}&apikey=${apikey}`;
+  const url = `https://api.callmebot.com/whatsapp.php?phone=${encodeURIComponent(phone)}&text=${encodeURIComponent(message)}&apikey=${apikey}`;
   try {
     const res = await fetch(url);
     const text = await res.text();

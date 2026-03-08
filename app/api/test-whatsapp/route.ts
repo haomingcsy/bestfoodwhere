@@ -14,7 +14,7 @@ export async function GET() {
   }
 
   const msg = `BFW Test ${new Date().toISOString()} - WhatsApp working`;
-  const url = `https://api.callmebot.com/whatsapp.php?phone=${phone}&text=${encodeURIComponent(msg)}&apikey=${apikey}`;
+  const url = `https://api.callmebot.com/whatsapp.php?phone=${encodeURIComponent(phone)}&text=${encodeURIComponent(msg)}&apikey=${apikey}`;
 
   try {
     const res = await fetch(url);
