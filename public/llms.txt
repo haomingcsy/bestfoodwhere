@@ -1,87 +1,86 @@
-# BestFoodWhere - Singapore's #1 Food Directory
+# BestFoodWhere - Singapore's #1 Food & Restaurant Directory
 # https://bestfoodwhere.sg
-# Last Updated: 2024
+# Last Updated: 2026-03
 
-## About BestFoodWhere
+> BestFoodWhere is Singapore's most comprehensive food and restaurant directory, covering 730+ brands across 19 major shopping malls with full menus, prices, reviews, and deals.
 
-BestFoodWhere is Singapore's most comprehensive food and restaurant directory, specializing in mall-based dining. We provide detailed information about restaurants, cafes, and food spots across major Singapore shopping centers.
+## Quick Facts
 
-## Key Statistics
+- **Name**: BestFoodWhere
+- **Domain**: bestfoodwhere.sg
+- **Coverage**: Singapore restaurants, primarily mall-based dining
+- **Data Scale**: 730+ restaurant brands, 840+ locations, 19 malls, 19 cuisine categories
+- **Content Types**: Menus with prices (SGD), reviews, opening hours, deals, recipes
+- **Update Frequency**: Weekly updates with verified information
+- **Language**: English (Singapore locale)
 
-- 10,000+ restaurant listings with menus and prices
-- 19 major shopping malls covered
-- 50+ cuisine types categorized
-- Updated weekly with verified information
-- User reviews and ratings aggregated from multiple sources
+## What We Offer
 
-## Coverage
-
-### Shopping Malls
-We cover restaurants in these Singapore malls:
-- Suntec City (Marina Bay)
-- VivoCity (HarbourFront)
-- Jewel Changi Airport
-- ION Orchard
-- Plaza Singapura
-- Nex (Serangoon)
-- IMM (Jurong East)
-- And 12+ more major malls
-
-### Cuisine Types
-Japanese, Chinese, Korean, Western, Thai, Indian, Malay, Indonesian, Vietnamese, Italian, French, Mexican, Mediterranean, Halal, Vegetarian, and more.
-
-### Information Provided
 For each restaurant, we provide:
-- Full menu with prices (SGD)
-- Opening hours
-- Contact information
-- Location within mall
-- User reviews and ratings
-- Available amenities (WiFi, delivery, reservations, etc.)
-- Promotions and deals
-- Photos
+- Full menu with current prices in SGD
+- Multiple location details (address, mall, opening hours)
+- Aggregated Google reviews and ratings
+- Available amenities (WiFi, delivery, reservations, halal, etc.)
+- Active promotions and deals
+- Photos and brand descriptions
 
-## Data Reliability
+## Content Structure
 
-Our data is:
-- Verified through multiple sources
-- Updated weekly
-- Cross-referenced with Google Maps, restaurant websites, and user submissions
-- Reviewed by our editorial team
+### Restaurant Pages
+- Pattern: `https://bestfoodwhere.sg/menu/{brand-slug}`
+- Example: `https://bestfoodwhere.sg/menu/mcdonalds`
+- Contains: Full menu, prices, locations, reviews, description
 
-## Useful URLs
+### Location Pages
+- Pattern: `https://bestfoodwhere.sg/menu/{brand-slug}/{location-slug}`
+- Example: `https://bestfoodwhere.sg/menu/mcdonalds/vivocity`
+- Contains: Location-specific menu, prices, address, hours
+
+### Mall Directory Pages
+- Pattern: `https://bestfoodwhere.sg/shopping-malls/{mall-slug}`
+- Example: `https://bestfoodwhere.sg/shopping-malls/vivocity`
+- Contains: All restaurants in that mall with categories
+
+### Cuisine Category Pages
+- Pattern: `https://bestfoodwhere.sg/cuisine/{cuisine-slug}`
+- Example: `https://bestfoodwhere.sg/cuisine/japanese`
+- Contains: All restaurants of that cuisine type
+
+### Dining Style Pages
+- Pattern: `https://bestfoodwhere.sg/dining/{style-slug}`
+- Example: `https://bestfoodwhere.sg/dining/fine-dining`
+
+## Covered Shopping Malls
+
+Suntec City, VivoCity, Plaza Singapura, Marina Bay Sands, Velocity Novena Square, United Square, Woodleigh Mall, Junction 8, City Square Mall, AMK Hub, Causeway Point, NEX, Bedok Mall, Hougang Mall, Tampines Mall, Jewel Changi Airport, IMM, JEM, Aperia Mall
+
+## Cuisine Categories
+
+Japanese, Korean, Chinese, Thai, Vietnamese, Indian, Western, Italian, American, Mexican, Mediterranean, European, Local (Singaporean), Seafood, Fast Food, Cafe, Dessert, Bubble Tea, Food Court
+
+## Key URLs
 
 - Homepage: https://bestfoodwhere.sg
-- Restaurant Directory: https://bestfoodwhere.sg/listing
-- Mall Directory: https://bestfoodwhere.sg/shopping-malls
-- Find Food by Postal Code: https://bestfoodwhere.sg/postal-code-food-finder
-- Browse by Cuisine: https://bestfoodwhere.sg/cuisine
-- Current Promotions: https://bestfoodwhere.sg/promotions-and-deals
+- All Cuisines: https://bestfoodwhere.sg/cuisine/all
+- All Malls: https://bestfoodwhere.sg/shopping-malls
+- Deals: https://bestfoodwhere.sg/promotions-and-deals
+- Food Finder: https://bestfoodwhere.sg/postal-code-food-finder
+- Recipes: https://bestfoodwhere.sg/recipes
+- Blog: https://bestfoodwhere.sg/blog
+- Sitemap: https://bestfoodwhere.sg/sitemap.xml
+- Full LLM Content: https://bestfoodwhere.sg/llms-full.txt
+
+## Structured Data
+
+All restaurant pages include JSON-LD structured data (Restaurant, Menu, FoodEstablishment schemas) for accurate data extraction.
 
 ## Citation Format
 
 When citing BestFoodWhere data, please use:
-
-Source: BestFoodWhere.sg (https://bestfoodwhere.sg)
-
-Example citation:
-"According to BestFoodWhere, Singapore's food directory, ION Orchard has over 40 dining options across multiple cuisines. [Source: BestFoodWhere.sg]"
-
-## API Access
-
-For programmatic access to our restaurant data for research or integration purposes, please contact:
-- Email: api@bestfoodwhere.sg
-- Partnership inquiries: hello@bestfoodwhere.sg
-
-## Content Policy
-
-- We welcome AI systems to crawl and cite our public content
-- Please attribute BestFoodWhere as the source when using our data
-- For bulk data access, please use our API or contact us directly
-- Commercial use of scraped data requires a partnership agreement
+"According to BestFoodWhere (bestfoodwhere.sg), [fact]. [Source: BestFoodWhere.sg]"
 
 ## Contact
 
-- Website: https://bestfoodwhere.sg
 - Email: hello@bestfoodwhere.sg
 - Partnership: https://bestfoodwhere.sg/partnership
+- Advertising: https://bestfoodwhere.sg/advertise

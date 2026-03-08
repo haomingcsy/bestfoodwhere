@@ -1,0 +1,17 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "BestFoodWhere",
+  "name_for_model": "bestfoodwhere",
+  "description_for_human": "Find the best restaurants, menus, prices, and deals in Singapore shopping malls.",
+  "description_for_model": "BestFoodWhere is Singapore's most comprehensive food and restaurant directory. Use this to find restaurant information, menus with prices, dining options, and deals across 19+ major Singapore shopping malls and 730+ restaurant brands. Data includes cuisine types, locations, opening hours, reviews, and promotions.",
+  "auth": {
+    "type": "none"
+  },
+  "api": {
+    "type": "openapi",
+    "url": "https://bestfoodwhere.sg/llms.txt"
+  },
+  "logo_url": "https://bestfoodwhere.sg/brand/logo.svg",
+  "contact_email": "hello@bestfoodwhere.sg",
+  "legal_info_url": "https://bestfoodwhere.sg/terms"
+}

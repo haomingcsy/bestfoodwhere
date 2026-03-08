@@ -27,11 +27,11 @@ const FOOTER_LINKS = {
     { href: "/shopping-malls/suntec-city", label: "Suntec City" },
   ],
   foodGuides: [
-    { href: "/reviews", label: "Reviews" },
-    { href: "/restaurant-highlights", label: "Restaurant Highlights" },
-    { href: "/dining-guides", label: "Dining Guides" },
-    { href: "/dining-etiquette", label: "Dining Etiquette" },
-    { href: "/menus", label: "Menus" },
+    { href: "/blog", label: "Blog" },
+    { href: "/recipes", label: "Recipes" },
+    { href: "/dining/fine-dining", label: "Fine Dining Guide" },
+    { href: "/dining/casual-dining", label: "Casual Dining Guide" },
+    { href: "/cuisine/all", label: "Browse Cuisines" },
   ],
   company: [
     { href: "/about", label: "About Us" },
