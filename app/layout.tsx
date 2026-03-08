@@ -115,8 +115,6 @@ export default function RootLayout({
             `,
           }}
         />
-        {/* Bing Webmaster verification */}
-        <meta name="msvalidate.01" content="PENDING_BING_VERIFICATION_CODE" />
         {/* IndexNow key for instant indexing */}
         <link rel="indexnow" href="https://bestfoodwhere.sg/bfw2026indexnow8sg7x.txt" />
         {/* Structured Data for SEO - Site-wide schemas */}
