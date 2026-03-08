@@ -306,10 +306,10 @@ export async function POST(
       );
     }
 
-    // Notify via WhatsApp (await to ensure delivery)
+    // Notify via WhatsApp (fire and forget)
     if (result.contactId) {
       const whatsappMsg = `New BFW Lead\n\nEmail: ${email}\nName: ${name}\nSource: ${body.source}\nChannel: ${trafficChannel}${phone ? `\nPhone: ${phone}` : ""}${body.subject ? `\nSubject: ${body.subject}` : ""}`;
-      await notifyWhatsApp(whatsappMsg);
+      waitUntil(notifyWhatsApp(whatsappMsg));
     }
 
     // Create opportunity in the appropriate pipeline (fire and forget)
