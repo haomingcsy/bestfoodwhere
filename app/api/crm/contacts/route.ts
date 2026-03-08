@@ -39,13 +39,13 @@ import { checkRateLimit, getClientIp } from "@/lib/rate-limit";
 
 /** Send WhatsApp notification via CallMeBot */
 async function notifyWhatsApp(message: string) {
-  const phone = process.env.CALLMEBOT_PHONE;
-  const apikey = process.env.CALLMEBOT_API_KEY;
+  const phone = process.env.CALLMEBOT_PHONE?.trim().replace(/[^0-9+]/g, "");
+  const apikey = process.env.CALLMEBOT_API_KEY?.trim();
   if (!phone || !apikey) {
     console.error("CallMeBot env vars missing:", { phone: !!phone, apikey: !!apikey });
     return;
   }
-  const url = `https://api.callmebot.com/whatsapp.php?phone=${encodeURIComponent(phone)}&text=${encodeURIComponent(message)}&apikey=${apikey}`;
+  const url = `https://api.callmebot.com/whatsapp.php?phone=${phone}&text=${encodeURIComponent(message)}&apikey=${apikey}`;
   try {
     const res = await fetch(url);
     const text = await res.text();
