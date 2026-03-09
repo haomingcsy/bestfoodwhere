@@ -2,7 +2,7 @@ import type { Restaurant, DiningDeal, DiningCategory } from "@/types/dining";
 
 export const FINE_DINING_RESTAURANTS: Restaurant[] = [
   {
-    id: "bread-street-kitchen",
+    id: "bread-street-kitchen-by-gordon-ramsay",
     name: "Bread Street Kitchen by Gordon Ramsay",
     rating: 4.1,
     reviews: 4273,
@@ -22,7 +22,7 @@ export const FINE_DINING_RESTAURANTS: Restaurant[] = [
       "https://www.marinabaysands.com/restaurants/breadstreetkitchenbygordonramsay.html",
   },
   {
-    id: "cut-wolfgang-puck",
+    id: "cut-by-wolfgang-puck",
     name: "CUT by Wolfgang Puck",
     rating: 4.6,
     reviews: 1618,
@@ -83,7 +83,7 @@ export const FINE_DINING_RESTAURANTS: Restaurant[] = [
     website: "https://www.marinabaysands.com/restaurants/mott32singapore.html",
   },
   {
-    id: "tunglok-peking-duck",
+    id: "tunglok-peking-duck-novena",
     name: "TungLok Peking Duck Novena",
     rating: 4.8,
     reviews: 1644,
@@ -139,7 +139,7 @@ export const FINE_DINING_RESTAURANTS: Restaurant[] = [
     website: "https://www.marinabaysands.com/restaurants/wakughin.html",
   },
   {
-    id: "lavo-italian",
+    id: "lavo-italian-restaurant-and-rooftop-bar",
     name: "LAVO Italian Restaurant And Rooftop Bar",
     rating: 4.3,
     reviews: 5134,
@@ -160,7 +160,7 @@ export const FINE_DINING_RESTAURANTS: Restaurant[] = [
       "https://www.marinabaysands.com/restaurants/lavoitalianrestaurantandrooftopbar.html",
   },
   {
-    id: "putien-mbs",
+    id: "putien-marina-bay-sands",
     name: "PUTIEN Marina Bay Sands",
     rating: 4.8,
     reviews: 822,
@@ -219,7 +219,7 @@ export const FINE_DINING_RESTAURANTS: Restaurant[] = [
     website: "https://www.marinabaysands.com/restaurants/rise.html",
   },
   {
-    id: "putien-tampines",
+    id: "putien-tampines-mall",
     name: "PUTIEN Tampines Mall",
     rating: 4.8,
     reviews: 3067,
@@ -237,7 +237,7 @@ export const FINE_DINING_RESTAURANTS: Restaurant[] = [
     website: "https://order.putien.com/en_SG/",
   },
   {
-    id: "crystal-jade",
+    id: "crystal-jade-hong-kong-kitchen",
     name: "Crystal Jade Hong Kong Kitchen",
     rating: 3.8,
     reviews: 591,

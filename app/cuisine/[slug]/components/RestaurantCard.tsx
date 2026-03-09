@@ -45,7 +45,6 @@ export function RestaurantCard({ restaurant }: RestaurantCardProps) {
   const [detailsOpen, setDetailsOpen] = useState(false);
 
   const menuSlug = restaurant.id;
-  const locationSlug = restaurant.location.toLowerCase().replace(/\s+/g, "-");
 
   return (
     <article className="group relative overflow-hidden rounded-xl bg-white shadow-[0_5px_15px_rgba(0,0,0,0.1)] transition-all hover:-translate-y-1 hover:shadow-[0_12px_20px_rgba(239,95,42,0.15)]">
@@ -171,7 +170,7 @@ export function RestaurantCard({ restaurant }: RestaurantCardProps) {
             GET DIRECTIONS
           </a>
           <Link
-            href={`/menu/${menuSlug}/${locationSlug}`}
+            href={`/menu/${menuSlug}`}
             className="flex-1 rounded-full bg-gradient-to-r from-bfw-orange to-[#ff8e63] py-2.5 text-center text-[13px] font-semibold text-white shadow-sm transition-all hover:-translate-y-0.5 hover:from-[#d45325] hover:to-bfw-orange hover:shadow-[0_5px_12px_rgba(239,95,42,0.3)]"
           >
             VIEW MENU

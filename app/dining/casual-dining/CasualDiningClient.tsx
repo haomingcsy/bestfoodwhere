@@ -15,6 +15,7 @@ import {
 // ============================================================================
 
 interface Restaurant {
+  id: string;
   name: string;
   rating: number;
   reviews: number;
@@ -281,11 +282,7 @@ function RestaurantCard({ restaurant }: { restaurant: Restaurant }) {
     }
     return stars;
   };
-  const menuSlug = restaurant.name
-    .toLowerCase()
-    .replace(/[^\w\s-]/g, "")
-    .replace(/\s+/g, "-");
-  const locationSlug = restaurant.location.toLowerCase().replace(/\s+/g, "-");
+  const menuSlug = restaurant.id;
 
   return (
     <div className="group rounded-xl overflow-hidden shadow-lg bg-white transition-all duration-300 hover:-translate-y-1 hover:shadow-xl relative">
@@ -388,7 +385,7 @@ function RestaurantCard({ restaurant }: { restaurant: Restaurant }) {
             GET DIRECTIONS
           </a>
           <Link
-            href={`/menu/${menuSlug}/${locationSlug}`}
+            href={`/menu/${menuSlug}`}
             className="flex-1 text-center py-2.5 rounded-full text-sm font-semibold bg-gradient-to-r from-[#4177c4] to-[#6799e8] text-white hover:from-[#3366b3] hover:to-[#4177c4] hover:-translate-y-0.5 hover:shadow-md transition-all"
           >
             VIEW MENU

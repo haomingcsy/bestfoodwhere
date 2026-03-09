@@ -24,6 +24,7 @@ export default async function CasualDiningPage() {
 
   // Map CuisineRestaurant to the client's Restaurant type
   const clientRestaurants = restaurants.map((r) => ({
+    id: r.id,
     name: r.name,
     rating: r.rating,
     reviews: r.reviews,

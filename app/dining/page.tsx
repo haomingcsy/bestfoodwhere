@@ -132,7 +132,7 @@ const FEATURED_RESTAURANTS: Restaurant[] = [
     category: "FINE DINING",
     directionsUrl:
       "https://www.google.com/maps/search/?api=1&query=CUT+by+Wolfgang+Puck+Marina+Bay+Sands",
-    menuUrl: "/menu/cut-by-wolfgang-puck/marina-bay-sands",
+    menuUrl: "/menu/cut-by-wolfgang-puck",
   },
   {
     name: "Fish & Co. @ Causeway Point",
@@ -147,7 +147,7 @@ const FEATURED_RESTAURANTS: Restaurant[] = [
     category: "FAMILY FRIENDLY",
     directionsUrl:
       "https://www.google.com/maps/search/?api=1&query=Fish+%26+Co.+Causeway+Point",
-    menuUrl: "/menu/fish-co/causeway-point",
+    menuUrl: "/menu/fish-co",
   },
   {
     name: "KOMA Singapore",
@@ -162,7 +162,7 @@ const FEATURED_RESTAURANTS: Restaurant[] = [
     category: "JAPANESE",
     directionsUrl:
       "https://www.google.com/maps/search/?api=1&query=KOMA+Singapore+Marina+Bay+Sands",
-    menuUrl: "/menu/koma-singapore/marina-bay-sands",
+    menuUrl: "/menu/koma-singapore",
   },
   {
     name: "LAVO Italian Restaurant",
@@ -177,7 +177,7 @@ const FEATURED_RESTAURANTS: Restaurant[] = [
     category: "ROMANTIC",
     directionsUrl:
       "https://www.google.com/maps/search/?api=1&query=LAVO+Italian+Restaurant+Marina+Bay+Sands",
-    menuUrl: "/menu/lavo-italian-restaurant/marina-bay-sands",
+    menuUrl: "/menu/lavo-italian-restaurant-and-rooftop-bar",
   },
   {
     name: "Swensen's @ AMK Hub",
@@ -192,7 +192,7 @@ const FEATURED_RESTAURANTS: Restaurant[] = [
     category: "CASUAL",
     directionsUrl:
       "https://www.google.com/maps/search/?api=1&query=Swensen's+AMK+Hub",
-    menuUrl: "/menu/swensens/amk-hub",
+    menuUrl: "/menu/swensens",
   },
   {
     name: "Bar Bar Q",
@@ -207,7 +207,7 @@ const FEATURED_RESTAURANTS: Restaurant[] = [
     category: "LATE NIGHT",
     directionsUrl:
       "https://www.google.com/maps/search/?api=1&query=Bar+Bar+Q+Suntec+City",
-    menuUrl: "/menu/bar-bar-q/suntec-city",
+    menuUrl: "/menu/bar-bar-q",
   },
 ];
 

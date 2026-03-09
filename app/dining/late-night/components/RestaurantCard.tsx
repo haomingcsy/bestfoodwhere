@@ -45,11 +45,7 @@ function StarRating({ rating }: { rating: number }) {
 export function RestaurantCard({ restaurant }: RestaurantCardProps) {
   const [isDetailsOpen, setIsDetailsOpen] = useState(false);
 
-  const menuSlug = restaurant.name
-    .toLowerCase()
-    .replace(/[^\w\s-]/g, "")
-    .replace(/\s+/g, "-");
-  const locationSlug = restaurant.location.toLowerCase().replace(/\s+/g, "-");
+  const menuSlug = restaurant.id;
 
   return (
     <article className="group relative overflow-hidden rounded-xl bg-white shadow-[0_5px_15px_rgba(0,0,0,0.1)] transition-all hover:-translate-y-1 hover:shadow-[0_12px_20px_rgba(239,95,42,0.15)]">
@@ -168,7 +164,7 @@ export function RestaurantCard({ restaurant }: RestaurantCardProps) {
             GET DIRECTIONS
           </a>
           <Link
-            href={`/menu/${menuSlug}/${locationSlug}`}
+            href={`/menu/${menuSlug}`}
             className="flex-1 overflow-hidden rounded-full bg-gradient-to-r from-bfw-orange to-bfw-orange-hover py-2.5 text-center font-heading text-[13px] font-semibold text-white shadow-[0_3px_6px_rgba(0,0,0,0.1)] transition-all hover:-translate-y-0.5 hover:from-bfw-orange-hover hover:to-bfw-orange hover:shadow-[0_5px_12px_rgba(239,95,42,0.3)]"
           >
             VIEW MENU
